@@ -51,7 +51,7 @@ foreach($podcasts as $podcastname => $podcast)
         fclose($datei);
         if (!empty($inhalt))
           {
-            $filename = '/mnt/webc/a2/04/52104904/htdocs/sn/podcasts/'.$podcastname.'/'.$episodenr.'.'.strtoupper($podcastname).'-'.$episodenr.'.html';
+            $filename = './podcasts/'.$podcastname.'/'.$episodenr.'.'.strtoupper($podcastname).'-'.$episodenr.'.html';
             $inhalt = explode('<body>', $inhalt);
             $inhalt = explode('</body>', $inhalt[1]);
             $inhalt = $inhalt[0];
