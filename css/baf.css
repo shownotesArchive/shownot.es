@@ -581,6 +581,9 @@ textarea {
   line-height: 18px;
   white-space: nowrap;
 }
+
+.dropdown-menu a:hover { cursor: pointer; }
+
 .dropdown-menu a [class^="icon-"] {
   position: absolute;
   left: 7px;

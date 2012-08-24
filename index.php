@@ -1,4 +1,24 @@
-<!DOCTYPE html>
+<?php
+function getEpisodes($Podcast)
+	{
+		if ($handle = @scandir('./podcasts/'.$Podcast, 1))
+			{
+				foreach($handle as $file)
+					{
+						if ($file != "." && $file != "..")
+							{
+								$Episode = explode('.', $file);
+								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'})">'.$Episode[1].'</a></li>';
+							}
+					}
+			}
+		else
+			{
+				echo "<li>Verzeichnis leer</li>";
+			}
+	}
+//<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+?><!DOCTYPE html>
 <html lang="de"> 
 
 <head>
@@ -29,7 +49,7 @@
 		<div class="title">Hallo!</div>
 		<p style="margin-top: 1em;">
 			Wir sind eine Community, die Shownotes für verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer temporären Übergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor über <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
-		</p>
+		</p><hr><br>
 		<p style="margin-top: 1em;">
 			Wir schreiben aktuell für folgende Podcasts mehr oder weniger regelmäßig die Shownotes:
 		</p>
@@ -40,7 +60,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/wrint/23.html'})">Wrintheit 23</a></li>
+						<?php echo getEpisodes('wrint'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -49,7 +69,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/bm/21_08_12.html'})">21.08.2012</a></li>
+						<?php echo getEpisodes('bm'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -58,7 +78,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('ll'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -67,7 +87,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('cr'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -76,7 +96,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('nsfw'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -85,7 +105,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('ep'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -94,7 +114,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('mm'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -103,7 +123,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('dw'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -112,7 +132,7 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('jc'); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -121,22 +141,11 @@
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
+						<?php echo getEpisodes('pt'); ?>
 				</ul>
 			</div>
-		</div><!--
-		<p style="margin-top: 1em;">
-			<a href="http://www.wrint.de/" class="item">WRINT</a>
-			<a href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html" class="item">Blue&nbsp;Moon</a>
-			<a href="http://blogs.hr-online.de/lateline/podcast/" class="item">LateLine</a>
-			<a href="http://chaosradio.ccc.de/chaosradio.html" class="item">Chaosradio</a>
-			<a href="http://not-safe-for-work.de" class="item">Not&nbsp;Safe&nbsp;For&nbsp;Work</a>
-			<a href="http://einschlafen-podcast.de" class="item">Einschlafen&nbsp;Podcast</a>
-			<a href="http://mobilemacs.de/" class="item">mobileMacs</a>
-			<a href="http://monoxyd.de/category/dieweisheit" class="item">Der&nbsp;Weisheit</a>
-			<a href="http://www.jobscast.de" class="item">Jobscast</a>
-			<a href="http://ponytime.net/" class="item">Ponytime</a>
-		</p>-->
+		</div>
+
 		<hr />
 		<p>
 			Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher würde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> könntet. Mit <a href="http://superfav.com/">SuperFav</a> werden übrigens <a href="http://twitter.com/dieshownotes">alle Tweets</a> automatisch geflattert.
