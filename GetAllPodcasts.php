@@ -34,7 +34,24 @@ $podcasts = array(
                                176 => 'ep176',
                                169 => 'ep169',
                                168 => 'ep168',
-                               167 => 'ep')
+                               167 => 'ep'),
+                               
+                  'wrint' => array(99 => 'wrint23',          //23
+                                   95 => 'wrintheit22',      //22
+                                   92 => 'wrintheit21',      //21
+                                   83 => 'wrintheit20',      //20
+                                   78 => 'Wrintheit-XIX',    //19
+                                   70 => 'Wrintheit-XVIII',  //18
+                                   68 => 'Wrintheit-XVII',   //17
+                                   56 => 'wrint16',          //16
+                                   53 => 'wrintheit15',      //15
+                                   49 => 'wrintheit14',      //14
+                                   46 => 'wrint13',          //13
+                                   41 => '12',               //12
+                                   38 => '7',                //11
+                                   34 => '4',                //10
+                                   33 => '2'                 //9
+                                   )
                   );
 
 foreach($podcasts as $podcastname => $podcast)
