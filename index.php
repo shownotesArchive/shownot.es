@@ -8,7 +8,7 @@ function getEpisodes($Podcast)
 						if ($file != "." && $file != "..")
 							{
 								$Episode = explode('.', $file);
-								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'})">'.$Episode[1].'</a></li>';
+								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'})">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
 							}
 					}
 			}
