@@ -70,11 +70,11 @@ img {
 .dropdown-menu {
   position: absolute;
   top: 100%;
-  left: 0;
+  right: 0;
   z-index: 1000;
   float: left;
   display: none;
-  min-width: 225px;
+  min-width: 75px;
   max-width: 225px;
   padding: 0 0 6px 0;
   margin: 0 0 0;
@@ -111,6 +111,10 @@ img {
   font-weight: normal;
   line-height: 18px;
   white-space: nowrap;
+}
+
+.dropdown-menu li a {
+  padding: 5px 20px 5px 20px;
 }
 
 .dropdown-menu a:hover { cursor: pointer; }

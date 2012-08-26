@@ -45,7 +45,7 @@ function getEpisodes($Podcast)
 		<div class="title">Hallo!</div>
 		<p style="margin-top: 1em;">
 			Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
-		</p><hr><br>
+		</p><hr><br><div id="podcasts">
 		<p style="margin-top: 1em;">
 			Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
 		</p>
@@ -140,7 +140,7 @@ function getEpisodes($Podcast)
 						<?php echo getEpisodes('pt'); ?>
 				</ul>
 			</div>
-		</div>
+		</div></div>
 
 		<hr />
 		<p>
