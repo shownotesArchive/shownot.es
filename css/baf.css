@@ -322,7 +322,7 @@ img {
 }
 .g-button-group.open .dropdown-menu {
   display: block;
-  margin-top: 1px;
+  margin-top: 2px;
 }
 .g-button-group.open .dropdown-toggle {
   background-image: none;

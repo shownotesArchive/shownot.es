@@ -44,10 +44,10 @@ function getEpisodes($Podcast)
 	<div class="box" id="main">
 		<div class="title">Hallo!</div>
 		<p style="margin-top: 1em;">
-			Wir sind eine Community, die Shownotes für verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer temporären Übergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor über <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
+			Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
 		</p><hr><br>
 		<p style="margin-top: 1em;">
-			Wir schreiben aktuell für folgende Podcasts mehr oder weniger regelmäßig die Shownotes:
+			Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
 		</p>
 		<div style="margin-top: 1em;">
 			<div class="g-button-group">
@@ -144,13 +144,16 @@ function getEpisodes($Podcast)
 
 		<hr />
 		<p>
-			Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher würde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> könntet. Mit <a href="http://superfav.com/">SuperFav</a> werden übrigens <a href="http://twitter.com/dieshownotes">alle Tweets</a> automatisch geflattert.
+			Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet. Mit <a href="http://superfav.com/">SuperFav</a> werden &uuml;brigens <a href="http://twitter.com/dieshownotes">alle Tweets</a> automatisch geflattert.
 		</p>
+		<p style="margin-top: 1em">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
 		<p style="margin-top: 1em;">
-			Neben Twitter könnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
+			Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
 		</p>
 		<hr />
-		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die Hörsuppe</a> kennen.</p>
+		<p>Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
+		<hr />
+		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>
 
 	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
