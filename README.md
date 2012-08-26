@@ -4,7 +4,6 @@ please visit [shownot.es](http://shownot.es)
 
 ---
 
-Die aktuellste Version dieser Seite ist erreichbar unter: <http://test.shownot.es/>  
 Dieses Repository enthält die Daten der Vorläufigen Webseite der [@DieShownotes](http://twitter.com/dieshownotes)  
 
 ---

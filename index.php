@@ -22,29 +22,23 @@ function getEpisodes($Podcast)
 <html lang="de"> 
 
 <head>
-
-<meta charset="utf-8" />
-<title>Die Shownotes</title>
-<meta name="viewport" content="width=980" />  
-<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-<link rel="icon" type="image/x-icon" href="./favicon.ico" />
-
-
-
-<link href="./css/style.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="./css/baf.css" type="text/css"  media="screen" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
+	<meta charset="utf-8" />
+	<title>Die Shownotes</title>
+	<meta name="viewport" content="width=980" />  
+	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="./favicon.ico" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.css" type="text/css" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/baf.css" type="text/css"  media="screen" />
+	<link rel="author" href="./humans.txt" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
 </head>
 
 <body>
-
 <div class="content">
-
 	<div class="header">
-		<div class="title"><a href="/"><img src="./img/logo.png">Die Shownotes</a></div>
+		<div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
 	</div>
-
 	<div class="box" id="main">
 		<div class="title">Hallo!</div>
 		<p style="margin-top: 1em;">
@@ -160,9 +154,8 @@ function getEpisodes($Podcast)
 	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
 
 </div>
-<script type="text/javascript" src="./js/bootstrap-dropdown.js"></script>
-<script type="text/javascript" src="./js/tinybox.js"></script>
-<script type="text/javascript" src="./js/script.js"></script>
+<script type="text/javascript" src="http://cdn.shownot.es/js/bootstrap-dropdown.js"></script>
+<script type="text/javascript" src="http://cdn.shownot.es/js/tinybox.js"></script>
 </body>
 
 </html>

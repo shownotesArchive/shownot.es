@@ -1,0 +1,11 @@
+
+/* TEAM */
+Your title: Your name.
+Site: http://example.tld/
+Twitter: @username.
+Location: City, Country.
+
+/* SITE */
+Last update: 2012/08/26
+Standards: HTML5, CSS3, JS
+Components: jQuery, Twitter Bootstrap, tinybox, buttons-and-forms
