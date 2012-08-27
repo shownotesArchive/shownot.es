@@ -1,5 +1,5 @@
 <?php
-function getEpisodes($Podcast)
+function getEpisodes($Podcast, $count)
 	{
 		if ($handle = @scandir('./podcasts/'.$Podcast, 1))
 			{
@@ -9,6 +9,7 @@ function getEpisodes($Podcast)
 							{
 								$Episode = explode('.', $file);
 								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'})">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+								++$count;
 							}
 					}
 			}
@@ -16,6 +17,7 @@ function getEpisodes($Podcast)
 			{
 				echo "<li>Verzeichnis leer</li>";
 			}
+		return $count;
 	}
 //<li><a onclick="TINY.box.show({url:'./podcasts/ll/12_07_12.html'})">12.07.2012</a></li>
 ?><!DOCTYPE html>
@@ -56,7 +58,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('wrint'); ?>
+						<?php $i = getEpisodes('wrint', 0); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -65,7 +67,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('bm'); ?>
+						<?php $i = getEpisodes('bm', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -74,7 +76,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('ll'); ?>
+						<?php $i = getEpisodes('ll', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -83,7 +85,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('cr'); ?>
+						<?php $i = getEpisodes('cr', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -92,7 +94,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('nsfw'); ?>
+						<?php $i = getEpisodes('nsfw', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -101,7 +103,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('ep'); ?>
+						<?php $i = getEpisodes('ep', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -110,7 +112,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('mm'); ?>
+						<?php $i = getEpisodes('mm', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -119,7 +121,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('dw'); ?>
+						<?php $i = getEpisodes('dw', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -128,7 +130,7 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('jc'); ?>
+						<?php $i = getEpisodes('jc', $i); ?>
 				</ul>
 			</div>
 			<div class="g-button-group">
@@ -137,9 +139,10 @@ function getEpisodes($Podcast)
 					<span class="caret"></span>
 				</a>
 				<ul class="dropdown-menu">
-						<?php echo getEpisodes('pt'); ?>
+						<?php $i = getEpisodes('pt', $i); ?>
 				</ul>
 			</div>
+			<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
 		</div></div>
 
 		<hr />
