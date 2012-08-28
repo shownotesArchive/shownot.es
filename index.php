@@ -115,7 +115,6 @@ Generierungsdauer: 0.0019018650054932 sec
 				<ul class="dropdown-menu">
 						<li><a onclick="TINY.box.show({url:'./podcasts/pt/019.html'})">019</a></li><li><a onclick="TINY.box.show({url:'./podcasts/pt/018.html'})">018</a></li>				</ul>
 			</div>
-			<p>Zu diesen Podcasts gibt es bei uns insgesamt 107 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
 		</div></div>
 
 		<hr />
