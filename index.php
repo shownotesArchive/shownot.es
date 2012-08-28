@@ -1,4 +1,4 @@
-<?php if(1345000000 < time()){
+<?php if(0 < time()){ //update on first pageview
 Header( "HTTP/1.1 302 Found" );
 Header( "Location: http://shownot.es/update/" );} ?><!DOCTYPE html>
 <html lang="de"> 
@@ -18,10 +18,7 @@ Header( "Location: http://shownot.es/update/" );} ?><!DOCTYPE html>
 	<script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
 </head>
 
-<body><!-- 
-zuletzt aktualisiert um: 1346103568
-Generierungsdauer: 0.0019018650054932 sec
--->
+<body>
 <div class="content">
 	<div class="header">
 		<div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>

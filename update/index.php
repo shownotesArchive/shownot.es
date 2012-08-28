@@ -145,7 +145,7 @@ function getEpisodes($Podcast, $count)
 						<?php $i = getEpisodes('pt', $i); ?>
 				</ul>
 			</div>
-			<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
+			<!--<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p>--><br>
 		</div></div>
 
 		<hr />
@@ -183,7 +183,7 @@ if (!empty($inhalt))
 	$inhalt = explode('<body>', $inhalt);
 	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time()."\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
 	
-	$code = '<?php if('.(time()+85000).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
+	$code = '<?php if('.(time()+10000).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
 	
 	$inhalt = $code.$inhalt;
 	if (!$handle = fopen($filename, 'w'))
