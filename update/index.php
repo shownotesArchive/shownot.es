@@ -11,7 +11,7 @@ function getEpisodes($Podcast, $count)
 						if ($file != "." && $file != "..")
 							{
 								$Episode = explode('.', $file);
-								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'})">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+								echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="./podcasts/sn/'.$Podcast.'/'.$file.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
 								++$count;
 							}
 					}
@@ -181,7 +181,7 @@ if (!empty($inhalt))
 {
 	$filename = './../index.php';
 	$inhalt = explode('<body>', $inhalt);
-	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time()."\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
+	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
 	
 	$code = '<?php if('.(time()+10000).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
 	
