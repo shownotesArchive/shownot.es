@@ -74,7 +74,7 @@ function getEpisodes($count)
     
     if($_GET['podcast'] != '')
       {
-        echo '<h2><a href="./../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
+        echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
         include($_GET['podcast']);
       }
     else
