@@ -25,7 +25,11 @@ function getEpisodes($count)
     return $count;
   }
 
-
+function ShownoteTitle($podcast)
+  {
+    $title = explode('.', $podcast);
+    echo (3 < count($title) ? $title[2] : $title[1]).' - Shownot.es';
+  }
 
 
 
@@ -34,7 +38,7 @@ function getEpisodes($count)
 
 <head>
   <meta charset="utf-8" />
-  <title>Die Shownotes</title>
+  <title><?php echo ShownoteTitle($_GET['podcast']); ?></title>
   <meta name="viewport" content="width=980" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
