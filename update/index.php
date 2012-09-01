@@ -176,14 +176,14 @@ $inhalt = ob_get_contents();
 ob_end_clean();
 
 $generatetime = microtime(1)-$starttime;
-
+$cache_refresh = 10000;
 if (!empty($inhalt))
 {
 	$filename = './../index.php';
 	$inhalt = explode('<body>', $inhalt);
 	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
 	
-	$code = '<?php if('.(time()+10000).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
+	$code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
 	
 	$inhalt = $code.$inhalt;
 	if (!$handle = fopen($filename, 'w'))
