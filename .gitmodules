@@ -1,0 +1,3 @@
+[submodule "OSF"]
+	path = OSF
+	url = git@github.com:SimonWaldherr/OpenShownotesFormat.git

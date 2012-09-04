@@ -157,19 +157,10 @@ input[type='submit']:hover {
   margin: 6px;
   overflow: scroll;
   list-style: none;
+  margin-top: 25px;
+  padding-bottom: 40px;
 }
-.itemlist a{
-  color: #5eacff;
-  text-decoration: none;
-  font-weight: bold;
-}
-.itemlist a:visited{
-  color: #4975ff;
-}
-.itemlist a:hover{
-  color: #1968ff;
-  font-weight: bolder;
-}
+
 .itemlist .itemtype{
   height: 16px;
   width: 16px;

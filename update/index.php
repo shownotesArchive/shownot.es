@@ -32,8 +32,8 @@ function getEpisodes($Podcast, $count)
 	<meta name="viewport" content="width=980" />  
 	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
 	<link rel="icon" type="image/x-icon" href="./favicon.ico" />
-	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css" type="text/css"  media="screen" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=003" type="text/css" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css?v=003" type="text/css"  media="screen" />
 	<link rel="author" href="./humans.txt" />
 	<link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
 	<link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
