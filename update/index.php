@@ -192,7 +192,7 @@ $inhalt = ob_get_contents();
 ob_end_clean();
 
 $generatetime = microtime(1)-$starttime;
-$cache_refresh = 10000;
+$cache_refresh = 3600;
 if (!empty($inhalt))
 {
 	$filename = './../index.php';
