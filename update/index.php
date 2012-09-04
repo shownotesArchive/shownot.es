@@ -161,7 +161,23 @@ function getEpisodes($Podcast, $count)
 		<hr />
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>
-
+	<!--<div class="box" style="display:none; visibility: hidden;">-->
+	<div class="box">
+		<?php 
+			
+			ini_set('allow_url_fopen', '1');
+			$filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes";
+			$ch = curl_init();
+			$timeout = 0;
+			curl_setopt ($ch, CURLOPT_URL, $filename);
+			curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+			curl_setopt ($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+			$file_contents = curl_exec($ch);
+			curl_close($ch);
+			echo $file_contents;
+			
+		?>
+	</div>
 	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
 
 </div>

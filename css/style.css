@@ -144,3 +144,33 @@ input[type='submit']:hover {
 .tmask {position:absolute; display:none; top:0px; left:0px; height:100%; width:100%; background:#000; z-index:800}
 .tclose {position:absolute; top:0px; right:0px; width:30px; height:30px; cursor:pointer; background:url(./../img/close.png) no-repeat}
 .tclose:hover {background-position:0 -30px}
+
+.itemlist{
+  height: 160px;
+  overflow-y: scroll;
+}
+
+.itemlist li {
+  width: 265px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 6px;
+  overflow: scroll;
+  list-style: none;
+}
+.itemlist a{
+  color: #5eacff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.itemlist a:visited{
+  color: #4975ff;
+}
+.itemlist a:hover{
+  color: #1968ff;
+  font-weight: bolder;
+}
+.itemlist .itemtype{
+  height: 16px;
+  width: 16px;
+}
