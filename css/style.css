@@ -154,8 +154,7 @@ input[type='submit']:hover {
   width: 265px;
   display: inline-block;
   vertical-align: top;
-  margin: 6px;
-  overflow: scroll;
+  margin: 4px;
   list-style: none;
   margin-top: 25px;
   padding-bottom: 40px;

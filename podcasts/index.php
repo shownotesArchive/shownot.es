@@ -76,10 +76,30 @@ function ShownoteTitle($podcast)
     
     <?php 
     
-    if($_GET['podcast'] != '')
+    $podcast = $_GET['podcast'];
+    
+    if($podcast != '')
       {
-        echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
-        include($_GET['podcast']);
+        if(isset($_GET['search']))
+          {
+            $podcastarray = explode("/",$podcast);
+            //var_dump($podcastarray);
+            $podcastlist = scandir('./'.$podcastarray[1].'/');
+            foreach($podcastlist as $thispodcast)
+              {
+                $thispodcastarray = @explode(".",$thispodcast);
+                if($podcastarray[2] == $thispodcastarray[0])
+                  {
+                    //echo "\n".'./'.$podcastarray[1].'/'.$thispodcast."\n";
+                    include('./'.$podcastarray[1].'/'.$thispodcast);
+                  }
+              }
+          }
+        else
+          {
+            echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
+            include($podcast);
+          }
       }
     else
       {

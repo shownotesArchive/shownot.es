@@ -166,7 +166,7 @@ function getEpisodes($Podcast, $count)
 		<?php 
 			
 			ini_set('allow_url_fopen', '1');
-			$filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes";
+			$filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes&limit=42";
 			$ch = curl_init();
 			$timeout = 0;
 			curl_setopt ($ch, CURLOPT_URL, $filename);

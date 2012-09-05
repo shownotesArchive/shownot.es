@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /podcasts/bm/
+Disallow: /podcasts/cr/
+Disallow: /podcasts/dw/
+Disallow: /podcasts/ep/
+Disallow: /podcasts/jc/
+Disallow: /podcasts/ll/
+Disallow: /podcasts/mm/
+Disallow: /podcasts/nsfw/
+Disallow: /podcasts/pt/
+Disallow: /podcasts/wrint/
