@@ -15,11 +15,12 @@ Github:
 * <https://github.com/mluto/ShowPad>  
 * <https://github.com/mluto/etherpad-lite>  
 * <https://github.com/SimonWaldherr/shownot.es>  
+* <https://github.com/SimonWaldherr/OpenShownotesFormat>  
 
 Projektentwurfsbeginn: 15.08.2012  
-Layout: http://puu.sh/XaT7 (Hauptseite), http://puu.sh/XaSp (Profilseite)  
-Domain: http://shownot.es/  
-Struktur/Template: https://shownotes.piratenpad.de/Template  
+Layout: <http://puu.sh/XaT7> (Hauptseite), <http://puu.sh/XaSp> (Profilseite)  
+Domain: <http://shownot.es/>  
+Struktur/Template: <https://github.com/SimonWaldherr/OpenShownotesFormat/blob/master/README.md>  
 
 
 Begrifflichkeiten:  
@@ -28,5 +29,5 @@ Begriff          | Erklärung | Beispiel
 -----------------|-----------|----------
 Podcast          | eine Reihe von Sendungen. | Raumzeit, Wrint
 Sendung          | eine einzelne Sendung eines Podcasts. | RZ13, CRE100
-Podcaster        | Personen die einen bestimmten Podcast produzieren. | "holgi", "Tim Pritlove"
+Podcaster        | Personen die einen bestimmten Podcast produzieren. | holgi, Tim Pritlove
 Podcast-Betreuer | ein User, der sich um die Organisation der Erstellung von Mitschriften eines Podcasts kümmert. | 

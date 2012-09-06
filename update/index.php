@@ -157,7 +157,7 @@ function getEpisodes($Podcast, $count)
 			Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
 		</p>
 		<hr />
-		<p>Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
+		<p>Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">GitHub.com/SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
 		<hr />
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>

@@ -33,12 +33,12 @@ body {
 }
 
 a:link, a:visited {
-  color: #0d44d0;
+  color: #1B69A2;
   text-decoration: none;
 }
 
 a:hover {
-  color: #0d44d0;
+  color: #1C67A3;
   text-decoration: underline;
 }
 
