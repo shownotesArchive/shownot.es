@@ -1,6 +1,4 @@
-<?php if(0 < time()){ //update on first pageview
-Header( "HTTP/1.1 302 Found" );
-Header( "Location: http://shownot.es/update/" );} ?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de"> 
 
 <head>
@@ -17,12 +15,20 @@ Header( "Location: http://shownot.es/update/" );} ?><!DOCTYPE html>
 	<link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
+	<style>
+		iframe{
+			height: 1px;
+			width: 1px;
+			visibility: hidden;
+		}
+	</style>
 </head>
 
 <body><!-- 
-zuletzt aktualisiert um: 1347022952 (15:02:32 07.09.2012)
-Generierungsdauer: 3.1376750469208 sec
--->
+zuletzt aktualisiert um: 1347025123 (15:38:43 07.09.2012)
+Generierungsdauer: 2.5065178871155 sec
+--><?php if(1347027643 < time()){
+echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
 	<div class="header">
 		<div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
@@ -132,7 +138,6 @@ Generierungsdauer: 3.1376750469208 sec
 		<hr />
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>
-	
 	<div class="box">
 		<ol class="itemlist" style="overflow-y:auto; height:135px;"><li><a href="http://twitter.com/DieShownotes/statuses/244047359762386944"><img class="itemtype" src="./../img/twitter.png"></a> Die fertige Mitschrift der 25. Wrintheit hier: <a href="https://t.co/LyF9Qzjh" target="_blank">https://t.co/LyF9Qzjh</a></li><li><a href="http://twitter.com/DieShownotes/statuses/244014784591323136"><img class="itemtype" src="./../img/twitter.png"></a> Helft mit bei den Shownotes der Wrintheit 25 <a href="http://t.co/46UFTX9J" target="_blank">http://t.co/46UFTX9J</a></li><li><a href="http://twitter.com/DieShownotes/statuses/243873354019385344"><img class="itemtype" src="./../img/twitter.png"></a> Heute: Wrintheit 25 (12 Uhr)</li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p>	</div>
 	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>

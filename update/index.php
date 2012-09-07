@@ -1,4 +1,5 @@
 <?php
+@sleep(1);
 $starttime = microtime(1);
 ob_start();
 
@@ -40,6 +41,13 @@ function getEpisodes($Podcast, $count)
 	<link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
+	<style>
+		iframe{
+			height: 1px;
+			width: 1px;
+			visibility: hidden;
+		}
+	</style>
 </head>
 
 <body>
@@ -200,8 +208,7 @@ function getEpisodes($Podcast, $count)
 $inhalt = ob_get_contents();
 ob_end_clean();
 
-$generatetime = microtime(1)-$starttime;
-$cache_refresh = 3600;
+
 if (!empty($file_contents))
 {
 	$tweetbackup = './../tweets/index.html';
@@ -251,18 +258,25 @@ if (!empty($file_contents))
 	
 	fclose($handle);
 	
+	$generatetime = microtime(1)-$starttime;
+	$cache_refresh = 2520;
+	$code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>';
 	
 	$filename = './../index.php';
 	$inhalt = explode('<body>', $inhalt);
-	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
+	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$code.$inhalt[1];
 	
-	$code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'Header( "HTTP/1.1 302 Found" );'."\n".'Header( "Location: http://shownot.es/update/" );} ?>';
 	
-	$inhalt = $code.$inhalt;
+	//$inhalt = $code.$inhalt;
 	if (!$handle = fopen($filename, 'w'))
 		{
 			echo 'Cannot open file '.$filename;
 			exit;
+		}
+	else
+		{
+			echo 'open file: success'."\n";
+			@sleep(1);
 		}
 
 	if (fwrite($handle, $inhalt) === FALSE)
@@ -270,12 +284,17 @@ if (!empty($file_contents))
 			echo 'Cannot write to file '.$filename;
 			exit;
 		}
-
+	else
+		{
+			echo 'write file: success'."\n";
+			@sleep(1);
+		}
 	fclose($handle);
 	
-	@sleep(3);
-	header("HTTP/1.1 301 Moved Permanently");
-	header("Location: http://shownot.es/");
-	header("Connection: close");
+	@sleep(1);
+	//header("HTTP/1.1 301 Moved Permanently");
+	//header("Location: http://shownot.es/");
+	//header("Connection: close");
+	echo 'finish'."\n";
 }
 ?>
