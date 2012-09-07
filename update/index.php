@@ -30,10 +30,11 @@ function getEpisodes($Podcast, $count)
 	<meta charset="utf-8" />
 	<title>Die Shownotes</title>
 	<meta name="viewport" content="width=980" />  
+	<meta name="apple-mobile-web-app-capable" content="yes" />  
 	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
 	<link rel="icon" type="image/x-icon" href="./favicon.ico" />
-	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=003" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css?v=003" type="text/css"  media="screen" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=004" type="text/css" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css?v=004" type="text/css"  media="screen" />
 	<link rel="author" href="./humans.txt" />
 	<link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
 	<link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
@@ -161,12 +162,11 @@ function getEpisodes($Podcast, $count)
 		<hr />
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>
-	<!--<div class="box" style="display:none; visibility: hidden;">-->
 	<div class="box">
 		<?php 
 			
 			ini_set('allow_url_fopen', '1');
-			$filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes&limit=42";
+			$filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes&limit=512";
 			$ch = curl_init();
 			$timeout = 0;
 			curl_setopt ($ch, CURLOPT_URL, $filename);
@@ -174,7 +174,16 @@ function getEpisodes($Podcast, $count)
 			curl_setopt ($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
 			$file_contents = curl_exec($ch);
 			curl_close($ch);
-			echo $file_contents;
+			
+			$tweets     = explode('<li>', $file_contents);
+			$tweetarray = array();
+			foreach($tweets as $tweet)
+				{
+					$tweet = explode('</li>', $tweet);
+					$tweetarray[] = $tweet[0];
+				}
+			
+			echo '<ol class="itemlist" style="overflow-y:auto; height:135px;"><li>'.$tweetarray[1].'</li><li>'.$tweetarray[2].'</li><li>'.$tweetarray[3].'</li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p>';
 			
 		?>
 	</div>
@@ -193,8 +202,56 @@ ob_end_clean();
 
 $generatetime = microtime(1)-$starttime;
 $cache_refresh = 3600;
-if (!empty($inhalt))
+if (!empty($file_contents))
 {
+	$tweetbackup = './../tweets/index.html';
+	if (!$handle = fopen($tweetbackup, 'w'))
+		{
+			echo 'Cannot open file '.$tweetbackup;
+			exit;
+		}
+	$file_contents = '<!DOCTYPE html>
+<html lang="de"> 
+
+<head>
+	<meta charset="utf-8" />
+	<title>Die Shownotes Tweets</title>
+	<meta name="viewport" content="width=980" />  
+	<meta name="apple-mobile-web-app-capable" content="yes" />  
+	<link rel="shortcut icon" type="image/x-icon" href="./../favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="./../favicon.ico" />
+	<link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=004" type="text/css" />
+	<link rel="author" href="./../humans.txt" />
+	<link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
+	<link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
+	<style>
+		.itemlist{
+			height: 700px;
+		}
+	</style>
+</head>
+
+<body>
+<div class="content">
+	<div class="header">
+		<div class="title"><a href="http://shownot.es/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
+	</div>
+	<div class="box" id="main">'.$file_contents.'</div>
+	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
+
+</div>
+</body>
+
+</html>';
+	if (fwrite($handle, $file_contents) === FALSE)
+		{
+			echo 'Cannot write to file '.$tweetbackup;
+			exit;
+		}
+	
+	fclose($handle);
+	
+	
 	$filename = './../index.php';
 	$inhalt = explode('<body>', $inhalt);
 	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$inhalt[1];
@@ -216,7 +273,7 @@ if (!empty($inhalt))
 
 	fclose($handle);
 	
-	@sleep(1);
+	@sleep(3);
 	header("HTTP/1.1 301 Moved Permanently");
 	header("Location: http://shownot.es/");
 	header("Connection: close");
