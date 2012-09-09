@@ -122,6 +122,7 @@ input[type='submit']:hover {
 .footer {
   clear: both;
   margin-top: 1em;
+  padding-bottom: 2em;
 }
 
 .footer span {
@@ -166,7 +167,7 @@ input[type='submit']:hover {
 
 .info_icon{
   font: caption; 
-  width: 70px; 
+  width: 50px; 
   height: 70px; 
-  margin: 0em 1em 0em 0em;
+  margin: 0em 1em 0em 2em;
 }

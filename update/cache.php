@@ -206,7 +206,7 @@ function getEpisodes($Podcast, $count)
         <div class="info_icon"><img src="http://shownot.es/img/git_icon.png" alt="GitHub Logo" width="30px" height="30px" />
         </div>
       </div>
-      <p style="float: left; width: 700px;">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">GitHub.com/SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
+      <p style="float: left; width: 700px;">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
