@@ -172,8 +172,8 @@ function getEpisodes($Podcast, $count)
 
 		<hr />
 				<div style="margin: 0px;">
-				<div style="float: left;">
-												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/flattr_icon.png" alt="Flattr Logo" width="30px" height="30px" /></div>
+				<div style="float: left; margin: 0em 1em 0em 0em;">
+												 <div style="font: caption; width: 46px; height: 46px; margin: 0px;"><img src="img/flattr_icon.png" alt="Flattr Logo" width="46px" height="46px" /></div>
 										</div>
 				<p style="float: left; width: 700px;">
 					Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet.
@@ -181,18 +181,18 @@ function getEpisodes($Podcast, $count)
 										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
 										</div>
 										<div style="margin-top: 1em;">
-				<div style="float: left;">
-												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/twitter_icon.png" alt="Twitter Logo" width="30px" height="30px" /></div>
+				<div style="float: left; margin: 0em 1em 0em 0em;">
+												 <div style="font: caption; width: 46px; height: 46px; margin: 0px;"><img src="img/twitter_icon.png" alt="Twitter Logo" width="46px" height="46px" /></div>
 										</div>
-				<p style="float: left;">
-				<p style="margin-top: 1em">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+				<p style="float: left; width: 700px;">
+				   Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
 										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
 										</div>
 										<div style="margin-top: 1em;">
-				<div style="float: left;">
-												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/irc_icon.png" alt="QWebIRC Logo" width="30px" height="30px" /></div>
+				<div style="float: left; margin: 0em 1em 0em 0em;">
+												 <div style="font: caption; width: 46px; height: 46px; margin: 0px;"><img src="img/irc_icon.png" alt="QWebIRC Logo" width="46px" height="46px" /></div>
 										</div>
-				<p style="float: left;">
+				<p style="float: left; width: 700px;">
 					Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
 				</p>
 										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
