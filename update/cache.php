@@ -11,8 +11,10 @@ function getEpisodes($Podcast, $count)
           {
             if ($file != "." && $file != "..")
               {
+                
                 $Episode = explode('.', $file);
-                echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="./podcasts/sn/'.$Podcast.'/'.$file.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+                $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
+                echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
                 ++$count;
               }
           }
@@ -32,11 +34,10 @@ function getEpisodes($Podcast, $count)
   <title>Die Shownotes</title>
   <meta name="viewport" content="width=980" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
-  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=004" type="text/css" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css?v=004" type="text/css"  media="screen" />
-  <link rel="author" href="./humans.txt" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

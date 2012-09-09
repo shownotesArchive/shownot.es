@@ -25,26 +25,45 @@ function getEpisodes($count)
     return $count;
   }
 
-function ShownoteTitle($podcast)
+function ShownoteTitle()
   {
-    $title = explode('.', $podcast);
-    echo (3 < count($title) ? $title[2] : $title[1]).' - Shownot.es';
+    $podcast = $_GET['podcast'];
+    
+    if($podcast != '')
+      {
+        if(isset($_GET['search']))
+          {
+            $podcastarray = explode("/",$podcast);
+            $podcastlist = scandir('./'.$podcastarray[1].'/');
+            foreach($podcastlist as $thispodcast)
+              {
+                $thispodcastarray = @explode(".",$thispodcast);
+                if($podcastarray[2] == $thispodcastarray[0])
+                  {
+                    $podcast = $thispodcast;
+                  }
+              }
+          }
+        $title = explode('.', $podcast);
+        return (3 < count($title) ? $title[2] : $title[1]).' - Shownot.es';
+      }
+    else
+      {
+        return 'Shownotes $Uuml;bersicht';
+      }
   }
-
-
 
 ?><!DOCTYPE html>
 <html lang="de"> 
 
 <head>
   <meta charset="utf-8" />
-  <title><?php echo ShownoteTitle($_GET['podcast']); ?></title>
+  <title><?php echo ShownoteTitle(); ?></title>
   <meta name="viewport" content="width=980" />  
-  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/style.css" type="text/css" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/baf.css" type="text/css"  media="screen" />
-  <link rel="author" href="./humans.txt" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
