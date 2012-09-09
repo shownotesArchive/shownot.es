@@ -275,7 +275,8 @@ if (!empty($file_contents))
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <style>
     .itemlist{
-      height: 700px;
+      height: auto;
+      overflow: auto;
     }
   </style>
   <script type="text/javascript">
