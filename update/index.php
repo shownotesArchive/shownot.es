@@ -158,13 +158,32 @@ function getEpisodes($Podcast, $count)
 		</div></div>
 
 		<hr />
-		<p>
+		<div style="margin: 0px;">
+		<div style="float: left;">
+                     <div style="font: caption; width: 100px; height: 70px; margin: 0em 0em 0em 1em;"><img src="https://secure.gravatar.com/avatar/bf3da95610305c53a56cb6a1be24090c?s=120&r=pg&d=https%3A%2F%2Fflattr.com%2F_img%2Faut11-user-placeholder-large.png" alt="Flattr Logo" width="64" height="64" /></div>
+                </div>
+		<p style="float: left; width: 700px;">
 			Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet. Mit <a href="http://superfav.com/">SuperFav</a> werden &uuml;brigens <a href="http://twitter.com/dieshownotes">alle Tweets</a> automatisch geflattert.
 		</p>
+                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+                </div>
+                <div style="margin-top: 1em;">
+		<div style="float: left;">
+                     <div style="font: caption; width: 100px; height: 70px; margin: 0em 0em 0em 1em;"><img src="https://twimg0-a.akamaihd.net/profile_images/2284174758/v65oai7fxn47qv9nectx_reasonably_small.png" alt="Twitter Logo" width="64" height="64" /></div>
+                </div>
+		<p style="float: left;">
 		<p style="margin-top: 1em">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
-		<p style="margin-top: 1em;">
+                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+                </div>
+                <div style="margin-top: 1em;">
+		<div style="float: left;">
+                     <div style="font: caption; width: 100px; height: 70px; margin: 0em 0em 0em 1em;"><img src="http://qwebirc.org/static/images/qwebircsmall.png" alt="QWebIRC Logo" width="64" height="64" /></div>
+                </div>
+		<p style="float: left;">
 			Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
 		</p>
+                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+                </div>
 		<hr />
 		<p>Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">GitHub.com/SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
 		<hr />
