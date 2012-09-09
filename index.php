@@ -22,12 +22,25 @@
 			visibility: hidden;
 		}
 	</style>
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-34667234-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = 'http://statistik.simon.waldherr.eu/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
 </head>
 
 <body><!-- 
-zuletzt aktualisiert um: 1347025123 (15:38:43 07.09.2012)
-Generierungsdauer: 2.5065178871155 sec
---><?php if(1347027643 < time()){
+zuletzt aktualisiert um: 1347132650 (21:30:50 08.09.2012)
+Generierungsdauer: 3.6671950817108 sec
+--><?php if(1347135170 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
 	<div class="header">
@@ -139,7 +152,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
 	</div>
 	<div class="box">
-		<ol class="itemlist" style="overflow-y:auto; height:135px;"><li><a href="http://twitter.com/DieShownotes/statuses/244047359762386944"><img class="itemtype" src="./../img/twitter.png"></a> Die fertige Mitschrift der 25. Wrintheit hier: <a href="https://t.co/LyF9Qzjh" target="_blank">https://t.co/LyF9Qzjh</a></li><li><a href="http://twitter.com/DieShownotes/statuses/244014784591323136"><img class="itemtype" src="./../img/twitter.png"></a> Helft mit bei den Shownotes der Wrintheit 25 <a href="http://t.co/46UFTX9J" target="_blank">http://t.co/46UFTX9J</a></li><li><a href="http://twitter.com/DieShownotes/statuses/243873354019385344"><img class="itemtype" src="./../img/twitter.png"></a> Heute: Wrintheit 25 (12 Uhr)</li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p>	</div>
+		<ol class="itemlist" style="overflow-y:auto; height:135px;"><li><a href="http://twitter.com/DieShownotes/statuses/244118339847335936"><img class="itemtype" src="./../img/twitter.png"></a> <a href='http://www.twitter.com/hoersuppe'>@hoersuppe</a> <a href='http://www.twitter.com/holgi'>@holgi</a> Alles klar, danke für die Info!</li><li><a href="http://twitter.com/DieShownotes/statuses/244047359762386944"><img class="itemtype" src="./../img/twitter.png"></a> Die fertige Mitschrift der 25. Wrintheit hier: <a href="https://t.co/LyF9Qzjh" target="_blank">https://t.co/LyF9Qzjh</a></li><li><a href="http://twitter.com/DieShownotes/statuses/244014784591323136"><img class="itemtype" src="./../img/twitter.png"></a> Helft mit bei den Shownotes der Wrintheit 25 <a href="http://t.co/46UFTX9J" target="_blank">http://t.co/46UFTX9J</a></li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p>	</div>
 	<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
 
 </div>

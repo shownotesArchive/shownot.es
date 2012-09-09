@@ -48,6 +48,19 @@ function getEpisodes($Podcast, $count)
 			visibility: hidden;
 		}
 	</style>
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-34667234-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = 'http://statistik.simon.waldherr.eu/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
 </head>
 
 <body>
@@ -158,33 +171,33 @@ function getEpisodes($Podcast, $count)
 		</div></div>
 
 		<hr />
-		<div style="margin: 0px;">
-		<div style="float: left;">
-                     <div style="font: caption; width: 46px; height: 46px; margin: 0em 1em 0em 0em;"><img src="img/flattr_icon_small.png" alt="Flattr Logo" width="46" height="46" /></div>
-                </div>
-		<p style="float: left; width: 700px;">
-			Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet. Mit <a href="http://superfav.com/">SuperFav</a> werden &uuml;brigens <a href="http://twitter.com/dieshownotes">alle Tweets</a> automatisch geflattert.
-		</p>
-                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
-                </div>
-                <div style="margin-top: 1em;">
-		<div style="float: left;">
-                     <div style="font: caption; width: 46px; height: 46px; margin: 0em 1em 0em 0em;"><img src="img/twitter_icon_small.png" alt="Twitter Logo" width="46" height="46" /></div>
-                </div>
-		<p style="float: left;">
-		<p style="margin-top: 1em">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
-                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
-                </div>
-                <div style="margin-top: 1em;">
-		<div style="float: left;">
-                     <div style="font: caption; width: 46px; height: 46px; margin: 0em 1em 0em 0em;"><img src="img/irc_icon_small.png" alt="QWebIRC Logo" width="46" height="46" /></div>
-                </div>
-		<p style="float: left;">
-			Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
-		</p>
-                <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
-                </div>
-		<hr />
+				<div style="margin: 0px;">
+				<div style="float: left;">
+												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/flattr_icon.png" alt="Flattr Logo" width="30px" height="30px" /></div>
+										</div>
+				<p style="float: left; width: 700px;">
+					Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet.
+				</p>
+										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+										</div>
+										<div style="margin-top: 1em;">
+				<div style="float: left;">
+												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/twitter_icon.png" alt="Twitter Logo" width="30px" height="30px" /></div>
+										</div>
+				<p style="float: left;">
+				<p style="margin-top: 1em">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+										</div>
+										<div style="margin-top: 1em;">
+				<div style="float: left;">
+												 <div style="font: caption; width: 70px; height: 70px; margin: 0em 1em 0em 0em;"><img src="img/irc_icon.png" alt="QWebIRC Logo" width="30px" height="30px" /></div>
+										</div>
+				<p style="float: left;">
+					Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
+				</p>
+										<div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp; </div>
+										</div>
+				<hr />
 		<p>Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">GitHub.com/SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">GitHub.com/SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">GitHub.com/mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">GitHub.com/mluto/etherpad-lite</a> schicken.</p>
 		<hr />
 		<p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
@@ -234,7 +247,6 @@ if (!empty($file_contents))
 	if (!$handle = fopen($tweetbackup, 'w'))
 		{
 			echo 'Cannot open file '.$tweetbackup;
-			exit;
 		}
 	$file_contents = '<!DOCTYPE html>
 <html lang="de"> 
@@ -255,6 +267,19 @@ if (!empty($file_contents))
 			height: 700px;
 		}
 	</style>
+	<script type="text/javascript">
+	
+	  var _gaq = _gaq || [];
+	  _gaq.push(["_setAccount", "UA-34667234-1"]);
+	  _gaq.push(["_trackPageview"]);
+	
+	  (function() {
+	    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+	    ga.src = "http://statistik.simon.waldherr.eu/ga.js";
+	    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
 </head>
 
 <body>
@@ -276,6 +301,7 @@ if (!empty($file_contents))
 		}
 	
 	fclose($handle);
+}
 	
 	$generatetime = microtime(1)-$starttime;
 	$cache_refresh = 2520;
@@ -284,36 +310,6 @@ if (!empty($file_contents))
 	$filename = './../index.php';
 	$inhalt = explode('<body>', $inhalt);
 	$inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$code.$inhalt[1];
-	
-	
-	//$inhalt = $code.$inhalt;
-	if (!$handle = fopen($filename, 'w'))
-		{
-			echo 'Cannot open file '.$filename;
-			exit;
-		}
-	else
-		{
-			echo 'open file: success'."\n";
-			@sleep(1);
-		}
 
-	if (fwrite($handle, $inhalt) === FALSE)
-		{
-			echo 'Cannot write to file '.$filename;
-			exit;
-		}
-	else
-		{
-			echo 'write file: success'."\n";
-			@sleep(1);
-		}
-	fclose($handle);
-	
-	@sleep(1);
-	//header("HTTP/1.1 301 Moved Permanently");
-	//header("Location: http://shownot.es/");
-	//header("Connection: close");
-	echo 'finish'."\n";
-}
+
 ?>
