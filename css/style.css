@@ -122,6 +122,7 @@ input[type='submit']:hover {
 .footer {
   clear: both;
   margin-top: 1em;
+  padding-bottom: 2em;
 }
 
 .footer span {
@@ -157,10 +158,16 @@ input[type='submit']:hover {
   margin: 4px;
   list-style: none;
   margin-top: 25px;
-  padding-bottom: 40px;
 }
 
 .itemlist .itemtype{
   height: 16px;
   width: 16px;
+}
+
+.info_icon{
+  font: caption; 
+  width: 50px; 
+  height: 70px; 
+  margin: 0em 1em 0em 2em;
 }
