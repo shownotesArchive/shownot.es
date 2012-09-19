@@ -28,6 +28,7 @@ function getEpisodes($count)
 function ShownoteTitle()
   {
     $podcast = $_GET['podcast'];
+    $podcast = str_replace(array("ae", "oe", "ue", "ss"), array("ä", "ö", "ü", "ß"), $podcast);
     
     if($podcast != '')
       {
