@@ -8,323 +8,499 @@
 
 <url>
   <loc>http://shownot.es/</loc>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/ra011.html</loc>
+  <loc>http://shownot.es/wrint/108</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/103.Wrintheit-24.html</loc>
+  <loc>http://shownot.es/wrint/107</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/099.Wrintheit-23.html</loc>
+  <loc>http://shownot.es/wrint/106</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/095.Wrintheit-22.html</loc>
+  <loc>http://shownot.es/wrint/105</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/092.Wrintheit-21.html</loc>
+  <loc>http://shownot.es/wrint/104</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/083.Wrintheit-20.html</loc>
+  <loc>http://shownot.es/wrint/103</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/078.Wrintheit-19.html</loc>
+  <loc>http://shownot.es/wrint/099</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/070.Wrintheit-18.html</loc>
+  <loc>http://shownot.es/wrint/095</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/068.Wrintheit-17.html</loc>
+  <loc>http://shownot.es/wrint/092</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/056.Wrintheit-16.html</loc>
+  <loc>http://shownot.es/wrint/083</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/053.Wrintheit-15.html</loc>
+  <loc>http://shownot.es/wrint/078</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/049.Wrintheit-14.html</loc>
+  <loc>http://shownot.es/wrint/070</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/046.Wrintheit-13.html</loc>
+  <loc>http://shownot.es/wrint/068</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/041.Wrintheit-12.html</loc>
+  <loc>http://shownot.es/wrint/056</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/038.Wrintheit-11.html</loc>
+  <loc>http://shownot.es/wrint/053</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/034.Wrintheit-10.html</loc>
+  <loc>http://shownot.es/wrint/049</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/wrint/033.Wrintheit-9.html</loc>
+  <loc>http://shownot.es/wrint/046</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/34.21_08_12.html</loc>
+  <loc>http://shownot.es/wrint/041</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/33.16_08_12.html</loc>
+  <loc>http://shownot.es/wrint/038</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/32.14_08_12.html</loc>
+  <loc>http://shownot.es/wrint/034</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/31.07_08_12.html</loc>
+  <loc>http://shownot.es/wrint/033</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/30.01_08_12.html</loc>
+  <loc>http://shownot.es/bm/41</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/29.31_07_12.html</loc>
+  <loc>http://shownot.es/bm/40</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/28.26_07_12.html</loc>
+  <loc>http://shownot.es/bm/39</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/27.24_07_12.html</loc>
+  <loc>http://shownot.es/bm/38</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/26.19_07_12.html</loc>
+  <loc>http://shownot.es/bm/37</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/25.17_07_12.html</loc>
+  <loc>http://shownot.es/bm/36</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/24.12_07_12.html</loc>
+  <loc>http://shownot.es/bm/35</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/23.11_07_12.html</loc>
+  <loc>http://shownot.es/bm/34</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/22.10_07_12.html</loc>
+  <loc>http://shownot.es/bm/33</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/21.05_07_12.html</loc>
+  <loc>http://shownot.es/bm/32</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/20.27_06_12.html</loc>
+  <loc>http://shownot.es/bm/31</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/19.26_06_12.html</loc>
+  <loc>http://shownot.es/bm/30</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/18.21_06_12.html</loc>
+  <loc>http://shownot.es/bm/29</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/17.19_06_12.html</loc>
+  <loc>http://shownot.es/bm/28</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/16.12_06_12.html</loc>
+  <loc>http://shownot.es/bm/27</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/15.06_06_12.html</loc>
+  <loc>http://shownot.es/bm/26</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/14.29_05_12.html</loc>
+  <loc>http://shownot.es/bm/25</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/13.22_05_12.html</loc>
+  <loc>http://shownot.es/bm/24</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/12.15_05_12.html</loc>
+  <loc>http://shownot.es/bm/23</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/11.08_05_12.html</loc>
+  <loc>http://shownot.es/bm/22</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/10.01_05_12.html</loc>
+  <loc>http://shownot.es/bm/21</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/09.27_04_12.html</loc>
+  <loc>http://shownot.es/bm/20</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/08.24_04_12.html</loc>
+  <loc>http://shownot.es/bm/19</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/07.17_04_12.html</loc>
+  <loc>http://shownot.es/bm/18</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/06.10_04_12.html</loc>
+  <loc>http://shownot.es/bm/17</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/05.03_04_12.html</loc>
+  <loc>http://shownot.es/bm/16</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/04.28_03_12.html</loc>
+  <loc>http://shownot.es/bm/15</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/03.27_03_12.html</loc>
+  <loc>http://shownot.es/bm/14</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/02.20_03_12.html</loc>
+  <loc>http://shownot.es/bm/13</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/bm/01.03_02_12.html</loc>
+  <loc>http://shownot.es/bm/12</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ll/05.03_09_12.html</loc>
+  <loc>http://shownot.es/bm/11</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ll/04.12_07_12.html</loc>
+  <loc>http://shownot.es/bm/10</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ll/03.05_07_12.html</loc>
+  <loc>http://shownot.es/bm/09</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ll/02.11_06_12.html</loc>
+  <loc>http://shownot.es/bm/08</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ll/01.23_04_12.html</loc>
+  <loc>http://shownot.es/bm/07</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/cr/182.html</loc>
+  <loc>http://shownot.es/bm/06</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/cr/180.html</loc>
+  <loc>http://shownot.es/bm/05</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/56.NSFW-56.html</loc>
+  <loc>http://shownot.es/bm/04</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/55.NSFW-55.html</loc>
+  <loc>http://shownot.es/bm/03</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/54.NSFW-54.html</loc>
+  <loc>http://shownot.es/bm/02</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/53.NSFW-53.html</loc>
+  <loc>http://shownot.es/bm/01</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/52.NSFW-52.html</loc>
+  <loc>http://shownot.es/ll/05</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/51.NSFW-51.html</loc>
+  <loc>http://shownot.es/ll/04</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/50.NSFW-50.html</loc>
+  <loc>http://shownot.es/ll/03</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/49.NSFW-49.html</loc>
+  <loc>http://shownot.es/ll/02</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/48.NSFW-48.html</loc>
+  <loc>http://shownot.es/ll/01</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/47.NSFW-47.html</loc>
+  <loc>http://shownot.es/cr/182</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/46.NSFW-46.html</loc>
+  <loc>http://shownot.es/cr/180</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/45.NSFW-45.html</loc>
+  <loc>http://shownot.es/nsfw/56</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/44.NSFW-44.html</loc>
+  <loc>http://shownot.es/nsfw/55</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/nsfw/41.NSFW-41.html</loc>
+  <loc>http://shownot.es/nsfw/54</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/181.EP-181.html</loc>
+  <loc>http://shownot.es/nsfw/53</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/179.EP-179.html</loc>
+  <loc>http://shownot.es/nsfw/52</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/178.EP-178.html</loc>
+  <loc>http://shownot.es/nsfw/51</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/177.EP-177.html</loc>
+  <loc>http://shownot.es/nsfw/50</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/176.EP-176.html</loc>
+  <loc>http://shownot.es/nsfw/49</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/169.EP-169.html</loc>
+  <loc>http://shownot.es/nsfw/48</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/168.EP-168.html</loc>
+  <loc>http://shownot.es/nsfw/47</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/166.EP-166.html</loc>
+  <loc>http://shownot.es/nsfw/46</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/ep/160.EP-160.html</loc>
+  <loc>http://shownot.es/nsfw/45</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/94.MM-94.html</loc>
+  <loc>http://shownot.es/nsfw/44</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/93.MM-93.html</loc>
+  <loc>http://shownot.es/nsfw/41</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/92.MM-92.html</loc>
+  <loc>http://shownot.es/ep/183</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/91.MM-91.html</loc>
+  <loc>http://shownot.es/ep/182</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/90.MM-90.html</loc>
+  <loc>http://shownot.es/ep/181</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/89.MM-89.html</loc>
+  <loc>http://shownot.es/ep/179</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/88.MM-88.html</loc>
+  <loc>http://shownot.es/ep/178</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/87.MM-87.html</loc>
+  <loc>http://shownot.es/ep/177</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/86.MM-86.html</loc>
+  <loc>http://shownot.es/ep/176</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/85.MM-85.html</loc>
+  <loc>http://shownot.es/ep/169</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/84.MM-84.html</loc>
+  <loc>http://shownot.es/ep/168</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/82.MM-82.html</loc>
+  <loc>http://shownot.es/ep/166</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/mm/81.MM-81.html</loc>
+  <loc>http://shownot.es/ep/160</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/dw/020.html</loc>
+  <loc>http://shownot.es/mm/95</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/dw/019.html</loc>
+  <loc>http://shownot.es/mm/94</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/dw/018.html</loc>
+  <loc>http://shownot.es/mm/93</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/dw/017.html</loc>
+  <loc>http://shownot.es/mm/92</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/dw/014.html</loc>
+  <loc>http://shownot.es/mm/91</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/jc/011.html</loc>
+  <loc>http://shownot.es/mm/90</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/jc/010.html</loc>
+  <loc>http://shownot.es/mm/89</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/jc/009.html</loc>
+  <loc>http://shownot.es/mm/88</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/jc/008.html</loc>
+  <loc>http://shownot.es/mm/87</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/jc/007.html</loc>
+  <loc>http://shownot.es/mm/86</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/pt/019.html</loc>
+  <loc>http://shownot.es/mm/85</loc>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/podcasts/sn/pt/018.html</loc>
+  <loc>http://shownot.es/mm/84</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/mm/82</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/mm/81</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/dw/020</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/dw/019</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/dw/018</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/dw/017</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/dw/014</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/012</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/011</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/010</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/009</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/008</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/007</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/pt/019</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/pt/018</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/tweets/</loc>
+  <lastmod>2012-09-19T13:11:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/podcasts/sn/bm/35.04_09_12.html</loc>
+  <priority>0.64</priority>
 </url>
 </urlset>
