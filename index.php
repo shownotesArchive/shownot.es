@@ -39,9 +39,9 @@
 </head>
 
 <body><!-- 
-zuletzt aktualisiert um: 1348330477 (18:14:37 22.09.2012)
-Generierungsdauer: 3.7442290782928 sec
---><?php if(1348332997 < time()){
+zuletzt aktualisiert um: 1348345865 (22:31:05 22.09.2012)
+Generierungsdauer: 3.3804759979248 sec
+--><?php if(1348348385 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
   <div class="header">
@@ -183,9 +183,8 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
     <p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
   </div>
 <div class="box">
-  <ol class="itemlist" style="overflow-y:auto; height:135px;"><li><a href="http://twitter.com/DieShownotes/statuses/248554070225338368"><img class="itemtype" src="./../img/twitter.png"></a> Die Shownotes von <a href='http://www.twitter.com/mobilemacs'>@mobilemacs</a> 96 <a href="https://t.co/6fjJdXzF" target="_blank">https://t.co/6fjJdXzF</a></li><li><a href="http://twitter.com/DieShownotes/statuses/248472695522607104"><img class="itemtype" src="./../img/twitter.png"></a> Helft mit bei den Shownotes zu <a href='http://www.twitter.com/mobileMacs'>@mobileMacs</a> .
-Stream: <a href="http://t.co/CRSNoh4C" target="_blank">http://t.co/CRSNoh4C</a>
-Pad: <a href="https://t.co/6fjJdXzF" target="_blank">https://t.co/6fjJdXzF</a></li><li><a href="http://twitter.com/DieShownotes/statuses/248379582057676801"><img class="itemtype" src="./../img/twitter.png"></a> Die fertigen Shownotes des Realitäsabgleichs 14 gibt's hier: <a href="https://t.co/uvHoG2Rv" target="_blank">https://t.co/uvHoG2Rv</a></li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p></div>
+  <ol class="itemlist" style="overflow-y:auto; height:135px;"><li><a href="http://twitter.com/DieShownotes/statuses/248554070225338368"><img class="itemtype" src="./../img/twitter.png"></a>  Die Shownotes von <a href='http://www.twitter.com/mobilemacs'>@mobilemacs</a> 96  <a href="https://shownotes.piratenpad.de/mm096" target="_blank">https://shownotes.piratenpad.de/mm096</a>  </li><li><a href="http://twitter.com/DieShownotes/statuses/248472695522607104"><img class="itemtype" src="./../img/twitter.png"></a>  Helft mit bei den Shownotes zu <a href='http://www.twitter.com/mobileMacs'>@mobileMacs</a> .
+Stream:  <a href="http://stream2.radiotux.de:8000/mobile_macs.mp3" target="_blank">http://stream2.radiotux.de:8000/mobile_macs.mp3</a>  Pad:  <a href="https://shownotes.piratenpad.de/mm096" target="_blank">https://shownotes.piratenpad.de/mm096</a>  </li><li><a href="http://twitter.com/DieShownotes/statuses/248379582057676801"><img class="itemtype" src="./../img/twitter.png"></a>  Die fertigen Shownotes des Realitäsabgleichs 14 gibt's hier:  <a href="https://shownotes.piratenpad.de/ra14" target="_blank">https://shownotes.piratenpad.de/ra14</a>  </li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p></div>
 <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a>
 </div>
 </div>
