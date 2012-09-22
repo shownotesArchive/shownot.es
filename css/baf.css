@@ -1,12 +1,3 @@
-/*!
- * CSS3 Google Buttons
- *
- * Heavily inspired by css3-github-buttons, Twitter Bootstrap, and
- * of course, Google. I don't claim ownership over any of this.
- *
- * Constructed by Tim O'Donnell (http://github.com/todc)
- */
-
 html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
@@ -117,7 +108,9 @@ img {
   padding: 5px 20px 5px 20px;
 }
 
-.dropdown-menu a:hover { cursor: pointer; }
+.dropdown-menu a:hover { 
+  cursor: pointer;
+}
 
 .dropdown-menu a [class^="icon-"] {
   position: absolute;
@@ -168,7 +161,6 @@ img {
   -webkit-background-clip: padding;
   -moz-background-clip: padding;
   background-clip: padding;
-  /* IE hacks */
   zoom: 1;
   z-index: 1;
   *display: inline;
@@ -238,29 +230,30 @@ img {
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-/* overrides extra padding on button elements in Firefox */
 .g-button::-moz-focus-inner {
   padding: 0;
   border: 0;
 }
 
-/* ................................................................ Dropdown */
 .g-button.dropdown-toggle {
   min-width: 5px;
   height: 13px;
   padding: 8px;
 }
+
 .g-button .caret {
   margin-left: 0;
   margin-top: 4px;
 }
+
 .g-button:hover .caret {
   opacity: 1;
 }
-/* .................................................................... Misc */
+
 .g-button.no-text {
   min-width: 14px;
 }
+
 .g-button.xs-no-text {
   height: 9px;
   width: 18px;
@@ -273,6 +266,7 @@ img {
   -moz-border-radius: 6px;
   border-radius: 6px;
 }
+
 .g-button-group {
   position: relative;
   display: inline-block;
@@ -280,17 +274,17 @@ img {
   padding: 0;
   margin: 0;
   margin: 0 0 15px 15px;
-  /* IE hacks */
-
   zoom: 1;
   *display: inline;
 }
+
 .g-button + .g-button,
 .g-button + .g-button-group,
 .g-button-group + .g-button,
 .g-button-group + .g-button-group {
   margin-left: 15px;
 }
+
 .g-button-group .g-button {
   position: relative;
   float: left;
@@ -299,6 +293,7 @@ img {
   -moz-border-radius: 0;
   border-radius: 0;
 }
+
 .g-button-group .g-button:first-child {
   margin-left: 0;
   -webkit-border-top-left-radius: 6px;
@@ -308,6 +303,7 @@ img {
   -moz-border-radius-bottomleft: 2px;
   border-bottom-left-radius: 6px;
 }
+
 .g-button-group .g-button:last-child, .g-button-group .dropdown-toggle {
   -webkit-border-top-right-radius: 6px;
   -moz-border-radius-topright: 2px;
@@ -316,18 +312,20 @@ img {
   -moz-border-radius-bottomright: 2px;
   border-bottom-right-radius: 6px;
 }
-/* -------------------------------------------------------- BUTTON CONTAINER */
-/* For mixing buttons and button groups, e.g., in a navigation bar */
+
 .g-button-container .g-button, .g-button-container .g-button-group {
   vertical-align: top;
 }
+
 .g-button-group.open {
   *z-index: 1000;
 }
+
 .g-button-group.open .dropdown-menu {
   display: block;
   margin-top: 2px;
 }
+
 .g-button-group.open .dropdown-toggle {
   background-image: none;
   -webkit-box-shadow: inset 0 1px 6px rgba(0, 0, 0, 0.15);
@@ -336,49 +334,53 @@ img {
 }
 
 .input-prepend .add-on, .input-append .add-on {
-display: inline-block;
-width: auto;
-min-width: 65px;
-height: 18px;
-padding: 4px 5px;
-font-weight: normal;
-line-height: 18px;
-text-align: center;
-text-shadow: 0 1px 0 
-white;
-vertical-align: middle;
-background-color: 
-#CCC;
-border: 1px solid 
-#AAA;
-margin-top: -3px;
+  display: inline-block;
+  width: auto;
+  min-width: 65px;
+  height: 18px;
+  padding: 4px 5px;
+  font-weight: normal;
+  line-height: 18px;
+  text-align: center;
+  text-shadow: 0 1px 0 
+  white;
+  vertical-align: middle;
+  background-color: 
+  #CCC;
+  border: 1px solid 
+  #AAA;
+  margin-top: -3px;
 }
+
 .input-prepend .add-on, .input-append .add-on, .input-prepend .btn, .input-append .btn {
--webkit-border-radius: 5px 0 0 5px;
--moz-border-radius: 5px 0 0 5px;
-border-radius: 5px 0 0 5px;
+  -webkit-border-radius: 5px 0 0 5px;
+  -moz-border-radius: 5px 0 0 5px;
+  border-radius: 5px 0 0 5px;
 }
+
 .input-prepend .add-on, .input-prepend .btn {
-margin-right: 0px;
+  margin-right: 0px;
 }
+
 input[class*="span"], select[class*="span"], textarea[class*="span"], .uneditable-input {
-float: none;
-margin-left: -2px;
+  float: none;
+  margin-left: -2px;
 }
+
 input, textarea, select, .uneditable-input {
-display: inline-block;
-width: 210px;
-height: 18px;
-padding: 4px;
-margin-bottom: 9px;
-margin-left: -2px;
-font-size: 12px;
-line-height: 18px;
-color: 
-#555;
-border: 1px solid 
-#CCC;
--webkit-border-radius: 0px 8px 8px 0px;
--moz-border-radius: 0px 8px 8px 0px;
-border-radius: 0px 8px 8px 0px;
+  display: inline-block;
+  width: 210px;
+  height: 18px;
+  padding: 4px;
+  margin-bottom: 9px;
+  margin-left: -2px;
+  font-size: 12px;
+  line-height: 18px;
+  color: 
+  #555;
+  border: 1px solid 
+  #CCC;
+  -webkit-border-radius: 0px 8px 8px 0px;
+  -moz-border-radius: 0px 8px 8px 0px;
+  border-radius: 0px 8px 8px 0px;
 }

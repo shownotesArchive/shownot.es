@@ -158,11 +158,16 @@ input[type='submit']:hover {
   margin: 4px;
   list-style: none;
   margin-top: 25px;
+  overflow: hidden;
 }
 
 .itemlist .itemtype{
   height: 16px;
   width: 16px;
+}
+
+.itemlist a {
+  font-size: smaller;
 }
 
 .info_icon{
