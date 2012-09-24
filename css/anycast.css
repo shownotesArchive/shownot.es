@@ -15,10 +15,12 @@ dl {
   padding: 40px 80px 30px 120px;
   background: #FEFEFE;
   border-radius: 55px;
+  width: 769px;
+  margin-left: -15px;
 }
 
 dd a, dd a:hover, dd a:visited{
-  color: #B20000;
+  color: #1B69AE;
   text-decoration: none;
   font-weight: normal;
 }
