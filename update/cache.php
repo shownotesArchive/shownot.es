@@ -37,9 +37,8 @@ function getEpisodes($Podcast, $count)
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=004" type="text/css" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/baf.min.css?v=004" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/baf/css/baf.min.css?v=004" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=004" type="text/css"  media="screen" />
-  <link rel="author" href="./humans.txt" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -49,6 +48,18 @@ function getEpisodes($Podcast, $count)
       height: 1px;
       width: 1px;
       visibility: hidden;
+    }
+    .baf{
+      min-width: 70px;
+      margin-top: 10px;
+    }
+    .dropdown-menu{
+      right: 0;
+      min-width: 160px;
+      max-width: 200px;
+    }
+    .dropdown-menu li a{
+      padding: 5px 20px 5px 20px;
     }
   </style>
   <script type="text/javascript">
@@ -81,94 +92,85 @@ function getEpisodes($Podcast, $count)
         Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
       </p>
       <div style="margin-top: 1em;">
-        <div class="g-button-group">
-          <a class="g-button" href="http://www.wrint.de/">WRINT</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://www.wrint.de/">WRINT</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('wrint', 0); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('bm', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('ll', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('cr', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://not-safe-for-work.de">Not Safe For Work</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://not-safe-for-work.de">Not Safe For Work</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('nsfw', $i); ?>
           </ul>
-        </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://einschlafen-podcast.de">Einschlafen&nbsp;Podcast</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        </div><br>
+        <div class="baf-group">
+          <a class="baf" href="http://einschlafen-podcast.de">Einschlafen&nbsp;Podcast</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('ep', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://mobilemacs.de/">mobileMacs</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://mobilemacs.de/">mobileMacs</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('mm', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('dw', $i); ?>
           </ul>
         </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://www.jobscast.de">Jobscast</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
+        <div class="baf-group">
+          <a class="baf" href="http://www.jobscast.de">Jobscast</a>
+          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
               <?php $i = getEpisodes('jc', $i); ?>
-          </ul>
-        </div>
-        <div class="g-button-group">
-          <a class="g-button" href="http://ponytime.net/">Ponytime</a>
-          <a class="g-button dropdown-toggle" data-toggle="dropdown" href="#">
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('pt', $i); ?>
           </ul>
         </div>
         <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p>--><br>
@@ -209,7 +211,7 @@ function getEpisodes($Podcast, $count)
         <div class="info_icon"><img src="http://shownot.es/img/git_icon.png" alt="GitHub Logo" width="30px" height="30px" />
         </div>
       </div>
-      <p style="float: left; width: 700px;">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
+      <p style="float: left; width: 700px;">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/SimonWaldherr/OSF-Editor">SimonWaldherr/OSF-Editor</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
