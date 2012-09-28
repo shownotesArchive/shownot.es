@@ -4,6 +4,9 @@
 [submodule "editor"]
 	path = editor
 	url = https://SimonWaldherr@github.com/SimonWaldherr/OSF-Editor.git
-[submodule "css/baf"]
-	path = css/baf
+[submodule "baf"]
+	path = baf
 	url = https://SimonWaldherr@github.com/SimonWaldherr/buttons-and-forms.git
+[submodule "tinybox"]
+	path = tinybox
+	url = https://SimonWaldherr@github.com/SimonWaldherr/lightbox.js.git

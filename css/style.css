@@ -176,3 +176,22 @@ input[type='submit']:hover {
   height: 70px; 
   margin: 0em 1em 0em 2em;
 }
+
+iframe{
+  height: 1px;
+  width: 1px;
+  visibility: hidden;
+}
+.baf{
+  min-width: 70px;
+  margin-top: 10px;
+}
+.dropdown-menu{
+  right: 0;
+  left: auto;
+  min-width: 55px;
+  max-width: 200px;
+}
+.dropdown-menu li a{
+  padding: 5px 20px 5px 20px;
+}
