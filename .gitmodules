@@ -1,3 +1,9 @@
 [submodule "OSF"]
 	path = OSF
 	url = git@github.com:SimonWaldherr/OpenShownotesFormat.git
+[submodule "editor"]
+	path = editor
+	url = https://SimonWaldherr@github.com/SimonWaldherr/OSF-Editor.git
+[submodule "css/baf"]
+	path = css/baf
+	url = https://SimonWaldherr@github.com/SimonWaldherr/buttons-and-forms.git
