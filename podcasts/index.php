@@ -8,7 +8,7 @@ function getEpisodes($count)
             if ($folder != "." && $folder != ".." && $folder != 'index.php' && $folder != '.htaccess')
               {
                 $handle2 = @scandir('./'.$folder, 1);
-                echo '<h2>'.$folder.'</h2><ol>';
+                echo '<h2 id="'.$folder.'">'.$folder.'</h2><ol>';
                 foreach($handle2 as $file)
                   {
                     if ($file != "." && $file != ".." && $file != 'index.php')
@@ -50,7 +50,7 @@ function ShownoteTitle()
       }
     else
       {
-        return 'Shownotes $Uuml;bersicht';
+        return 'Shownotes &Uuml;bersicht';
       }
   }
 
