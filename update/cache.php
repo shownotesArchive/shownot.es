@@ -180,7 +180,7 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <hr />
-    <p>Wer Podcasts mag, sollte <a href="http://podpott.de/">Podpott</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
+    <p>Wer Podcasts mag, sollte <!--<a href="http://podpott.de/">Podpott</a>--><a href="http://epirat.basedrive.net/">ReLive</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
   </div>
 <div class="box">
   <?php 
