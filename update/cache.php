@@ -146,7 +146,7 @@ function getEpisodes($Podcast, $count)
         <div class="info_icon"><img src="http://shownot.es/img/flattr_icon.png" alt="Flattr Logo" width="30px" height="30px" />
         </div>
       </div>
-      <p style="float: left; width: 700px;">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/713059/dieshownotes-on-Twitter">flattern</a> k&ouml;nntet.
+      <p style="float: left; width: 700px;">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/874771/Die-Shownotes">flattern</a> k&ouml;nntet.
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -165,7 +165,7 @@ function getEpisodes($Podcast, $count)
         <div class="info_icon"><img src="http://shownot.es/img/irc_icon.png" alt="IRC Logo" width="30px" height="30px" />
         </div>
       </div>
-      <p style="float: left; width: 700px;">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=shownotes">Webchat</a>)
+      <p style="float: left; width: 700px;">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -180,7 +180,7 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <hr />
-    <p>Wer Podcasts mag, sollte <!--<a href="http://podpott.de/">Podpott</a>--><a href="http://epirat.basedrive.net/">ReLive</a> und <a href="http://hoersuppe.de/">die H&ouml;rsuppe</a> kennen.</p>
+    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen.<!--Desweiteren <a href="http://podpott.de/">Podpott</a>--></p>
   </div>
 <div class="box">
   <?php 
