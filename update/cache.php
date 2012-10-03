@@ -40,6 +40,16 @@ function getEpisodes($Podcast, $count)
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <style>
+  dl {
+  padding: 40px 80px 30px 120px;
+  background: #FEFEFE;
+  width: 799px;
+  margin-left: -15px;
+  float: none;
+  border-radius: 5px;
+  }
+  </style>
 </head>
 <body>
 <div class="content">
