@@ -54,6 +54,34 @@ function ShownoteTitle()
       }
   }
 
+$podcast = $_GET['podcast'];
+
+if(($podcast != '')&&($_GET['clear'] == 'true'))
+  {
+    if(isset($_GET['search']))
+      {
+        $podcastarray = explode("/",$podcast);
+        //var_dump($podcastarray);
+        $podcastlist = scandir('./'.$podcastarray[1].'/');
+        foreach($podcastlist as $thispodcast)
+          {
+            $thispodcastarray = @explode(".",$thispodcast);
+            if($podcastarray[2] == $thispodcastarray[0])
+              {
+                //echo "\n".'./'.$podcastarray[1].'/'.$thispodcast."\n";
+                include('./'.$podcastarray[1].'/'.$thispodcast);
+                die();
+              }
+          }
+      }
+    else
+      {
+        echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
+        include($podcast);
+        die();
+      }
+  }
+
 ?><!DOCTYPE html>
 <html lang="de"> 
 

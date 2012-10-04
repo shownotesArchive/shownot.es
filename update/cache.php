@@ -12,9 +12,12 @@ function getEpisodes($Podcast, $count)
             if ($file != "." && $file != "..")
               {
                 $Episode = explode('.', $file);
-                $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
-                echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
-                ++$count;
+                if($Episode[2] != '')
+                  {
+                    $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
+                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+                    ++$count;
+                  }
               }
           }
       }
@@ -39,6 +42,19 @@ function getEpisodes($Podcast, $count)
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=004" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
+  <script>
+    
+    function loadShownotes()
+      {
+        if(window.location.hash)
+        {
+          var hashvar = window.location.hash.replace('#', '');
+          hashvar = hashvar.replace('-', '/');
+          TINY.box.show({url:'./'+hashvar+'&clear=true'});
+        }
+      }
+    
+  </script>
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
   <style>
   dl {
@@ -51,7 +67,7 @@ function getEpisodes($Podcast, $count)
   }
   </style>
 </head>
-<body>
+<body onload="loadShownotes();">
 <div class="content">
   <div class="header">
     <div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
@@ -310,6 +326,6 @@ if (!empty($file_contents))
   $code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>';
   
   $filename = './../index.php';
-  $inhalt = explode('<body>', $inhalt);
+  $inhalt = explode('<body onload="loadShownotes();">', $inhalt);
   $inhalt = $inhalt[0].'<body><!-- '."\n".'zuletzt aktualisiert um: '.time().' ('.date("H:i:s d.m.Y").")\n".'Generierungsdauer: '.$generatetime.' sec'."\n".'-->'.$code.$inhalt[1];
 ?>
