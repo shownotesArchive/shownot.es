@@ -14,8 +14,9 @@ function getEpisodes($Podcast, $count)
                 $Episode = explode('.', $file);
                 if($Episode[2] != '')
                   {
+                    $linkname = str_replace('_', '.', $Episode[1]);
                     $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
-                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.$linkname.'</a></li>';
                     ++$count;
                   }
               }
