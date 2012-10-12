@@ -13,17 +13,41 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/wrint/114</link>
+     <title>Wrintheit-27 - Shownot.es</title>
+     <description>Wrintheit-27 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/wrint/112</link>
+     <title>Realitaetsabgleich-16 - Shownot.es</title>
+     <description>Realitaetsabgleich-16 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/wrint/109</link>
+     <title>Wrintheit-26 - Shownot.es</title>
+     <description>Wrintheit-26 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/wrint/108</link>
-     <title>Realitaetsabgleich-14 - Shownot.es</title>
-     <description>Realitaetsabgleich-14 - Shownot.es</description>
+     <title>Realitätsabgleich-14 - Shownot.es</title>
+     <description>Realitätsabgleich-14 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/wrint/107</link>
-     <title>Realitätsabgleich-13 - Shownot.es</title>
-     <description>Realitätsabgleich-13 - Shownot.es</description>
+     <title>Realitätsabgleich-13 - Shownot.es</title>
+     <description>Realitätsabgleich-13 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -38,16 +62,16 @@
 </item>
 <item>
      <link>http://shownot.es/wrint/105</link>
-     <title>Realitätsabgleich-12 - Shownot.es</title>
-     <description>Realitätsabgleich-12 - Shownot.es</description>
+     <title>Realitätsabgleich-12 - Shownot.es</title>
+     <description>Realitätsabgleich-12 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/wrint/104</link>
-     <title>Realitätsabgleich-11 - Shownot.es</title>
-     <description>Realitätsabgleich-11 - Shownot.es</description>
+     <title>Realitätsabgleich-11 - Shownot.es</title>
+     <description>Realitätsabgleich-11 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -181,6 +205,46 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/bm/46</link>
+     <title>09_10_12 - Shownot.es</title>
+     <description>09_10_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/bm/45</link>
+     <title>07_10_12 - Shownot.es</title>
+     <description>07_10_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/bm/44</link>
+     <title>03_10_12 - Shownot.es</title>
+     <description>03_10_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/bm/43</link>
+     <title>02_10_12 - Shownot.es</title>
+     <description>02_10_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/bm/42</link>
+     <title>25_09_12 - Shownot.es</title>
+     <description>25_09_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/bm/41</link>
      <title>18_09_12 - Shownot.es</title>
      <description>18_09_12 - Shownot.es</description>
@@ -280,14 +344,6 @@
      <link>http://shownot.es/bm/29</link>
      <title>31_07_12 - Shownot.es</title>
      <description>31_07_12 - Shownot.es</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://shownot.es/bm/28</link>
-     <title>26_07_12 - Shownot.es</title>
-     <description>26_07_12 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -509,6 +565,22 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/ll/07</link>
+     <title>01_10_12 - Shownot.es</title>
+     <description>01_10_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ll/06</link>
+     <title>24_09_12 - Shownot.es</title>
+     <description>24_09_12 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/ll/05</link>
      <title>03_09_12 - Shownot.es</title>
      <description>03_09_12 - Shownot.es</description>
@@ -549,17 +621,41 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/cr/183</link>
+     <title>Chaosradio-183 - Shownot.es</title>
+     <description>Chaosradio-183 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/cr/182</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Chaosradio-182 - Shownot.es</title>
+     <description>Chaosradio-182 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/cr/181</link>
+     <title>Chaosradio-181 - Shownot.es</title>
+     <description>Chaosradio-181 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/cr/180</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Chaosradio-180 - Shownot.es</title>
+     <description>Chaosradio-180 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/nsfw/57</link>
+     <title>NSFW-57 - Shownot.es</title>
+     <description>NSFW-57 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -677,6 +773,118 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/ep/197</link>
+     <title>EP-197 - Shownot.es</title>
+     <description>EP-197 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/196</link>
+     <title>EP-196 - Shownot.es</title>
+     <description>EP-196 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/195</link>
+     <title>EP-195 - Shownot.es</title>
+     <description>EP-195 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/194</link>
+     <title>EP-194 - Shownot.es</title>
+     <description>EP-194 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/193</link>
+     <title>EP-193 - Shownot.es</title>
+     <description>EP-193 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/192</link>
+     <title>EP-192 - Shownot.es</title>
+     <description>EP-192 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/191</link>
+     <title>EP-191 - Shownot.es</title>
+     <description>EP-191 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/190</link>
+     <title>EP-190 - Shownot.es</title>
+     <description>EP-190 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/189</link>
+     <title>EP-189 - Shownot.es</title>
+     <description>EP-189 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/188</link>
+     <title>EP-188 - Shownot.es</title>
+     <description>EP-188 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/187</link>
+     <title>EP-187 - Shownot.es</title>
+     <description>EP-187 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/186</link>
+     <title>EP-186 - Shownot.es</title>
+     <description>EP-186 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/185</link>
+     <title>EP-185 - Shownot.es</title>
+     <description>EP-185 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/ep/184</link>
+     <title>EP-184 - Shownot.es</title>
+     <description>EP-184 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/ep/183</link>
      <title>EP-183 - Shownot.es</title>
      <description>EP-183 - Shownot.es</description>
@@ -760,6 +968,22 @@
      <link>http://shownot.es/ep/160</link>
      <title>EP-160 - Shownot.es</title>
      <description>EP-160 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/97</link>
+     <title>MM-97 - Shownot.es</title>
+     <description>MM-97 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/96</link>
+     <title>MM-96 - Shownot.es</title>
+     <description>MM-96 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -877,113 +1101,153 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
+     <link>http://shownot.es/mm/08</link>
+     <title>MM-8 - Shownot.es</title>
+     <description>MM-8 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/07</link>
+     <title>MM-7 - Shownot.es</title>
+     <description>MM-7 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/06</link>
+     <title>MM-6 - Shownot.es</title>
+     <description>MM-6 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/05</link>
+     <title>MM-5 - Shownot.es</title>
+     <description>MM-5 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/04</link>
+     <title>MM-4 - Shownot.es</title>
+     <description>MM-4 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/03</link>
+     <title>MM-3 - Shownot.es</title>
+     <description>MM-3 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/mm/02</link>
+     <title>MM-2 - Shownot.es</title>
+     <description>MM-2 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://shownot.es/dw/021</link>
+     <title>DerWeisheit-21 - Shownot.es</title>
+     <description>DerWeisheit-21 - Shownot.es</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
      <link>http://shownot.es/dw/020</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>DerWeisheit-20 - Shownot.es</title>
+     <description>DerWeisheit-20 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/dw/019</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>DerWeisheit-19 - Shownot.es</title>
+     <description>DerWeisheit-19 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/dw/018</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>DerWeisheit-18 - Shownot.es</title>
+     <description>DerWeisheit-18 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/dw/017</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>DerWeisheit-17 - Shownot.es</title>
+     <description>DerWeisheit-17 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/dw/014</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>DerWeisheit-14 - Shownot.es</title>
+     <description>DerWeisheit-14 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/012</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Jobscast-12 - Shownot.es</title>
+     <description>Jobscast-12 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/011</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Jobscast-11 - Shownot.es</title>
+     <description>Jobscast-11 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/010</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Jobscast-10 - Shownot.es</title>
+     <description>Jobscast-10 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/009</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Jobscast-9 - Shownot.es</title>
+     <description>Jobscast-9 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/008</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
+     <title>Jobscast-8 - Shownot.es</title>
+     <description>Jobscast-8 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://shownot.es/jc/007</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://shownot.es/pt/019</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://shownot.es/pt/018</link>
-     <title>html - Shownot.es</title>
-     <description>html - Shownot.es</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://shownot.es/tweets/</link>
-     <title>Die Shownotes Tweets</title>
-     <description>Die Shownotes Tweets</description>
+     <title>Jobscast-7 - Shownot.es</title>
+     <description>Jobscast-7 - Shownot.es</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
