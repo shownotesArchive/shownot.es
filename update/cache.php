@@ -207,33 +207,8 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <hr />
-    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen.<!--Desweiteren <a href="http://podpott.de/">Podpott</a>--></p>
+    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Desweiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert.</p>
   </div>
-<div class="box">
-  <?php 
-    
-    ini_set('allow_url_fopen', '1');
-    $filename = "http://cdn.simon.waldherr.eu/projects/easySQL/cachetweets/?tweet=DieShownotes&limit=512";
-    $ch = curl_init();
-    $timeout = 0;
-    curl_setopt ($ch, CURLOPT_URL, $filename);
-    curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt ($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
-    $file_contents = curl_exec($ch);
-    curl_close($ch);
-    
-    $tweets     = explode('<li>', $file_contents);
-    $tweetarray = array();
-    foreach($tweets as $tweet)
-      {
-        $tweet = explode('</li>', $tweet);
-        $tweetarray[] = $tweet[0];
-      }
-    
-    echo '<ol class="itemlist" style="overflow-y:auto; height:135px;"><li>'.$tweetarray[1].'</li><li>'.$tweetarray[2].'</li><li>'.$tweetarray[3].'</li></ol><p><a href="http://shownot.es/tweets/">Alle Tweets anzeigen</a></p>';
-    
-  ?>
-</div>
 <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a>
 </div>
 </div>
