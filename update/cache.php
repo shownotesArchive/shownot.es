@@ -16,7 +16,7 @@ function getEpisodes($Podcast, $count)
                   {
                     $linkname = str_replace('_', '.', $Episode[1]);
                     $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
-                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false" href="'.$link.'">'.$linkname.'</a></li>';
+                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false;" href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
                     ++$count;
                   }
               }
@@ -66,12 +66,16 @@ function getEpisodes($Podcast, $count)
   float: none;
   border-radius: 5px;
   }
+  .info_icon img{
+    width: 30px;
+    height: 30px;
+  }
   </style>
 </head>
 <body onload="loadShownotes();">
 <div class="content">
   <div class="header">
-    <div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
+    <div class="title"><a href="/"><img src="http://cdn.shownot.es/img/logo.png" alt="Shownot.es Logo">Die Shownotes</a></div>
   </div>
   <div class="box" id="main">
     <div class="title">Hallo!</div>
@@ -170,7 +174,7 @@ function getEpisodes($Podcast, $count)
     <hr />
     <div style="margin: 0px;">
       <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/flattr_icon.png" alt="Flattr Logo" width="30px" height="30px" />
+        <div class="info_icon"><img src="http://cdn.shownot.es/img/flattr_icon.png" alt="Flattr Logo" />
         </div>
       </div>
       <p style="float: left; width: 700px;">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/874771/Die-Shownotes">flattern</a> k&ouml;nntet.
@@ -180,7 +184,7 @@ function getEpisodes($Podcast, $count)
     </div>
     <div style="margin-top: 1em;">
       <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/twitter_icon.png" alt="Twitter Logo" width="30px" height="30px" />
+        <div class="info_icon"><img src="http://cdn.shownot.es/img/twitter_icon.png" alt="Twitter Logo" />
         </div>
       </div>
       <p style="float: left; width: 700px;">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/gurkitier">@Gurkitier</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
@@ -189,7 +193,7 @@ function getEpisodes($Podcast, $count)
     </div>
     <div style="margin-top: 1em;">
       <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/irc_icon.png" alt="IRC Logo" width="30px" height="30px" />
+        <div class="info_icon"><img src="http://cdn.shownot.es/img/irc_icon.png" alt="IRC Logo" />
         </div>
       </div>
       <p style="float: left; width: 700px;">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
@@ -199,7 +203,7 @@ function getEpisodes($Podcast, $count)
     </div>
     <div style="margin-top: 1em;">
       <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/git_icon.png" alt="GitHub Logo" width="30px" height="30px" />
+        <div class="info_icon"><img src="http://cdn.shownot.es/img/git_icon.png" alt="GitHub Logo" />
         </div>
       </div>
       <p style="float: left; width: 700px;">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/SimonWaldherr/shownot.es">SimonWaldherr/shownot.es</a>, <a href="https://github.com/SimonWaldherr/OpenShownotesFormat">SimonWaldherr/OpenShownotesFormat</a>, <a href="https://github.com/SimonWaldherr/OSF-Editor">SimonWaldherr/OSF-Editor</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
@@ -209,8 +213,7 @@ function getEpisodes($Podcast, $count)
     <hr />
     <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Desweiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert.</p>
   </div>
-<div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a>
-</div>
+  <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
 </div>
 <script type="text/javascript" src="http://cdn.shownot.es/baf/js/bootstrap-dropdown.js"></script>
 <script type="text/javascript" src="http://cdn.shownot.es/tinybox/tinybox.js"></script>
