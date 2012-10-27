@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=005" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
+  
   <script>
     
     function loadShownotes()

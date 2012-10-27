@@ -96,8 +96,6 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=004" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
   <style>
     h1 {
       font-size: larger;

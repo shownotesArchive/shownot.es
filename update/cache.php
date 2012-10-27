@@ -16,7 +16,7 @@ function getEpisodes($Podcast, $count)
                   {
                     $linkname = str_replace('_', '.', $Episode[1]);
                     $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
-                    echo '<li><a onclick="TINY.box.show({url:\'./podcasts/'.$Podcast.'/'.$file.'\'}); return false;" href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+                    echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
                     ++$count;
                   }
               }
@@ -43,6 +43,7 @@ function getEpisodes($Podcast, $count)
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=005" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
+  <script src="http://selfcss.org/baf/js/baf.js"></script>
   <script>
     
     function loadShownotes()
@@ -51,12 +52,11 @@ function getEpisodes($Podcast, $count)
         {
           var hashvar = window.location.hash.replace('#', '');
           hashvar = hashvar.replace('-', '/');
-          TINY.box.show({url:'./'+hashvar+'&clear=true'});
+          window.location = './'+hashvar+'&clear=true';
         }
       }
     
   </script>
-  <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
 <body onload="loadShownotes();">
 <div class="content">
@@ -202,8 +202,7 @@ function getEpisodes($Podcast, $count)
   </div>
   <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
 </div>
-<script type="text/javascript" src="http://cdn.shownot.es/baf/js/bootstrap-dropdown.js"></script>
-<script type="text/javascript" src="http://cdn.shownot.es/tinybox/tinybox.js"></script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -242,7 +241,6 @@ if (!empty($file_contents))
   <link rel="shortcut icon" type="image/x-icon" href="./../favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./../favicon.ico" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=005" type="text/css" />
-  <link rel="author" href="./../humans.txt" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <style>
