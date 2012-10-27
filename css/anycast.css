@@ -56,6 +56,10 @@ strong.chapter{
 */
 }
 
+span:hover, a:hover {
+  background: rgba(200,200,220,0.5);
+}
+
 *[data-tooltip] {
   position:relative;
   text-decoration:none;
@@ -66,10 +70,6 @@ strong.chapter{
 
 *[data-tooltip]:after,
 *[data-tooltip]:before {
-  content:"";
-  width: 0px;
-  display: none;
-  opacity:0;  
   z-index:999;
   -moz-transition-property: opacity;
   -moz-transition-duration: 1s;

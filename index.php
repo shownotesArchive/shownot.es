@@ -7,9 +7,9 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/baf/css/baf.min.css?v=004" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=004" type="text/css" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=004" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/baf/css/baf.min.css?v=005" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=005" type="text/css" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=005" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script>
