@@ -99,6 +99,22 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
   <style>
+    #background {
+      z-index: -1;
+      position: fixed;
+      top: 0px;
+      left: 0px;
+      height: 100%;
+      width: 100%;
+      background: white;
+      background: -moz-linear-gradient(top, white 0%, #E5E5E5 60%, #EAEAEA 85%, white 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,white), color-stop(60%,#E5E5E5), color-stop(85%,#EAEAEA), color-stop(100%,white));
+      background: -webkit-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+      background: -o-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+      background: -ms-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+      background: linear-gradient(to bottom, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+    }
     h1 {
       font-size: larger;
       font-weight: bolder;
@@ -135,6 +151,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
 </head>
 
 <body>
+<div id="background"></div>
 <div class="content">
   <div class="header">
     <div class="title"><a href="http://shownot.es/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
