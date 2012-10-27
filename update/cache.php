@@ -57,20 +57,6 @@ function getEpisodes($Podcast, $count)
     
   </script>
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
-  <style>
-  dl {
-  padding: 40px 80px 30px 120px;
-  background: #FEFEFE;
-  width: 799px;
-  margin-left: -15px;
-  float: none;
-  border-radius: 5px;
-  }
-  .info_icon img{
-    width: 30px;
-    height: 30px;
-  }
-  </style>
 </head>
 <body onload="loadShownotes();">
 <div class="content">
@@ -212,7 +198,7 @@ function getEpisodes($Podcast, $count)
     </div>
     <hr />
     <p>Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
-    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Desweiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert.</p>
+    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert.</p>
   </div>
   <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
 </div>

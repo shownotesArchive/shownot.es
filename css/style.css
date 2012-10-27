@@ -197,3 +197,33 @@ iframe{
 .dropdown-menu li a{
   padding: 5px 20px 5px 20px;
 }
+
+dl {
+  padding: 40px 80px 30px 120px;
+  background: #FEFEFE;
+  width: 799px;
+  margin-left: -15px;
+  float: none;
+  border-radius: 5px;
+}
+.info_icon img{
+  width: 30px;
+  height: 30px;
+}
+
+#background {
+  z-index: -1;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background: white;
+  background: -moz-linear-gradient(top, white 0%, #E5E5E5 60%, #EAEAEA 85%, white 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,white), color-stop(60%,#E5E5E5), color-stop(85%,#EAEAEA), color-stop(100%,white));
+  background: -webkit-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+  background: -o-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+  background: -ms-linear-gradient(top, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+  background: linear-gradient(to bottom, white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
