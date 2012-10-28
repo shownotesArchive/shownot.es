@@ -1,11 +1,11 @@
 <?php
-function getEpisodes($count)
+function getEpisodes($count, $podcast = 'all')
   {
     if ($handle = @scandir('./'))
       {
         foreach($handle as $folder)
           {
-            if ($folder != "." && $folder != ".." && $folder != 'index.php' && $folder != '.htaccess')
+            if ($folder != "." && $folder != ".." && is_dir($folder) && (($podcast == 'all')||($podcast == $folder)))
               {
                 $handle2 = @scandir('./'.$folder, 1);
                 echo '<h2 id="'.$folder.'">'.$folder.'</h2><ol>';
@@ -91,13 +91,12 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <meta name="viewport" content="width=980" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/style.css" type="text/css" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/baf.css" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=004" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/style.css?v=006" type="text/css" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/baf.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=006" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.js"></script>
+  <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
   <style>
     h1 {
       font-size: larger;
@@ -160,14 +159,37 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
                 if($podcastarray[2] == $thispodcastarray[0])
                   {
                     //echo "\n".'./'.$podcastarray[1].'/'.$thispodcast."\n";
-                    include('./'.$podcastarray[1].'/'.$thispodcast);
+                    if(is_file('./'.$podcastarray[1].'/'.$thispodcast))
+                      {
+                        include('./'.$podcastarray[1].'/'.$thispodcast);
+                      }
+                    else
+                      {
+                        /*
+                        echo '<h1>Dies ist eine Übersicht der Shownotes</h1><br>';
+                        getEpisodes(1); 
+                        */
+                        $podc = true;
+                      }
                   }
+              }
+            if($podc == true)
+              {
+                getEpisodes(1, $podcastarray[1]);
               }
           }
         else
           {
-            echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
-            include($podcast);
+            if(is_file($podcast))
+              {
+                echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
+                include($podcast);
+              }
+            else
+              {
+                echo '<h1>Dies ist eine Übersicht der Shownotes</h1><br>';
+                getEpisodes(1); 
+              }
           }
       }
     else
