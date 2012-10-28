@@ -145,12 +145,13 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     <?php 
     
     $podcast = $_GET['podcast'];
+    $podcastarray = explode("/",$podcast);
     
-    if($podcast != '')
+    if(($podcast != '')&&($podcastarray[1] != ''))
       {
         if(isset($_GET['search']))
           {
-            $podcastarray = explode("/",$podcast);
+            
             //var_dump($podcastarray);
             $podcastlist = scandir('./'.$podcastarray[1].'/');
             foreach($podcastlist as $thispodcast)
