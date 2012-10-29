@@ -12,10 +12,12 @@ Dieses Repository enthält die Daten der Vorläufigen Webseite der [@DieShownote
 Ziel: Ersatz für das momentan suboptimale Team-Pad (Software "Piratenpad", Anpassung von Etherpad)  
 Codename: ShowPad  
 Github:  
+
+* <https://github.com/shownotes/shownot.es>  
+* <https://github.com/shownotes/OpenShownotesFormat>  
+* <https://github.com/shownotes/OSF-Editor>
 * <https://github.com/mluto/ShowPad>  
-* <https://github.com/mluto/etherpad-lite>  
-* <https://github.com/SimonWaldherr/shownot.es>  
-* <https://github.com/SimonWaldherr/OpenShownotesFormat>  
+* <https://github.com/mluto/etherpad-lite>
 
 Projektentwurfsbeginn: 15.08.2012  
 Layout: <http://puu.sh/XaT7> (Hauptseite), <http://puu.sh/XaSp> (Profilseite)  
