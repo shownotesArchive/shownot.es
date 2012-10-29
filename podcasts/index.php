@@ -76,7 +76,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       }
     else
       {
-        echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
+        //echo '<h2><a href="./../../../">zur&uuml;ck zur &Uuml;bersicht</a></h2>';
         include($podcast);
         die();
       }
@@ -117,19 +117,6 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       float: none;
     }
   </style>
-  <script type="text/javascript">
-  
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-34667234-1']);
-    _gaq.push(['_trackPageview']);
-  
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = 'http://statistik.simon.waldherr.eu/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  
-  </script>
 </head>
 
 <body>
