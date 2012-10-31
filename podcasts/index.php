@@ -141,6 +141,16 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         text-align: left;
         vertical-align: top;
       }
+    .box .info .episodeinfo p
+      {
+        font-size: 12pt;
+      }
+    .box .info .episodeinfo p a
+      {
+        position: relative;
+        left: 15px;
+        margin-left: 25px;
+      }
   </style>
 </head>
 
