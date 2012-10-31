@@ -116,6 +116,31 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       width: 670px;
       float: none;
     }
+    
+    .box .info .podcastimg
+      {
+        display: inline-block;
+        padding: 0px;
+        -webkit-box-shadow:  0px 0px 15px -2px rgba(5, 5, 5, 1);
+        box-shadow:  0px 0px 15px -2px rgba(5, 5, 5, 1);
+      }
+    .box .info .podcastimg img
+      {
+        display: block;
+      }
+    .box .info .episodeinfo
+      {
+        display: inline-block;
+        font-size: 16.5pt;
+        margin: 5px;
+        font-family: Georgia, "Times New Roman", Times, serif;
+      }
+    .box .info .episodeinfo td
+      {
+        min-width: 160px;
+        text-align: left;
+        vertical-align: top;
+      }
   </style>
 </head>
 
