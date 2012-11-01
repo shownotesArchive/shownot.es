@@ -113,6 +113,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     }
     
     dl {
+      margin-top: 20px;
       width: 670px;
       float: none;
     }
@@ -149,6 +150,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       {
         position: relative;
         left: 15px;
+        top: 35px;
         margin-left: 25px;
       }
   </style>
@@ -220,6 +222,8 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       }
     
     
+
+    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>';
     ?>
   </div>
 
