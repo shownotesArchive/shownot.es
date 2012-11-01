@@ -136,6 +136,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         max-width: 660px;
         font-size: 16.5pt;
         margin: 5px;
+        margin-top: 0px;
         font-family: Georgia, "Times New Roman", Times, serif;
       }
     .box .info .episodeinfo td
