@@ -132,6 +132,8 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     .box .info .episodeinfo
       {
         display: inline-block;
+        width: 660px;
+        max-width: 660px;
         font-size: 16.5pt;
         margin: 5px;
         font-family: Georgia, "Times New Roman", Times, serif;
@@ -139,6 +141,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     .box .info .episodeinfo td
       {
         min-width: 160px;
+        max-width: 500px;
         text-align: left;
         vertical-align: top;
       }
