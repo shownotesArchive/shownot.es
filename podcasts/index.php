@@ -124,6 +124,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         padding: 0px;
         -webkit-box-shadow:  0px 0px 15px -2px rgba(5, 5, 5, 1);
         box-shadow:  0px 0px 15px -2px rgba(5, 5, 5, 1);
+        vertical-align: top;
       }
     .box .info .podcastimg img
       {
