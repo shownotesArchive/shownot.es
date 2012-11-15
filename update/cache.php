@@ -15,7 +15,7 @@ function getEpisodes($Podcast, $count)
                 if($Episode[2] != '')
                   {
                     $linkname = str_replace('_', '.', $Episode[1]);
-                    $link = 'http://shownot.es/'.$Podcast.'/'.$Episode[0];
+                    $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
                     echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
                     ++$count;
                   }

@@ -14,7 +14,7 @@ function getEpisodes($count, $podcast = 'all')
                     if ($file != "." && $file != ".." && $file != 'index.php')
                       {
                         $Episode = explode('.', $file);
-                        echo '<li><a href="./sn/'.$folder.'/'.$file.'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+                        echo '<li><a href="./sn/'.$folder.'/'.ltrim($file, '0 \t\n\r').'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
                         ++$count;
                       }
                   }
