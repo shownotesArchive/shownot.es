@@ -117,7 +117,13 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
       width: 670px;
       float: none;
     }
-    
+    dt {
+      position: relative;
+      top: 10px;
+    }
+    dd {
+      border-bottom: 0px solid #BBB;
+    }
     .box .info .podcastimg
       {
         display: inline-block;
