@@ -18,6 +18,11 @@
         display: inline-block;
         margin: 0px 10px;
       }
+    .dropdown-menu
+      {
+        left: auto;
+        right: 0px;
+      }
   </style>
   <script>
     
@@ -35,9 +40,9 @@
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
 <body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1353256975 (17:42:55 18.11.2012)
-Generierungsdauer: 0.0025570392608643 sec
---><?php if(1353259495 < time()){
+zuletzt aktualisiert um: 1353257171 (17:46:11 18.11.2012)
+Generierungsdauer: 0.0025980472564697 sec
+--><?php if(1353259691 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
   <div class="header">
@@ -46,7 +51,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
   <div class="box" id="main">
     <div class="title">Hallo!</div>
     <p style="margin-top: 1em;">
-      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &Uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
+      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &Uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
     <div id="podcasts">
       <p style="margin-top: 1em;">
