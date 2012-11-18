@@ -91,6 +91,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <meta name="viewport" content="width=980" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
+  <link href="http://selfcss.org/baf/css/baf.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://selfcss.org/baf/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="http://selfcss.org/baf/js/baf.min.js"></script>
   <link rel="stylesheet" href="http://cdn.shownot.es/css/style.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=006" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
@@ -164,10 +167,48 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         top: 35px;
         margin-left: 25px;
       }
+    .baf.grey
+      {
+        min-width: auto;
+      }
+    .baf + .baf, .baf + .baf-group, .baf-group + .baf, .baf-group + .baf-group
+      {
+        margin-left: 0px;
+      }
+    .baf-group-x1
+      {
+        width: 400px;
+        text-align: center;
+        left: 100px;
+      }
+    .baf-group
+      {
+        margin-left: 0px;
+        border-radius: 0px;
+        display: block;
+      }
+    .baf.dropdown-toggle.w160
+      {
+        border-radius: 0px;
+      }
+    .dropdown-menu li
+      {
+        overflow: hidden;
+      }
+    .dropdown-menu #selected
+      {
+        background: #efefef;
+      }
+    [class^="dropdown-menu"]
+      {
+        left: 100px;
+        right: auto;
+        top: 42px;
+      }
   </style>
 </head>
 
-<body>
+<body onload="baf_listenerInit();">
 <div id="background"></div>
 <div class="content">
   <div class="header">
