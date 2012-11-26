@@ -209,8 +209,8 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <hr />
-    <p>Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
-    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert.</p>
+    <p>Wer Podcasts mag, sollte <a href="http://epirat.basedrive.net/">ReLive</a> und die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert. Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
+    <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="http://shownot.es/faq/">shownot.es/faq/</a></p>
   </div>
   <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
 </div>
