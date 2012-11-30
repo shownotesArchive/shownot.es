@@ -205,6 +205,35 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         right: auto;
         top: 42px;
       }
+    *[data-tooltip]:hover:after,
+    *[data-tooltip]:focus:after {
+      opacity:0.94;
+      display:block;
+      content:attr(data-tooltip);
+      position:absolute;
+      top:-30px;
+      left:50%;
+      margin:0 0 0 -30px;
+      width:90px;
+      padding:5px;
+      line-height:18px;
+      min-height:18px; 
+      color:#fcfcfc;
+      font-size:16px;
+      font-weight:normal;
+      font-family:helvetica neue, calibri, verdana, arial, sans-serif;
+      text-align:center;
+      outline:none;
+      text-decoration:none;
+      background-color:#333; 
+      -moz-border-radius:10px;
+      -webkit-border-radius:10px;
+      border-radius:10px;
+      -moz-box-shadow:2px 2px 4px #ccc;
+      -webkit-box-shadow:2px 2px 4px #ccc;
+      box-shadow:2px 2px 4px #ccc;
+      text-shadow:#555 0 1px 0px; 
+    }
   </style>
 </head>
 
