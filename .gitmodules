@@ -1,6 +1,6 @@
 [submodule "OSF"]
 	path = OSF
-	url = git@github.com:SimonWaldherr/OpenShownotesFormat.git
+url=https://github.com/shownotes/OpenShownotesFormat.git
 [submodule "editor"]
 	path = editor
 	url = https://SimonWaldherr@github.com/SimonWaldherr/OSF-Editor.git
