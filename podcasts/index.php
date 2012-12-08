@@ -88,15 +88,15 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
 <head>
   <meta charset="utf-8" />
   <title><?php echo ShownoteTitle(); ?></title>
-  <meta name="viewport" content="width=980" />  
+  <meta name="viewport" content="width=620" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link href="http://selfcss.org/baf/css/baf.css" media="screen" rel="stylesheet" type="text/css"/>
   <link href="http://selfcss.org/baf/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
   <script src="http://selfcss.org/baf/js/baf.min.js"></script>
-  <link rel="stylesheet" href="http://shownot.es/css/style.css?v=007" type="text/css" />
-  <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=007" type="text/css" media="screen">
-  <link rel="stylesheet" href="http://shownot.es/css/shownotes.css?v=001" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/style.css?v=007" type="text/css" />
+  <link rel="stylesheet" href="../css/anycast.min.css?v=007" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/shownotes.min.css?v=001" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
