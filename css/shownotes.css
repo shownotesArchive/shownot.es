@@ -154,6 +154,13 @@ float: left;
 color: black;
 }
 
+.baf[disabled="true"], .baf[disabled="true"]:hover, .baf[disabled="true"]:active {
+border: 1px solid gainsboro;
+border-color: gainsboro;
+background-color: #F3F3F3;
+color: #B8B8B8;
+}
+
 .thispodcast .prev {
   border-radius: 0px 0px 0px 8px;
 }

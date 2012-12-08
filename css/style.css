@@ -199,6 +199,10 @@ iframe{
   padding: 5px 30px 5px 20px;
 }
 
+.baf.dropdown-toggle {
+height: 12px;
+}
+
 dl {
   padding: 40px 80px 30px 120px;
   background: #FEFEFE;
