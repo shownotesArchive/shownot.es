@@ -94,8 +94,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link href="http://selfcss.org/baf/css/baf.css" media="screen" rel="stylesheet" type="text/css"/>
   <link href="http://selfcss.org/baf/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
   <script src="http://selfcss.org/baf/js/baf.min.js"></script>
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/style.css?v=006" type="text/css" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=006" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://shownot.es/css/style.css?v=007" type="text/css" />
+  <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=007" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://shownot.es/css/shownotes.css?v=001" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
