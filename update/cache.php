@@ -38,11 +38,11 @@ function getEpisodes($Podcast, $count)
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="http://test.shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://test.shownot.es/css/style.min.css?v=006" type="text/css" />
-  <link rel="stylesheet" href="http://test.shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="apple-touch-startup-image" href="http://test.shownot.es/img/iPhonePortrait.png" />
-  <link rel="apple-touch-startup-image" sizes="768x1004" href="http://test.shownot.es/img/iPadPortait.png" />
+  <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
+  <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
+  <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>
     .baf-group
       {
@@ -73,7 +73,7 @@ function getEpisodes($Podcast, $count)
 <body onload="loadShownotes();">
 <div class="content">
   <div class="header">
-    <div class="title"><a href="/"><img src="http://test.shownot.es/img/logo.png" alt="Shownot.es Logo">Die Shownotes</a></div>
+    <div class="title"><a href="/"><img src="http://shownot.es/img/logo.png" alt="Shownot.es Logo">Die Shownotes</a></div>
   </div>
   <div class="box" id="main">
     <div class="title">Hallo!</div>
