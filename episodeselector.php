@@ -43,7 +43,7 @@ function insertselector()
           }
       }
   
-    echo '<div class="baf-group-x1"><a class="baf grey prev" href="http://shownot.es/'.$info[1].'/'.$files[$count2+1].'"><span class="baf-icomoon" aria-hidden="true" data-icon="&#xe0c2;"></span></a><div class="baf-group"><a class="baf dropdown-toggle w80">Episode '.$files[$count2].'<span class="caret"></span></a><ul class="dropdown-menu">';
+    echo '<div class="baf-group-x1"><a class="baf grey prev" href="http://shownot.es/'.$info[1].'/'.$files[$count2+1].'"><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a2;"></span></a><div class="baf-group"><a class="baf dropdown-toggle w80">Episode '.$files[$count2].'<span class="caret"></span></a><ul class="dropdown-menu">';
     
     echo $printit;
     
@@ -56,7 +56,7 @@ function insertselector()
       {
         echo ' href="http://shownot.es/'.$info[1].'/'.$files[$count2-1].'"';
       }
-    echo ' ><span class="baf-icomoon" aria-hidden="true" data-icon="&#xe0c0;"></span></a></div>';
+    echo ' ><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a0;"></span></a></div>';
   }
 
 ?>

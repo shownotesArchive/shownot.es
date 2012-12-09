@@ -91,13 +91,13 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <meta name="viewport" content="width=620" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
-  <link href="http://selfcss.org/baf/css/baf.css" media="screen" rel="stylesheet" type="text/css"/>
-  <link href="http://selfcss.org/baf/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://selfcss.org/baf/css/baf.css?v=002" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://selfcss.org/baf/css/icomoon.css?v=002" media="screen" rel="stylesheet" type="text/css"/>
   <script src="http://selfcss.org/baf/js/baf.min.js"></script>
-  <link rel="stylesheet" href="../css/style.css?v=007" type="text/css" />
-  <link rel="stylesheet" href="../css/anycast.min.css?v=007" type="text/css" media="screen">
-  <link rel="stylesheet" href="../css/shownotes.min.css?v=001" type="text/css" media="screen">
-  <link rel="stylesheet" href="../css/ua/other.css?v=001" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/style.css?v=008" type="text/css" />
+  <link rel="stylesheet" href="../css/anycast.min.css?v=008" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/shownotes.min.css?v=002" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/ua/other.css?v=002" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>

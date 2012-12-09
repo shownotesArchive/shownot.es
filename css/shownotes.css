@@ -171,7 +171,8 @@ color: #B8B8B8;
 }
 
 .thispodcast .prev span, .thispodcast .next span {
-left: -5px;
+left: -11px;
+top: -1px;
 }
 
 .w80 {
