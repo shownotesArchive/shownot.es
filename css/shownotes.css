@@ -36,6 +36,7 @@ dd {
 .box .info .podcastimg img
   {
     display: block;
+    width: 150px;
   }
 .box .info .episodeinfo
   {

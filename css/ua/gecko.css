@@ -1,0 +1,31 @@
+/* gecko */
+
+.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before {
+  content: '';
+  height: 16px;
+  width: 16px;
+  background-image: url('http://shownot.es/css/icons_big.png');
+  margin-top: -3px;
+  padding-right: 2px;
+  background-size: 115px 31px;
+}
+
+.osf_amazon::before {
+  background-position:-89px -5px;
+}
+
+.osf_flattr::before {
+  background-position:-5px -5px;
+}
+
+.osf_twitter::before {
+  background-position:-68px -5px;
+}
+
+.osf_wiki::before {
+  background-position:-47px -5px;
+}
+
+.osf_youtube::before {
+  background-position:-26px -5px;
+}

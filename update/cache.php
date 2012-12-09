@@ -41,6 +41,7 @@ function getEpisodes($Podcast, $count)
   <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=001" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>

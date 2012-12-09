@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=001" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>
@@ -40,9 +41,9 @@
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
 <body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1354993380 (20:03:00 08.12.2012)
-Generierungsdauer: 0.0028932094573975 sec
---><?php if(1354995900 < time()){
+zuletzt aktualisiert um: 1355059374 (14:22:54 09.12.2012)
+Generierungsdauer: 0.0029339790344238 sec
+--><?php if(1355061894 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
   <div class="header">
