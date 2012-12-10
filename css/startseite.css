@@ -2,3 +2,9 @@
 width: 85%;
 margin: 2.5% auto 2.5% auto;
 }
+
+.clause {
+  float: left;
+  width: auto;
+  max-width: 700px;
+}
