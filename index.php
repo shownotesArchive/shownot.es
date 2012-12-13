@@ -13,26 +13,8 @@
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=003" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
-  <script>
-    
-    function loadShownotes()
-      {
-        if(window.location.hash)
-        {
-          var hashvar = window.location.hash.replace('#', '');
-          hashvar = hashvar.replace('-', '/');
-          TINY.box.show({url:'./'+hashvar+'&clear=true'});
-        }
-      }
-    
-  </script>
-  <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
-<body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1355418009 (18:00:09 13.12.2012)
-Generierungsdauer: 0.00295090675354 sec
---><?php if(1355420529 < time()){
-echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
+<body onload="baf_listenerInit();">
 <div class="content">
   <div class="header">
   </div>
@@ -52,7 +34,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://www.wrint.de/">WRINT</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -66,7 +48,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -80,7 +62,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -94,7 +76,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -108,7 +90,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://not-safe-for-work.de">Not Safe For Work</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -122,7 +104,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://einschlafen-podcast.de">Einschlafen&nbsp;Podcast</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -136,7 +118,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://mobilemacs.de/">mobileMacs</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -150,7 +132,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -164,7 +146,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
         </div>
         <div class="baf-group">
           <a class="baf" href="http://www.jobscast.de">Jobscast</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" href="#">
+          <a class="baf dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -210,8 +192,7 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
   </div>
   <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
 </div>
-<script type="text/javascript" src="http://cdn.shownot.es/baf/js/bootstrap-dropdown.js"></script>
-<script type="text/javascript" src="http://cdn.shownot.es/tinybox/tinybox.js"></script>
+<script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -226,4 +207,8 @@ echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 
 </script>
 </body>
-</html>
+</html><body onload="loadShownotes();"><!-- 
+zuletzt aktualisiert um: 1355421085 (18:51:25 13.12.2012)
+Generierungsdauer: 0.0033040046691895 sec
+--><?php if(1355423605 < time()){
+echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
