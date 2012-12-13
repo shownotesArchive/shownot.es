@@ -63,6 +63,33 @@ function getEpisodes($Podcast, $count)
       {
         border-radius: 16px;
       }
+    .clause
+      {
+        float: left;
+        width: auto;
+        max-width: 1100px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        padding-left: 45px;
+        min-height: 40px;
+        margin: 25px;
+      }
+    .flattrimg
+      {
+        background-image: url("http://cdn.shownot.es/img/flattr_icon.png");
+      }
+    .twitterimg
+      {
+        background-image: url("http://cdn.shownot.es/img/twitter_icon.png");
+      }
+    .ircimg
+      {
+        background-image: url("http://cdn.shownot.es/img/irc_icon.png");
+      }
+    .gitimg
+      {
+        background-image: url("http://cdn.shownot.es/img/git_icon.png");
+      }
   </style>
   <script>
     
@@ -179,40 +206,24 @@ function getEpisodes($Podcast, $count)
     </div>
     <hr />
     <div style="margin: 0px;">
-      <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/flattr_icon.png" alt="Flattr Logo" />
-        </div>
-      </div>
-      <p class="clause">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/874771/Die-Shownotes">flattern</a> k&ouml;nntet.
+      <p class="clause flattrimg">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/874771/Die-Shownotes">flattern</a> k&ouml;nntet.
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/twitter_icon.png" alt="Twitter Logo" />
-        </div>
-      </div>
-      <p class="clause">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/irc_icon.png" alt="IRC Logo" />
-        </div>
-      </div>
-      <p class="clause">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
+      <p class="clause ircimg">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <div style="float: left;">
-        <div class="info_icon"><img src="http://cdn.shownot.es/img/git_icon.png" alt="GitHub Logo" />
-        </div>
-      </div>
-      <p class="clause">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/shownotes/shownot.es">shownotes/shownot.es</a>, <a href="https://github.com/shownotes/OpenShownotesFormat">shownotes/OpenShownotesFormat</a>, <a href="https://github.com/shownotes/OSF-Editor">shownotes/OSF-Editor</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
+      <p class="clause gitimg">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/shownotes/shownot.es">shownotes/shownot.es</a>, <a href="https://github.com/shownotes/OpenShownotesFormat">shownotes/OpenShownotesFormat</a>, <a href="https://github.com/shownotes/OSF-Editor">shownotes/OSF-Editor</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>

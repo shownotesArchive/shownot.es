@@ -24,6 +24,32 @@
         left: auto;
         right: 0px;
       }
+    .clause
+      {
+        float: left;
+        width: auto;
+        max-width: 1100px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        padding-left: 45px;
+        min-height: 40px;
+      }
+    .flattrimg
+      {
+        background-image: url("http://cdn.shownot.es/img/flattr_icon.png");
+      }
+    .twitterimg
+      {
+        background-image: url("http://cdn.shownot.es/img/twitter_icon.png");
+      }
+    .ircimg
+      {
+        background-image: url("http://cdn.shownot.es/img/irc_icon.png");
+      }
+    .gitimg
+      {
+        background-image: url("http://cdn.shownot.es/img/git_icon.png");
+      }
   </style>
   <script>
     
