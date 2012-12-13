@@ -1,13 +1,17 @@
 <?php
 
-function insertselector()
+function insertselector($podcast=false)
   {
     $count = 0;
     $count2 = 0;
     $last = false;
     $prev = '';
     $next = '';
-    $info = explode('/', $_GET['podcast']);
+    if($podcast === false)
+      {
+        $info = explode('/', $_GET['podcast']);
+      }
+    
     $printit = '';
     if ($handle = @scandir('./'.$info[1].'/', 1))
       {
