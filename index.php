@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <title>Die Shownotes</title>
-  <meta name="viewport" content="width=620" />  
+  <meta name="viewport" content="width=715" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
@@ -29,9 +29,9 @@
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
 <body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1355417765 (17:56:05 13.12.2012)
-Generierungsdauer: 0.0030028820037842 sec
---><?php if(1355420285 < time()){
+zuletzt aktualisiert um: 1355418009 (18:00:09 13.12.2012)
+Generierungsdauer: 0.00295090675354 sec
+--><?php if(1355420529 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
   <div class="header">

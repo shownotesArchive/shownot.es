@@ -34,7 +34,7 @@ function getEpisodes($Podcast, $count)
 <head>
   <meta charset="utf-8" />
   <title>Die Shownotes</title>
-  <meta name="viewport" content="width=620" />  
+  <meta name="viewport" content="width=715" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
