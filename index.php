@@ -10,102 +10,9 @@
   <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=001" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=003" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
-  <style>
-    .baf-group
-      {
-        display: inline-block;
-        margin: 0px 10px;
-      }
-    .dropdown-menu
-      {
-        left: auto;
-        right: 0px;
-      }
-    .content
-      {
-        margin-top: 55px;
-      }
-    .box
-      {
-        border-radius: 16px;
-      }
-    .clause
-      {
-        float: left;
-        width: auto;
-        max-width: 1100px;
-        background-size: 25px;
-        background-repeat: no-repeat;
-        padding-left: 45px;
-        min-height: 40px;
-        margin: 25px;
-      }
-    .flattrimg
-      {
-        background-image: url("http://cdn.shownot.es/img/flattr_icon.png");
-      }
-    .twitterimg
-      {
-        background-image: url("http://cdn.shownot.es/img/twitter_icon.png");
-      }
-    .ircimg
-      {
-        background-image: url("http://cdn.shownot.es/img/irc_icon.png");
-      }
-    .gitimg
-      {
-        background-image: url("http://cdn.shownot.es/img/git_icon.png");
-      }
-      
-      .thispodcast{
-        width: 160px;
-        margin: auto;
-        float: left;
-        position: relative;
-        padding: 15px;
-      }
-      .podcastimg{
-        display: inline-block;
-        padding: 0px;
-        -webkit-box-shadow: 0px 0px 15px -2px rgba(5, 5, 5, 1);
-        box-shadow: 0px 0px 15px -2px rgba(5, 5, 5, 1);
-        vertical-align: top;
-        border-radius: 8px 8px 0px 0px;
-      }
-      .podcastimg img{
-        display: block;
-        width: 150px;
-        border-radius: 8px 8px 0px 0px;
-      }
-      .baf-group .baf:first-child {
-      -webkit-border-top-left-radius: 0px;
-      -moz-border-radius-topleft: 0px;
-      border-top-left-radius: 0px;
-      -webkit-border-bottom-left-radius: 8px;
-      -moz-border-radius-bottomleft: 8px;
-      border-bottom-left-radius: 8px;
-      }
-      .baf-group {
-      margin: 0px;
-      }
-      .baf {
-      margin: 0px;
-      width: 97px;
-      border-radius: 0px 0px 0px 8px;
-      }
-      .baf.dropdown-toggle {
-      border-radius: 0px 0px 8px 0px;
-      width: 10px;
-      }
-      [class^="dropdown-menu"] {
-      left: 100px;
-      right: auto;
-      top: 32px;
-      }
-  </style>
   <script>
     
     function loadShownotes()
@@ -122,9 +29,9 @@
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
 </head>
 <body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1355417594 (17:53:14 13.12.2012)
-Generierungsdauer: 0.0029587745666504 sec
---><?php if(1355420114 < time()){
+zuletzt aktualisiert um: 1355417765 (17:56:05 13.12.2012)
+Generierungsdauer: 0.0030028820037842 sec
+--><?php if(1355420285 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
 <div class="content">
   <div class="header">
