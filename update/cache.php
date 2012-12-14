@@ -47,15 +47,16 @@ function getEpisodes($Podcast, $count)
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
-  <div class="logo">
-    <div class="icon"><span><img src="http://shownot.es/img/shownotes_logo_black_square.png" alt="Logo der Shownotes" /><span></div>
-    <div class="name">Die Shownotes</div>
-    <ul class="menu">
-      <li><a href="http://shownot.es">Übersicht</a></li>
-      <li><a href="http://shownot.es/faq/">FAQ</a></li>
-      <li><a href="https://shownotes.piratenpad.de/">Pad</a></li>
-    </ul>
-  </div>
+  <div class="box" id="main">
+    <div class="logo">
+      <div class="icon"><span><img src="http://shownot.es/img/shownotes_logo_black_square.png" alt="Logo der Shownotes" /><span></div>
+      <div class="name">Die Shownotes</div>
+      <ul class="menu">
+        <li><a href="http://shownot.es">Übersicht</a></li>
+        <li><a href="http://shownot.es/faq/">FAQ</a></li>
+        <li><a href="https://shownotes.piratenpad.de/">Pad</a></li>
+      </ul>
+    </div>
     <p style="margin-top: 1em;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &Uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
