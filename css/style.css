@@ -66,18 +66,68 @@ ul {
   width: 880px;
   margin: 2.5% auto 2.5% auto;
 }
-
-.header a:link, .header a:visited, .header a:hover, .footer a:link, .footer a:visited, .footer a:hover {
+.footer a:link, .footer a:visited, .footer a:hover {
   font-weight: bold;
 }
 
-.header {
-  text-align: justify;
+.logo {
+  background-image: linear-gradient(bottom, rgb(26,102,157) 0%, rgb(112,187,240) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(26,102,157) 0%, rgb(112,187,240) 100%);
+  background-image: -moz-linear-gradient(bottom, rgb(26,102,157) 0%, rgb(112,187,240) 100%);
+  background-image: -webkit-linear-gradient(bottom, rgb(26,102,157) 0%, rgb(112,187,240) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(26,102,157) 0%, rgb(112,187,240) 100%);
+  background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, rgb(26,102,157)),color-stop(1, rgb(112,187,240)));
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 1em;
 }
-
-.header .title {
+ 
+.icon {
+  float: left;
+  margin-right: 1em;
+  height: 100px;
+  width: 100px;
+}
+ 
+.icon span {
+  vertical-align: middle;
+  height: 100px;
+  font-size: 100px;
+  text-align: center;
+}
+ 
+.name {
+  color: 292929;
+  font-size: 3em;
+  font-weight: bold;
+  text-shadow: -1px -1px 0px rgb(26,102,157), 1px 1px 0px rgb(112,187,240);
+  height: 60px;
+  margin-top: 10px;
+}
+ 
+ul.menu {
   font-size: 2em;
-  font-weight: bold;
+  list-style-type: none;
+  height: 40px;
+  margin-top: -10px;
+}
+ 
+ul.menu li {
+  display: inline;
+}
+ 
+ul.menu li a:link, ul.menu li a:visited {
+  color: #dbdbdb;
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+ 
+ul.menu li a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
 }
 
 .box .title {
