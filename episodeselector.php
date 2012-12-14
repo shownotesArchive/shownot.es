@@ -47,11 +47,11 @@ function insertselector($podcast=false)
           }
       }
   
-    echo '<div class="baf-group-x1"><a class="baf grey prev" href="http://shownot.es/'.$info[1].'/'.$files[$count2+1].'"><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a2;"></span></a><div class="baf-group"><a class="baf dropdown-toggle w80">Episode '.$files[$count2].'<span class="caret"></span></a><ul class="dropdown-menu">';
+    echo '<div class="baf-group-x1"><a class="baf bluehover grey prev" href="http://shownot.es/'.$info[1].'/'.$files[$count2+1].'"><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a2;"></span></a><div class="baf-group"><a class="baf bluehover dropdown-toggle w80">Episode '.$files[$count2].'<span class="caret"></span></a><ul class="dropdown-menu">';
     
     echo $printit;
     
-    echo '</ul></div><a class="baf grey next"';
+    echo '</ul></div><a class="baf bluehover grey next"';
     if($last)
       {
         echo ' disabled="true"';
