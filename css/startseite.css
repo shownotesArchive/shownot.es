@@ -54,7 +54,7 @@ margin: 2.5% auto 2.5% auto;
       {
         background-image: url("http://cdn.shownot.es/img/git_icon.png");
       }
-      
+
       .thispodcast{
         width: 160px;
         margin: auto;
@@ -100,3 +100,86 @@ margin: 2.5% auto 2.5% auto;
       right: auto;
       top: 32px;
       }
+
+#imglink {
+  display: block;
+  padding: 0px;
+  border-radius: 8px;
+  overflow: hidden;
+  background-image: url('../img/DieShownotesBG2.png');
+  background-size: auto 100%;
+}
+
+#imgcontainer {
+  background-image: url("../img/DieShownotes.png");
+  width: 100%;
+  background-size: 100%;
+  border-radius: 8px;
+  display: block;
+  position: relative;
+  margin: auto;
+}
+
+#imgdummy {
+  padding-top: 25.65%;
+}
+
+@media only screen and (max-width : 650px) {
+  #imgcontainer {
+    background-image: url("../img/DieShownotes_small.png");
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #imgcontainer {
+  background-image: url("../img/DieShownotes.png");
+  }
+}
+
+@media only screen and (min-width : 930px) {
+  #imgcontainer {
+    width: 760px;
+  }
+}
+
+@media only screen and (max-width : 1385px) {
+  #podcasts {
+    margin: auto;
+    max-width: 950px;
+  }
+}
+
+@media only screen and (max-width : 1160px) {
+  #podcasts {
+    margin: auto;
+    max-width: 760px;
+  }
+}
+
+@media only screen and (max-width : 935px) {
+  #podcasts {
+    margin: auto;
+    max-width: 570px;
+  }
+}
+
+@media only screen and (max-width : 710px) {
+  #podcasts {
+    margin: auto;
+    max-width: 380px;
+  }
+}
+
+@media only screen and (max-width : 710px) {
+  #podcasts {
+    margin: auto;
+    max-width: 380px;
+  }
+}
+
+@media only screen and (max-width : 490px) {
+  #podcasts {
+    margin: auto;
+    max-width: 195px;
+  }
+}

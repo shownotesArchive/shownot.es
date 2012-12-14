@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=003" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
 </head>
@@ -18,8 +18,7 @@
 <div class="content">
   <div class="header">
   </div>
-  <div class="box" id="main"><a href="http://shownot.es/">
-    <img src="./img/DieShownotes.png" alt="Shownot.es Logo" style="margin: auto; display: block; border-radius: 8px; margin-bottom: 42px;" /></a>
+  <div class="box" id="main"><a href="" id="imglink"><div id="imgcontainer"><div id="imgdummy"></div></div></a>
     <p style="margin-top: 1em;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &Uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
@@ -33,8 +32,8 @@
           <img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://www.wrint.de/">WRINT</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://www.wrint.de/">WRINT</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -47,8 +46,8 @@
           <img src="http://shownot.es/img/logos/bm_logo.png" alt="BlueMoon Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -61,8 +60,8 @@
           <img src="http://shownot.es/img/logos/ll_logo.png" alt="LateLine Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -75,8 +74,8 @@
           <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -89,8 +88,8 @@
           <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://not-safe-for-work.de">Not Safe For Work</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://not-safe-for-work.de">Not Safe For Work</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -103,8 +102,8 @@
           <img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://einschlafen-podcast.de">Einschlafen&nbsp;Podcast</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://einschlafen-podcast.de">Einschlafen</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -117,8 +116,8 @@
           <img src="http://shownot.es/img/logos/mm_logo.png" alt="MobileMacs Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://mobilemacs.de/">mobileMacs</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://mobilemacs.de/">mobileMacs</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -131,8 +130,8 @@
           <img src="http://shownot.es/img/logos/dw_logo.png" alt="DerWeisheit Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -145,8 +144,8 @@
           <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf" href="http://www.jobscast.de">Jobscast</a>
-          <a class="baf dropdown-toggle" data-toggle="dropdown" >
+          <a class="baf bluehover" href="http://www.jobscast.de">Jobscast</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
@@ -208,7 +207,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1355421085 (18:51:25 13.12.2012)
-Generierungsdauer: 0.0033040046691895 sec
---><?php if(1355423605 < time()){
+zuletzt aktualisiert um: 1355448989 (02:36:29 14.12.2012)
+Generierungsdauer: 0.0029959678649902 sec
+--><?php if(1355451509 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
