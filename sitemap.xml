@@ -8,927 +8,1058 @@
 
 <url>
   <loc>http://shownot.es/</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>http://shownot.es/wrint/133</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/132</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/130</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/128</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/127</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/125</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/wrint/123</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://shownot.es/wrint/122</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/120</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/119</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/118</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/117</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/116</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/114</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/112</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/109</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/108</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/107</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/106</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/105</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/104</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/wrint/103</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/099</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/99</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/095</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/95</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/092</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/92</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/083</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/83</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/078</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/78</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/070</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/70</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/068</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/68</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/056</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/56</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/053</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/53</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/049</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/49</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/046</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/46</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/041</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/41</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/038</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/38</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/034</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/34</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/wrint/033</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/wrint/33</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/59</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/58</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/57</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/56</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/55</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/54</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/53</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/bm/52</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/51</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/50</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/49</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/48</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/47</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/46</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/45</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/44</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/43</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/42</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/41</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/40</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/39</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/38</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/37</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/36</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/35</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/34</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/33</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/32</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/31</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/30</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/29</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/27</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/26</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/25</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/24</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/23</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/22</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/21</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/20</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/19</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/18</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/17</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/16</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/15</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/14</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/13</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/12</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/11</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/bm/10</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/09</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/9</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/08</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/8</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/07</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/7</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/06</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/6</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/05</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/5</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/04</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/4</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/03</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/3</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/02</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/2</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/bm/01</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/bm/1</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/07</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/7</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/06</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/6</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/05</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/5</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/04</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/4</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/03</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/3</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/02</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/2</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/ll/01</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/ll/1</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/cr/185</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/cr/184</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/cr/183</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/cr/182</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/cr/181</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/cr/180</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/nsfw/60</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/nsfw/59</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/58</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/57</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/56</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/55</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/54</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/53</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/52</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/51</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/50</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/49</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/48</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/47</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/46</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/45</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/44</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/nsfw/41</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/ep/209</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/ep/207</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/ep/206</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/ep/205</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/204</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/203</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/202</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/201</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/200</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/199</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/198</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/197</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/196</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/195</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/194</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/193</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/192</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/191</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/190</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/189</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/188</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/187</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/186</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/185</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/184</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/183</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/182</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/181</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/179</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/178</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/177</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/176</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/169</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/168</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/166</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/ep/160</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/099</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/101</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/098</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/100</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/097</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/99</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/096</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/98</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/095</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/97</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/094</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/96</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/093</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/95</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/092</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/94</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/091</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/93</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/090</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/92</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/089</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/91</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/088</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/90</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/087</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/89</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/086</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/88</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/085</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/87</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/084</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/86</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/082</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/85</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/081</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/84</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/012</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/82</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/011</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/81</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/010</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/12</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/009</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/11</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/008</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/10</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/007</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/9</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/006</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/8</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/005</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/7</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/004</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/6</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/003</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/5</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/mm/002</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/4</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/024</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/3</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/021</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/mm/2</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/020</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/24</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/019</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/21</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/018</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/20</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/017</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/19</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/dw/014</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/18</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/013</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/17</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/012</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/dw/14</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/011</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/jc/15</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/010</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/jc/13</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/009</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/jc/12</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/008</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/jc/11</loc>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://shownot.es/jc/007</loc>
-  <changefreq>weekly</changefreq>
+  <loc>http://shownot.es/jc/10</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/9</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/8</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/jc/7</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://shownot.es/faq/</loc>
+  <lastmod>2012-11-26T21:18:40+00:00</lastmod>
+  <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://shownot.es/podcasts/sn/bm/35.04_09_12.html</loc>
-  <changefreq>weekly</changefreq>
+  <changefreq>daily</changefreq>
   <priority>0.64</priority>
 </url>
 </urlset>
