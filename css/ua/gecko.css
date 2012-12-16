@@ -1,6 +1,5 @@
 /* gecko */
-
-.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before {
+.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before, .osf_glossary::before, .osf_shopping::before, .osf_video::before {
   content: '';
   height: 16px;
   width: 16px;
@@ -10,7 +9,7 @@
   background-size: 115px 31px;
 }
 
-.osf_amazon::before {
+.osf_amazon::before, .osf_shopping::before {
   background-position:-89px -5px;
 }
 
@@ -22,10 +21,10 @@
   background-position:-68px -5px;
 }
 
-.osf_wiki::before {
+.osf_wiki::before, .osf_glossary::before {
   background-position:-47px -5px;
 }
 
-.osf_youtube::before {
+.osf_youtube::before, .osf_video::before {
   background-position:-26px -5px;
 }

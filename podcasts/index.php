@@ -101,6 +101,22 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
+  <style>
+    #showtags {
+      width: 160px;
+      margin: auto;
+      border-radius: 20px;
+      box-shadow: inset 1px 2px 15px -1px black;
+      -webkit-box-shadow: inset 1px 2px 15px -1px black;
+      padding: 25px;
+      display: block;
+    }
+    #showtags label {
+      min-width: 120px;
+      display: inline-block;
+    }
+  </style>
+  <style id="editablestyle"></style>
 </head>
 
 <body onload="baf_listenerInit();">

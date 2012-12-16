@@ -14,7 +14,7 @@
 .podcastimg img{display:block;width:150px;border-radius:8px 8px 0px 0px;}
 .baf-group .baf:first-child{-webkit-border-top-left-radius:0px;-moz-border-radius-topleft:0px;border-top-left-radius:0px;-webkit-border-bottom-left-radius:8px;-moz-border-radius-bottomleft:8px;border-bottom-left-radius:8px;}
 .baf-group{margin:0px;}
-.baf{margin:0px;width:97px;border-radius:0px 0px 0px 8px;}
+.baf{margin:0px;width:96px;border-radius:0px 0px 0px 8px;}
 .baf.dropdown-toggle{border-radius:0px 0px 8px 0px;width:10px;}
 [class^="dropdown-menu"]{left:100px;right:auto;top:32px;}
 #imglink{display:block;padding:0px;border-radius:8px;overflow:hidden;background-image:url('../img/DieShownotesBG2.png');background-size:auto 100%;}

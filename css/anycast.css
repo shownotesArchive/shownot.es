@@ -123,7 +123,7 @@ dl span:hover, dl a:hover {
   text-shadow:#555 0 1px 0px; 
 }
 
-.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before {
+.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before, .osf_glossary::before, .osf_shopping::before, .osf_video::before {
   display: inline-block;
   background-repeat: no-repeat;
   content: '';
@@ -137,7 +137,7 @@ dl span:hover, dl a:hover {
   padding-right: 2px;
 }
 
-.osf_amazon::before {
+.osf_amazon::before, .osf_shopping::before {
   background-position:-89px -5px;
 }
 
@@ -149,11 +149,11 @@ dl span:hover, dl a:hover {
   background-position:-68px -5px;
 }
 
-.osf_wiki::before {
+.osf_wiki::before, .osf_glossary::before {
   background-position:-47px -5px;
 }
 
-.osf_youtube::before {
+.osf_youtube::before, .osf_video::before {
   background-position:-26px -5px;
 }
 
