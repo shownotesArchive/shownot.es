@@ -31,7 +31,7 @@ $podcasts = array(
         005 => array('MMrelive-005', 'MM005'),
         004 => array('MMrelive-004', 'MM004'),
         003 => array('MMrelive-003', 'MM003'),
-        002 => array('MMrelive-002', 'MM002')
+        002 => array('MMrelive-002', 'MM002'),
     ),
 
     'nsfw' => array(
@@ -74,6 +74,14 @@ $podcasts = array(
         20 => array('dw20','DerWeisheit-20'),
         21 => array('dw21','DerWeisheit-21'),
         24 => array('dw24','DerWeisheit-24')
+    ),
+
+    'cr' => array( // Die Pads für 179, 181 und 182 sind unauffindbar.
+        185 => array('cr185','Chaosradio-185'),
+        184 => array('cr184','Chaosradio-184'),
+        183 => array('cr183','Chaosradio-183'),
+        180 => array('chaosradio-28-06-2012','Chaosradio-180'),
+        178 => array('chaosradio178','Chaosradio-178')
     )
 
 );
