@@ -1,5 +1,4 @@
 <?php
-
 $podcasts = array(
     'mm' => array(
         101 => array('MM101','MM101'),
@@ -32,7 +31,7 @@ $podcasts = array(
         005 => array('MMrelive-005', 'MM005'),
         004 => array('MMrelive-004', 'MM004'),
         003 => array('MMrelive-003', 'MM003'),
-        002 => array('MMrelive-002', 'MM002'),
+        002 => array('MMrelive-002', 'MM002')
     ),
 
     'nsfw' => array(
@@ -56,36 +55,26 @@ $podcasts = array(
         41 => array('3','NSFW049')
     ),
 
-    'ep' => array(
-        179 => array('ep179','EP179'),
-        178 => array('ep178','EP178'),
-        177 => array('ep177','EP177'),
-        176 => array('ep176','EP176'),
-        169 => array('ep169','EP169'),
-        168 => array('ep168','EP168'),
-        166 => array('ep166','EP166'),
-        160 => array('ep160','EP160')
+    'jc' => array(
+        7 => array('JC007','Jobscast-7'),
+        8 => array('JC008','Jobscast-8'),
+        9 => array('JC009','Jobscast-9'),
+        10 => array('jc010','Jobscast-10'),
+        11 => array('jc011','Jobscast-11'),
+        12 => array('jc012','Jobscast-12'),
+        13 => array('jc13','Jobscast-13'),
+        15 => array('jc15','Jobscast-15')
     ),
 
-    'wrint' => array(
-        103 => array('wrint-20103','WRINTheit 24'),
-        099 => array('wrint23','WRINTheit 23'),
-        095 => array('wrintheit22','WRINTheit 22'),
-        092 => array('wrintheit21','WRINTheit 21 '),
-        083 => array('wrintheit20','WRINTheit 20'),
-        078 => array('Wrintheit-XIX','WRINTheit 19'),
-        070 => array('Wrintheit-XVIII','WRINTheit 18'),
-        068 => array('Wrintheit-XVII','WRINTheit 17'),
-        056 => array('wrint16','WRINTheit 16'),
-        053 => array('wrintheit15','WRINTheit 15'),
-        049 => array('wrintheit14','WRINTheit 14'),
-        046 => array('wrint13','WRINTheit 13'),
-        041 => array('12','WRINTheit 12'),
-        038 => array('7','WRINTheit 11'),
-        034 => array('4','WRINTheit 10'),
-        033 => array('2','WRINTheit 9')
+    'dw' => array(
+        14 => array('Der Weisheit 14','DerWeisheit-14'),
+        17 => array('DW17','DerWeisheit-17'),
+        18 => array('DW18','DerWeisheit-18'),
+        19 => array('DW19','DerWeisheit-19'),
+        20 => array('dw20','DerWeisheit-20'),
+        21 => array('dw21','DerWeisheit-21'),
+        24 => array('dw24','DerWeisheit-24')
     )
+
 );
-
-
 ?>
