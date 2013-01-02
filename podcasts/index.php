@@ -100,6 +100,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="stylesheet" href="../css/ua/other.css?v=002" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
+  <link rel="stylesheet" href="../css/font-awesome.css">
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
   <style>
     #showtags {
@@ -114,6 +115,23 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     #showtags label {
       min-width: 120px;
       display: inline-block;
+    }
+    a.time_button {
+    z-index: 3;
+    position: relative;
+    color: black;
+    }
+    a.time_button:hover {
+    background: white;
+    }
+    [data-tooltip] {
+    position: relative;
+    text-decoration: none;
+    margin-left: -15px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-right: 5px;
+    z-index: 2;
     }
   </style>
   <style id="editablestyle"></style>
