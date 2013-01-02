@@ -3,9 +3,9 @@
 dl{width:540px;padding-bottom:10px;float:left;padding:40px 80px 30px 120px;background:#FEFEFE;border-radius:55px;width:769px;margin-left:-15px;}
 dl hr,dl br{display:none;}
 dd a,dd a:hover,dd a:visited{color:#1B69AE;text-decoration:none;font-weight:normal;}
-dt{font:16px/24px Aller,Helmet,Freesans,sans-serif;color:#BABABA;width:80px;margin-left:-80px;float:left;cursor:pointer;}
-dd{font:14px/20px Aller,Helmet,Freesans,sans-serif;padding-bottom:25px;border-bottom:1px solid #BBB;padding-top:10px;}
-dd strong{display:block;font:bold 16px/24px Aller,Helmet,Freesans,sans-serif;}
+dt{font:16px/24px "Helvetica Neue",Helvetica,Arial,sans-serif;color:#BABABA;width:80px;margin-left:-80px;float:left;cursor:pointer;}
+dd{font:14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;padding-bottom:25px;border-bottom:1px solid #BBB;padding-top:10px;}
+dd strong{display:block;font:bold 16px/24px "Helvetica Neue",Helvetica,Arial,sans-serif;}
 dd strong a,dd strong a:hover,dd strong a:visited{font-weight:bold;}
 strong.chapter{}
 dl span:hover,dl a:hover{background:rgba(190,190,220,0.5);}
