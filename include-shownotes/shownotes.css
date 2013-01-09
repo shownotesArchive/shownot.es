@@ -1,0 +1,58 @@
+.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before, .osf_glossary::before, .osf_shopping::before, .osf_video::before {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  content: '';
+  height: 16px;
+  width: 16px;
+  vertical-align: middle;
+  top: 0px;
+  left: 0px;
+  margin-top: -3px;
+  padding-right: 2px;
+}
+
+.osf_amazon::before, .osf_shopping::before {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/amazon.png');
+}
+
+.osf_flattr::before {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/flattr.png');
+}
+
+.osf_twitter::before {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/twitter.png');
+}
+
+.osf_wiki::before, .osf_glossary::before {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/wiki.png');
+}
+
+.osf_youtube::before, .osf_video::before {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/youtube.png');
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),only screen and (min-device-pixel-ratio : 1.5) {
+  .osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before, .osf_glossary::before, .osf_shopping::before, .osf_video::before {
+    background-size: 16px 16px;
+  }
+  .osf_amazon::before, .osf_shopping::before {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/amazon.png');
+  }
+  
+  .osf_flattr::before {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/flattr.png');
+  }
+  
+  .osf_twitter::before {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/twitter.png');
+  }
+  
+  .osf_wiki::before, .osf_glossary::before {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/wiki.png');
+  }
+  
+  .osf_youtube::before, .osf_video::before {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/youtube.png');
+  }
+}
