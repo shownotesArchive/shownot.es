@@ -1,6 +1,14 @@
 <div class="info">
-  <div class="podcastimg">
-    <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo">
+  <div class="thispodcast">
+    <div class="podcastimg">
+      <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo">
+    </div>
+<?php
+
+include "./../episodeselector.php";
+insertselector();
+
+?>
   </div>
   <div class="episodeinfo">
     <table>
@@ -18,13 +26,12 @@
       </tr>
       <tr>
           <td>Shownoter</td><td>
-	      <a href="http://twitter.com/Quimoniz">@Quimoniz</a>
-	      <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>
+	      <a href="http://twitter.com/Quimoniz">@Quimoniz</a>,
+	      <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>,
 	      <a href="http://twitter.com/timwanze">@timwanze</a>
           </td>
       </tr>
     </table>
-<!--    <p><a href="./13">&lArr; vorherige Episode</a></p>-->
   </div>
 </div>
 <dl><dt data-time="0">00:00:00</dt>
