@@ -52,7 +52,7 @@ function getEpisodes($Podcast, $count)
   </div>
   <div class="box" id="main">
     <p style="margin-top: 1em;">
-      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Du befindest dich gerade auf unserer tempor&auml;ren &Uuml;bergangsseite. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. <a href="http://i.minus.com/jcoBKNlPtJ5Lp.png">Hier</a> dazu eine kleine Vorschau. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
+      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
     </p><hr><br>
     <div id="podcasts">
       <p style="margin-top: 1em;">
@@ -163,22 +163,20 @@ function getEpisodes($Podcast, $count)
           </ul>
         </div>
       </div>
-      
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/dw_logo.png" alt="DerWeisheit Logo" />
+          <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://monoxyd.de/category/dieweisheit">Der&nbsp;Weisheit</a>
+          <a class="baf bluehover" href="http://wikigeeks.de">Wikigeeks</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
           <ul class="dropdown-menu">
-              <?php $i = getEpisodes('dw', $i); ?>
+              <?php $i = getEpisodes('wg', $i); ?>
           </ul>
         </div>
       </div>
-      
       <div class="thispodcast">
         <div class="podcastimg">
           <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
