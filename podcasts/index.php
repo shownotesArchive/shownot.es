@@ -133,6 +133,16 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     padding-right: 5px;
     z-index: 2;
     }
+    dd a, dd span, dd strong {
+    color: #000;
+    }
+    dd {
+    color: #fff;
+    }
+    dd a::after, dd span::after {
+    content: '; ';
+    }
+
   </style>
   <style id="editablestyle"></style>
 </head>
@@ -204,7 +214,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     
     
 
-    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>';
+    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><a class="FlattrButton" href="'.$__SERVER["SCRIPT_URI"].'" title="'.ShownoteTitle().'" lang="de_DE">
+      [description]
+    </a>';
     ?>
   </div>
 
@@ -225,6 +237,19 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script');
+        var t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//api.flattr.com/js/0.6/load.js?'+
+                'mode=auto&uid=shownotes&language=de_DE&category=text';
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
 </script>
 </body>
 
