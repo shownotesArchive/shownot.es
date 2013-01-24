@@ -100,7 +100,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="stylesheet" href="../css/ua/other.css?v=002" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
-  <link rel="stylesheet" href="../css/font-awesome.css">
+  <link rel="stylesheet" href="http://fortawesome.github.com/Font-Awesome/assets/css/font-awesome.min.css"/>
   <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
   <style>
     #showtags {
@@ -141,6 +141,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     }
     dd a::after, dd span::after {
     content: '; ';
+    }
+    dd a:hover, dd span:hover {
+    padding-right: 13px;
     }
 
   </style>
@@ -214,9 +217,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     
     
 
-    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><a class="FlattrButton" href="'.$__SERVER["SCRIPT_URI"].'" title="'.ShownoteTitle().'" lang="de_DE">
+    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><!--<a class="FlattrButton" href="'.$__SERVER["SCRIPT_URI"].'" title="'.ShownoteTitle().'" lang="de_DE">
       [description]
-    </a>';
+    </a>-->';
     ?>
   </div>
 
