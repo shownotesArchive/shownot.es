@@ -54,7 +54,7 @@ Options +Indexes
   RewriteRule ^nsfw/(.*)$ /podcasts/?search&podcast=./nsfw/$1 [L]
   RewriteRule ^pt/(.*)$ /podcasts/?search&podcast=./pt/$1 [L]
   RewriteRule ^wrint/(.*)$ /podcasts/?search&podcast=./wrint/$1 [L]
-  RewriteRule ^psycho/(.*)$ /podcasts/?search&podcast=./psycho/$1 [L]
+  RewriteRule ^psyt/(.*)$ /podcasts/?search&podcast=./psyt/$1 [L]
   RewriteRule ^wg/(.*)$ /podcasts/?search&podcast=./wg/$1 [L]
 </IfModule>
 
