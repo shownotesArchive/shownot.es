@@ -2,16 +2,16 @@ dd a:hover {
   text-decoration: underline;
 }
 
-.osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_amazonde, .osf_amazoncom, .osf_video {
+.osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_amazonde, .osf_amazoncom, .osf_video, .osf_esaint, .osf_dlrde {
   background-repeat: no-repeat;
   background-position: 0px 0px;
   padding-left: 18px;
 }
 
-  .osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_amazonde, .osf_amazoncom, .osf_video {
+  .osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_amazonde, .osf_amazoncom, .osf_video, .osf_esaint, .osf_dlrde {
     background-size: 16px 16px;
   }
-  .osf_amazon {
+  .osf_amazon, .osf_amazonde, .osf_amazoncom {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/amazon.png');
   }
   
@@ -33,4 +33,12 @@ dd a:hover {
   
   .osf_applecom {
   	background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/apple.png');
+  }
+  
+  .osf_esaint {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/esa.png');
+  }
+  
+  .osf_dlrde {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/dlr.png');
   }

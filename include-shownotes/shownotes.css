@@ -2,13 +2,13 @@ dd a:hover {
   text-decoration: underline;
 }
 
-.osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_shopping, .osf_video {
+.osf_amazon, .osf_amazonde, .osf_amazoncom, .osf_applecom, .osf_esaint, .osf_dlrde, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_shopping, .osf_video {
   background-repeat: no-repeat;
   background-position: 0px 0px;
   padding-left: 18px;
 }
 
-.osf_amazon, .osf_shopping {
+.osf_amazon, .osf_amazonde, .osf_amazoncom, .osf_shopping {
   background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/amazon.png');
 }
 
@@ -32,11 +32,19 @@ dd a:hover {
   background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/apple.png');
 }
 
+.osf_esaint {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/esa.png');
+}
+
+.osf_dlrde {
+  background-image: url('http://cdn.shownot.es/include-shownotes/img/ld/dlr.png');
+}
+
 @media only screen and (-webkit-min-device-pixel-ratio : 1.5),only screen and (min-device-pixel-ratio : 1.5) {
-  .osf_amazon, .osf_applecom, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_shopping, .osf_video {
+  .osf_amazon, .osf_applecom, .osf_esaint, .osf_dlrde, .osf_flattr, .osf_twitter, .osf_wiki, .osf_youtube, .osf_glossary, .osf_shopping, .osf_video {
     background-size: 16px 16px;
   }
-  .osf_amazon, .osf_shopping {
+  .osf_amazon, .osf_amazonde, .osf_amazoncom, .osf_shopping {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/amazon.png');
   }
   
@@ -58,5 +66,13 @@ dd a:hover {
   
   .osf_applecom {
   	background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/apple.png');
+  }
+  
+  .osf_esaint {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/esa.png');
+  }
+  
+  .osf_dlrde {
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/dlr.png');
   }
 }
