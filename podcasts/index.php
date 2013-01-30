@@ -223,7 +223,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     ?>
   </div>
 
-  <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
+  <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></div>
 
 </div>
 <script type="text/javascript" src="http://cdn.shownot.es/js/bootstrap-dropdown.js"></script>
