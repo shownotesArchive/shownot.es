@@ -228,7 +228,7 @@ function getEpisodes($Podcast, $count)
     <p>Wer Podcasts mag, sollte die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert. Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
     <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="http://shownot.es/faq/">shownot.es/faq/</a></p>
   </div>
-  <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></span></div>
+  <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></span></div>
 </div>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
