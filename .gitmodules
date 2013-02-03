@@ -7,6 +7,3 @@ url=https://github.com/shownotes/OpenShownotesFormat.git
 [submodule "baf"]
 	path = baf
 	url = https://SimonWaldherr@github.com/SimonWaldherr/buttons-and-forms.git
-[submodule "tinybox"]
-	path = tinybox
-	url = https://SimonWaldherr@github.com/SimonWaldherr/lightbox.js.git

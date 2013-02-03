@@ -206,7 +206,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1359910680 (17:58:00 03.02.2013)
-Generierungsdauer: 0.0059142112731934 sec
---><?php if(1359913200 < time()){
+zuletzt aktualisiert um: 1359911439 (18:10:39 03.02.2013)
+Generierungsdauer: 0.0058310031890869 sec
+--><?php if(1359997839 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
