@@ -315,7 +315,7 @@ if (!empty($file_contents))
 }
   
   $generatetime = microtime(1)-$starttime;
-  $cache_refresh = 2520;
+  $cache_refresh = 86400;
   $code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>';
   
   $filename = './../index.php';

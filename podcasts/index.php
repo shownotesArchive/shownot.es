@@ -180,8 +180,6 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></div>
 
 </div>
-<script type="text/javascript" src="http://cdn.shownot.es/js/bootstrap-dropdown.js"></script>
-<script type="text/javascript" src="http://cdn.shownot.es/js/tinybox.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
