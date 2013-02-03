@@ -12,11 +12,8 @@ dl {
   width: 540px;
   padding-bottom: 10px;
   float: left;
-  padding: 40px 80px 30px 120px;
   background: #FEFEFE;
-  border-radius: 55px;
   width: 769px;
-  margin-left: -15px;
 }
 
 dl hr, dl br {
@@ -123,40 +120,6 @@ dl span:hover, dl a:hover {
   text-shadow:#555 0 1px 0px; 
 }
 
-.osf_amazon::before, .osf_flattr::before, .osf_twitter::before, .osf_wiki::before, .osf_youtube::before, .osf_glossary::before, .osf_shopping::before, .osf_video::before {
-  display: inline-block;
-  background-repeat: no-repeat;
-  content: '';
-  height: 16px;
-  width: 16px;
-  background-image: url('http://cdn.simon.waldherr.eu/projects/osf/css/icons.png');
-  vertical-align: middle;
-  top: 0px;
-  left: 0px;
-  margin-top: -3px;
-  padding-right: 2px;
-}
-
-.osf_amazon::before, .osf_shopping::before {
-  background-position:-89px -5px;
-}
-
-.osf_flattr::before {
-  background-position:-5px -5px;
-}
-
-.osf_twitter::before {
-  background-position:-68px -5px;
-}
-
-.osf_wiki::before, .osf_glossary::before {
-  background-position:-47px -5px;
-}
-
-.osf_youtube::before, .osf_video::before {
-  background-position:-26px -5px;
-}
-
 h1 {
   font-size: larger;
   font-weight: bolder;
@@ -261,4 +224,52 @@ dd {
     left: 100px;
     right: auto;
     top: 42px;
+  }
+#showtags
+  {
+    width: 160px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: inset 1px 2px 15px -1px black;
+    -webkit-box-shadow: inset 1px 2px 15px -1px black;
+    padding: 25px;
+    display: block;
+  }
+#showtags label
+  {
+    min-width: 120px;
+    display: inline-block;
+  }
+a.time_button
+  {
+    z-index: 3;
+    position: relative;
+    color: black;
+  }
+a.time_button:hover
+  {
+    background: white;
+  }
+[data-tooltip]
+  {
+    position: relative;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-right: 5px;
+    z-index: 2;
+  }
+dd a, dd span, dd strong
+  {
+    color: #000;
+  }
+dd {
+    color: #fff;
+  }
+dd a::after, dd span::after
+  {
+    content: '; ';
+  }
+dd a:hover, dd span:hover
+  {
+    padding-right: 13px;
   }

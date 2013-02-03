@@ -97,56 +97,10 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="stylesheet" href="../css/style.css?v=008" type="text/css" />
   <link rel="stylesheet" href="../css/anycast.min.css?v=008" type="text/css" media="screen">
   <link rel="stylesheet" href="../css/shownotes.min.css?v=002" type="text/css" media="screen">
-  <link rel="stylesheet" href="../css/ua/other.css?v=002" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://cdn.shownot.es/include-shownotes/shownotes.css" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <link rel="stylesheet" href="http://fortawesome.github.com/Font-Awesome/assets/css/font-awesome.min.css"/>
-  <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
-  <style>
-    #showtags {
-      width: 160px;
-      margin: auto;
-      border-radius: 20px;
-      box-shadow: inset 1px 2px 15px -1px black;
-      -webkit-box-shadow: inset 1px 2px 15px -1px black;
-      padding: 25px;
-      display: block;
-    }
-    #showtags label {
-      min-width: 120px;
-      display: inline-block;
-    }
-    a.time_button {
-    z-index: 3;
-    position: relative;
-    color: black;
-    }
-    a.time_button:hover {
-    background: white;
-    }
-    [data-tooltip] {
-    position: relative;
-    text-decoration: none;
-    margin-left: -15px;
-    padding-left: 20px;
-    border-radius: 5px;
-    padding-right: 5px;
-    z-index: 2;
-    }
-    dd a, dd span, dd strong {
-    color: #000;
-    }
-    dd {
-    color: #fff;
-    }
-    dd a::after, dd span::after {
-    content: '; ';
-    }
-    dd a:hover, dd span:hover {
-    padding-right: 13px;
-    }
-
-  </style>
   <style id="editablestyle"></style>
 </head>
 
