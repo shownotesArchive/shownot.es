@@ -1,0 +1,78 @@
+(Zum Mitschreiben ist die Anmeldung auf <https://shownotes.piratenpad.de/> erforderlich)
+
+HEADER
+Einschlafen Podcast 212
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep212> )
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fep212&time=22%3A15%3A00&Button=Create%21>
+Downloadlink: <http://einschlafen.com.de/episoden/ep0212.mp3>
+
+Shownoter: @Quimoniz
+Titel:  "Krank und gesund genug zum zuhause bleiben und arbeiten mit Immanuel Kant"
+
+/HEADER
+
+00:00:00 Sendungsbeginn #chapter
+00:00:30.000 Lauter Themen, die ich in EP 211 schon hatte #chapter
+Rückmeldung zur letzten Folge (bzgl. Weihnachts-Gottesdienst) <http://einschlafen-podcast.de/podcast/ep0211-sehr-verschiedene-gottesdienste-zu-weihnachten-und-silvester-sowie-niels-holgersen/> #podcast
+ein Kommentar wurde nicht veröffentlicht #spoiler
+Toby möchte niemanden Missionieren #topic
+Katholische Kirche <http://de.wikipedia.org/wiki/Katholische_Kirche> #glossary
+Atheismus <http://de.wikipedia.org/wiki/Atheismus> #glossary
+Am Wochenende war Toby beim Geburtstag seiner Nichte
+Rehaklinik Gyhum <http://www.reha-gyhum.de/>
+00:07:00 Toby hat einen Vorsatz für 2013
+Letztes Jahr hatte er den Vorsatz seltener Fahrstuhl zu fahren, das wird er fortsetzen.
+Toby arbeitet im sechsten Stock
+Toby hat sich vorgenommen mehr im Stehen zu programmieren.
+
+00:08:15 Einschlafen App #chapter
+AntennaPod für Android <https://github.com/danieloeh/AntennaPod>
+- im Google Android Market <https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=de>
+IntelliJ IDEA <http://www.jetbrains.com/idea/>
+Eclipse <http://www.eclipse.org/>
+00:09:00 Single- Purpose-App für den Einschlafen-Podcast
+
+00:11:36.000 Wieder mal krank, aber gesund genug #chapter
+Wenn Männer eine Erkältungskrankheit haben, ist die im Schnitt heftiger als bei Frauen.
+Krankheits-Skala
+Eisregensturm bei Tannenbaumbesorgung
+
+00:18:35 Geschenke #chapter
+Klogschieters <http://klogschieters.de/> #podcast
+Coen Brothers <http://de.wikipedia.org/wiki/Ethan_und_Joel_Coen> #glossary
+von Thorsten: O Brother, Where Art Thou <http://www.amazon.de/dp/B000V2SG9O/> #shopping
+von Monica: FC St. Pauli. Das Buch <http://www.amazon.de/dp/3455500986/> #shopping
+von Monica für Mareile: Fünf Freunde <http://www.amazon.de/dp/B00752EQQ0/> #shopping
+von Thomas: Fargo <http://www.amazon.de/dp/B004CQTU8Q/> #shopping
+Monty Pythons Sinn des Lebens <http://de.wikipedia.org/wiki/Der_Sinn_des_Lebens_%28Film%29> #glossary
+Ingwertee
+Cromargan Besteck <http://www.wmf.de/shop/de_de/besteck/bestecke-cromargan.html>
+
+00:23:30.000 Live Stream und Chat Huldigung #chapter
+Live Stream bei Xenim <http://www.xenim.de/>
+Chat und Live Termine <http://einschlafen-podcast.de/chat/>
+IRC (Internet Relay Chat) <http://de.wikipedia.org/wiki/Internet_Relay_Chat> #glossary
+Hobbykoch ist im Chat <http://www.hobbykoch-podcast.de/> #podcast
+Tipp vom Hobbykoch: Salbei in den Ingwertee tun
+Toby dankt den Livehörern und Leuten im Chat
+
+00:26:05.000 Werbung für das Hörertreffen #chapter
+Hörertreffen am 24.1.2013, inkl. Live Gig beim Emergenza <http://einschlafen-podcast.de/2013/01/horertreffen-hamburg-down-under-am-24-1-2013/>
+Down Under in Grindelallee 1 20146 Hamburg <http://www.down-under-hamburg.de/cms/>
+Logo in Hamburg <http://www.logohamburg.de/>
+Emergenza Wettbewerb im Logo <http://www.emergenza.net/default.aspx?pag=739&nav=DE&lng=de-de&idconcerto=288>
+HorstBlank <http://horstblank.de/>
+Toby war beim Hörgeräteakustiker und lässt sich InEar-Gehörschutz machen
+Marshall <http://www.marshallamps.com/>
+
+00:35:22.000 Toby liest aus Immanuel Kant, Die Kritik der reinen Vernunft #chapter
+Gebundene Ausgabe bei Amazon <http://www.amazon.de/dp/3866474083/> #shopping
+Als eBook <http://www.amazon.de/dp/B004SIYJ7U/> #shopping
+
+00:43:00 Ende #chapter
+Toby wünscht allen eine gute Woche
+und verweist auf einen eventuellen Realitätsabgleich am Mittwoch <http://www.wrint.de/>
+

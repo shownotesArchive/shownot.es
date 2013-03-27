@@ -1,0 +1,180 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ notwendig.)
+
+Die Aussagen des Moderators werden kursiv dargestellt.
+
+HEAD
+Blue Moon-/LateLine-Shownotes
+Am 04.12.2012 mit Holger Klein, Tel: 0331 70 97 110; ab 23 Uhr 0800 80 55555
+Thema: Gutes tun
+Seiten zur Sendung:
+ * Blue Moon <http://www.fritz.de/programm/sendungen/33/1212/121204_blue_moon_8301.html>
+ * LateLine <http://blogs.hr-online.de/lateline/2012/12/04/4-dezember-2012-gutes-tun/>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FBM-04-12-12&time=22%3A01%3A00&Button=Create%21>
+Chat: <http://Geheimch.at>
+
+Zusammengetragen von:  Gurkitier, Rainaah, eNBeWe, tp1024
+/HEAD
+
+00:00:00 Sendungsbeginn: ~22:01:00 Uhr #chapter
+Was ist gut und was ist schlecht?
+
+00:04:15 Intromusik: Entertainment For The Braindead – run! (Das Kraftfuttermischwerk-Remix) - <http://www.kraftfuttermischwerk.de/blogg/?p=6389> #chapter
+Tust du Gutes oder schreibst du nur das Internet voll?
+
+00:08:20 Harry aus Berlin #chapter
+Er bezieht sich auf Moralpredigten aus der Bibel.
+Wovon hängt Moral ab? Harry meint, sie hängt von der Erziehung ab und ist Regional anders.
+Bereicherung nicht auf Kosten anderer. Aber kann man sich auch anders bereichern, nicht auf Kosten anderer?
+Warum ist die Gesellschaft zu schwach, KiK in die Schranken zu weisen? <http://de.wikipedia.org/wiki/KiK> #wikilink
+Harry meint, man tut es, wenn es die anderen nicht sehen - wenn man nicht unter der Aufsicht der Gesellschaft steht. Man hofft darauf, dass die anderen etwas Gutes tun.
+5 Euro teurere Jeans bedeutet nicht, dass die Herstellungsumstände besser sind.
+dokumonster <http://dokumonster.de/>
+Doku: Der Preis der Blue-Jeans in ARD Mediathek <http://www.ardmediathek.de/das-erste/reportage-dokumentation/der-preis-der-blue-jeans?documentId=11398300> #video
+Harry macht (unter anderem) im Altersheim Musik.
+
+Holgi spendet an die Malteser Migranten Medizin. <http://www.malteser-migranten-medizin.de/> 99% uneigennützig, hofft aber darauf, dass so etwas existiert, wenn er es selbst einmal braucht.
+
+00:20:45 Konstantin #chapter
+Er betreibt ein größeres IT-Unternehmen.
+Es spendet mehrere Millionen pro Jahr an Open-Source-Projekte (wie z. B. PHP, MySQL und Linux) und humanitäre Projekte.
+Open Source <http://de.wikipedia.org/wiki/Open_Source> #wikilink
+Konstantin kann nicht genau beantworten, an welche humanitären Projekte er spendet.
+Holgi lässt durchblicken, dass der Chat ihn für unglaubwürdig hält - und er selbst auch.
+
+00:28:15 FritzInfo mit Nachrichten, Wetter und Verkehr
+
+00:33:05 Mark, Student aus Wuppertal #chapter
+Er ist studiert Mathematik und Elemente der Physik auf Lehramt und gerade aufgestanden.
+Sein Studentenleben funktioniert nur, weil das Zusammenhalten in seiner Studentenschaft sehr gut ist. Die Studienordnung ist Alternativlos und Gottgegeben.
+Sein Studiengang ist kaum besucht, die Professoren geben sich mit gerade so bestandenen Prüfungen zufrieden.
+Didaktik <http://de.wikipedia.org/wiki/Didaktik> #wikilink steht leider im Studium hinten an und kommt erst nach der Fachausblidung (Physik bis zum Diplom).
+Im Abitur wollte jeder den besten Abschluss für sich selbst haben. Dagegen hilft man sich an der Uni in Lerngruppen gegenseitig.
+Gaußsche Glockenkurve <http://de.wikipedia.org/wiki/Normalverteilung> #wikilink
+Lehrerin wurde gerügt, weil sie zu wenig Fünfen vergab <http://www.spiegel.de/schulspiegel/wissen/strafversetzt-wegen-guter-noten-grundschul-rebellin-erhaelt-courage-preis-a-628411.html>
+Pädagogischer Begriff für Schüler: Edukant
+Die Studenten sind an sich freundlicher geworden.
+Holgi meint, der soziale Druck hat nachgelassen in Sachen Umweltschutz und Müllvermeidung/Entsorgung.
+Freundlichkeit durch Kompetenz
+
+00:44:30 Bastian aus Golßen im Spreewald #chapter
+Bastian macht sich über die Unglaubwürdigkeit von Konstantin lustig.
+Er hat ein kleines Unternehmen im Aufbau
+Sein Projekt: meinungszone.de <http://www.meinungszone.de/>
+Umfragen werden von Marktforschungsinstituten bereitgestellt. (z.B. GfK) <http://de.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_Konsumforschung> #wikilink
+Verifizierung der Teilnehmer u.a. per IP-Adresse
+Er hat große Konkurrenz.
+Er nutzt Affiliate-Programme um seine Seitenbesucher an Amazon etc. weiterzuleiten und spendet die Provision. Er behält das Geld aus Imagegründen nicht.
+Panels <http://de.wikipedia.org/wiki/Online-Panel> #wikilink
+Er lobt den RTL-Spendenmarathon <http://de.wikipedia.org/wiki/RTL-Spendenmarathon> #wikilink
+
+00:54:05 Joachim aus Hessen #chapter
+Er stottert, ist aber dennoch gut anhörbar.
+Er bedankt sich bei Holgi für die Sendung und sieht diese als Nutzen für die Allgemeinheit. Holgi gibt ihm die Erlaubnis, ihm ein Denkmal zu bauen.
+Er hat dieses Jahr 3000 Stunden ehrenamtlich gearbeitet, bezieht Hartz IV.
+Hat auch schon darüber nachgedacht, seine ehrenamtliche Arbeit als Hauptberuf durchzuführen.
+Bietet Selbsthilfewebsite an.
+http://www.stottern-hessen.de/selbsthilfegruppen/giessen.html
+
+
+01:01:55 Halbzeitmusik: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - <http://www.kraftfuttermischwerk.de/blogg/?p=153> #chapter
+Holgi stellt die Frage in den Raum: Gibt es einen objektiven Maßstab dafür etwas Gutes zu tun?
+
+01:05:10 Niklas  (17) #chapter
+Er lobt seinen Vorredner. Er will, dass die Leute mehr lächeln.
+Stiftung Deutsches Zentralinstitut für soziale Fragen 
+<http://www.dzi.de/>
+
+01:09:50 Laura, Studentin aus Leipzig #chapter
+Spendet an Greenpeace. <http://de.wikipedia.org/wiki/Greenpeace> #wikilink
+Holger fragt, warum Laura gerade Tierschutz interessiert, während auch genügend Elend unter den Menschen existiert.
+Sie hätte gerne Meeresbiologie studiert. <http://de.wikipedia.org/wiki/Meeresbiologie> #wikilink
+Stattdessen studiert sie jetzt Humanmedizin.
+Ärzte ohne Grenzen <http://www.aerzte-ohne-grenzen.de/>
+Deutsche Knochenmarkspendedatei <http://de.wikipedia.org/wiki/Deutsche_Knochenmarkspenderdatei> #wikilink
+Organspendeausweis <http://de.wikipedia.org/wiki/Organspendeausweis> #wikilink
+
+01:21:00 Robert, Physiotherapeut #chapter
+Was soll ich Gutes tun, Robert? Holgi will Robert ins Klassenbuch eintragen, weil er nicht zugehört hat.
+Im Beruf regelmäßig "gute Taten" aber auch schon viel Schlimmes gesehen.
+Spendet regelmäßig Blut/Blutplasma, ist registriert bei DKMS und Organspender.
+Holgi fragt warum man häufiger alten Leuten hilft als jungen Menschen.
+Jüngere Menschen können sich noch selber helfen, ältere Menschen brauchen die Hilfe um den Koffer zu tragen, trauen sich aber häufig nicht zu fragen.
+
+01:27:05  Moritz aus Ingolstadt #chapter
+Ist seit 9 Jahren (4. Klasse) bei einem Stamm der Pfadfindern und zwingt alte Leute die Straße zu überqueren.
+Vorurteil: "Pfadfinder helfen alten Leuten über die Straße und verkaufen Kekse."
+Ist den Pfadfindern beigetreten, als sich ein Stamm in seiner Siedlung gegründet hatte.
+Beteiligt sich an Jugendfahrten und Pfadfinderlagern mit kleinen Kindern um denen auch mal Reisen zu ermöglichen und freut sich über die Dankbarkeit der Kinder. Jugendleiter bekommen mehr Urlaub, zumindest bei der Bundeswehr.
+Jugendleitersonderurlaub <http://bayern.vcp.de/schul_sonderurl.html>
+Was wollt ihr Pfadfinder eigentlich?
+Treffen einmal in der Woche, auch Themen wie "Bratapfel braten" oder "Spuren lesen" jetzt im Dezember.
+Man spielt Fahnenklau, das artet aber manchmal in Frustration und Tränen aus.
+
+01:36:00 Anna #chapter
+Sie hat mit Freunden eine kleine Organisation über Facebook gegründet, die Spenden unter 5 € einsammeln.
+Schon Spenden an "Ärzte ohne Grenzen", ein Indianderzeltlager und die Behandlung einer kranken Familie die im Ausland sozial arbeitet.
+Sie schläft immernoch genauso gut wie vorher.
+Die "neue Generation" die mit freiwilligem sozialen Jahr o.ä. sozialisiert ist, möchte auch weiterhin helfen.
+
+01:40:45 Eileen (16), Auszubildene #chapter
+Schon bei der Berufswahl darüber nachdenken, ob man Gutes tut.
+Sie macht eine Ausbildung zur tiermedizinischen Fachangestellten.
+Sie hat zunächst auch darüber nachgedacht, im Altenheim zu arbeiten. Sie glaubt aber nicht, dass sie das Leid ertragen könnte.
+Behandelt in der Klinik unter anderem Reptilien. Die richtige Haltung ist vielen Leuten unbekannt. Eine Schildkröte war mit 6 Jahren schon so groß wie sonst mit 40 Jahren, sie war wahrscheinlich überfressen und hielt nie Winterruhe, auch lebte sie nicht im Terrarium. 
+Sollten wir nicht erstmal den Menschen helfen, bevor wir Tieren helfen?
+Für Menschen wird schon an vielen Ecken geholfen, da ist es schwierig, die Spenden oder die Hilfe dahin zu bringen, wo sie hin soll
+
+01:47:40 Karin aus Wittenberge #chapter
+Sie ist sehr aufgeregt. Sie schlägt vor, kleine Sachen zu machen.
+Für den Nachbarn kochen, auf die Kinder der Nachbarin aufpassen, Feuerwehrleuten Kaffee kochen
+Wenn alle auf ihre Nachbarn achten, gehts allen gut.
+Ihr Nachbar erzählt ihr gerne viele Dinge, sie versteht ihn aber nie.
+Leuten zuzuhören, hilft diesen.
+Nächstes Jahr möchte sie den Spielplatz aufräumen, die Arbeit der Gemeinde reicht nicht aus.
+
+01:53:40 Norman, Bundeswehroffizier #chapter
+Holgi strebt eine Frauenquote von 100% an.
+Norman hat mal Pädagogik studiert und möchte über Normen in der Moral sprechen.
+Stufen der Moral <http://de.wikipedia.org/wiki/Stufentheorie_des_moralischen_Verhaltens> #wikilink
+Kritik an Mutter Teresa <http://www.heise.de/tp/artikel/15/15888/1.html><Norman gttp://www.heise.de/tp/arWikel/15/15888/1.html>
+Glaubt, dass man auf d
+Jeder für seine Welt.
+Warum sind wir auf dieser Welt? Was ist der Sinn des Lebens?
+Krankenschwestern und Pflegepersonal sollten besser bezahlt werden, weil sie wirklich wichtige Arbeit für die Menschheit leisten.
+Wertschätzung sollte nicht in Geld ausgedrückt werden.
+Als Offizier bei der Bundeswehr will er auch Menschen helfen. Holgi reduziert den Soldaten auf seinen Primärzweck - Soldaten sind da um aufeinander zu schießen. Er darf aber nur zurück schießen, wenn er selbst beschossen wird.
+Er hat in Afghanistan Polizisten ausgebildet
+Will dafür sorgen, dass Kinder in Sicherheit zur Schule gehen können und der Bevölkerung die Mittel zur Verfügung stellen, um sich selbst zu sichern.
+Kann es etwas Gutes im Schlechten geben? Norman spricht über die Hintergründe des Konfliktes und die Abhängigkeit der Bevölkerung als Ursache des Krieges.
+Norman hält das deutsche Kontingent für die Guten(TM).
+
+02:16:45 Dennis  (24), professioneller Schwarzarbeiter aus Berlin-Kreuzberg #chapter
+Dennis hat um die Jahrhundertwende viel Gewalt auf der Straße erlebt - u.a. mit Macheten - beim Cottbusser Tor. 
+Wenn man als Jugendlicher viel Gewalt gesehen hat, denkt man nicht viel über die Zukunft nach. Manche Leute bleiben in diesem Leben hängen, wenn sie erwachsen werden. 
+Hat eine Fußballmannschaft gegründet und "von der Straße" geholt. Jede Woche ein Spiel gespielt, viele Spiele 0:15 oder 0:20 verloren. In Neukölln - FC Union Südost.
+Er arbeitet schwarz im Restaurant und auf dem Markt
+Berufstipp von Holgi: Tischler
+
+02:28:30 Ingo aus Berlin #chapter
+Professioneller Anti-Scientology Demonstrant. Hilft beim Ausstieg im Rahmen von Anonymous. Jeden Sonntag Demonstration am Scientology Buch- und Psychoteststand, der "Freie Stresstests" kostenlos anbietet.
+Projekt Chanology <http://de.wikipedia.org/wiki/Anonymous_(Kollektiv)#Projekt_Chanology> #wikilink
+Scientology übt Bewusstseinskontrolle aus und macht keine Gehirnwäsche.
+Ist über eine Fernsehdokumentation sensibilisiert worden, seit 2010 regelmäßig, bis zu 5 Mal im Monat, auf Demonstrationen. Hat schon mehrfach agressive Reaktionen von Scientology mitbekommen.
+Holgi empfiehlt zu Scientology die South-Park-Folge "Trapped in the Closet" (dt. "Schrankgeflüster") <http://www.southpark.de/alle-episoden/s09e12-schrankgefl%C3%BCster>
+Scientology zieht sich immer wieder auf "Religionsfreiheit" zurück.
+Ingo schildert die 'Rückbekehrung" eines Scientologen und seiner Familie. Größtes Problem beim Ausstieg ist die Leere. Scientology ist in der US Religionsstatistik nur noch unter "sonstige" zu finden. In Deutschland abnehmende Popularität bis auf ein Bundesland.
+
+02:42:20 Maik, LKW-Fahrer aus Chemnitz #chapter
+Seine Frau macht Bundesfreiwilligendienst im Altenheim, für 18 Monate. Wie lang genau, weiß keiner im Behördenwahn. Sie hilft bei Bewegungstherapien, unter anderem auch im Wasser.
+Er ist Knochenmarkspender, wurde schon einmal abgerufen. OP in der Uniklink, bei der Material aus dem Rückenmark entnommen wurde. Vorher mehrere Tage Spritzen zur Vorbereitung.
+Leider hat der Empfänger nicht überlebt. Es gibt eine Sperrfrist von 2 Jahren über Informationen nach der Spende.
+Krankenkasse übernimmt nichtmal Verbandwechsel nach der Spende.
+Maik ist auch in einem Kinderheim tätig und LKW-Fahrer.
+Bezweifelt die Gemeinnützigkeit der Tierärzte mit wenig Zurückhaltung.
+
+02:52:00 Alexander, Beruf aus Brühl (NRW) #chapter
+Ist psychisch schwerbehindert Knochenenzephalitis (Hirnhautentzündung) und arbeitet seit 2001 in einer gemeinnützigen Werkstatt, die Möbel aufarbeitet und an bedürftige Leute weitergibt. In der Werkstatt arbeiten 209 Leute und es werden weiter Leute gesucht.
+Verbessert seine Rente durch die Arbeit statt nur Sozialhilfe zu beziehen.
+
+2:57:00 Sendungende, Outro-Musik: Billy Talent: Stand Up And Run
+

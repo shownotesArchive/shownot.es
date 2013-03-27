@@ -1,0 +1,91 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+Alle        Einträge bitte mit dreistelligem Zeitstempel:  hh:mm:ss, also z.   B.      01:23:45; damit diese synchronisiert sind, bitte  den   "Timer"-Link      benutzen, sobald er an die Startzeit angepasst ist!    Überzählige      Zeitstempel können dann ggf. beim späteren   Überarbeiten     herausgenommen   werden! Zitate in <italic>,   Themenüberschriften    in   <bold>.  Danke
+
+
+Realitätsabgleich 26, Mittwoch, 9. Januar 2013
+mit Holger Klein (@holgi), und Toby Baier (@tobybaier, @schlafein)
+Publikation: <http://wrint.de>, <http://einschlafen-podcast.de>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://xsn.io/wrint.mp3>
+Chat: <http://webchat.freenode.net/?channels=%23kleitung>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fra26&time=11%3A39%3A00&Button=Create%21>
+
+Zusammengetragen von: @evitabley, @eNBeWe
+
+00:00:00 Intro #chapter
+
+00:01:00 Captchas #chapter
+Firmenname beim Captcha an welches sich Holgi nicht mehr erinnert
+Erstellung von Captchas
+OCR-Optimierung
+Buchscans im Google Books Projekt <http://www.google.com/recaptcha>
+00:04:25 Captchafalscheingabering wird von Holgi gefordert
+Holgi hat Spass mit den Captchas vom Webchat.
+Toby wurde wegen eines Bettina Wulff Witzes von Feministinnen kritisiert.
+00:07:00 Scheidung der Wulffs <http://www.spiegel.de/politik/deutschland/bettina-und-christian-wulff-sollen-sich-getrennt-haben-a-876094.html>
+Holgi kritisiert den Einfluss von kirchlich beeinflussten Gesetzen und Regelungen.
+Gleichstellung von Ehe und gleichgeschlechtlichen Partnerschaften.
+Ablauf einer Scheidung, vorgeschriebene Trennungszeit von einem Jahr. <http://www.scheidung-online.de/trennungszeit.htm>
+00:09:25 Religion ist schuld an allem
+00:10:00 Trennung ist für Kinder manchmal auch besser
+00:10:50 wenn ein Homosexuelles Paar Kinder adoptiert, dann haben sie sich lange Gedanken gemacht
+00:11:40 Homosexuell zu sein ist mit Sicherheit ziemlich anstrengend, wegen "der anderen"
+00:12:50 "Wenn die Homo-Ehe dazu führt, dass ich mir von Taxifahrern keine Schwulenwitze mehr anhören muss, dann ist schon was geschafft." #zitat
+00:15:00 Untergang des römischen Reichs
+00:16:00 über Kinder wird heute erst ab ca 30 nachgedacht im Gegensatz zu "früher"
+
+00:16:30 Christian Wulff #chapter
+unverfängliches Thema, aber langweilig
+Kinder von Promis haben es nie leicht
+TokioHotel Brüder bei DSDS <http://www.rtl.de/cms/sendungen/superstar/dsds-news/dsds-2013-tokio-hotel-zwillinge-bill-und-toms-erste-woche-in-der-jury-276b2-918a-24-1277986.html>
+00:18:00 die goldenen Zitronen <http://www.die-goldenen-zitronen.de> 
+00:18:50 Holgi hat Angst, dass ihm das selbe passiert wie Wulff
+00:21:30 Wulff ist Prochrist
+00:22:00 Sylvie van der Vaart wurde von Rafael geschlagen -> Trennung <http://www.abendblatt.de/hamburg/article112544114/Van-der-Vaart-Trennung-Wer-muss-wen-bezahlen.html>
+00:23:00 Holgi kommt mit Gauck nicht klar 
+Gauck Buch: Freiheit <http://www.amazon.de/Freiheit-Ein-Pl%C3%A4doyer-Joachim-Gauck/dp/3466370329/ref=sr_1_2?ie=UTF8&qid=1357729448&sr=8-2>
+00:25:45 Ist doch egal ob man Glauben oder Fernsehzeitungen verkauft, Drückerkolonne ist Drückerkolonne. #zitat
+00:26:30 Tobys Cousin ist Pfarrer und hat Tobys Hochzeit geleitet.
+00:27:00 Toby hat bei seiner Hochzeit nicht das Glaubensbekenntnis mitgesprochen, weil der dem nicht zustimmen kann.
+00:27:35 Glauben die Christen wirklich an die unbefleckte Empfängnis?
+
+00:29:00 Neue Hardware #chapter
+Toby hat ein Nexus 4 
+Kollege von Holgi kauft sich kein Nexus, weil man den Akku nicht austauschen kann
+00:29:45 Nexus 4 ist so ähnlich wie iPhone, nur mit Android drauf.
+Telefon ist flutschig #zitat
+00:31:00 HTC Desire HD war Anfang 2012 das Flagschiff und wurde dann aber nicht auf Android 4 geupdatet <http://www.golem.de/news/htc-desire-hd-kein-android-4-update-wegen-zu-kleiner-systempartition-1207-93516.html>
+00:35:00 iPhone ist gerade schön, weil man nichts einstellen muss. #zitat
+00:36:00 Flick shoot <https://play.google.com/store/apps/details?id=net.mobilecraft.football&hl=de>
+00:36:40 Holgi erzeugt warmes Wasser mit Strom und hat sich einen neuen Durchlauferhitzer gekauft.
+00:37:25 Der alte Durchlauferhitzer ist hydraulisch und hat sich gerne mal mitten beim duschen abgestellt oder eine Stufe höher gestellt wenn man ne kleine Änderung gemacht hat.
+00:39:45 Toby hat Thermostatarmaturen und findet die toll.
+00:41:20 Duschen bei welcher Temperatur? Holgi badet gerne lau. Toby duscht laut Armatur bei 40°C
+00:42:20 Toby hat nen neuen Computer, diesmal kein Apple sondern einen Windows PC
+00:44:30 Der Windows 8 Rechner hat UEFI (Secure Boot) und wollte erstmal kein Linux installiert bekommen. <http://de.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface> #wikilink
+00:46:10 Warum hat Microsoft soviel Kontrolle über die Hardware?
+00:46:40 TCPA und die Folgetechnologien
+00:48:00 Linux ist nur was für Nerds, Holgi möchte eine funktionierende Out-of-the-Box Lösung.
+00:50:10 Toby hält Ubuntu inzwischen für eine funktionierende Linux Distribution
+00:50:50 selbst das billigste Macprodukt kostet noch 650 Euro
+00:51:45 Tobys neuer PC ist der aktuelle Aldi-PC
+00:52:30 Holgi hatte noch einen der ersten Aldi-PCs, der noch in Bargeld bezahlt werden musste.
+00:53:30 Welche Displayausgänge hat der Mac mini und welche Anschlüsse haben die Monitore heutzutage?
+00:55:00 ein Desktop-PC ist immer noch so groß wie "damals"
+00:55:25 Das CD-Laufwerk ist am lautesten, der Lüfter ist leise genug, dass er nicht stört.
+
+00:54:30 Toby will endlich für Android entwickeln #chapter
+00:56:00 Toby will eine App entwickeln, mit der man Podcasts hören kann ohne die Podcasts abonnieren zu müssen.
+Podkicker, Antennapod sind keine guten Podcatcher
+Die App soll nicht den Podcast als Feed präsentieren, sondern den Inhalt transportieren.
+01:01:30 Programmierung von Android in Java, iPhones benötigen Objective-C. iOS kann nur unter xCode entwickelt werden.
+
+01:02:40 Sendungsende 
+01:03:00 Outro #chapter
+
+
+
+
+

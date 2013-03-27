@@ -1,0 +1,249 @@
+HEADER
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge  bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>. Danke
+
+Standard Tags: #chapter #section #spoiler #topic  #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NSFW62 (Mittwoch, 30. Januar 2013)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/nsfw.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NSFW062>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Chatlogs: <http://pastebin.com/zWAk7hMj>
+
+Zusammengetragen von: @mrmoe, Gurkitier, @evitabley, @SimonWaldherr, German, Pooky
+
+Sendungsbeginn: 12:36:37 Uhr (1359545797)
+
+Sendungsende: ca. 15:59:10 Uhr ()
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+"Alpisch"
+"Anruf auf Österreich"
+"Fefe spielt Kimble"
+"Sind Sie auch schön zu Käse?"
+"Berlin ist nicht Offenbach"
+"Tim wird deutsch"
+
+Kapitelmarken: 
+
+/HEADER
+
+1359545797 Intro #chapter
+"7200 Schilling Song von Kurz Razelli" <http://www.youtube.com/watch?v=4VTTz6CrFM4> #video
+Tim und Holgi unterhalten sich über den österreichischen Dialekt #topic
+1359546020 Gerhard "Disco" Doser Song <https://www.youtube.com/watch?v=_E6rHhgXcq8> #video
+1359546050 "Bringta Bringta, nach Hause alle schicken" Wien Song by Kurt Razelli <http://www.youtube.com/watch?v=BCJHZri9lj0> #video
+1359546223 Holgi ist ein Messertyp
+1359546238 "Das ist doch kein Messer, DAS ist ein Messer" Zitat aus Crocodile Dundee #quote
+Tim begrüßt die Zuhörer zur 62. Show
+1359546272 Holgi wurde in der Bild-Zeitung zitiert <http://www.bild.de/unterhaltung/tv/tatort/riesenaufstand-gegen-klamauk-tatort-28254048.bild.html>
+1359546285 @inschka (Insa.oh insa) <https://twitter.com/inschka>
+1359546360 Holgi beschwert sich, dass er auf Twitter kein blaues Häckchen hat #topic
+1359546385 Holgi war schon 4 mal in der Bildzeitung, Tim noch nie #topic
+Holgi zitiert Bild-Schlagzeile "Mutiger Surfer alarmiert die Staatsanwaltschaft".
+1359546474 2002 in der Bild mit Sascha Lobo Witz
+1359546483 Alle Kommentare und Texte von Holgi sind von Sascha Lobo #joke
+1359546512 Bild-Zeitung: "Holger Klein vom ORB: Im Radio kann man vielleicht so rumlaufen; im Fernsehen nicht!" #quote
+1359546580 Holgi guckt nur den Tatort, Jauch ist ihm aber zu blöd.
+1359546623 Christopher Lauer im Fernsehen <http://de.wikipedia.org/wiki/Christopher_Lauer> #glossary
+1359546642 Auch Tim erträgt es nicht mehr
+1359546702 Tage, an denen man Alice Schwarzer und Silvana Koch Mehrin gut findet. Gleichzeitig. <https://twitter.com/timpritlove/status/295647572041822208> #tweet #topic
+1359546746 Sprachkurs für Österreicher #topic
+1359546762 Tim würde sich über einen Kurs "Deutsch-Österreichisch" freuen, aber nur richtiges wienerisch
+1359546826 Zweiteiler auf 3sat: "Aufschneider" <http://www.3sat.de/page/?source=/film/167132/index.html>
+1359546859 Josef Hader <http://de.wikipedia.org/wiki/Josef_Hader> #glossary
+1359546891 Das Gute am Pathologen-Job ist, dass sich keiner beschwert #topic #joke
+1359546903 Tim empfiehlt sich den ersten Teil von Aufschneider aus der Mediathek zu holen und heute im laufe des Abends den zweiten Teil zu gucken
+1359546911 Die Mediathek-App ist weg #topic <http://appdrive.net/mediathek/discontinued/>
+1359546942 für Tim ist es ein sexuelles Erlebnis Wiener sprechen zu hören. #joke
+1359546975 Direkt nach britischem Humor kommt der Wiener Schmäh #joke #topic
+1359547040 Peter Scholl-Latour <http://de.wikipedia.org/wiki/Peter_Scholl-Latour> #glossary
+
+1359547044 Sexismus-Debatte #chapter
+Günther Jauch-Sendung zur Sexismusdebatte (27.01.2012) <http://daserste.ndr.de/guentherjauch/guentherjauch275.html> #video
+1359547045 Wiebke Bruhns <http://de.wikipedia.org/wiki/Wibke_Bruhns> #glossary
+1359547103 Alice Schwarzer: "Themen statt Köpfe"?  <http://de.wikipedia.org/wiki/Alice_Schwarzer> #glossary
+1359547278 Thomas Osterkorn, Chefredakteur vom Stern <http://de.wikipedia.org/wiki/Thomas_Osterkorn> #glossary
+1359547322 Holgi braucht ein Bier, um sich abzuregen #joke
+1359547390 Atömchen bei Micky Maus <http://de.wikipedia.org/wiki/Liste_der_Bewohner_Entenhausens#Gamma_und_At.C3.B6mchen> #glossary
+1359547498 Rainer Brüderle <http://de.wikipedia.org/wiki/Rainer_Br%C3%BCderle> #glossary
+1359547725 Das Sexismus-Problem in Deutschland wird sehr unterschiedlich wahrgenommen. #topic
+1359547862 Zuschreibungsfehler
+1359547932 "Mal ganz ehrlich, Tim. Ich weiß nicht, was Du hast. Wir haben doch eine Kanzlerin" (Holgi) #spoiler #quote
+1359548045 Das kleinerdrei-Blog: Normal ist das nicht! <http://kleinerdrei.org/2013/01/normal-ist-das-nicht/> #topic
+1359548050 "Kleinerdrei? Das neue schlechte-Laune-Blog?" (Holgi) #spoiler #quote
+1359548147 Holgi will Alice Schwarzer anrufen
+1359548157 Song: "Geld et Nelt - Des Lied mit de Farwe" <http://www.youtube.com/watch?v=1zXMpHyGuHE>
+1359548419 Holgi ist hochdeutsch aufgewachsen und kann daher nicht auf Kölsch sprechen #spoiler
+1359548433 Pommerland, Maikäferlied <http://de.wikipedia.org/wiki/Maikäfer_flieg> #g
+1359548538 Holgi war letzte Woche in Köln
+1359548597 Tim war vorgestern auf dem 24C3 im BCC. für den Wikileaks-Film #topic
+1359548627 WikiLeaks-Film: "The Fifth Estate" (2013) <http://www.imdb.com/title/tt1837703/>
+1359548840 Robert Anton Wilson <http://de.wikipedia.org/wiki/Robert_Anton_Wilson> #g
+1359548842 Karl Koch <http://de.wikipedia.org/wiki/Karl_Koch_(Hacker)> #g
+1359548852 23, der Film mit Kongressszene <http://www.imdb.com/title/tt0126765/>
+1359548922 Hackers <http://www.imdb.com/title/tt0113243/>
+1359549020 Tim hat keinen Stress und Zeit, Holgi hat keine Zeit und Stress
+1359549127 "Was denkst du wirst am Ende deines Lebens bedauern" als Thema für den Blue Moon #topic <http://www.fritz.de/programm/sendungen/33/1301/130130_blue_moon_8912.html>
+
+1359549429 Reisen #chapter
+1359549430 Tim bedauert, nicht mehr gereist zu sein #topic
+1359549506 Flug ohne Rückflug
+1359549583 Holgi findet Thailand toll, Tim war noch nie dort #topic
+1359549749 Auszeit nach der Schule #topic
+1359549768 "Haut einfach ab!" (Tim) #quote
+1359549831 IRC: unterstrom schlägt vor, auf Kimbles Ranch ein Hörertreffen zu machen #spoiler
+1359549881 Nach Neuseeland braucht man ca. 36 Stunden brutto
+1359550080 Unterschiede der verschiedenen Klassen beim Fliegen (1st, Business, Economy) #topic
+1359550119 Flugbörse Traveloverland <http://www.travel-overland.de>
+
+1359550243 Panzer und Infokrieger #chapter
+1359550244 "Ich würde auch Werbung für Panzer machen. Aber nur für die coolen Panzer." (Holgi) #spoiler
+1359550298 Softair-Waffen <http://de.wikipedia.org/wiki/Softairwaffe> #glossary #topic
+1359550299 Softair Sturmgewehr "NERD CLEAR" <http://www.amazon.de/dp/B002G3GZEE/> #shopping
+1359550430 Nerds regieren die Welt <http://boingboing.net/2013/01/18/nerds-are-one-of-the-most-da.html> #video
+1359550457 Alex Jones <http://de.wikipedia.org/wiki/Alex_Jones> #g #topic
+- seine Website: <http://www.infowars.com>
+1359550510 Verschwörungstheorien <http://de.wikipedia.org/wiki/Verschwörungstheorie> #g
+- 9/11-Truther <http://de.wikipedia.org/wiki/9/11_Truth_Movement> #g
+1359550564 Piers Morgan <http://de.wikipedia.org/wiki/Piers_Morgan> #glossary
+1359550764 "Piers Morgan hat Dreck am Stecken" #quote
+1359550810 Alex Jones bei Piers Morgan Teil 1 <http://www.youtube.com/watch?v=AtyKofFih8Y> #video
+- Das Ende von Teil 2 wurde gezeigt <http://www.youtube.com/watch?v=Tf-i3Y5iRYo> #video
+1359550950 Holgi: "Typen wie Alex Jones muss man auslachen" #quote
+
+1359551133 Podcast-, Fremdsprach- und App-Empfehlungen #chapter
+1359551134 Podcastempfehlung zum Thema Philosophie: Vorgedacht <http://www.vorgedacht.net/> #topic
+1359551299 Soziopod <http://soziopod.de/> #topic
+1359551330 Tim hätte gerne mehr Sprachen gelernt #topic
+1359551414 "Filme nur im Original gucken!" (Tim) #quote
+1359551485 Radio Bremen Nachrichten auf Latein <http://www.radiobremen.de/nachrichten/latein/>
+- Podcast <http://www.radiobremen.de/podcast/latein/> #topic
+1359551590 Holgi empfiehlt: "Lernt kein Latein in der Schule!" #quote
+1359551760 Tim fand Französisch in der Schule doof
+1359551795 3 Monate in Frankreich sind genau so gut wie 6 Jahre Französischunterricht in der Schule #topic
+1359551934 Tim schlägt wechselseitigen Schüleraustausch vor #topic
+1359552000 "Es wird aber leider nicht passieren" #quote
+1359552020 Holgis App-Empfehlung: Langzeitbelichtung
+1359552090 Langzeitbelichtung ohne Blende ist nicht möglich #topic
+1359552199 Die beste App in Holgis Test: Slow Shutter <https://itunes.apple.com/de/app/slow-shutter-cam/id357404131> #shopping
+
+1359552284 Von Griechen, Muslimen und Schweden #chapter
+1359552285 Pythagoras <http://de.wikipedia.org/wiki/Pythagoras> #g
+- Satz des Pythagoras <http://de.wikipedia.org/wiki/Satz_des_Pythagoras> #g
+1359552400 Holgi will das Lied vom Anfang nochmal hören
+- Tim spielt aber keine Lieder doppelt
+- stattdessen spielt er ein weiteres Video ab <http://www.youtube.com/watch?v=ypS8ciXE7F8> #video
+1359552535 "Das Frauenbild des Islam ist komisch" #quote #topic
+1359552603 Screaming at night in Sweden. <http://www.youtube.com/watch?v=7WhW30sjFhA> #video #topic
+- original <http://www.liveleak.com/view?i=c26_1357935775> #video
+1359552750 Holgi denkt, er würde gerne in Schweden wohnen #spoiler
+
+1359552773 Podlove und die Metaebene #chapter
+1359552773 Hörertreffen der Metaebene <http://metaebene.me/hoerertreffen/> #topic
+1359552822 Tim dankt dem Shownot.es-Team <http://shownot.es/> #topic
+1359552875 Podlove-Crowdfunding <http://metaebene.me/blog/2013/01/15/podlove-crowdfunding/> #topic
+1359552930 Holgi: "Soll ich die Nummer meines Schweizer Kontos durchsagen?" #quote
+1359553055 Tim erklärt Versionsverwaltung <http://de.wikipedia.org/wiki/Versionsverwaltung> #g #topic
+1359553076 Commit <http://de.wikipedia.org/wiki/Commit> #g
+1359553104 "cvs commit Suicide" #quote #joke
+1359553116 "Mit den Jahren verstehe ich Deine Witze immer besser." (Holgi) #spoiler
+1359553165 Tim hat ein "James Bond Duckface..." (Holgi) #spoiler
+1359553190 Roger Moore im Interview <http://entertainment.time.com/2012/11/09/sir-roger-moore-on-why-daniel-craig-is-the-best-james-bond-ever-and-what-007-role-hes-dying-to-play/>
+1359553282 "Die Zwei" <https://de.wikipedia.org/wiki/Die_Zwei>
+1359553335 Nächste Woche wird der Aufruf konkret #topic
+1359553336 Podlove Podcast Publisher <http://podlove.org/podlove-podcast-publisher/>
+- git repo <https://github.com/eteubert/podlove> #source
+1359553340 Podlove Web Player <http://podlove.org/podlove-web-player/>
+- git repo <https://github.com/gerritvanaaken/podlove-web-player> #source
+1359553555 Gerrit van Aaken <https://twitter.com/gerritvanaaken>
+1359553568 Eric Teubert <https://twitter.com/ericteubert>
+1359553615 "Software ist nie fertig" #quote
+1359553630 Holgi "Die Software ist fertig, wenn ich es verwenden kann" #quote
+1359553680 Cloudlove wird vorgeschlagen (Podlove in der Cloud als SaaS)
+1359553715 Tim möchte vor der re:publica gerne ein Podcaster-Workshop-Wochenende in Berlin abhalten #topic
+1359553769 re:publica <http://re-publica.de> #topic
+
+1359553807 Filmempfehlungen #chapter
+1359553807 Ronald Reagan #topic
+- Video <http://www.youtube.com/watch?v=uqZ-ToXjCz0> #video
+- Wikipedia <http://de.wikipedia.org/wiki/Ronald_Reagan> #g
+1359553906 Adam Curtis' Dreiteiler: "The Power of Nightmares" #topic
+- IMDB <http://www.imdb.com/title/tt0430484/> #g
+- Wikipedia <http://en.wikipedia.org/wiki/The_Power_of_Nightmares> #g
+1359553987 BBC iPlayer (Global) für iOS <https://itunes.apple.com/de/app/bbc-iplayer-global/id449130604> #topic
+1359554100 Holgi empfiehlt "Die üblichen Verdächtigen" (1995) #topic
+- IMDB <http://www.imdb.com/title/tt0114814/> #g
+- Wikipedia <http://de.wikipedia.org/wiki/Die_üblichen_Verdächtigen> #g
+- Amazon <http://www.amazon.de/dp/B00004Y3LM> #shopping
+1359554166 Luftschiffe
+- Starrluftschiff <http://de.wikipedia.org/wiki/Starrluftschiff> #g
+- Prallluftschiff <http://de.wikipedia.org/wiki/Prallluftschiff> #g
+1359554286 Holgi stellt sich als Last zur Verfügung
+
+1359554325 Nationalitäten und Diskriminierung #chapter
+1359554326 Die Briten wollen aus der EU austreten #topic
+1359554520 Commonwealth of nations <http://de.wikipedia.org/wiki/Commonwealth_of_Nations> #g
+1359554648 "Der Austritt der Briten würde alles vereinfachen" #quote
+1359554735 Schottland muss sich zwischen EU und Commonwealth entscheiden #topic
+1359554765 Tim: "Ach, ich wollt doch mal deutscher werden" #quote
+1359554830 Einbürgerung #topic
+1359554853 Holgi: "Tim wird deutsch!" #quote
+1359554900 Film: "Die große Depression" <http://www.amazon.de/dp/B000E6TVG4> #video
+1359554930 Holgi: "Verknüpfungen im Weltnetz, ja, so reden wir Deutschen" #quote #joke
+1359554990 Holgi ist blauäugiger Deutscher und zäh wie Leder #joke
+1359555141 Film "Blauäugig" #topic
+- Wikipedia <http://de.wikipedia.org/wiki/Blauäugig_(1996)> #g
+- Amazon <http://www.amazon.de/dp/B000E5LHM6/> #shopping
+- Youtube <http://www.youtube.com/watch?v=27QNYsfe7rY> #video
+1359555308 "My name ist Earl" 
+1359555334 "Raising Hope"
+1359555351 Holgis Gespräch mit einem Anonymous-Aktivisten in WRINT <http://www.wrint.de/2013/01/24/wr142-ortsgesprach-anon-magnum-wg-scientology/> #topic
+- Scientology <http://psiram.com/ge/index.php/Scientology> #glossary
+1359555629 Megaphone <http://www.helpi.com/Feuerwehr/Ausruestung/Megaphone.htm> #topic
+1359555800 "Alles ist in bester Ordnung, es gibt keinen Grund zur Beunruhigung." #quote <http://www.youtube.com/watch?v=KGA9ZUEa3ZY> #v
+1359555921 Schwäbische Bäckerei im Prenzlauer Berg
+1359555940 WRINT Geschenkartikel
+1359556018 PreOutro: Feindflug feat. Axel Stoll - Strafplanet <http://www.youtube.com/watch?v=G6qtc_7NBL8> #video
+
+1359556263 Geschenke #chapter
+1359556264 Holgi ist aufgefallen, dass sie vergessen haben, Geschenke auszupacken #topic
+1359556287 one more thing (Hidden Track) - Geschenke #topic
+1359556377 Geschenk von Patrick aus Bern: Rauschgiftquartett <http://www.weltquartett.de/site/rauschgift.html> #topic
+1359556435 Tim sucht sein Skalpell #spoiler
+1359556452 Unterteilung des Quartetts: Opioide, Narkotika, Steroide etc. #topic
+1359556582 Wurst und Senf aus Schwaben
+1359556688 Hörerinnengrillbewerbung aus Bochum #topic
+1359556700 Bochum (Anspielung auf Grönemeyer) <http://www.youtube.com/watch?v=Gtd9Bg9S85U> #v
+1359556930 Im Ruhrgebiet muss für IMMER Wasser abgepumpt werden <http://youtu.be/ItqhBtiYUL4?t=38m> #v #topic
+1359556986 Andreas aus Hamburg verschenkt Gutscheincodes für Kerbal Space Program <https://kerbalspaceprogram.com/> #topic
+1359557020 Hohmannbahn <http://de.wikipedia.org/wiki/Hohmannbahn> #g #topic
+1359557160 Wunsch nach Hörerinnengrillen in London #topic
+1359557328 Aufkleber für Studioequipment mit Podlove und Wrint Motiv #topic
+1359557344 Tim: "Ich weiß nicht warum" (Parodie auf "Ich weiß nicht, was soll es bedeuten")
+1359557499 App-Empfehlung: Diptic <http://www.dipticapp.com/> #topic
+- iTunes <https://itunes.apple.com/de/app/diptic/id377989827?l=en&mt=8> #app #link
+1359557472 Jutebeutel "Berlin ist nicht Offenbach" #topic
+
+1359557745 Outro #chapter
+"KRAFTKLUB - Ich will nicht nach Berlin" <http://www.youtube.com/watch?v=RhlfIx7t46o> #video
+
+
+
+
+
+
+
+
+
+

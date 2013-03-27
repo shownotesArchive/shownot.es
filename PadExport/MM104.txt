@@ -1,0 +1,381 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM104
+
+
+Shownotes zu mobileMacs 104
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+Mit: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342, hukl @hukl
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/104>
+
+Zusammengetragen von: @evitabley, @simonwaldherr, @timpritlove, @mrmoe, @Kambfhase, @ctrettin, @kaeffchen_heinz, 
+
+Sendungstitel Vorschläge:  "Den Schnubsel anfassen", "Netzausscheidungskennziffer", "Budget-Bändchen-Mikrophon", "Hast du meinen Affiliate-Link gesehen", "File:///", "wer hat den größten? chrome", "In Deutschland ist auch Windows verbreitet", "Das sind diese Musikhörer, denen alles egal ist", "War alles nur Pre-show", "iPhone als Slave des Macs oder Mac als iPhone Ladegerät", "Es mumpft", "Coverflow ist nur für Porno"
+
+Sendungsbeginn:  19:37:52 Uhr
+
+VNC: vnc://:mobilemacs@mmview.kiez-net.eu:59100
+/HEADER
+
+
+
+
+1360175877 Anmoderation und iPhone Backup #chapter
+1360175878 Previously on mobileMacs 103 <https://soundcloud.com/david1701/previously-on-mobilemacs-103> #audio
+1360175939 Bumm Zack Return
+1360175987 Tim probierts indisch
+1360176003 Der Berliner bekommt nix hin (Flughafen, Staatsoper, Apple Store) #spoiler
+1360176024 Am Apple Store geht's voran
+1360176035 Tim hat schon wieder Informationen aus gut informierten Quellen
+Apple Store Berlin #t
+1360176074 Der Apple Store wird vor dem Flughafen fertig werden #spoiler
+1360176099 Das iPhone 5 ist sehr empfindlich (Denis) #quote
+iPhone 5 #t
+1360176120 Apple Care und Gewährleistung #t
+1360176190 Tonprobleme
+1360176200 Lautstärke via Crowdsourcing bestimmen
+1360176231 Tims iPhone-Kopfhörer-Buchse war defekt
+1360176258 Nur wenn das iPhone Backup verschlüsselt ist werden alle Daten gespeichert
+1360176340 Tim hat sich für ein iCloud Backup entschieden <http://de.wikipedia.org/wiki/iCloud> #g
+1360176380 die Hörer im Chat beschweren sich über die Audioqualität
+1360176420 "iPhone als Slave des Macs" #quote
+1360176456 "2000 $ for a power supply" #quote (hukl)
+1360176470 Das MacBook ist die Ladestation und Backupplatte für das iPhone
+1360176486 "Arbeiten tu ich nur noch mit meinem Mac Pro!" (Denis) #quote
+1360176547 deine Daten sind eh bei Apple in der iCloud #spoiler
+1360176646 Streamdiskussion
+1360176739 Verschlüsseltes iPhone-Backup in der iCloud #t
+1360176790 Wenn man ein neues Telefon bekommt, kommt man nicht mehr an sein Backup ran
+1360176806 Artikel auf iPhoneBlog.de über iCloud-Backups <http://www.iphoneblog.de/2012/11/29/gute-nachrichten-verschlusselte-icloud-backups/> #t
+1360176901 Apple tut viel, damit die Leute iCloud nicht benutzen #quote
+1360176937 Einstiegsseufzer
+1360176960 Wenn du ein nacktes Telefon bringst, dann bekommst du auch ein nacktes #quote
+1360176996 "War alles nur Pre-show" (Tim) #quote
+
+1360177009 Begrüßung und iOS 6.1 Update #chapter
+1360177027 Heute sind alle da
+1360177050 Drama-Button Jingle <http://www.dramabutton.com/> #l
+1360177059 iOS 6.1 Update und Jailbreak #t
+1360177090 iOS 6.1 fixt viele Kleinigkeiten
+1360177144 Informationen über das VNC-Experiment
+1360177157 Nur für Livehörer
+1360177183 Es gibt einen Mac der über VNC verfügbar ist <vnc://:mobilemacs@mmview.kiez-net.eu:59100>
+1360177248 VNC <http://de.wikipedia.org/wiki/Vnc> #g
+1360177250 File:/// Bug wird angekündigt
+1360177312 Hukl macht ein Live-Update auf iOS 6.1 #t
+1360177324 iOS 6.1 beseitigt "Langsame Downloads"-Bug #t
+1360177344 Instacast <http://vemedio.com/products/instacast3> #app #l
+1360177371 Player-Buttons im Lockscreen wurden besser #t
+1360177401 "Rubberband Control", "Jog-Shuttle", "Schnubsl" als Bedienkonzepte #t
+1360177448 "Das sind diese Musikhörer, denen alles egal ist" #quote
+1360177519 Patenttroll verklagt Podcaster <http://www.maclife.de/iphone-ipod/itunes/itunes-podcastern-droht-patentklage-von-personal-audio> #t
+- EFF-Artikel <https://www.eff.org/deeplinks/2013/02/podcasting-community-faces-patent-troll-threat-eff-wants-help> #t
+
+1360177650 Programmiersprachen, Umgebungen und Compiler #chapter
+1360177653 Xcode 4.6 Update <http://developer.apple.com/tools/xcode/> #link
+1360177667 clang 3.2 <http://clang.llvm.org/> #link
+- clang <http://de.wikipedia.org/wiki/Clang> #g #link
+1360177677 GCC ist jetzt deprecated #t
+- GCC <http://de.wikipedia.org/wiki/GNU_Compiler_Collection> #g
+1360177780 golang <http://golang.org/> #t
+- Go <https://de.wikipedia.org/wiki/Go_(Programmiersprache)> #g
+1360177826 Objective-C <http://de.wikipedia.org/wiki/Objective-C> #g
+1360177894 C-Gurus haben bei golang mitentwickelt
+1360177936 "Go ist wie Erlang, bloß kurz vorm Scheißhaus zusammengebrochen." (Roddi) #q
+Erlang <http://de.wikipedia.org/wiki/Erlang_(Programmiersprache)> #g
+C++ <http://de.wikipedia.org/wiki/C++> #g
+1360178080 Aus FreeBSD ist der GCC auch schon rausgeflogen #t
+1360178148 Phoronix-Benchmark <http://www.phoronix.com/> #link
+1360178240 Lizenzdiskussion #t
+- Creative Commons <http://de.wikipedia.org/wiki/Creative_Commons> #g
+- GPL <http://de.wikipedia.org/wiki/GNU_General_Public_License> #g
+- MIT <http://de.wikipedia.org/wiki/MIT-Lizenz> #g
+- BSD <http://de.wikipedia.org/wiki/BSD-Lizenz> #g
+- Apache <http://de.wikipedia.org/wiki/Apache-Lizenz> #g
+1360178356 LLVM-Architektur <http://de.wikipedia.org/wiki/LLVM> #g
+1360178446 Code Analyse und Debugging mit GCC viel schwerer
+
+1360178525 File:/// Bug #chapter
+1360178540 Bug wird auf dem VNC-Server im Texteditor und im Chrome getestet
+1360178640 Bug wird im Chat getestet
+1360178770 Erklärung der Herkunft und des Grundes des Bugs #t
+1360178794 Das Problem gibt es nur unter OS 10.8
+Mountain Lion <http://de.wikipedia.org/wiki/OS_X_10.8> #g
+1360178898 Regression Bug <http://en.wikipedia.org/wiki/Regression_testing> #g
+1360178915 Sogar der OS X Crashreporter crasht, wenn er den Crash loggt
+1360179019 Es wird Zeit, dass 10.8.3 raus kommt
+
+1360179055 Rufnummern #chapter 
+1360179060 Android kann Dinge die iOS nicht kann
+1360179100 Landesvorwahl <http://de.wikipedia.org/wiki/Landesvorwahl> #g
+1360179133 Die Vorwahl von Berlin ist 30, nicht 030
+1360179168 Richtlinie E.164: "The international public telecommunication numbering plan" <http://de.wikipedia.org/wiki/E.164> #g #t
+1360179242 "Kommt mal runter. Telefonieren ist eh so 80er." (Clemens) #q
+1360179263 "Nicht alles, was geht, ist auch richtig!" (Clemens) #q
+1360179317 Google hat da ne Lib gemacht
+1360179361 Google Phone Database / LibPhoneNumber <http://code.google.com/p/libphonenumber/> #source #t
+1360179603 Live-Demo der libphonenumber <http://libphonenumber.googlecode.com/svn/trunk/javascript/i18n/phonenumbers/demo.html> #link
+1360179673 "In Deutschland ist auch Windows verbreitet" #quote
+1360179784 Verkehrsausscheidungsziffer <http://de.wikipedia.org/wiki/Verkehrsausscheidungsziffer> #g
+1360179940 Copy/Paste defekt in der iOS Phone App
+1360180040 Durchwahlen und Telefonnummernlängen #t
+1360180096 Die Villa <http://tim.geekheim.de/die-villa/> #link
+1360180150 DTMF <http://de.wikipedia.org/wiki/Mehrfrequenzwahlverfahren> #g
+
+1360180180 Jailbreak 6.x #chapter
+evasi0n Jailbreak <http://evasi0n.com> #t
+1360180243 Tim zieht seinen Hut vor den Jailbreakern #t
+1360180300 Forbes über Evasi0n <http://www.forbes.com/sites/andygreenberg/2013/02/05/inside-evasi0n-the-most-elaborate-jailbreak-to-ever-hack-your-iphone/> #l
+- Stuxnet <http://de.wikipedia.org/wiki/Stuxnet> #g
+1360180450 Apple schaltet die Frequenzen für jeden Mobilfunk-Operator einzeln frei
+Apple und die Mobilfunk-Operator #t
+1360180545 Anruf für Denis. Denis hat sein iPhone stummgeschaltet und lässt sich mit LED-blinken benachrichtigen
+1360180653 Clemens ist bei Congstar und bekommt nicht mehr als 1GB pro Monat
+Congstar <http://de.wikipedia.org/wiki/Congstar> #g
+1360180667 Bei Congstar wird nach 1GB im Monat gedrosselt
+1360180694 Bei Congstar wird man "nur" gedrosselt, ansonsten ist es flat #joke
+1360180718 Max und Clemens hatten eine Unterhaltung mit dem Congstar Twitteraccount <https://twitter.com/343max/status/298758546621865984> #tweet #l
+
+1360180835 Alte Rechner und Läden #chapter
+1360180860 Highscreen <http://de.wikipedia.org/wiki/Highscreen> #g
+1360180968 Vobis <http://www.vobis.de> #l
+1360181042 "Um 18 Uhr machen die Läden zu" #quote
+1360181065 Tim redet von 1982
+1360181091 Tim war 1982 in einem Vobisladen
+Vobis  <http://de.wikipedia.org/wiki/Vobis> #g
+1360181126 Denis war früher bei Wegat
+1360181240 PET 2001 <http://de.wikipedia.org/wiki/PET_2001> #g
+1360181320 Tim erinnert sich an alte Zeiten, als er mit Freunden nach der Schule ins Kaufhaus gegangen ist, um die Computer auszuprobieren.
+1360181321 Dokumentation "Computerfieber - Die neue Lust im deutschen Familienalltag (NDR 1984)" <http://www.youtube.com/watch?v=uP3acXTmcLI> #video
+
+1360181366 Surface und der PC-Markt #chapter
+1360181383 Tim möchte die Shownoter unterstützen
+Shownotes Projekt <http://shownot.es/> #t
+1360181401 Surface Pro von Microsoft <http://de.wikipedia.org/wiki/Microsoft_Surface> #g
+1360181415 Surface Pro verbraucht das OS 41GB <http://appleinsider.com/articles/13/01/29/microsofts-surface-pro-to-ship-with-as-little-as-36-of-advertised-storage-available-to-users> #t
+1360181560 Lieber ein MacBook Air als ein Microsoft Surface #quote
+1360181660 "Microsoft sucht nach einer Lösung, aber gefunden haben sie die noch nicht" #quote
+1360181703 "Jubelperser von der c't" (Roddi) #q
+1360181712 In der dünnsten c't gings um das Beste an Windows 8 <http://www.heise.de/ct/inhalt/2013/04/6/>
+1360181743 Dell kauft Dell
+1360181831 "Dell ist das Vobis der USA" (Denis) #q
+1360181859 "Die Dell-Server sind gar nicht so schlecht" (hukl) #quote
+1360181930 Dell Smartphone <http://www.netzwelt.de/news/83803-dell-streak-riesen-smartphone-kurztest.html>
+1360182010 Webshop von Dell wurde von Apple gebaut
+1360182040 Artikel: Installing Windows 7 on MacBook Pro without SuperDrive <http://blog.laaz.org/tech/2012/04/24/installing-windows-7-on-macbook-pro-without-superdrive/>
+
+1360182066 Mac Pro #chapter
+1360182067 Mac Pro wird ab März in Europa nicht mehr verkauft <http://www.heise.de/mac-and-i/meldung/Aktueller-Mac-Pro-ab-Maerz-nicht-mehr-in-Europa-erhaeltlich-1795408.html> #l
+IEC 60950-1 <http://webstore.iec.ch/preview/info_iec60950-1%7Bed2.0%7Den_d.pdf> #t
+1360182163 Land Rover dürfen zukünftig auch nicht mehr verkauft werden
+1360182230 Eine Gehäuse-Änderung beim Mac Pro würde reichen um den Richtlinien wieder zu entsprechen. Spekulation: Da diese Änderung aber ausbleibt, wird bald ein neuer Mac Pro kommen #t #spoiler
+1360182348 Mac Pro Glaskugeling #t
+Der Mac Pro ist drei Jahre im wesentlichen unverändert
+"Der Mac Pro ist der geilste Mac" #q
+Tim möchte an seinem Mac Pro lecken
+Xserve 2.0
+1360182545 FireWire <http://de.wikipedia.org/wiki/FireWire> #g
+Thunderbolt <http://de.wikipedia.org/wiki/Thunderbolt_(Schnittstelle)> #g
+1360182586 Spekulationen über Änderungen des Mac Pro Formats #t
+1360182675 "Der Bedarf, einen Mac in ein 19" Gehäuse zu schrauben ist noch da" #q #t
+1360182725 Mac Mini im Rack #t
+Sonnet: RackMini <http://www.sonnettech.com/product/rackmacmini.html> #t
+1360182801 Tim erwartet mindestens zwei Thunderbolt Anschlüsse
+1360182855 SSD als default Bootplatte und mehrere 2,5" Festplatteneinschübe #t
+1360183060 PCI-Karte für USB3.0 <http://orico.en.alibaba.com/product/613334645-213128805/4ports_of_USB3_0_PCI_E_express_card_with_5_0Gbps_high_speed.html> #link #t
+- bei Amazon <http://www.amazon.de/ORICO-Schnittstellenkarte-USB-Controller-erweiterungskarte-Geschwindigkeit/dp/B008V3UU8U/> #shopping
+1360183135 Hackintosh <http://en.wikipedia.org/wiki/OSx86> #g
+1360183236 Bericht von Mac Pro Umbauarbeiten #t
+1360183345 Es gibt keine Performance-Probleme, sondern Temperatur- und Lautstärke-Probleme
+
+1360183427 Systeminformationen und Systemtools #chapter
+1360183428 SMCFanControl <http://www.eidac.de> #t
+1360183484 Prime95 <http://de.wikipedia.org/wiki/Prime95> #g
+1360183522 Im SMCFanControl-Paket gibt es ein Command-Line-Tool "smc" zum Auslesen von diversen Systemdaten (Temperatur- u.a. Sensoren)
+1360183559 Denis' Änderungen an smcFanControl <https://github.com/denis2342/smcFanControl> #source #t
+1360183618 SMC Keys <http://www.parhelia.ch/blog/statics/k3_keys.html> #l
+1360183780 Assassin's Creed III <http://de.wikipedia.org/wiki/Assassin%E2%80%99s_Creed_III> #g
+1360183886 Tools zum Anzeigen von Systeminformationen #t
+MenuMeters <http://www.ragingmenace.com/software/menumeters/> #app
+iStat Menus <http://bjango.com/mac/istatmenus/> #app
+Little Snitch <http://www.obdev.at/products/littlesnitch/index.html> #app
+HandsOff <http://www.metakine.com/products/handsoff/> #app
+1360184170 "iStat Menus ist sein Geld wirklich wert, es hat auch ne Kalenderansicht" #quote
+1360184420 ifconfig <http://de.wikipedia.org/wiki/Ifconfig> #g
+1360184493 Little Snitch mit neuem Traffic-Monitor #t
+1360184550 packet capture (pcap) <http://de.wikipedia.org/wiki/Pcap> #g
+1360184581 Man ist geteilter Meinung über die Software, die aus dem Hause obdev kommt 
+Objective Development <http://www.obdev.at> #l
+1360184668 "LittleSnitch wird jedem angeboten, der sich für einen PowerUser hält" #quote
+1360184725 LaunchBar <http://www.obdev.at/products/launchbar/index.html> #app
+1360184735 Alfred <http://www.alfredapp.com/> #app
+1360184855 Möglichkeiten, /Library zu öffnen
+1360184860 LanguagesService 1.0 <http://www.arizona-software.ch/ilocalize/launchapp-plugin.html> #app
+1360184917 Wir sind alle Individuen, Tim nicht #joke
+1360184960 Google Chrome legt alle Updates im Chrome.app Bundle ab
+- wessen Chrome ist größer? #quote
+1360185085 Es wird überlegt, warum die Signatur des Chrome Bundles nicht bricht
+1360185195 Es gibt Bierwerbung im VNC
+1360185240 Field Test auf iOS <http://osxdaily.com/2012/08/20/field-test-mode-iphone-signal-strength-numbers/> #t
+- *3001#12345#* -> Powerbutton bis "Slide to Shutdown" -> Home Button #t
+1360185492 Adblock Plus <http://adblockplus.org/de/chrome>
+1360185527 AdBlock #t
+- AdBlock Chrome <https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en>
+- AdBlock Chrome @ Flattr <https://flattr.com/thing/118424/AdBlock-For-Chrome> #t
+- AbBlock Safari <http://safariadblock.com>
+- AdBlock Safari @Flattr <https://flattr.com/thing/118428/AdBlock-For-Safari> #t
+1360185600 Kickstarter-Projekt für Homebrew <http://www.kickstarter.com/projects/homebrew/brew-test-bot>
+1360185610 Homebrew <http://mxcl.github.com/homebrew/> #t
+- Wikipedia <http://de.wikipedia.org/wiki/Homebrew> #g
+1360185659 MacPorts <http://www.macports.org/> #t
+1360185697 Tim erinnert, Geld für Podlove zu sparen
+Podlove Crowdfunding <http://metaebene.me/blog/2013/01/15/podlove-crowdfunding/> #t
+1360185838 Roddi hält Homebrew für besser als das Port-System von FreeBSD #t
+1360185970 Git <http://git-scm.com/> #l
+1360186078 Fink <http://www.finkproject.org> #l
+1360186090 DarwinPorts <http://trac.macports.org/wiki/MacPortsHistory> 
+
+1360186144 Player und Audiofoo #chapter
+1360186162 Hukl findet iTunes 11 als Musikplayer unbrauchbar
+1360186246 SoundJam <http://en.wikipedia.org/wiki/SoundJam_MP> #g
+1360186299 Musikplayer auf dem Mac #t
+1360186310 Vox <http://voxapp.didgeroo.com/> #app
+1360186324 CoreAudio <http://de.wikipedia.org/wiki/Core_Audio> #g
+1360186331 Cubase <http://www.steinberg.net/de/products/cubase/start.html> #l
+1360186419 Ecoute <http://ecouteapp.com/home/> #app
+1360186461 WinAmp <http://www.winamp.com/> #app
+1360186471 VLC <http://www.videolan.org/vlc/> #app
+1360186499 Enqueue <http://www.enqueueapp.com> #t
+- im App Store <https://itunes.apple.com/de/app/enqueue/id493119959> #app
+1360186629 Tims Aufruf "Vernünftige Audioprogramme schreiben. Audio-Interface und -Kanal müssen auswählbar sein." #t
+1360186688 Shocking News: "Audiointerfaces haben mehr als zwei Kanäle" #q
+1360186898 Audioplayer müssen auch Streams abspielen können #t
+1360186941 Für Mac-Entwickler: Auch Files müssen mittels NSURL geöffnet werden, alles andere ist deprecated
+NSURL <https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/Foundation/Classes/NSURL_Class/Reference/Reference.html>
+1360186979 Hukls Thomann-Einkäufe: Audiointerfaces, Mikrofon 
+1360186984 Thomann <http://www.thomann.de/de/index.html> #l
+1360186985 "Hast du meinen Affiliate-Link gesehen" (Tim) #quote
+1360186989 Focusrite Scarlett 2i2 <http://www.thomann.de/de/focusrite_scarlett_2i2.htm> #shopping
+1360186990 ADAT Audioschnittstelle <http://de.wikipedia.org/wiki/Alesis_Digital_Audio_Tape#Audioschnittstelle> #g
+1360187108 Mark of the Unicorn <http://www.motu.com/> #l
+- 8 Pre <http://www.thomann.de/de/motu_8pre.htm> #shopping
+1360187300 Tim will den Signallaufplan
+1360187360 Shure SM57 <http://www.thomann.de/de/shure_sm57_lc.htm> #shopping
+1360187373 Bändchenmikrofon t.bone RB500 <http://www.thomann.de/de/the_tbone_rb500.htm> #shopping
+1360187459 "Ein Mikrophon darf keinen Schalter haben" (Roddi) #q
+1360187460 Shure SM58 (+S mit Schalter) <http://www.thomann.de/de/shure_sm58s.htm> #shopping
+1360187715 Tims Studiomonitore sind zu nah an der Wand dran und müssten eigentlich ungefähr einen Meter entfernt stehen
+Monitor <http://de.wikipedia.org/wiki/Monitoring_(Tontechnik)> #g
+1360187888 Tim hat wieder neue Pläne für seine Studioeinrichtung #spoiler
+1360187953 Beyerdynamic DT770 Pro <http://www.thomann.de/de/beyerdynamic_dt770pro.htm> #shopping
+1360188055 Sennheiser HD-25 <http://www.thomann.de/de/sennheiser_hd25_c_ii.htm> #shopping
+1360188234 Tim hat noch seinen ersten Podcasting-Kopfhörer
+1360188300 Unterschiederklärung zwischen 80 Ohm und 250 Ohm #t
+1360188319 Beyerdynamic FAQ <http://www.beyerdynamic.de/kopfhoerer-headsets/faqs.html> #t
+1360188639 PreSonus DigiMax D8 <http://www.presonus.com/products/DigiMax-D8> #t
+1360188720 Expander Multicom Pro XLMDX4600 von Behringer <http://www.thomann.de/de/behringer_mdx4600_multicom_proxl.htm> #shopping
+1360188766 Expander <http://de.wikipedia.org/wiki/Expander_(Audio)> #g
+1360188855 Comfort Noise <http://de.wikipedia.org/wiki/Komfortrauschen> #g
+Comfort Noise gibts auch auf manchen den Toilleten von Großraumbüros
+1360188971 Auphonic <http://auphonic.com/> #l
+1360188980 Tim erklärt sein Audiosetup #t
+1360189055 MOTU 828 MK2
+1360189160 Universal Audio Apollo <http://www.uaudio.com/interfaces/apollo.html> #l
+- Thomann <http://www.thomann.de/de/universal_audio_apollo_duo.htm> #shopping
+1360189275 "Wir sind ja kein Apple Podcast (mehr)" #quote
+1360189373 Metric Halo <http://mhlabs.com/> #t
+Matric Halo 2882 <http://www.thomann.de/de/metric_halo_mobile_io_2882_expanded_2d.htm> #shopping
+1360189451 SKB 4HE Case <http://www.thomann.de/de/skb_r44_he_rack.htm> #shopping
+1360189595 Auphonics neues Feature für Podcaster #t
+Unterschiedliche Exportverzeichnisse und -Server für unterschiedliche Audioformate (z.B. mp3s auf den FTP, FLACs nach Glacier)... 
+1360189741 Animierte GIFs erzeugen viel VNC-Output
+
+1360189759 Digitaler Dokumentenscan #chapter
+1360189819 Fujitsu ScanSnap 1300i <http://www.amazon.de/dp/B008F06NM6/> #shopping #t
+1360189947 Für Macs gibt es eine Netzwerk-Scanner API #t
+1360190029 „PDF-Scanner“ Software <https://itunes.apple.com/de/app/pdfscanner/id410968114?mt=12> #app
+1360190218 Doppelseitige Dokumente scannen #t
+1360190280 Abbyy Fine Reader <http://finereader.abbyy.de/> #l
+1360190353 Bei Ikea gibt es immer meterlange Kassenzettel, die sich nicht gut scannen lassen
+1360190545 Pathfinder <http://cocoatech.com/pathfinder/> #app
+1360190617 Die Energiequelle des neuen Apple HQ <http://twitter.com/SimonWaldherr/status/282533399963512833> #tweet #l
+1360190786 Zählstempel/Paginierstempel <http://de.wikipedia.org/wiki/Paginierung> #g
+1360190884 Ein neuer OS X 10.8.3 Pre-Build ist erschienen
+1360191040 Lach und Jubelperser bei TV-Produktionen #t
+1360191108 Tim hat eine dumme Idee...
+
+1360191170 Schachprogramme #chapter
+1360191230 Rybka <http://de.wikipedia.org/wiki/Rybka> #t
+1360191236 Stockfish Chess Engine <http://stockfishchess.org/> #t
+1360191361 Schachengines auf EC2 laufen lassen #t
+1360191489 Videoschnitt, Audiobearbeitung und Schachspielen benötigt CPU-Leistung
+
+1360191533 Netzwerktechnik und Router #chapter
+UPnP-Vulnerabilität <http://www.heise.de/security/meldung/Millionen-Geraete-ueber-UPnP-angreifbar-1793625.html> #t
+1360191544 UPnP <http://de.wikipedia.org/wiki/Universal_Plug_and_Play> #g
+1360191569 „You get what you paid for.“ #q
+1360191630 AVM <http://www.avm.de/> #t
+AVM baut gute Hardware und schreibt gute Software
+1360191680 Digitale Gesellschaft in der c-Base (Digiges)
+1360191709 Freifunk <http://start.freifunk.net/> #t
+1360191736 Freifunk Freedom Fighter Box #t
+1360191915 Offene WLAN-Hotspots über private DSL-Leitungen #t
+1360191970 PicoCell/FemtoCell/MicroCell/... <http://en.wikipedia.org/wiki/Picocell> #g
+1360192071 Packet Capture auf der Fritz!Box #t
+How can i capture traffic with a fritz box? <http://ask.wireshark.org/questions/8541/how-can-i-capture-traffic-with-a-fritz-box> #l
+1360192084 pcap <http://de.wikipedia.org/wiki/Pcap> #g
+1360192088 Wireshark <http://de.wikipedia.org/wiki/Wireshark> #g
+1360192123 RFC 4638 <https://tools.ietf.org/html/rfc4638> #t
+1360192160 PPPoE <http://de.wikipedia.org/wiki/PPP_over_Ethernet> #g
+1360192197 IP-Paketfragmentierung <https://de.wikipedia.org/wiki/IP-Fragmentierung> #g
+1360192345 Heino <http://de.wikipedia.org/wiki/Heino> #g
+1360192394 zensierter Inhalt
+1360192421 Hier steht nichts, bitte lesen sie weiter. Alles ist in bester Ordnung.
+1360192444 Apple Aktie <http://www.finanzen.net/aktien/Apple-Aktie>
+
+1360192573 App-Tipps und -Rants #chapter
+1360192598 Reaper <http://reaper.fm/> #t #app
+1360192740 Logic Pro <http://www.apple.com/de/logicpro/> #s #app
+1360192836 Mit Logic Pro kann man Marker gut setzen, aber man kann sie nicht exportieren 
+1360193020 Rant über schlechte GUIs #t
+1360193060 Skeuomorphismus <http://en.wikipedia.org/wiki/Skeuomorph> #g
+1360193112 Figure <https://itunes.apple.com/de/app/figure/id511269223?mt=8> #app
+1360193166 Actions <http://getactionsapp.com/> #app
+1360193296 "Ungefähr genauso viele Emotionen wie bei Kraftwerk." (Denis) #q
+1360193397 Wake the Cat <https://itunes.apple.com/ca/app/wake-the-cat/id566316638?mt=8> #app
+1360193418 YetiPipi von Joscha Sauer <https://itunes.apple.com/de/app/yetipipi/id555343706?mt=8> #app
+1360193566 DipTic <http://www.dipticapp.com/> #app
+- iTunes <https://itunes.apple.com/us/app/diptic/id377989827?mt=8>
+1360193675 Telekom Hotspot App <https://itunes.apple.com/de/app/hotspot-login/id406968533?mt=8> #app
+1360193690 802.1x <http://de.wikipedia.org/wiki/IEEE_802.1X> #g
+1360193916 Corporate Identity Heinis in Hotels #quote #t
+1360194015 Hausaufgaben #t
+- RFC 6830 LISP
+1360194057 RFC 6830 <http://de.wikipedia.org/wiki/Layer_2_Tunneling_Protocol> #g #t
+1360194120 Verabschiedung
+
+
+
+Sendungsende: 00:42:30
+
+
+
+
+
+
+
+

@@ -1,0 +1,269 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM105
+
+
+Shownotes zu mobileMacs 105
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+Mit: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342, hukl @hukl
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/105>
+
+Zusammengetragen von: @kaeffchen_heinz, @evitabley, @simonwaldherr, @Kambfhase
+
+h
+
+
+shownotes
+
+00:00:00.000 Anmoderation
+00:06:31.000 hukl erzählt aus der Bundeswehrzeit
+00:11:05.000 Erlang Factory lite
+00:16:22.000 iCloud
+00:35:42.000 Apple Mac OSX 10.9
+00:45:06.000 Glaskugeling
+01:16:15.000 Drucker
+01:34:18.000 Scanner
+01:55:58.000 Festplatten
+02:17:17.000 iStat Menus und GPL Verletzungen
+02:22:54.000 Bitcoins
+02:46:59.000 Das Internet IPv6
+02:53:42.000 iOS 6.1 Update und VPN
+03:01:38.000 Twitter
+03:18:36.000 Skype
+03:39:27.000 Ausklang
+
+tim
+
+00:00:00.000 Previously on MM104
+00:01:04.375 Intro
+00:01:41.250 Begrüßung
+00:03:26.130 Grussabnahme
+00:11:07.750 Erlang Factory Lite Recap
+00:16:21.255 iCloud Core Data Desaster und Syncing
+00:35:34.661 OS X Future
+01:12:36.052 Drucker
+01:15:42.349 SSD und Thunderbolt
+01:34:10.656 Document Scanner
+01:55:11.380 Festplatten und Dateisysteme
+02:17:11.448 iStat Menus und SMC
+02:22:58.177 Bitcoins
+02:46:55.609 SixXS und VPN-Provider-Privacy
+02:53:51.146 VPN unter iOS 6.1
+02:59:30.005 Telefonnummern konvertieren
+03:01:35.198 Twitter Clients und UI Fails
+03:18:31.505 Skype, Opus, Mumble
+03:39:22.922 Apple Store Berlin
+03:44:32.583 Ende
+
+
+/HEADER
+
+
+1361385724 Anmoderation/Intro/Begrüßung #chapter
+1361385725 Previously on mobileMacs 104 <https://soundcloud.com/david1701/previously-on-mobilemacs-104> #audio
+- Lachbutton
+1361385786 Bumm Zack Return
+1361385840 Tim wollte die Lachtaste an den Start bringen
+- aber Räuspertasten sind da
+1361385858 Die Mastercontrols
+Die 5 für hukl, die 4 für Denis, die 3 bei Clemens, 2 für roddi und Tim ist No 1
+1361385902 Tim: „So jung wie ich bin müsst ihr erst noch werden“ #quote
+1361385920 Nein - doch - oh
+1361385937 Ein Feature nur für hukl und Tim
+1361385958 Die „Ich will mehr über Quartalszahlen reden“-Taste #quote
+1361386052 Denis war in Paderborn <http://de.wikipedia.org/wiki/Paderborn> #g
+1361386069 hukl war während der Bundeswehrzeit in Itzehoe <http://de.wikipedia.org/wiki/Itzehoe> #g
+1361386115 hukl erzählt aus der Bundeswehrzeit
+1361386119 Grußabnahme #t
+1361386137 hukl hat den Grußschein
+1361386214 Grüß ACK #t
+1361386336 "Alles was die Haut berührt hat darf man behalten" #quote
+
+1361386389 Erlang Factory lite Recap#c
+1361386390 hukl hat die Keynote auf der Erlang Factory lite gehalten <https://www.erlang-factory.com/conference/Munich2013/speakers/JohnPaulBader> #t
+1361386469 Talks 
+1361386480 Erlang <http://de.wikipedia.org/wiki/Erlang_(Programmiersprache)> #g
+1361386509 Embedded System <http://de.wikipedia.org/wiki/Embedded_System> #g
+1361386528 Erlang läuft jetzt direkt auf Xen
+1361386580 Protokolle im Fahrzeug
+1361386623 Erlang Factory lite München Talks + Slides <http://www.erlang-factory.com/conference/Munich2013/talks> #t
+1361386659 CCC München
+1361386678 Clemens schreibt konspirative iMessages an Tim
+1361386696 heute kein VNC
+1361386706 Tim: „wir müssen mehr über Macs reden“ #quote
+
+1361386706 iCloud Core Data Desaster und Syncing #c
+1361386735 Outbank Bug <https://itunes.apple.com/de/app/outbank/id585564091?mt=8> #s #t
+1361386905 iTunes ist das Schmuddelprogramm des Jahres #q
+1361387003 Denis und hukl benutzen nicht die iCloud
+1361387021 Harlem Shake <http://de.wikipedia.org/wiki/Harlem_Shake> #g
+1361387056 Find my iPhone
+1361387175 Dropbox Sync API <https://www.dropbox.com/developers/sync> #t
+1361387304 iMessages, die nicht ordentlich syncen
+1361387367 "Steve Jobs war nicht unfehlbar" #quote
+1361387554 Key Value Storage #t
+1361387558 Core Data <http://de.wikipedia.org/wiki/Cocoa#Core_Data> #g
+1361387605 Core Audio <http://de.wikipedia.org/wiki/Core_Audio> #g
+1361387643 Multithreadingunterstützung #t
+1361387684 640k Speicher
+1361387692 SQL <http://de.wikipedia.org/wiki/SQL> #g
+1361387794 Apple findet SQLite toll (ich auch)
+
+1361387866 Apple Mac OSX 10.9 Future #chapter
+1361387921 "ungerade Releases sind schlecht" #quote
+1361388008 ZFS als Wunschfeature 
+- wird aber leider nicht kommen
+1361388026 Core Storage #t
+1361388042 Die Filesystem vorhersage wird FusionDrive gewesen sein
+1361388104 FusionDrive <http://de.wikipedia.org/wiki/Fusiondrive> #g
+1361388143 "vielleicht kann man zukünftig auch selber mit GUI FusionDrive einrichten, vielleicht friert aber auch die Hölle zu" #quote
+1361388190 „Nerdfeatures alleine zählen nicht“ #quote
+1361388206 Snapshots, Deduplication, Checksums, ...
+1361388286 Snapshots auf Block-Ebene
+1361388332 „man bekommt ein HFS sehr leicht kaputt“ #q
+1361388400 Datenverlust #t
+1361388432 Petition bei change.org <http://change.org/> #t
+1361388450 Es wird vor change.org gewarnt
+1361388455 OpenGL <https://de.wikipedia.org/wiki/OpenGL> #g
+1361388544 „es muss ein neuer MacPro kommen“ #q
+1361388600 OpenCL <https://de.wikipedia.org/wiki/OpenCL> #g
+1361388616 "8-bit Farben (8bit pro Farbe)" #t #quote
+1361388766 Neue (36bit RGB, Thunderbolt) Displays werden kommen
+1361388865 Apple goes Gaming (vermutet Clemens)
+1361388927 h265 wird auch kommen (vermutet Tim)
+1361388983 man hat mehr Angst vorm nächsten OS, als man sich darauf freut
+1361389093 MacTracker über Spotlight suchen
+1361389181 Tim hat einen Film (ice age) gekauft über iTunes, den er nicht mit dem Beamer abspielen konnte
+1361389530 Mac OSX 10.8 frisst Daten (Autosave ist doof)
+1361389533 File:/// Bug
+1361389684 HFS File Permission
+1361389690 „HFS File Permission ist das Globuli der Mac Sysops (mit dem Unterschied, dass es manchmal wirkt)“ #quote
+
+1361389798 SSD und Thunderbolt #c
+1361389799 weil SSD zu schnell ist, gehen Farbprofile nicht #t
+1361389825 Lösung: aus und wieder einloggen #t
+1361390127 Sonnettech SATA SSD PCIe Karte <http://www.sonnettech.com/product/tempossd.html> #t
+- Sonnet Tempo SSD PCIe Card bei Amazon <http://www.amazon.de/Sonnet-Tempo-SATA-PCIe-Drive/dp/B0096P62G6> #shopping
+
+1361390299 Drucker #c
+1361390300 Neuer Drucker von roddi <http://www.amazon.de/LaserJet-Laserdrucker-Drucker-Ethernet-1200x1200/dp/B007Q4VQYC/ref=pd_sim_sbs_computers_1> #t #shopping
+- hukl flippt aus
+1361390602 hukls Drucker <http://www.samsung.com/us/computer/printers/ML-2851ND/XAA> #t
+- hukls Drucker bei Amazon <http://www.amazon.de/dp/B000XZ1LJG/> #shopping
+1361390642 HP 55b
+1361390896 in Tims Kita gibt es einen Canon Selfi CP810
+1361391369 Polaroid
+
+1361391382 Document Scanner #c
+1361391393 Fujitsu ScanSnap iX500 #t
+1361391452 Livevorführung des Scanners
+- leider hat der Scanner keine Midi-Schnittstelle
+1361391630 gedruckte und gefaxte Mail gescannt und geOCRt
+1361391672 USB 3.0 Stecker <http://de.wikipedia.org/wiki/USB_3.0#USB_3.0> #g
+1361391739 Tim bekommt für NSFW Hörerpost auf bedrucktem Papier
+1361391952 Vorschau.app als PDF Editor #t
+1361391972 Bumm Zack Return
+1361392079 Der Scanner kann auch DIN A 3 <http://de.wikipedia.org/wiki/Papierformat> #g
+1361392170 Devonthink Pro <http://www.devontechnologies.com/de/produkte/devonthink/ueberblick.html> #app #shopping
+1361392193 Paperless <https://itunes.apple.com/de/app/paperless/id404623003?mt=12> #app #shopping
+1361392350 Steuerprobleme
+1361392409 GrandTotal <http://www.grandtotal.biz/GrandTotal/> #app #shopping
+1361392660 Es wird über Tims neue Taste gesprochen
+
+1361392682 Festplatten und Dateisysteme #c
+1361392701 Pegasus Thunderbolt RAID <http://www.promise.com/storage/raid_series.aspx?m=192&region=en-global&rsn1=40&rsn3=47> #t
+1361393026 JBOD <http://de.wikipedia.org/wiki/RAID#JBOD> #g
+1361393331 4TB Festplatten <http://www.amazon.de/dp/B005SZ622W/> #shopping
+1361393402 2TB Festplatten für 2.5" soll es auch geben
+1361393422 Drobo <http://www.drobo.com/> #t
+1361393527 Twittername Knecht Root-Recht <https://twitter.com/knechtrootrecht>
+1361393639 Mini Displayport <http://de.wikipedia.org/wiki/Mini_DisplayPort#Mini_DisplayPort> #g
+1361393724 HFS+ <http://de.wikipedia.org/wiki/HFS_plus> #g
+1361393782 ZFS for Mac from GreenBytes <http://getgreenbytes.com/solutions/zevo/> #t
+1361393862 „Tim muss daran lecken können.“ #q
+
+1361393961 iStat Menus und GPL Verletzungen und SMC #c
+1361393979 iStat Menus <https://bjango.com/mac/istatmenus/> #t
+1361393994 SMC Command Line Tool <https://de.wikipedia.org/wiki/System_Management_Controller> #g
+GNU General Public License <http://www.gnu.org/licenses/gpl.html> #t
+- GPL auf Wikipedia <http://de.wikipedia.org/wiki/GNU_General_Public_License> #g
+1361394064 Harald Welte <https://de.wikipedia.org/wiki/Harald_Welte> #g
+
+1361394298 Bitcoins #c
+1361394338 ASIC Application Specific Integrated Circuit Chips Nachfolger von FPGA  #t
+- ASIC <https://de.wikipedia.org/wiki/Anwendungsspezifische_integrierte_Schaltung> #g
+- FPGA <https://de.wikipedia.org/wiki/FPGA> #g
+1361394498 Butterfly Labs <http://www.butterflylabs.com/> #t
+- Bitcoin Mining Hardware <http://products.butterflylabs.com/homepage/4-5gh-bitcoin-miner.html> #shopping
+1361394647 Der Bitcoin Miner sieht aus wie das Internet in The IT Crowd <http://www.youtube.com/watch?v=mSGT6SSI0lA> #v
+1361394740 Bitcoin Charts <http://bitcoincharts.com/> #t #link
+1361394784 MT Gox USD <http://bitcoincharts.com/markets/mtgoxUSD.html> #link
+1361395080 NSA <https://de.wikipedia.org/wiki/National_Security_Agency> #g
+1361395186 Bitcoin Version 0.8
+1361395448 „Wenn Leute mit ihrem iPad telefonieren, kannst du auch mit dem Mac QR Codes scannen.“ #q
+1361395511 Room 77 <http://www.room77.de/>
+1361395594 hukl wurde nach einem Autogramm gefragt
+1361395695 Spezialton für die Shownotes und den Livestream
+
+1361395743 SixXS und VPN-Provider-Privacy #c
+1361395753 Nazis am Nordpol
+1361395827 IPv6 <http://de.wikipedia.org/wiki/Ipv6> #g
+1361395833 IPv4 <http://de.wikipedia.org/wiki/Ipv4> #g
+1361395838 SixXS.net <http://www.sixxs.net/> #t
+1361395984 Hide.io <https://www.hide.io/>
+1361396016 WoW unterstützt IPv6
+
+1361396146 VPN unter iOS 6.1 und Telefonnummern konvertieren #c
+1361396146 seit iOS 6.1.1 (?) bleibt VPN länger an
+1361396506 PhoneNumbers Formate #t
+- Adressbuch-Formatierer für OS X <https://github.com/uberbruns/PhoneNumbers> #t #source
+
+1361396622 Twitter Clients und UI Fails #c
+1361396661 Echofon<https://itunes.apple.com/de/app/$/id315577859> #shopping
+1361396670 Tweetbot <https://itunes.apple.com/de/app/$/id428851691> #shopping
+1361396747 hukl findet Echofon besser
+1361397101 Tastaturlayouts und Tastenkürzel <https://de.wikipedia.org/wiki/Tastaturlayout>
+1361397276 Twitter stellt die 1.0 API ab #t
+1361397400 „Denis bootet“ #quote
+1361397562 Der CCC hat das deutsche Tastaturlayout zu Apple gebracht #t
+
+1361397640 Skype, Opus und Mumble #c
+1361397700 Skype sieht aus wie Facebook
+1361397762 Ein Drittel aller Telefonate ins Ausland gehen über Skype #t
+1361397890 Vorwahlverwirrungen
+1361397979 Opus in Skype #t
+1361398131 Mumble <https://de.wikipedia.org/wiki/Mumble> #g
+1361398190 Mit Stereokopfhörern kann man seine Gesprächspartner an einen bestimmten Platz im Raum setzen
+1361398312 Bei Skype bekommt man Nachrichten nur, wenn beide Gesprächspartner gleichzeitig online sind #t
+1361398349 „Muss man wissen“ #q
+1361398499 Silver Needle in the Skype Artikel <http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-biondi/bh-eu-06-biondi-up.pdf> #t
+1361398684 Security by Obscurity <https://pbs.twimg.com/media/AiR94k9CAAIY-y3.png:large> #image
+1361398721 Windows Live Messenger wird eingestellt und in Skype überführt #t
+1361398820 "Skype funktioniert so gut, weil es alles ausprobiert" #q
+
+1361398891 Apple Store Berlin #c
+1361398896 Apple Store Berlin wird sich verzögern #t
+1361398992 Gerücht: Im Mai geht's los in Berlin #t
+1361399053 Laptoplounge im Prenzlauer Berg #t
+1361399293 Heute mal 'ne kurze Folge
+1361399368 Outro
+1361399423 Sendungsende 23:30
+
+
+
+
+

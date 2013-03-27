@@ -4,30 +4,24 @@ Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
 Shownotes zu MobileMacs 012 Die Welt ist eine Scheibe
 Vom: 04.09.2008
 Download: <http://mobilemacs.de/2008/09/mm012-die-welt-ist-eine-scheibe.html> 
-Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-012&time=14%3A00%3A00&Button=Create%21>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-012&time=20%3A00%3A00&Button=Create%21>
 Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
 Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
 Version auf Shownot.es:
 
-Zusammengetragen von: hanz @kaeffchen_heinz, @evitabley
+Zusammengetragen von: hanz @kaeffchen_heinz, @evitabley, @johannes_k
 
 00:00:00 Intro und Begrüßung #chapter
-Livestreampuffering #spoiler
 iTV <http://de.wikipedia.org/wiki/Apple_TV> #wikilink
 VLC <http://de.wikipedia.org/wiki/VLC_media_player> #wikilink
 UPNP (Server)
 Spreeblick Blog <http://www.spreeblick.com/> #homepage
-Catcontent "Katzen in Gefahr bei Spreeblick #spoiler
 Knight Rider <http://de.wikipedia.org/wiki/Knight_Rider> #wikilink
 
-
 00:03:40 Tims iPhone 3G #chapter
-Tim hat jetzt ein Unlocked iPhone 3G #spoiler
+
 Jailbreak <http://de.wikipedia.org/wiki/Jailbreak_%28iOS%29> #wikilink
-Tims Erfahrungen mit dem iPhone
-tolle Bedienung, noch sehr buggy (abstürze) vor allem bei PORN :D,  #spoiler
 iPhone OS 2.02 <http://de.wikipedia.org/wiki/IPhone_OS#Versionen> #wikilink
-das iPhone gibt es unlocked in Tschechien #spoiler
 GPS auf dem iPhone
 - TomTom <http://de.wikipedia.org/wiki/TomTom> #wikilink
 - Garmin <http://de.wikipedia.org/wiki/Garmin> #wikilink
@@ -47,17 +41,11 @@ Nicknamesuche <http://de.wikipedia.org/wiki/Nickname> #wikilink
 Google Mobile App <http://www.google.com/intl/de_ALL/mobile/google-mobile-app/> #homepage
 Multitasking <http://de.wikipedia.org/wiki/Multitasking> #wikilink
 Remote <http://en.wikipedia.org/wiki/Apple_Remote> #wikilink
-Podcastsupport ist schlimm #spoiler
 iPod Click Wheel <http://en.wikipedia.org/wiki/Click_wheel> #wikilink
 Quick Time <http://de.wikipedia.org/wiki/Quick_Time> #wikilink
-Tim rantet #spoiler
 Lyrics <http://de.wikipedia.org/wiki/Liedtext> #wikilink
 Landscape Mode
-Videopodcasts nicht mehr Audioonly #spoiler
 Cydia Werbung <http://de.wikipedia.org/wiki/Cydia> #wikilink
-
-"kann man nur singen wenn es zentriert ist?" #spoiler
-
 
 01:22:00 Applikationen #chapter
 Click & Buy <http://de.wikipedia.org/wiki/Click_and_buy> #wikilink
@@ -107,16 +95,95 @@ Bootcamp <http://de.wikipedia.org/wiki/Boot_Camp_%28Software%29> #wikilink
 02:24:00 GoogleDocs #chapter
 Google Docs <http://de.wikipedia.org/wiki/Google_Docs> #wikilink
 Camino <http://caminobrowser.org/> #homepage
+Keychain <http://en.wikipedia.org/wiki/Keychain_%28Mac_OS%29> #wikilink
+Legacy OS
+Rapsody
+Firefox QT-Version <QT Link>
+Nokia <http://de.wikipedia.org/wiki/Nokia> #wikilink
+Webkit <http://de.wikipedia.org/wiki/WebKit> #wikilink
+Motorola <http://de.wikipedia.org/wiki/Motorola> #wikilink
+geht es richtig schlecht: Umsatzeinbrüche.
+Razor Telefone haben sich gut verkauft <http://de.wikipedia.org/wiki/Razor> #wikilink
+Symbian wird aufgekauft um es sterben zu lassen <http://de.wikipedia.org/wiki/Symbian> #wikilink
+EPOC isist "early 90s"<http://de.wikipedia.org/wiki/EPOC> #wikilink
+Unix <http://de.wikipedia.org/wiki/Unix> #wikilink
+Multithreading <http://de.wikipedia.org/wiki/Multithreading> #wikilink
+Mach <http://de.wikipedia.org/wiki/Mach_(Kernel)> 
 
-gestoppt bei 2:30:00
+02:42:00 iPod und Macbook #chapter
+Neuer iPod Nano <http://de.wikipedia.org/wiki/IPod_nano#iPod_nano> #wikilink
+iPod touch <http://de.wikipedia.org/wiki/Ipod_Touch> #wikilink
+Neues MacBook ist gewünscht. #spoiler
+SATA Anschluss <http://de.wikipedia.org/wiki/Serial_ATA> #wikilink
+TargetModus um MacBook als externe Platte für Backups zu nutzen <http://en.wikipedia.org/wiki/Target_Disk_Mode> #wikilink
+USB3 <http://en.wikipedia.org/wiki/USB_3.0> #wikilink
+FireWire <http://de.wikipedia.org/wiki/Firewire> #wikilink
+
+02:47:00 Kommentare #chapter
+Denis hat ein  
+- Macbook Pro <http://de.wikipedia.org/wiki/Cinema_Display> #wikilink
+und ein 
+- Cinema Display  <http://de.wikipedia.org/wiki/MacBook_Pro> #wikilink
+- <http://de.wikipedia.org/wiki/Power_Mac_G4#Power_Mac_G4> #wikilink
+- <http://de.wikipedia.org/wiki/Apple_AirPort#AirPort_Express> #wikilink
+
+Max hat ein
+
+- Macbook Pro <http://de.wikipedia.org/wiki/MacBook_Pro> #wikilink
+- Apple Trackpad <http://de.wikipedia.org/wiki/Apple_Magic_Trackpad> #wikilink
+- Pentium 4 Home Server <http://de.wikipedia.org/wiki/Pentium_4> #wikililink
+- XBOX <http://de.wikipedia.org/wiki/Xbox_360> #wikilink
+
+Tim hat ein kleines Schwarzes #spoiler
+- MacBook Schwarz <http://de.wikipedia.org/wiki/MacBook> #wikilink
+- MacMini <http://de.wikipedia.org/wiki/Mac_mini> #wikilink
+- Time Capsule <http://de.wikipedia.org/wiki/Time_Capsule>
+- Wireless Keyboard <http://de.wikipedia.org/wiki/Wireless_Keyboard> #wikilink
+- Bluetooth Mouse <http://de.wikipedia.org/wiki/Apple_Magic_Mouse> #wikilink
+- iPhone <http://de.wikipedia.org/wiki/Iphone> #wikilink
+
+02:59:20 Hörer first und  Navigation von TomTom #chapter
+Hörerfragen gehen vor. #spoiler
+SWAP-Files <http://de.wikipedia.org/wiki/Swapping> #wikilink
+Smart Sleep <http://www.jinx.de/SmartSleep.html> #homepage
+Hibernate <http://de.wikipedia.org/wiki/Hibernate_(Framework)> #wikilink
+pmset <http://en.wikipedia.org/wiki/Pmset> #wikilink
+DeInstaller auf dem Mac ist nicht ausgereift. #spoiler
+Ein Hörer bitttet um ein Foto der Aufnehmenden. Es ist jedoch zu wenig Licht und keine Ausgehfrisur vorhanden. #spoiler
+AFP <http://de.wikipedia.org/wiki/Apple_Filing_Protocol> #wikilink
+SMB <http://de.wikipedia.org/wiki/Server_Message_Block> #wikilink
+CRE 097 File & Print Sharing <http://cre.fm/cre097> #podcast
+Netatalk <http://de.wikipedia.org/wiki/Netatalk> #wikilink
+Roboter Dino <http://www.youtube.com/watch?v=xcy98AI0C4I> #video
+TomTom
+- Homepage <http://www.tomtom.com/de_de/> #homepage
+- Wikipedia <http://de.wikipedia.org/wiki/TomTom> #wikilink
+Tim erklärt die Navigation von TomTom
+TMC <http://de.wikipedia.org/wiki/Traffic_Message_Channel> #wikilink
+Verkehrsstau <http://de.wikipedia.org/wiki/Verkehrsstau> #wikilink
+MapShare <http://www.tomtom.com/de_de/maps/map-share/> #link
+
+03:23:00 Fernseher #chapter
+LCD Fernseher <http://de.wikipedia.org/wiki/Fl%C3%BCssigkristallanzeige> #wikilink
+Scart <http://de.wikipedia.org/wiki/Scart> #wikilink
+DVI <http://de.wikipedia.org/wiki/DVI> #wikilink
+"Die Leute schauen auf Fernsehern Fernsehen." #spoiler
+Panasonic <http://de.wikipedia.org/wiki/Panasonic> #wikilink
+LG <http://de.wikipedia.org/wiki/LG_Group> #wiklink
+Loewe <http://de.wikipedia.org/wiki/Loewe_AG> #wikilink
+Amiga <http://de.wikipedia.org/wiki/Amiga> #wikilink
+
+03:32:00 Blinkenlights und Verabschiedung #chapter
+Blinkenlights <http://de.wikipedia.org/wiki/Projekt_Blinkenlights> #wikilink
+Toronto <http://de.wikipedia.org/wiki/Toronto> #wikliink
+Wireless-Dimmer ermöglichen eine kabellose Blinkenlights-Installation. #spoiler
+EPC <http://de.wikipedia.org/wiki/Asus_Eee_PC> #wikilink
+City Hall <http://de.wikipedia.org/wiki/City_Hall_%28Toronto%29> #wikilink
+Introducing Stereoscope <http://blinkenlights.net/blog/archive/200809/introducing-stereoscope> #homepage
+Toronto Documentation Video <http://vimeo.com/6175371#> #video
 
 
 
-00:00:00 #chapter
 
 
-
-00:00:00 #chapter
-
-00:00:00 #chapter
 

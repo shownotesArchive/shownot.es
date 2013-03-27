@@ -1,0 +1,96 @@
+(Zum Mitschreiben ist die Anmeldung auf <https://shownotes.piratenpad.de/> erforderlich)
+
+HEADER
+Einschlafen Podcast 215
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep215>
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fep215&time=21%3A12%3A03&Button=Create%21>
+
+Shownoter: @evitabley, @quimoniz, BigMcIntosh, Jan N. Schuermann
+Titel:  "Spielen statt Netzwerken"
+
+/HEADER 
+
+Pre-Show #chapter
+Flötenmusik von Sióg acoustic duo <http://www.jamendo.com/de/artist/378103/sig-acoustic-duo>
+Seitenmanager App für Android <https://play.google.com/store/apps/details?id=com.facebook.pages.app>
+Am Mittwoch um 11 gibt's den nächsten Einschlafen-Podcast statt Realitätsabgleich
+Toby Baier hat den Tweet von @schlafein retweetet <https://twitter.com/schlafein/status/293447878872031232> #twitter
+
+00:00:00 Sendungsbeginn: 21:12:03 Uhr #chapter
+00:00:36 Am Donnerstag den 24.1. gibt es ein Hörertreffen im Downunder in Hamburg ab 18Uhr <http://einschlafen-podcast.de/2013/01/horertreffen-hamburg-down-under-am-24-1-2013/>
+- Down Under in Hamburg <http://www.down-under-hamburg.de/cms/>
+00:01:38 Ab 21 Uhr gibt es dann Horst Blank im Logo bei einem Bandwettbewerb <http://www.logohamburg.de/>
+- Horst Blank <http://www.horstblank.de/>
+00:02:52 Fragen auf Twitter und Facebook
+
+00:03:00 Einschlafenfeeds bei iTunes#chapter
+- Wer braucht eigentlich noch MP3? <http://einschlafen-podcast.de/2013/01/in-eigener-sache-wer-braucht-noch-mp3/>
+00:03:50 Einschlafen Podcast Feed im AAC Format <http://de.wikipedia.org/wiki/Advanced_Audio_Coding> #glossary
+00:04:30 OGG Vorbis <http://de.wikipedia.org/wiki/Vorbis> #glossary
+00:04:35 OPUS <http://de.wikipedia.org/wiki/Opus_%28Audioformat%29> #glossary
+00:04:40 Auphonic <http://auphonic.com/>
+00:04:50 Einschlafen-Podcast auf Youtube <http://www.youtube.com/user/einschlafenpodcast/videos?flow=grid&view=0>
+00:07:40 Lizenzproblematik mit MP3 <http://de.wikipedia.org/wiki/MP3#Patente_und_Lizenzstreitigkeiten> #glossary
+00:10:30 Bittorrent <http://de.wikipedia.org/wiki/BitTorrent> #glossary
+00:10:40 App Entwicklung für Android geht voran
+00:11:46 Mittwoch ist kein Realitätsabgleich und anstelle dessen kommt eine Mittagsschlafeinschlafenepisode
+00:12:50 Webtrends
+- Podlove Webtrend Podcasting
+- Browserspiele
+
+00:13:00 Tobys Jobwechsel zu Bigpoint #chapter
+- Bigpoint <http://de.bigpoint.com/>
+00:13:20 Toby wird seinen Job wechseln, von Xing nach Bigpoint im Februar
+Xing <http://xing.de/>
+Rising Citiies Browserspiel <http://www.risingcities.de/>
+er ist dann für Backend, Login, Infrastruktur des Spiels verantwortlich als Produktmanager
+00:15:00 Coremedia <http://coremedia.com/>
+00:15:40 Tobys Doktorarbeit "Persoenliches digitales Identitätsmanagement" <http://ediss.sub.uni-hamburg.de/volltexte/2006/2746/index.html>
+00:15:50 Everquest <http://www.everquest2.com/> #gaming
+00:18:00 Linkedin <http://de.linkedin.com/>
+00:19:20 Xing Geschäftsberichte <http://corporate.xing.com/deutsch/investor-relations/newspublikationen/geschaeftsberichte/>
+00:20:00 Lob an die Kollegen von Xing
+
+00:20:38 Lieblingsfilme #chapter
+- Fight Club <http://de.wikipedia.org/wiki/Fight_Club_%28Film%29> #glossary
+- Das Leben des Brian <http://de.wikipedia.org/wiki/Das_Leben_des_Brian> #glossary
+00:21:10 The Big Lebowsky <http://de.wikipedia.org/wiki/The_Big_Lebowski> #glossary
+00:21:15 Star Wars Episode 4,5,6 <http://de.wikipedia.org/wiki/Krieg_der_Sterne> #glossary
+00:21:20 Der Herr der Ringe: Die Rückkehr des Königs <http://de.wikipedia.org/wiki/Der_Herr_der_Ringe:_Die_R%C3%BCckkehr_des_K%C3%B6nigs_(Film)> #glossary
+00:21:40 Matrix <http://de.wikipedia.org/wiki/Matrix_%28Film%29> #glossary
+00:22:00 Stirb langsam <http://de.wikipedia.org/wiki/Stirb_langsam> #glossary
+00:22:03 Rambo 3 <http://de.wikipedia.org/wiki/Rambo_III> #glossary
+00:23:00 "Herrenabend" zu Rambo 4 <http://de.wikipedia.org/wiki/John_Rambo_%28Film%29> #glossary
+00:24:00 Rambo 4 ist nicht lustiges, wildes Gemetzel
+
+00:25:25 Fernsehserien #chapter
+Doctor House <http://de.wikipedia.org/wiki/Dr._House> #glossary
+00:26:08 Dollhouse <http://de.wikipedia.org/wiki/Dollhouse>
+Buffy <http://de.wikipedia.org/wiki/Buffy_%E2%80%93_Im_Bann_der_D%C3%A4monen> #glossary
+00:26:15 Joss Whedon <http://de.wikipedia.org/wiki/Joss_Whedon> #glossary
+00:26:20 How I Met Your Mother <http://de.wikipedia.org/wiki/How_I_Met_Your_Mother> #glossary
+00:27:10 Teaser: Am Mittwoch erklärt Toby uns wie man ein Feuer macht
+00:28:15 Toby mag das Geräusch von Feuer das im Kamin gerade angeht
+00:28:50 EP 216 wird anders klingen, mit Nackenbügelmikrofon
+00:29:36 Erzählung von seinem Mittwochmorgen...
+00:31:00 Toby macht Fitnessübungen
+00:32:45 Trizeps <http://de.wikipedia.org/wiki/Musculus_triceps_brachii>
+00:33:00 Fitocracy <https://www.fitocracy.com/>
+00:34:30 Am Mittwoch wird es der Aufstehenpodcast
+00:36:15 Wer noch zum Hörertreffen kommen will, soll sich bitte noch melden <http://einschlafen-podcast.de/2013/01/horertreffen-hamburg-down-under-am-24-1-2013/>
+00:36:40 Tobys Stimme klingt heiser, er spricht Rambo Zitate
+
+
+00:36:55 Toby liest aus Selma Lagerlöfs Niels Holgersons wunderbare Reise mit den Wildgänsen vor #chapter
+- Er ist nun bei Kapitel 30
+- Nils Holgersson (auf Gutenberg Kapitel 31) <http://www.gutenberg.org/ebooks/31114> #fulltext
+
+00:46:10 Verabschiedung #chapter
+00:46:15 Toby dankt dem Chat und den Shownotesschreibern
+00:46:25 Toby wünscht eine gute Nacht.
+00:46:40 Sendungsende
+
+

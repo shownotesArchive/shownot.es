@@ -1,0 +1,301 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM106
+
+
+Shownotes zu mobileMacs 106
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+Mit: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342
+Ohne: hukl @hukl
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/106>
+
+Zusammengetragen von: @evitabley, @SimonWaldherr, @mrmoe, @kaeffchen_heinz, 
+
+
+Sendungstitel Vorschläge:
+Tellerrant
+No Known I ssues
+MobileMeh
+PCI-Porn
+
+/HEADER
+
+Sendungsbeginn: 19:37:35
+
+00:00:00 Previously on mobileMacs 105 <https://soundcloud.com/david1701/> #a #chapter
+00:00:39 Bum Zack Return
+00:01:18 Anmoderation
+00:01:42 Hust-Lach-Flash
+00:02:00 Mähh-Schafziegen
+00:02:37 Anspielung auf Ziegen Video <http://www.youtube.com/watch?v=PpccpglnNf0> #video
+00:03:08 Heute ohne Hukl #t
+00:03:13 Um bei mobileMacs mitmachen zu dürfen muss man sich qualifizieren #t
+00:03:56 Es ist nicht viel passiert obwohl CeBIT ist #t
+
+00:03:58 CeBIT und Grafikkarten #chapter
+00:04:00 CeBIT <http://de.wikipedia.org/wiki/Cebit> #g
+00:04:38 Tim war früher häufig auf der CeBIT
+00:05:03 In den 80ern war die CeBIT noch gut #t
+00:06:07 Samsung hat mal Roboter gebaut
+00:07:08 „Das Internet hat die CeBIT uninteressant gemacht“ (Tim) #q
+00:08:22 „Das Internet ist die ständige Mitgliederversammlung der CeBIT“ (Clemens) #quote #t
+00:09:50 Gerücht: Auf dem Mac wird kaum gespielt
+00:10:13 "Es gibt Leute die eine Grafikkarte brauchen, die keine Gamer sind" (Tim) #quote #t
+00:10:42 AutoCAD <http://de.wikipedia.org/wiki/AutoCAD> #g
+- für den Mac: <http://www.autodesk.de/adsk/servlet/pc/index?siteID=403786&id=14659756>  #software #app
+00:10:58 Adobe Photoshop <http://de.wikipedia.org/wiki/Adobe_Photoshop> #g
+- bei Adobe: <http://www.adobe.com/de/products/photoshopfamily.html> #software #app
+00:11:53 OpenCL <http://de.wikipedia.org/wiki/OpenCL> #g #t
+00:13:17 Clemens wundert sich, dass Krepelbuden wie Adobe OpenCL nutzen #t
+00:13:41 CUDA <http://de.wikipedia.org/wiki/Compute_Unified_Device_Architecture> #g #t
+00:14:46 Blogartikel: Photoshop nutzt OpenCL <http://www.tomshardware.de/photoshop-cs6-gimp-aftershot-pro-opencl-opengl,testberichte-241066.html> #t
+00:15:04 Der Vorteil am Mac ist der hohe Grad an Intregration #quote
+00:15:44 Open GL 4.0 <http://de.wikipedia.org/wiki/Open_GL>#g
+00:16:13 Quartz <http://de.wikipedia.org/wiki/Quartz_(OS_X)> #g
+00:16:59 BitCoin nutzt OpenCL #t
+00:17:18 AMD 7950 und AMD 7970 <http://www.hardware-infos.com/news/4285/cebit-sapphire-zeigt-hd-7950-mac-edition.html> #t
+- heise Artikel über die AMD 7950 <http://www.heise.de/mac-and-i/meldung/Radeon-HD-7950-fuer-den-Mac-1817695.html> #t
+00:21:38 „AUPF (Apple User Punishment Fee)“ (Tim) #q #t
+00:22:19 Denis gefällt die Farbe nicht
+00:22:43 „Der, der am lautesten lacht, ist der, der gerne seinen Rechner ableckt“ (Clemens) –  „Ja, aber von außen“ (Tim) #quote
+00:24:39 „Ein richtiger Gamer PC hat an der Seite eine Plexiglasscheibe zum reinschauen“ (Denis) #q
+00:25:47 „PCI-Porn“ (Tim) #q
+00:26:17 Nvidia baut auch teure Grafikkarten <img://images.anandtech.com/doci/6774/TitanNew.jpg> #image
+
+00:27:13 Mac Pro und Festplattennutzung #chapter
+00:27:23 Tim hat neue Festplatten gekauft #t
+- SSD <http://de.wikipedia.org/wiki/Solid-State-Drive> #g
+- Serial ATA <http://de.wikipedia.org/wiki/Serial_ATA> #g
+00:29:25 drei mal 4TB sind teurer als vier mal 3TB
+00:29:33 Western Digital Green <http://www.wdc.com/de/products/products.aspx?id=780> #t
+- Western Digital Red <http://www.wdc.com/de/products/products.aspx?id=810>
+- WD30EURS AV-GP 3TB bei Amazon <http://www.amazon.de/dp/B004W9BKE0/> #shopping
+- WD30EFRX 3TB für NAS bei Amazon <http://www.amazon.de/dp/B008JJLW4M/> #shopping
+00:30:14 Tim benutzt die Festplatten für die Time Machine <http://de.wikipedia.org/wiki/Time_Machine_(Apple)> #g
+00:31:03 Fusion Drive <http://de.wikipedia.org/wiki/Fusiondrive> #g
+00:35:00 Tim ist ein OSX-10.8-Verweigerer <http://de.wikipedia.org/wiki/OS_X_10.8> #g
+00:36:29 Die nächste ZFS Portierung (ZFS on Linux) <http://zfsonlinux.org/> #t
+00:37:20 „License Adapter Layer“ (Tim) #quote
+00:38:38 GitHub Repo von ZFS-OSX <https://github.com/zfs-osx/zfs> #t #link
+00:39:02 Tim weiß noch nicht genau was er mit den 3 Platten machen soll
+00:40:46 Pegasus R6 <http://www.promise.com/storage/raid_series.aspx?m=192&region=en-global&rsn1=40&rsn3=47> #t
+00:42:34 Clemens ist mal eine Festplatte kaputt gegangen und die anderen liefen ohne Probleme weiter („Self-healing RAID“)
+00:43:30 Tims Platten sollen einfach nur leise sein
+00:44:42 Chaosradio <http://chaosradio.ccc.de/> #link
+00:45:06 RAID-Z2 <http://en.wikipedia.org/wiki/Non-standard_RAID_levels#RAID-Z> #g
+00:45:35 Intel Atom <http://de.wikipedia.org/wiki/Intel_Atom>
+00:46:47 Backups immer „überall“ haben ist wichtig! #topic
+00:48:47 Sparse-Bundle <http://en.wikipedia.org/wiki/Sparse_image> #g
+00:49:13 TimeMachine Error Fix <http://www.garth.org/archives/2011,08,27,169,fix-time-machine-sparsebundle-nas-based-backup-errors.html>
+
+00:51:08 Updates #chapter
+00:51:11 Update auf 10.9 in den nächsten Tagen #topic
+00:51:43 Tim kann nicht konkret werden, aber er freut sich auf die neuen Features in 10.9
+00:52:17 Tim hat heute noch keine SMS bekommen <http://de.wikipedia.org/wiki/Sms> #g
+00:52:47 „Tim ist ein Profi, er nutzt die richtigen Termini“ #quote
+00:52:56 Audio-Device-Auswahl und -Kanal-Auswahl werden sich verbessern
+00:54:07 Tim hat ein neues iPhone 5, weil der Ein/Aus-Schalter defekt war; es wurde im Hamburger Applestore getauscht
+00:54:46 Tim war in Hamburg, wegen CCH #spoiler
+00:55:43 Telefonaustauschen via Paketbote #t
+00:56:12 WWDC <http://de.wikipedia.org/wiki/Worldwide_Developers_Conference> #g #t
+- Apple WWDC Seite <https://developer.apple.com/wwdc/> #t
+00:57:00 Releasedatumsgerüchte #t
+00:59:00 Es gibt nichts Neues von Apple, also wird geschwiegen bis 10.9
+00:59:45 Es soll nicht über Streamabbrüche geredet werden, Herr Schrimpe wird zur Analyse gebeten
+01:00:10 Neues zum Applestore in Berlin. Letzte Aussage ist im Moment Mai
+01:01:10 Passwort für Clemens
+01:01:40 Unigine – Valley <http://unigine.com/products/valley/> #t
+01:02:25 Benchmarks <http://de.wikipedia.org/wiki/Benchmark> #g
+01:02:44 Lightning HDMI Adapter <http://store.apple.com/de/product/MD826ZM/A/lightning-digital-av-adapter> #shopping #t
+01:03:10 Denis hat den Stecker immer nur zerrupft gesehen
+01:03:37 Panic <http://panic.com/> #t
+- Panic untersuchte den Adapter <http://www.panic.com/blog/2013/03/the-lightning-digital-av-adapter-surprise/> #t #link
+01:05:53 XNU Kernel <http://de.wikipedia.org/wiki/XNU> #g #t
+01:08:00 Tim hätte gerne Ethernet auf dem iPad #t
+- und probiert das jetzt einfach mal aus
+01:08:55 Dennis: „Wenn aus dem iPad weißer Rauch kommt haben wir nen neuen Papst“ #joke #q
+01:09:13 Bier-Geschenk: Reckendorfer Henrici-Bock <http://www.recken.de/sortiment-biere.html>
+
+01:11:34 WLAN Kram #chapter
+01:11:44 2,4 GHz WLAN <http://de.wikipedia.org/wiki/Wlan#Frequenzen> #g
+01:11:58 5 GHz WLAN <http://de.wikipedia.org/wiki/Wlan#Frequenzen> #g
+01:12:09 WLAN Kanäle sinnvoll sind nur 1, 6 und 11 <http://de.wikipedia.org/wiki/Wlan#Frequenzen_und_Kan.C3.A4le> #g #t
+- In Deutschland gibt es auch die Kanäle 12 und 13
+01:13:17 CSMA/CD <http://de.wikipedia.org/wiki/Carrier_Sense_Multiple_Access/Collision_Detection>#g #t
+01:15:40 File:/// Bug und LockscreenFail
+
+01:16:31 Twitter und App.net #chapter
+01:16:44 Twitter hat seine alte API abgeschaltet <https://dev.twitter.com/docs/api> #t
+01:19:03 Twitterclients dürfen nur noch eine bestimmte Menge User haben
+01:19:57 ADN <http://www.app.net> #t
+01:20:57 Echofon wird nicht mehr supportet <http://www.echofon.com/> #t
+01:22:56 ADN hat jetzt ein Freemium Model <http://de.wikipedia.org/wiki/Freemium> #g #t
+01:24:00 ADN hat auch ein Cloudsystem 
+01:28:00 Invite Codes sorgen für einen beschränkten, aber kostenlosen Account #t
+- Einschränkungen sind maximal 40 Followings, 500MB Storage, niedrigere maximale Dateigröße #t
+01:29:20 Diese Änderung war von Anfang an so geplant, Vorbilder waren #t
+- GitHub <https://github.com/> #t
+- und Dropbox <https://www.dropbox.com/> #t
+01:30:30 geringere Einstiegsbezahlmodelle wären sinnvoll
+01:31:00 Streamausfälle sind nicht im Studio begründet #t
+01:32:00 Dennis ist noch nicht bei ADN
+01:32:25 lustige Geschichte von Clemens aus seinem Dorf zum Euro
+01:32:30 einige Dinge kann man einfach aussitzen #t
+01:33:25 Developer, Developer, Developer Anspielung <http://www.youtube.com/watch?v=8To-6VIJZRE> #video
+01:34:00 Softwarerating geht nur mit bezahlten Accounts, aber FreemiumUser können sagen, was ihnen gefällt
+01:34:50 ADN ist nicht nur ein Twitter Clone #t
+01:35:50 Private Messages ist bei A.N viel toller als bei Twitter, weil man einstellen kann, wer einem Nachrichten schicken darf (alle, followers oder gefolgte)
+- Ausserdem ist auch ein Gruppenchat möglich
+01:37:39 ADN ist ähnlich aufgebaut wie Twitter
+01:39:00 IRC für A.N
+01:39:28 Clients sind noch am Anfang, aber vielversprechend #t
+01:40:20 Billing-API wurde angekündigt #t
+01:41:51 Micropayment <http://de.wikipedia.org/wiki/Micropayment> #g #t
+
+01:42:00 Netzwerke #chapter
+01:42:29 FRITZ!Box <http://www.avm.de/de/Produkte/FRITZBox/index.php> #t
+01:43:41 Das Kabelmodem kann/darf nicht getauscht werden
+01:45:12 Bundesnetzagentur (ehem. RegTP) <http://de.wikipedia.org/wiki/Bundesnetzagentur> #g
+01:46:40 Auf der FRITZ!Box kann man ohne Zusatzsoftware den Internetverkehr mitschneiden #t
+- Wireshark <http://www.wireshark.org/> #t #app
+- pcap <http://en.wikipedia.org/wiki/Pcap> #g
+- tcpdump.org <http://www.tcpdump.org/> #t
+01:48:35 telecolumbus <http://www.telecolumbus.de/home/>
+01:50:41 In jedem Haus gibt es Kupfertelefon Kabel
+- Versorgungspflicht <http://www.teltarif.de/hausbau-neubau-telefonanschluss-telekom-internet/news/49177.html>
+- im Gesetzestext <http://dejure.org/gesetze/TKG/78.html>
+01:52:52 Auf dem Land kann man sich zur Not mehrere DSL Anschlüsse kaufen
+01:55:21 Vectoring bei VDSL <http://en.wikipedia.org/wiki/Very-high-bit-rate_digital_subscriber_line_2#Vectoring> #g
+01:57:43 Internet, Strom, Gas und Wasser müssen wieder in öffentlicher Hand sein
+01:58:11 Clemens fürchtet um seine DSL-Leitung, weil ein Techniker am Verteilerkasten herumwerkelte
+02:00:00 Clemens versucht weiter das Netzproblem zu lösen
+- auf IP Ebene ist alles Ok, evtl. liegts am DNS
+02:01:00 100Mbit/s wäre dann für alle möglich
+02:01:30 Bonding benutzt mehr als eine Leitung <>
+02:02:00 Phantom Mode (2 Leitungen == 3 Kanäle) #t
+- Artikel 1: Golem <http://www.golem.de/1112/88658.html> #t
+- Artikel 2: Golem <http://www.golem.de/1010/78973.html> #t
+- Artikel 3: ComputerBase <http://www.computerbase.de/news/2011-12/telekom-plant-100-mbit-s-ueber-kupfer/>
+02:03:30 DSLAM <http://de.wikipedia.org/wiki/DSLAM> #g
+02:04:00 Die Möglichkeit 2 DSL Anschlüsse zu betreiben (verschiedene Anbieter)
+02:05:20 Multilink PPP
+02:05:47 LISP <http://lisp.cisco.com/> #t
+02:08:31 Tunneling <http://en.wikipedia.org/wiki/Tunneling_protocol>
+02:10:31 Bei Denis gibt es eine Kabel und eine DSL Leitung in der Firma
+02:14:05 Clemens erklärt Denis eine mögliche LISP-Installation
+02:18:19 Clemens bittet darum, Support-Anfragen diesbezüglich in den Kommentaren zur Sendung zu stellen
+02:19:10 „Geld spielt keine Rolex“ (Tim) #q
+02:21:31 Clemens empfiehlt für Tims Anforderungsprofil ein Cisco-Gerät der Reihe 2901 <http://www.cisco.com/en/US/products/ps10539/index.html>
+02:23:49 Tim hätte gerne 4 x VDSL, das würde auch mit der 2901 funktionieren
+
+02:26:13 UML #chapter
+02:26:14 UML <http://en.wikipedia.org/wiki/Unified_Modeling_Language> #t #g
+02:28:15 yUML <http://yuml.me/> #t
+02:28:25 Popcorn Piraten <http://popcornpiraten.de/> #t
+- Wer verklagt wen <http://popcornpiraten.de/wer-zeigt-hier-eigentlich-wen-an/> #t
+
+02:28:55 Podlove Crowdfunding #chapter
+02:29:05 Podlove Spendenseite <http://podlove.org/donations/> #t
+02:29:25 Podlove Podcast Publisher <http://podlove.org/podlove-podcast-publisher/> #t
+- PPP GitHub Repo <https://github.com/podlove/podlove-publisher> #source #t
+02:29:35 Podlove Web Player <http://podlove.org/podlove-web-player/> #t
+- PWP GitHub Repo <https://github.com/podlove/podlove-web-player> #source #t
+02:29:50 Blogeintrag <http://metaebene.me/blog/2013/01/15/podlove-crowdfunding/> #t
+02:30:30 nach einer Woche schon 3000 Euro Spenden #t
+02:31:00 Weitere Projekte sind geplant #t
+
+02:31:20 Google Glass und iWatch Glaskugeling #chapter
+02:32:00 Unterschiede zwischen Apple und Google #t
+- "Apple ist schlicht unter dem Ärmel" #quote
+- "Google hat den Durchblick und scannt/filmt ständig die Umgebung" #quote
+02:32:10 6502 Assembler Code <http://de.wikipedia.org/wiki/MOS_Technology_6502> #g #t
+02:32:25 Gewünscht wird ein Terminator Plugin
+A9 = LDA immediate <http://gamehacking.org/faqs/6502_Instruction_Set.txt> #t
+02:33:48 Google stürmt an die Hardware-Front: Chromebook <http://www.google.de/intl/en/chrome/devices/>
+02:34:54 „Der Erfolg von Android ist der Erfolg von Samsung“ (Tim) #q
+02:35:53 Google Glass <http://www.google.com/glass/start/>
+02:38:04 Die Runde hält Google Glass für ein „Early-Adopter-Spielzeug“
+02:39:00 Für Brillenträger könnte es ungünstig sein
+02:39:20 Das Display sollte schon mit Retinaauflösung kommen 
+02:40:20 Bedienung: mit der Brille reden oder auf 2 Knöpfe am Ohr drücken
+02:41:36 Tim hält die Gefahr, „auf die Fresse“ zu bekommen, für groß
+02:42:55 Tim sieht ein, dass er neue Technik nicht vorschnell abtun sollte und sucht Anwendungsfälle: Inline Skaten (Geschwindigkeit, Weg, Navi)
+02:43:50 Das Display ist nur auf einem Auge
+02:46:08 Clemens hält Spiele für eine mögliche Anwendung, z.B. Ingress <http://en.wikipedia.org/wiki/Ingress_(game)> #g
+02:48:27 Die Runde wünscht sich für Berlin ein Model á la Hipster-Hornbrille
+02:49:27 Denis schätzt, dass Google eine Menge Patente abstecken wird
+02:49:53 iWatch #t
+02:50:47 Clemens braucht keine Uhr, auch keine schöne
+02:51:20 „Apple-Schmuck“ (Clemens) #q
+02:52:06 „Second Screen“ (Tim) #q
+02:52:43 Tim ist nicht überzeugt, dass es eine iWatch geben wird und fragt sich, welche Dimension eine Uhr von Apple haben wird hinsichtlich der Features
+02:53:44 Roddi hält Clemens Einwand, dass eine iWatch nur ein Poser-Gerät wäre, von den „Fat-Phones“ mit 4,8 Zoll Diagonale widerlegt
+02:54:51 Tim spekuliert über die Abmessungen der iWatch
+02:55:17 Roddi hält die iWatch für verfrüht, da die Notifications bei iOS noch nicht ausgereift sind
+02:56:49 „Du bist ja richtig Opfer!“ (Denis) #q
+02:57:28 Clemens schlägt einen iBall vor, eine Display-überzogene Kugel, die neue Bedienungs- und Erfahrungskonzepte ermöglichen würde
+02:59:10 Steve dreht sich schon wieder im Grab (anspielung auf Tweet) <https://twitter.com/SimonWaldherr/status/299306265073557504> #tweet #t
+02:59:45 Virtuelle Globen
+
+03:00:40 Fritz! Dect200 #chapter
+03:00:45 AVM FRITZ!DECT 200 <http://www.avm.de/de/News/artikel/2012/newsletter/ifa_dect_200E.html> #t
+- FRITZ!DECT bei Amazon <http://www.amazon.de/dp/B00AQ9E77M/> #shopping
+03:01:00 "Eine Steckdose die Dect spricht" #quote
+03:01:20 Clemens versteht den Sinn des Geräts nicht
+03:02:00 Tim hat 2 unabhängige Stromnetze in der Wohnung
+03:02:30 Funkkommunikation in der Wohnung
+03:02:55 DECT <http://de.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications> #g #t
+03:03:00 CRE102 Verweis "Der DECT Hack" <http://cre.fm/cre102> #podcast #t
+03:03:53 AVM bringt „intelligente“ (per DECT steuerbare) Steckdose <http://www.avm.de/de/News/artikel/2012/newsletter/ifa_dect_200E.html>
+03:05:21 Die Runde diskutiert den Sinn und Unsinn von Strommessgeräten
+03:06:57 Clemens steuert „seinen Landsitz“ fern und bietet das als zukünftiges MM-Thema an
+
+03:08:20 BitCoin, JOYN und Mobilfunk #chapter
+03:08:20 Ruby und BitCoin #t
+03:08:31 Room77 BitCoinTreffen <http://www.room77.de/> #t
+03:08:58 BitCoin Preise steigen weiter (34Euro == 1 BitCoin) #t
+03:09:25 JOYN Totgeburt von der Telekom <http://www.t-mobile.de/joyn> #t
+03:09:45 MMS <http://de.wikipedia.org/wiki/Multimedia_Messaging_Service> #g
+03:11:20 "Cliffrate" #quote #joke
+03:12:47 Zitat aus der Wikipedia von JOYN <http://de.wikipedia.org/wiki/Joyn> #g #t #link
+03:13:00 Tim bekommt seine DECT Dose nicht gepairt
+03:13:30 Telekom bietet jetzt mit Fon zusammen Internet an #t
+03:14:00 Roddi hat ein Hotspot von der Telekom zuhause
+03:14:20 Open WRT <https://openwrt.org/> #t
+03:15:00 Fon Spots sind sehr selten bis nie vorhanden 
+03:16:00 "Zwangstrennung der Telekom dient dem Datenschutz"
+03:16:30 Clemens fragt sich, was zu tun ist bei Unfall im Ausland
+03:16:55 Bei Notfällen immer 112 wählen, von überall #t
+03:17:40 Kanalfail (wenn kein Kanal frei ist, dann kurz 112 wählen, dann hat man einen freien Kanal)
+03:19:00 Es soll eingestellt werden, dass ohne SimKarte der Notruf gewählt werden kann
+03:19:55 auch Telefone ohne GPS Chip können Geo Daten übermitteln
+- es wird auf der GPS Frequenz getracet und beim Provider berechnet
+
+03:23:00 Clemens braucht Followerpower für ne Apple Mail Frage #chapter
+03:23:48 Clemens meckert über Outlook-konditionierte E-Mail-Doppelklicker #t
+03:24:50 Tipp von Denis: eine neue Maus kaufen (von Microsoft)
+03:25:34 „Layer-8-Problem“ (Denis) #q
+- ISO/OSI-Layer <https://de.wikipedia.org/wiki/OSI-Modell> #g
+- „Layer 8 ist Politik und Layer 9 ist Religion“ (Clemens) #q
+03:27:42 Alle müde außer Clemens, Denis und Roddi
+03:28:30 Beta von 10.9
+03:29:15 "Apple lügt"
+03:29:30 "No known issues" #q
+03:30:35 tägliches Java update
+03:31:00 "Flash und Java ist gar nicht das selbe, obwohl beides langsam, scheiße, unsicher und veraltet ist." #q
+03:31:25 Verabschiedung
+

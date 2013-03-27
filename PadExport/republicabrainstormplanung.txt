@@ -1,0 +1,70 @@
+                          
+PLANUNG RE:PUBLICA 13 <http://re-publica.de/>.
+
+Ihr lieben, 
+das ist jetzt nur mal so das was mir spontan in den Kopf gekommen ist, wenn ich über Shownot.es und Republica nachdenke. Da fehlen sicher einige Sachen. Bitte schreibt hin, was euch noch einfällt und was wichtig ist (oder unwichtig ;) )
+Danke schön und los gehts!
+
+Teilnehmer:
+
+Name                  | Anwesenheitswahrscheinlichkeit (Podlove Workshop)
+----------------------|--------------------------------------------
+Evita                   | 99% (99%)
+Simon                 | 95 % (99%)
+Quimoniz           |
+luto                     | 99% (99%)  [Freitag Nacht bis Dienstag Abend, wg. Schulfreistellung]
+Gurkitier             | 0%
+Melman              |
+Dr4k3                 | 0% (0%)
+
+   * Vorher
+
+     * Vorträge Shownotes schreiben
+       * Pads vorbereiten
+       * Recherchieren wann welcher Vortrag läuft
+       * Leute aquirieren, die mitschreiben
+       * Plan erstellen, wer wann schreibt (wenn schon klar) 
+       * Verantwortliche für jeweiligen Vortrag
+       * Kalender zum sich eintragen mit allen Zeiten und Titeln
+       *  
+       *  
+       *  
+
+     * Kurzen Vortrag zum Thema: Shownot.es während des Podcastertreffens
+       * wer kennt sich mit welchem Thema gut aus
+         * Unsere Software
+           * Pad (EP/EPL)
+           * Outliner (shareJS)
+           * Parser (PPP Modul)
+         * Unsere Seiten
+           * shownot.es
+           * podcascription.de
+         * Kontaktmöglichkeiten
+           * IRC
+           * Mail
+           * Pad
+           * ...
+         * Möglichkeiten des EPL/ eines Outliners
+         * Wünsche von den Machern und Hörern
+         *  
+         *  
+       * Ablauf, was soll erzählt werden
+       * Kurze Demo, während des Vortrags (live shownotes zu einer Aufzeichung?)
+       *  
+       *  
+       * 
+
+   * Währenddessen
+
+     * mit bei Tim am „open space stand“? 
+     * immer jemand da, der auch erklären kann worum es geht?
+     * in den Vorträgen dabei sein, um Themen zu kennen und Inhalte zu filtern
+     * Gesprächspartner für Wikigeeks/Tim finden für den täglichen Podcast
+     * Leute motivieren sich am Projekt zu beteiligen etc
+     *  
+     *  
+     *  
+
+   * Spaß haben :D
+
+

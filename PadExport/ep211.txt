@@ -1,0 +1,91 @@
+(Zum Mitschreiben ist die Anmeldung auf <https://shownotes.piratenpad.de/> erforderlich)
+
+HEADER
+Einschlafen Podcast 211
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep211> )
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fep211&time=20%3A45%3A45&Button=Create%21>
+
+Shownoter: @Quimoniz, @SimonWaldherr
+Themenvorschläge: XING-API, Burda kauft XING, Arbeitsamt kooperiert mit XING, ...
+
+/HEADER
+
+Pre-Show
+Christian Bednareks Vorleserey <http://vorleserey.de/> #podcast
+API <http://de.wikipedia.org/wiki/Programmierschnittstelle> #glossary
+
+Sendungsbeginn: 20:45:45 Uhr
+
+00:00:00 Sendungsbeginn, Kirchen und Religion #chapter
+Es ist der dritte Januar 2013
+Die erste EP Episode des Jahres
+Koordinationsprobleme
+Realitätsabgleich <http://wrint.de/category/Realitaetsabgleich> #podcast
+Einschlafen Podcast <http://einschlafen-podcast.de/> #podcast
+Tobys Band <http://www.horstblank.de/>
+Heilige drei Könige <http://de.wikipedia.org/wiki/Heilige_drei_K%C3%B6nige> #glossary
+Gottesdienste
+Heilig Abend
+Toby ist Gottesdiensthelfer
+Toby findet die Kirche zweifelhaft, aber er mag das Gebäude
+Religionen als Kriegsgrund
+Tobys Glaubenskonzept basierend auf dem Konzept Liebe
+Toby kann in der Kirche gut entspannen
+Johanneskirche in Tostedt <http://de.wikipedia.org/wiki/Tostedt> #glossary
+Der Michel in Hamburg <http://www.st-michaelis.de/>
+Sankt Katharinenkirche in Hamburg <http://www.katharinen-hamburg.de/>
+Evangelische Kirchen behaupten nicht, die Absolute Wahrheit zu haben
+Man sollte immer selbst interpretieren
+An Feiertagen sind die Kirchen voll
+
+00:13:00 Weihnachtsgottesdienst #chapter
+Tobys Tochter singt im Kinderchor
+Krippenspiel aus der Perspektive des Stadtschreibers
+Kinder spielen gerne die Rolle des Engels
+Toby ist genervt von den Leuten, die nur einmal im Jahr zur Kirche gehen, und dann auch nicht mal gerne da sind.
+Lautstärke bei Vorträgen/Vorlesungen
+wenn ihr was hören wollt, dann seid gefälligst leise #spoiler
+Toby würde lieber an einem anderen Tag in die Kirche gehen
+
+00:19:40 Silvester #chapter
+00:19:40 Toby war an Silvester zum Lesen in der Kirche eingeteilt
+Toby war ohne Kinder und Gäste in der Kirche
+Die Kirche war sehr voll
+Gesang in der Kirche
+Kantor <http://de.wikipedia.org/wiki/Kantor> #glossary
+Dirigentin <http://de.wikipedia.org/wiki/Dirigent> #glossary
+Toby las einen falschen Text vor (Johannes 12 statt Johannes 8, aber das fiel Toby beim Sprechen nicht ein)
+Johannes Evangelium <http://de.wikipedia.org/wiki/Evangelium_nach_Johannes> #glossary
+- Kapitel 8 <http://bibel-online.net/buch/luther_1912/johannes/8/> #fulltext
+Die Bibel wurde von Menschen geschrieben und Menschen sind fehlbar
+Erklärung der Bibel mit Tobys Gotteskonzept
+00:29:10 Gedankengang: Man kann sich auch in Worten geborgen fühlen
+Tobys "Augen zu und zugehört"
+Es wird nicht zum Geburtstag die 300te Folge geben
+Kalenderwoche.net <http://kalenderwoche.net/>
+
+00:34:30 Flattr Spenden, Geschenke und Tobys neuer PC #chapter
+Toby bedankt sich für die Flattr Spenden
+Toby überlegt einen neuen Monitor zu kaufen
+Toby möchte eine SSD
+er hat auch Geschenke geschickt bekommen
+00:36:45 Tobys neuer PC
+Fotografie
+RAW <http://de.wikipedia.org/wiki/Rohdatenformat_(Fotografie)> #glossary
+JPEG <http://de.wikipedia.org/wiki/JPEG> #glossary
+Einschlafen Podcast App for Android
+00:38:30 weitere Einschläfernde Podcasts
+Mutation der App zum Podcatcher
+Aldi Rechner mit Windows 8
+Standing Desk <http://fooforge.com/2012/07/07/build-your-own-standing-desk.html>
+shownot.es <http://shownot.es/>
+Google Suche <http://www.google.de/search?q=standing+desk+Realitätsabgleich+site%3Ashownot.es>
+Realitätsabgleich 24 Shownotes <http://shownot.es/wrint/132> #shownotes
+
+00:42:25 Toby liest aus Selma Lagerlöfs Niels Holgersons wunderbare Reise mit den Wildgänsen vor #chapter
+- Er ist nun bei Kapitel 29, das Bruderteil
+- Nils Holgersson (auf Gutenberg Kapitel 30) <http://www.gutenberg.org/ebooks/31114> #fulltext
+

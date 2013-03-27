@@ -1,0 +1,240 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskusion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM101
+
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Shownotes zu MobileMacs 101
+Stream: http://streams.xenim.de/mobile_macs.mp3
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2F204&time=19%3A53%3A00&Button=Create%21
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Denis @denis2342, roddi ist nicht da
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/101
+
+Zusammengetragen von @evitabley, @SimonWaldherr, @ctrettin, @kaeffchen_heinz, 
+Sendungstitel Vorschläge:  Pirate Match, Humanoides Beistellgerät
+
+Sendungsbeginn: 19:53:00 Uhr
+
+/HEADER
+
+00:00:00 Intro und Begrüßung #chapter
+Previously on mobileMacs von David1701 <https://soundcloud.com/david1701/previously-on-mobilemacs-100> #audio
+Bumm Zack Return
+Weltuntergang am 21.12.2012 <http://zombocalyp.se>
+"Ohne Veränderung kein Fortschritt" #quote
+Gitarrenzeugs von Hukl Elektrokram 
+Trend sollte wieder zu Analogaufnahme gehen laut Hukl #topic
+Hukls Lieblingswebseite Thomann <http://www.thomann.de> #topic
+bei Thomann werden Podcasts gehört
+Musikhaus Thomann e.K., Treppendorf 30, D-96138 Burgebrach #topic
+GoogleStreetview <http://goo.gl/maps/j3roA>
+Einkaufsexperience bei Thomann
+Hochregallager bei Thomann <http://www.kabeleins.de/tv/abenteuer-leben/videos/clip/groesste-musikversandhandel-welt-1.191671> #video
+Hochregallager <http://de.wikipedia.org/wiki/Hochregallager> #glossary
+Berlin ist völlig unterbesetzt was Musikstores angeht
+Just Music ist laut Hukl nicht so "kundenfreundlich" Verkäufer = "Latent ungefickt" Tim #quote
+Berlin hat keinen Apple Store, keinen neuen Flughafen, keine Musikstores, ... #topic
+Stagediving <http://de.wikipedia.org/wiki/Crowdsurfing> #glossary
+
+00:12:30 Kopfhörer und Audio-foo #chapter
+Tim hat seine Kopfhörer in den Fritz Studios gefunden <http://www.fritz.de> #topic
+Sennheiser HME26 #topic
+- HME26 bei Thomann <http://www.thomann.de/de/sennheiser_hme266007_set.htm> #shopping
+- HME280 bei Amazon <http://www.amazon.de/dp/B0026RKFFK/> #shopping
+Domian trägt auch so ein Headset <http://www.einslive.de/sendungen/domian/> #topic
+Sennheiser HD 25 <http://www.thomann.de/de/sennheiser_hd251_ii.htm> #shopping
+00:15:30 Bose 
+Es wird gesagt, dass diesesmal zumindest der Stream geht #spoiler
+Es brummt im Studio
+typischer sennbrumm - alle dürfen mal probieren
+00:18:00 Macintosh Schirmungsproblem #topic
+Beyerdynamic DT-770 Pro <http://www.thomann.de/de/beyerdynamic_dt770pro.htm> #shopping
+"Power Mac" ganz anders gedacht #topic
+Durch Macbooks fließt Strom
+00:20:05 Hörbares WLAN bei MacBook und iPad
+"steht schon in den Shownotes" #quote
+00:22:05 "Der Braten liegt bei 300 Hz" #quote
+00:22:15 Hukl erklärt 300 Hz
+Tim spricht wie Joda "Bei 300Hz, der Braten liegt" #quote
+warum und was genau kann er aber auch nicht erklären #topic
+00:23:20 Streamabbruch 00:23:30 bis 00:27:00
+00:23:25 es wird über den Streamabbruch der Livesendung gesprochen #topic
+Es wird noch gestreamt, aber es kommt nix an #spoiler
+00:26:00 Die Teilnehmer klingen scheiße
+00:28:00 Fernsehsendung Elmar Gunsch
+Elmar Gunsch <http://de.wikipedia.org/wiki/Elmar_Gunsch> #glossary
+"Im Falle eines Atomkriegs wird dies von Elmar Gunsch berichtet" #quote
+Gewitter Einspieler
+Das Sennheiser Headset gibt es nicht bei Thomann (sagt Tim, ist aber falsch) #topic
+Tim mag das Beyerdynamic lieber als das Sennheiser HD 25
+Frequenzbänder <http://de.wikipedia.org/wiki/Frequenzband>
+EW1G8-Serie <http://www.thomann.de/de/search_dir.html?xsid=d2ef3afc3b7f1a2588e79b0e0c519b6f&sw=1g8&x=0&y=0&gk=&bn=>
+Hukl empfiehlt Röhrenverstärker für Tims Mikrofone
+<http://de.wikipedia.org/wiki/R%C3%B6hrenverst%C3%A4rker> #glossary
+
+00:36:15 Internet-foo #chapter
+KabelDeutschland
+Kundensupport ist super bei KabelDeutschland
+DocSis 3 Standard <http://de.wikipedia.org/wiki/Data_Over_Cable_Service_Interface_Specification> #glossary
+Bit Torrent <http://de.wikipedia.org/wiki/Bit_Torrent> #glossary
+IPv4 <http://de.wikipedia.org/wiki/Ipv4> #glossary
+IPv6 <http://de.wikipedia.org/wiki/Ipv6> #glossary
+00:44:15 Google Captcha-Abfrage
+Die Telekom ist daran Schuld
+Im Telekomnetz (IP-Bereich) sind zu viele Spammer
+VPN <http://de.wikipedia.org/wiki/Virtual_Private_Network> #glossary
+Bing <http://de.wikipedia.org/wiki/Bing_%28Suchmaschine%29> #glossary
+
+00:47:30 iPhone 5 #chapter
+Roddi ist in den USA und betrinkt sich #quote
+Tim hat Probleme mit der Ortung
+GPS <http://de.wikipedia.org/wiki/GPS> #glossary
+GLONASS <http://de.wikipedia.org/wiki/GLONASS> #glossary
+FindMyFriends <https://www.apple.com/de/icloud/features/find-my-friends.html>
+Tim hat eine Hülle um das iPhone von Belkin
+Denis hat eine Beule im iPhone
+iPhone Bumper <http://www.amazon.de/dp/B003TTKKD6> #shopping
+Viskosität <http://de.wikipedia.org/wiki/Viskosit%C3%A4t> #glossary
+Oobleck <http://de.wikipedia.org/wiki/Nichtnewtonsches_Fluid> #glossary
+Oobleck at World Maker Faire 2010 <http://www.youtube.com/watch?v=lSQOWuANuW8> #video
+Swim in and walk over oobleck <http://youtu.be/f2XQ97XHjVw> #video
+- en wiki <http://en.wikipedia.org/wiki/Non-newtonian_fluid#Oobleck> #glossary
+Stärke <http://de.wikipedia.org/wiki/St%C3%A4rke> #glossary
+Streamabbruch 00:53:50 bis 01:00:00
+
+00:58:40 Fliegen, schlechte Apps und Passbook #chapter
+Apple Passbook <http://www.apple.com/de/ios/whats-new/#passbook> #topic
+freie Passkit Lib (PHP) <http://simonwaldherr.github.com/passkit.php/> #source
+Lufthansa <http://www.lufthansa.com/online/portal/lh/de/homepage> #topic
+AirBerlin <http://www.airberlin.com/site/start.php?LANG=deu&all=1&MARKT=DE> #topic
+Lufthansa App <https://itunes.apple.com/de/app/lufthansa/id299219152?mt=8> #app
+Skeuomorph <http://en.wikipedia.org/wiki/Skeuomorph> #glossary
+"Die Lufthansa App ist appartig" #spoiler
+Flightboard App <https://itunes.apple.com/de/app/flightboard-echtzeitstatus/id390553006?mt=8> #app
+"Sauerstoff als Droge"
+
+01:10:20 Betriebssysteminstallation und Treiber-foo #chapter
+Lion auf MountainLion
+Tim hatte ein schlechtes Backup #topic
+Carbon Copy Cloner <http://www.bombich.com/>
+SuperDuper!<http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html>
+"Vorwärts immer, rückwärts nimmer", "Arsch!!!" #quote
+Tim hat Snow Leopard instaliert <http://de.wikipedia.org/wiki/Mac_OS_X_10.6> #glossary
+Hinterher Lion <http://de.wikipedia.org/wiki/Mac_OS_X_10.7> #glossary
+Audio-Treiber-Probleme mit Apples Betriebssystemen
+Core Audio <http://de.wikipedia.org/wiki/Core_Audio> #glossary
+Serielle Schnittstelle <http://de.wikipedia.org/wiki/Serielle_Schnittstelle> #glossary
+libFTDI statt FTDI Treiber <http://www.intra2net.com/en/developer/libftdi/> #topic
+FTDI <http://www.ftdichip.com/> #topic
+- FTDI ICs bei Mouser <http://de.mouser.com/Semiconductors/Interface-ICs/_/N-45lra?Keyword=ftdi&FS=True> #shopping
+USB-ID <http://www.vdr-wiki.de/wiki/index.php/USB-ID> #topic
+
+01:23:00 Streamabbruch und DSL-foo #chapter
+01:23:00 streamabbruch 01:23:00 bis 01:25:00
+Apple AirPort <http://de.wikipedia.org/wiki/Apple_AirPort> #glossary
+PPPoE <http://de.wikipedia.org/wiki/PPPOE> #glossary
+FRITZ!Box <http://de.wikipedia.org/wiki/Fritzbox> #glossary
+VDSL <http://de.wikipedia.org/wiki/VDSL> #glossary
+Speedport <http://de.wikipedia.org/wiki/Speedport> #glossary
+Cisco IOS <http://de.wikipedia.org/wiki/Cisco_IOS> #glossary
+die nächste Katze wird kommen
+Kabel-Deutschland <http://de.wikipedia.org/wiki/Kabel_Deutschland> #glossary
+IP <http://de.wikipedia.org/wiki/Internet_Protocol> #glossary
+
+01:31:30 iTunes 11 #chapter
+iTunes 11 <http://de.wikipedia.org/wiki/ITunes> #glossary
+Ist scheiße #quote
+ID3 Tag <http://de.wikipedia.org/wiki/ID3-Tag> #glossary
+streamabbruch 01:32:30 - 01:35:45
+"Du sollst nur mit iTunes rippen" #quote
+DIVVY Mac App <http://mizage.com/divvy/> #app
+"Der App Store muss aus iTunes raus" von Hukl #quote
+"2013 das Jahr des Streamings" von Tim #quote
+Das Download Fenster kann nicht "normal" geschlossen werden.
+Carbon <http://de.wikipedia.org/wiki/Carbon_(Apple)> #glossary
+Cocoa <http://de.wikipedia.org/wiki/Cocoa> #glossary
+Spotify <http://de.wikipedia.org/wiki/Spotify> #glossary
+Squeezebox <http://de.wikipedia.org/wiki/Squeezebox> #glossary
+Es gibt keine Beatles Songs in Spotify #spoiler
+Ecoute app <http://www.ecouteapp.com/home/> #app
+Winamp <http://de.wikipedia.org/wiki/Winamp> #glossary
+Safari <http://de.wikipedia.org/wiki/Apple_Safari> #glossary
+
+01:52:40 Mailkompetenz #chapter
+IMAP <http://de.wikipedia.org/wiki/Imap> #glossary
+Apple Mail <http://de.wikipedia.org/wiki/Apple_Mail> #glossary
+Postbox <http://www.postbox-inc.com/> 
+Cyrus <http://de.wikipedia.org/wiki/Cyrus_(Server)> #glossary
+Max wird nächstes Jahr heiraten und ändert dann seinen Nachnamen
+Google Apps <http://de.wikipedia.org/wiki/Google_Apps> #glossary
+Exchange <http://de.wikipedia.org/wiki/Exchange> #glossary
+Google Plus <http://de.wikipedia.org/wiki/Google_Plus> #glossary
+FastMail <https://www.fastmail.fm>
+Uberspace <http://uberspace.de>
+Outlook <http://de.wikipedia.org/wiki/Outlook> #glossary
+Hotmail <http://de.wikipedia.org/wiki/Hotmail> #glossary
+
+02:14:00 Dropbox #chapter
+Dropbox <https://www.dropbox.com> #topic
+Reaper <http://www.reaper.fm>
+IFTTT - if this then that <https://ifttt.com> #topic
+Flattr <http://de.wikipedia.org/wiki/Flattr> #glossary
+Sparklshare <http://sparkleshare.org/> #topic
+git <http://git-scm.com/> #topic
+02:19:45 Tim war im Apple Store
+02:20:10 Multiuser auf iOS #topic
+Windows Phone Kids Corner <http://www.windowsphone.com/de-de/how-to/wp8/basics/set-up-kids-corner>
+02:25.25 Java #topic
+Java <http://de.wikipedia.org/wiki/Java_(Programmiersprache)> #glossary
+ELSTER <http://de.wikipedia.org/wiki/ELSTER> #glossary
+
+02:34:00 Kalender #chapter
+iCal <http://de.wikipedia.org/wiki/Ical> #glossary
+Google Kalender <http://de.wikipedia.org/wiki/Google_Kalender> #glossary
+
+02:36:20 Bitcoins #chapter
+Bitcoin <http://de.wikipedia.org/wiki/Bitcoin> #glossary
+satoshiDICE! <http://www.satoshidice.com> #topic
+Bitcoin Lotto #topic
+Glücksspiel <http://de.wikipedia.org/wiki/Gl%C3%BCcksspiel> #glossary
+Mount Gox <https://mtgox.com> #topic
+
+02:49:00 Podcast Publishing #chapter
+Drupal <http://www.drupal.de> #topic
+Libsyn <http://libsyn.com> #topic
+
+03:05:00 Der Congress #chapter
+Chaos Communication Congress <http://events.ccc.de/congress/?language=de> #topic
+Congress Center Hamburg <http://www.cch.de/> #topic
+
+03:11:00 Apple TV #chapter
+Apple TV <http://www.apple.com/de/appletv/> #topic
+Bericht zum Tim Cook Interview<http://www.heise.de/mac-and-i/meldung/Tim-Cook-im-TV-Interview-1764275.html> #topic
+Mehrsprachige Videodateien und Untertitel #topic
+Staffelpass Rant #topic
+Pirate Match statt iTunes Match #topic #title
+
+03:24:00 Apple produziert in den USA #chapter
+Mac Pro <http://www.apple.com/de/macpro/> #topic
+bei Amazon <http://www.amazon.de/dp/B008ATNITS/> #shopping
+"Wir sind unwissend" von Tim #quote
+Renminbi Yuan <http://de.wikipedia.org/wiki/Renminbi> #glossary
+1 Renminbi Yuan = 0,1227€
+"Nein, doch, oh" <http://www.youtube.com/watch?v=w4aLThuU008> #video
+Max steigt aus. #spoiler #topic
+03:41:00 Schluss #chapter
+
+

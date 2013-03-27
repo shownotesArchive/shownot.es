@@ -1,3 +1,5 @@
+HEADER
+
 Gekuerzte Version unter:
 
 (Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.)
@@ -13,34 +15,63 @@ Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fnsfw
 
 Sendungsbeginn: 12:33:45
 
-Intro: Epische Strauss 
+
+Sendungsende 15:10:00
+
+Vorschläge für Sendungstitel, ggf aus dem Chat:
+"Der mit dem roten Schlüpper"
+"most bored nsfw ever"
+"Seelenlos nur mit Korb"
+"Ich wollte damit nichts zu tun haben"
+"Blaue Häckchen machen uns glücklich"
+"Creme mir mal das Gemächt"
+"Niedersachsens Geschenk an die Welt, das einzigste"
+"ich kann dir was aufs Eis gießen ,Freundchen!"
+"Zwei weniger"
+"Regensburg ist überall"
+"Zum Nerd wird man gedroschen"
+"Hektische Gesamtscheiße"
+"Ökologisches Trollen"
+"Grüas Gott"
+
+/HEADER
+
+00:00:00 Intro: Epische Strauss #chapter
 <http://de.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)>
 
-Begrüßung: Pakete Statt Themen
-00:04:30 Der Videotext ist die Einstiegsdroge für das Internet.<http://www.der-postillon.com/2011/09/ratgeber-alles-was-sie-uber.html>
-00:05:32 Holgi bemängelt das sie noch nie YouPorn-Videos geschaut haben <http://youporn.com>
-00:07:05 Begrüßung zur internationalen Unterhaltungsmartinee
-Most bored girl ever <http://www.youporn.com/watch/64855/most-bored-girl-ever/>
+00:04:30 Begrüßung: Pakete Statt Themen #chapter
+Der Videotext ist die Einstiegsdroge für das Internet.<http://www.der-postillon.com/2011/09/ratgeber-alles-was-sie-uber.html> #topic
+00:05:32 Holgi bemängelt das sie noch nie YouPorn-Videos geschaut haben #topic
+YouPorn <http://youporn.com> #glossary
+00:07:05 Begrüßung zur internationalen Unterhaltungsmartinee #topic
+Most bored girl ever <http://www.youporn.com/watch/64855/most-bored-girl-ever/> #video
 00:09:30 Minutenlanges Gelächter
 
-Campus Party Berlin
-00:12:00 Campus Party Berlin <http://www.campus-party.eu/> mit Captain Crunch <http://de.wikipedia.org/wiki/John_T._Draper>
-00:14:45 Holgi dachte das die Party von O2 gesponsort wurde.<http://de.wikipedia.org/wiki/O2_Germany>
+00:12:00 Campus Party Berlin #chapter
+Campus Party Berlin <http://www.campus-party.eu/> #topic
+- mit Captain Crunch <http://de.wikipedia.org/wiki/John_T._Draper>
+00:14:45 Holgi dachte, das die Party von O2 gesponsort wurde #spoiler
+O2 <http://de.wikipedia.org/wiki/O2_Germany> #glossary
 00:17:00 Audio-Qualität der Veranstaltung war mangelhaft, da alle Bühnen sich gegenseitig beschallt haben. Einige Talks wurden abgebrochen.
-– Tim Berners-Lee <http://de.wikipedia.org/wiki/Tim_Berners-Lee>
-– Mark Fonseca Rendeiro aka "Bicyclemark" <http://www.bicyclemark.org/>, <http://newz-of-the-world.com/>
-00:22:40 Bezahlung per Geldtokens <http://de.wikipedia.org/wiki/Jeton>
-00:25:05 Durch die O2-Werbeaktion war das eigene Netz total überlastet und es existierte kein funktionierendes WLAN.
+Tim Berners-Lee <http://de.wikipedia.org/wiki/Tim_Berners-Lee> #glossary
+Mark Fonseca Rendeiro aka "Bicyclemark" <http://www.bicyclemark.org/>  #glossary
+Newz of the World <http://newz-of-the-world.com/> #glossary
+00:22:40 Bezahlung per Geldtokens #topic
+Jeton <http://de.wikipedia.org/wiki/Jeton> #glossary
+00:25:05 Durch die O2-Werbeaktion war das eigene Netz total überlastet und es existierte kein funktionierendes WLAN #spoiler
 
-Social Networking/Twitter
-00:27:50 Holgi hat kein blaues Häkchen bei Twitter, auch nicht bei Flattr. (Tim: Blaue Häkchen machen uns glücklich) <http://bjoerntantau.com/twitter-account-verifizieren-wie-geht-das-29112011.html>
-00:29:03 Rhino AppNet <http://itunes.apple.com/de/app/appnet-rhino/id554821337?mt=8>
-00:32:00 Tweetbot für Apple <http://itunes.apple.com/de/app/tweetbot-der-twitter-client/id428851691?mt=8>
-00:33:50 DLR <http://www.dlr.de/>, <http://de.wikipedia.org/wiki/Deutsches_Zentrum_f%C3%BCr_Luft-_und_Raumfahrt>
-00:37:30 Für 5 Millionen mit dem Podcasten aufhören.
-00:39:20 ISS-Account bei Twitter, der einem sagt wann diese über einen hinweg fliegt. <https://twitter.com/twisst>, <http://de.wikipedia.org/wiki/ISS> 
-00:40:20 Superfav und Tumblr fliegen aus Twitter raus <http://superfav.com/>, <http://techcrunch.com/2012/08/22/twitter-tumblr/>
-00:43:00 Tim: wir befinden uns mittlerweile 3 Wochen hinter Crowdfunding. <http://de.wikipedia.org/wiki/Crowdfunding>
+00:27:50 Social Networking/Twitter #chapter
+00:27:50 Holgi hat kein blaues Häkchen bei Twitter, auch nicht bei Flattr. (Tim: Blaue Häkchen machen uns glücklich)
+Twitter Account verifizieren: Wie geht das? <http://bjoerntantau.com/twitter-account-verifizieren-wie-geht-das-29112011.html> #link
+00:29:03 Rhino AppNet <http://itunes.apple.com/de/app/appnet-rhino/id554821337?mt=8> #app
+00:32:00 Tweetbot für Apple <http://itunes.apple.com/de/app/tweetbot-der-twitter-client/id428851691?mt=8> #app
+00:33:50 DLR <http://www.dlr.de/> #glossary
+00:37:30 Für 5 Millionen mit dem Podcasten aufhören #spoiler
+00:39:20 ISS-Account bei Twitter, der einem sagt wann diese über einen hinweg fliegt. <https://twitter.com/twisst> #topic
+ISS <http://de.wikipedia.org/wiki/ISS> #glossary
+00:40:20 Superfav und Tumblr fliegen aus Twitter raus <http://superfav.com/> #topic
+Tumblr ‘Truly Disappointed’ That Twitter Revoked Its Friend-Finding Privileges  <http://techcrunch.com/2012/08/22/twitter-tumblr/> #link
+00:43:00 Tim: wir befinden uns mittlerweile 3 Wochen hinter Crowdfunding <http://de.wikipedia.org/wiki/Crowdfunding>
 Erste Clients für Android sind erschienen. <https://play.google.com/store/apps/details?id=com.themodernink.hooha>
 Tim: Da ist mittlerweile Blätterwald und kein Zirpen in der Wüste.
 Holgi: 90% der Twitteruser nutzen den eingebauten Apple Client. <http://itunes.apple.com/de/app/tweetbot-der-twitter-client/id428851691?mt=8>
@@ -129,22 +160,4 @@ Kultfabrik in München <http://de.wikipedia.org/wiki/Kultfabrik>
 
 02:31:25 Outro  
 The Incredible Herrengedeck - Berlin Stinkt! <http://www.youtube.com/watch?v=LIPCaeB_hQ0>
-
-Sendungsende 15:10:00
-
-Vorschläge für Sendungstitel, ggf aus dem Chat:
-"Der mit dem roten Schlüpper"
-"most bored nsfw ever"
-"Seelenlos nur mit Korb"
-"Ich wollte damit nichts zu tun haben"
-"Blaue Häckchen machen uns glücklich"
-"Creme mir mal das Gemächt"
-"Niedersachsens Geschenk an die Welt, das einzigste"
-"ich kann dir was aufs Eis gießen ,Freundchen!"
-"Zwei weniger"
-"Regensburg ist überall"
-"Zum Nerd wird man gedroschen"
-"Hektische Gesamtscheiße"
-"Ökologisches Trollen"
-"Grüas Gott"
 

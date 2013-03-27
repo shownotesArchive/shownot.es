@@ -1,0 +1,153 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+Alle            Einträge bitte mit dreistelligem Zeitstempel:  hh:mm:ss, also z.       B.      01:23:45; damit diese synchronisiert sind, bitte  den       "Timer"-Link      benutzen, sobald er an die Startzeit angepasst    ist!     Überzählige      Zeitstempel können dann ggf. beim  späteren      Überarbeiten     herausgenommen   werden! Zitate in  <italic>,      Themenüberschriften    in   <bold>.  Danke
+
+HEAD
+Realitätsabgleich 29, Mittwoch, 6. Februar 2013
+mit Holger Klein (@holgi), und Toby Baier (@tobybaier, @schlafein)
+Publikation: <http://wrint.de>, <http://einschlafen-podcast.de>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://xsn.io/wrint.mp3>
+Chat: <http://webchat.freenode.net/?channels=%23kleitung>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fra30&time=11%3A39%3A30&Button=Create%21>
+
+Zusammengetragen von: @Quimoniz, @Abkueko, @evitabley, @SimonWaldherr
+Sendungsbeginn: 11:39:30 Uhr
+
+/HEAD
+
+preshow
+Wrintheit soll fortgesetzt werden
+15 Zoll Mac Book
+1 € Jobs
+
+
+00:00:00 Sendungsbeginn #chapter
+00:00:04 Toby quatscht mal wieder ins Intro
+Geheimniskrämerei
+Blogkommentare bei Holgi <http://www.wrint.de/2013/02/03/wr144-die-letzte-wrintheit/> #podcast
+
+00:02:00 Tobys neuer Job bei BigPoint #c
+Der neue Job von Toby: neu anders aufregend groß
+Coremedia (150 Mitarbeiter) <http://coremedia.com/>
+Xing (500 Mitarbeiter) <http://xing.de/>
+BigPoint (ca 600 Mitarbeiter) <http://bigpoint.com/>
+Entlassungswellen in der IT-Branche
+00:04:00 In Hamburg gibt es viele solche Onlinegamingfirmen und man wechselt so hin und her
+00:04:35 Farmerama <http://de.bigpoint.com/farmerama/>
+00:04:45 Drakensang <http://de.bigpoint.com/drakensang-online/>
+00:04:57 RisingCities <http://de.bigpoint.com/risingcities/>
+00:05:40 Casuelgames und Coregames
+00:05:50 Free to play Spiele
+00:06:25 Prosieben Games <http://www.prosiebengames.de/>
+00:07:30 Bigpoint hat 300 Millionen registrierte Spiele <http://bigpoint.net/2012/12/bigpoint-celebrates-300-million-registered-users-worldwide/>
+00:08:00 Holgi würde bei der Anzahl von Nutzern wahrscheinlich größenwahnsinnig werden
+00:08:25 Der Firmengründer Bigpoints "Heiko" will jetzt wohl neues Gründen
+00:10:15 CEO <http://de.wikipedia.org/wiki/Chief_Executive_Officer> #g
+00:10:40 auch eine große Firma muss weiter innovativ bleiben
+00:10:55 Holgis Job bei "Film/Fernsehen". Er hat 2 Sendungen mit aufgebaut
+00:11:00 Erster Aufnahmeleiter <http://de.wikipedia.org/wiki/Erste_Filmaufnahmeleitung> #g
+00:12:09 Holgi hat teilweise am Set geschlafen, weil die Zeit fehlte heim zu fahren.
+00:13:28 Der Job im Radio, der Bluemoon, ist niemals Routine, weil immer andere Leute anrufen
+00:15:00 Die nächsten RAs wird es auch hauptsächlich um Tobys Job gehen.
+00:15:35 Nach dem Urlaub und bei Arbeitantritt sollte man am Mittwoch/Donnerstag mit der Arbeit anfangen
+00:17:00 Wochenende ist für Holgi nicht das "normale Wochenende"
+00:18:00  Die öffentlich rechtlichen Sender haben eine Regelung, dass man auch  Urlaubsgeld und Lohnfortzahlung bekommt, wenn man bestimmte  Voraussetzungen erfüllt
+00:18:50 Manche Sender bezahlen für eine Morningshow bis zu 1000€ pro Sendungstag
+00:19:25 Dienstplan, "Angebotsplan"
+00:21:10 42 Tage Urlaub bei den Rundfunkanstalten
+00:22:00 ORF: freie Mitarbeiter klagen ihr Leid, wegen schlechten Bezahlungen <http://orffm.wordpress.com/2013/01/30/stimmen-der-freien-orf-mitarbeiterinnen-zu-ihrer-situation/>
+- Artikel bei Der Standard <http://derstandard.at/1325485794297/Freie-ORF-Mitarbeiter-Randnotiz-aus-dem-Prekariat>
+00:23:50 Tobys Informatikstudium an der Uni in Hamburg brachte ihm gute Chancen auf dem Arbeitsmarkt ein <http://www.informatik.uni-hamburg.de/>
+00:24:10 GuttenPlag <http://de.guttenplag.wikia.com/wiki/GuttenPlag_Wiki>
+00:25:10 Eine Deutsch-Lehrerin von Toby ist dann in eine Psychiatrie gekommen
+00:26:00 Mathematik ist nur ein Teil der Informatik (Analytik, Algebra, Stochastik)
+00:27:00 Zeitstrahl der Programmiersprachen
+- Zeittafel auf Wikipedia <http://de.wikipedia.org/wiki/Zeittafel_der_Programmiersprachen> #g
+Miranda <http://de.wikipedia.org/wiki/Miranda_%28Programmiersprache%29> #g
+00:27:25 Oberon <http://de.wikipedia.org/wiki/Oberon_%28Programmiersprache%29> #g
+00:27:40 Toby war mal 6 Jahre lang Java-Entwickler 
+00:28:05 PHP <http://de.wikipedia.org/wiki/PHP> #g
+
+00:28:40 Zahnarztbesuch von Holgi #c
+00:28:50 Die Zahnarzthelferin war "doof"
+00:29:31 Sie hat ihm mit dem Spiegel den Mundwinkel eingerissen. Und Holgi hat sich fast übergeben, wegen des Absaugschlauchs.
+00:29:40 Holgi hat jetzt eingerissenen Mundwinkel
+00:30:30 Toby mag nicht gern zum Zahnarzt gehen und verkrampft sich.
+00:31:40 Beim Abdruck nehmen, nahm die Ärztin zu viel von der Masse und er musste sich übergeben
+00:32:20 Zäpfchen <http://de.wikipedia.org/wiki/Uvula> #g
+00:33:10 Beißkeil zum "Kieferablegen"
+00:33:40 Anspannung bei Spritze
+00:33:50 Lidocain-kick <http://de.wikipedia.org/wiki/Lidocain> #g
+00:35:00 Holgi findet es super, wenn man dann nur noch sabbert
+
+00:35:29 Älterwerden #c
+00:35:30 Die Tante von Tobys Frau ist älter geworden und lebt nach dem betreuten Wohnen jetzt im Altersheim
+00:36:55 Demenz <http://de.wikipedia.org/wiki/Demenz> #g
+00:37:20 Die Tante war bei dem Umzug sehr entspannt
+00:37:40 Verhandlungen beim Auszug ergaben, dass die Kündigungsfrist auch 3 Monate beträgt.
+00:39:00 Saga Hamburg <http://www.saga-gwg.de>
+00:40:23 Die Miete im Betreuten Wohnen betrug ungefähr 1200€
+00:41:05 Tostedt <http://de.wikipedia.org/wiki/Tostedt> #g
+00:42:00 Die Verwaltung ist meist gar nicht böswillig
+00:42:30 "Man soll nie Verschwörung unterstellen, wo Faulheit als Erklärung ausreicht" #quote
+00:43:30 "Besser ein hüsteln auf dem Flur, als Techno" #quote
+00:44:00 "Alte Männer waren immer zum kotzen" #quote
+00:44:40 Der 9/11 Pilot Mohammed Atta wohnte in Harburg <http://de.wikipedia.org/wiki/Mohammed_Atta> #g
+00:45:50 Wenn Holgi mal alt ist, sollen die Zivis froh sein, dass es keine Zivis mehr gibt
+00:46:30 Die Holgi/Toby Generation wird das Internet haben im Seniorenalter
+00:46:50 Holgi und Toby können sich nicht vorstellen, mal mit dem Podcasten aufzuhören
+00:47:00 Holgis Vorschlag: "Der Entschlafen-Podcast"
+00:47:30 Toby fragt sich was mit den Podcasts nach seinem Ableben geschehen würde.
+00:47:50 Host-Europe <http://www.hosteurope.de/>
+00:48:00 Buch: Other Land <http://www.amazon.de/dp/3453530756/> #shopping
+00:48:25 Spoiler Other Land Anfang
+00:51:30 Spoiler Other Land Ende
+00:52:00 Stimmen synthetisieren
+00:52:25 Tobi überlegt, welche Stimme er wählen würde, wenn er die Wahl hätte
+00:52:25 Heike Makatsch <http://de.wikipedia.org/wiki/Heike_Makatsch> #g
+00:52:40 Holgi braucht, wenn er alt ist, nur eine 1-Zimmer-Wohnung und Internet
+00:53:10 Holgi denkt über die Rente nach, wird es die in Zukunft noch geben?
+00:53:55 Was wird man mit den Rentnern machen? Abschaffung des Wahlrechts?
+00:54:00 Die Arbeit wird ausgehen => Bedingungsloes Grundeinkommen wird nötig
+00:54:40 Bedingungsloses Grundeinkommen (BGE) <http://de.wikipedia.org/wiki/Bedingungsloses_Grundeinkommen> #g
+00:55:40 Ob Facebookfreunde auch hinreichend echte Freunde sein können
+00:56:15 Einsamkeit kann überall sein, auch in großen Menschenmengen
+00:57:45 Holgi hat von Toby eine ganz andere Realität als von Cdr_Taggart (aus dem Chat)
+00:58:20 "Feiner Taggart, feiner" #quote
+00:58:30 "Mal schauen, ob Taggart gleich mit dem Schwanz wedelt" #quote
+00:58:40 Gibt es auch Themen die nicht alle runterziehen?
+00:59:00 Themenlistenthemen
+- Armstrong "Skrottal-Pflaster-Armstong"
+- Altersarmut
+- FDP/Niedersachsen
+- Neue Platten
+01:00:20 Schavan bestätigt die These eine Witzfigur zu sein, da sie ihren Dr. Titel außerhalb des wissenschaftlichen Betriebs benutzt.
+01:01:00 "Politiker übernehmen die Verantwortung, treten aber nicht zurück" #quote
+01:02:22 Frau Schavan versucht immer wieder den Boten zu erschießen.
+01:02:52  Holgi sieht es als ein Zeichen für das schlechte politische Klima, dass  sich die Politiker nicht um ihre eigenen Schäden kümmern.
+01:02:30 Thema Schavan zieht doch wieder runter, Themenwechsel zu neue Platten
+
+01:02:35 Neue Platten und Produktwerbung #chapter
+01:04:20 Neue Bad Religion Platte True North <http://www.amazon.de/dp/B00A7HV7E4/> #shopping
+01:05:35 Holgi wird Depeche Mode Live sehen <http://www.depechemode.de/>
+01:06:20 Toby war beim Hörgeräteakustiker und hat sich angepasste Gehörschutz (Ohrstöpsel) mit Lautstärkenregulation machen lassen
+01:08:15 Toby hat welche mit -15dB genommen
+01:08:45 Nach der Bandprobe kein Fiepen mehr in den Ohren
+01:09:00 Toby hört damit Differenzierter bei Lautstärke
+01:10:00 Holgi kennt jemand, der das gleiche als Kopfhörer baut
+01:11:00 Kosporter Pro Kopfhörer On-Ear
+01:12:15 Bayer Dynamik DTX101iE (in ear) Kopfhörer klingen sehr geil <http://www.amazon.de/dp/B004LX8XZ6/> #shopping
+01:14:00 Die Hipster haben gemacht, dass es nicht mehr komisch aussieht wenn Normalos mit Kopfhörern rumlaufen
+01:14:20 Teufel Auriol Massiv
+01:15:00  Toby muss auch mal arbeiten und die bisher beworbenen Artikel bitte  nicht kaufen, solange die Hersteller nicht zahlen #joke
+Sendungsende: 12:55:50 Uhr
+
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+HEADER
+Einschlafen Podcast 217
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <>
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fep-218&time=21%3A08%3A40&Button=Create%21>
+
+
+Shownoter: @kaeffchen_heinz, @Quimoniz
+
+Sendungsbeginn: 21:08:40 
+
+00:00:00 Anmoderation #chapter
+00:00:40 Niels Holgersen mache depressiv
+00:01:10 Toby hat die ersten beiden Tage in der neuen Firma hinter sich und es war sehr anstrengend <http://de.wikipedia.org/wiki/Bigpoint> #g
+
+00:01:25 ARD Markencheck #chapter
+00:01:30 ARD Markencheck für Apple <http://www.daserste.de/information/reportage-dokumentation/markencheck/index.html>
+00:02:20 MRT <http://de.wikipedia.org/wiki/Magnetresonanztomographie> #g
+00:03:30 Tobys erster Computer war ein C 64 <http://de.wikipedia.org/wiki/C_64> #g
+00:04:00 Nexus 4 <http://de.wikipedia.org/wiki/Nexus_4> #g
+00:04:10 Sternzeit Podcast <http://www.dradio.de/rss/podcast/sendungen/sternzeit/> #p
+00:04:45 Winamp <http://de.wikipedia.org/wiki/Winamp> #g
+00:05:10 Raumzeitpodcast <http://raumzeit-podcast.de/> #p
+00:05:15 Kastenfisch Podcast <http://www.kastenfisch.de/> 
+00:05:20 Grünkohl-Chips <http://www.kastenfisch.de/2013/02/grunkohl-chips/> #p
+00:07:15 Früher war Apple ähnlich teuer wie alle anderen
+00:07:30 iPhone 5 <http://de.wikipedia.org/wiki/Iphone_5> #g
+00:08:10 Foxconn <http://de.wikipedia.org/wiki/Foxconn> #g
+00:08:20 TSMC <http://de.wikipedia.org/wiki/TSMC> #g
+
+00:09:40 Computer #chapter
+00:09:50 Toby hat bei Bicpoint einen Mac bekommen
+00:10:25 Shell auf Windows <http://de.wikipedia.org/wiki/Eingabeaufforderung#Eingabeaufforderung_unter_Microsoft-Betriebssystemen> #g
+00:10:30 Terminal auf dem Mac <http://de.wikipedia.org/wiki/Terminal_%28Mac_OS_X%29> #g
+00:11:30 Virtual Box <http://de.wikipedia.org/wiki/Virtual_Box> #g
+00:11:40 Linux <http://de.wikipedia.org/wiki/Linux> #g
+00:13:05 Schriftdarstellung auf Linux sieht nicht schön aus
+00:13:10 OpenOffice <http://de.wikipedia.org/wiki/Apache_OpenOffice> #g
+00:13:25 Audacity <http://de.wikipedia.org/wiki/Audacity> #g
+00:13:37 LG <http://de.wikipedia.org/wiki/LG_Group> #g
+00:13:50 Man sollte keine Dokumentationen gucken, insb. industrielle Fleischherstellung
+00:14:20 Toby will nicht Vegetarier werden
+00:14:30 "Ohne Apple könnte ich, aber nicht ohne Fleisch" #quote
+
+00:15:00 Toby hat Zeug auf Twitter verschenkt #chapter
+00:15:15 Frenchpress <http://de.wikipedia.org/wiki/French_Press> #g
+00:15:50 Milchaufschäumer <http://de.wikipedia.org/wiki/Milchaufsch%C3%A4umer> #g
+00:16:05 Brita Wasserfilter <http://de.wikipedia.org/wiki/Wasserfilter> #g
+
+00:17:00 Wetterphänomene #chapter
+00:18:20 Die Dämmerung am Nordpol hat begonnen <http://de.wikipedia.org/wiki/B%C3%BCrgerliche_D%C3%A4mmerung#Polartag> #g
+00:19:35 Frühlingsanfang <http://de.wikipedia.org/wiki/Fr%C3%BChlingsanfang> #g
+00:19:40 Herbstanfang <http://de.wikipedia.org/wiki/Herbstanfang> #g
+00:20:00 Wie lange dauert ein Sonnenaufgang am Nordpol?
+00:20:45 Sternzeit Podcast <http://www.dradio.de/dlf/sendungen/dlfpodcast/903969/> #p
+00:21:05 Der Sonnenaufgang am Nordpol dauert 30 Stunden
+00:23:00 Toby freut sich wenn die Nacht Sternenklar ist um Bilder zu machen
+
+00:23:30 Toby hat ein Video von einem Mondaufgang gesehen #chapter
+00:23:30 Silhouette des Vollmonds <http://vimeo.com/58385453> #v
+00:23:50 Brennweite <http://de.wikipedia.org/wiki/Brennweite> #g
+00:26:30 Auf der Südhalbkugel wandert die Sonne nach links ab <http://de.wikipedia.org/wiki/Sonnenlauf> #g
+00:29:00 Sternzeit von DLF von 19.3.2009 <http://www.dradio.de/dlf/sendungen/sternzeit/925605/>
+00:29:40 Bisher kann Toby noch nichts von Bigpoint erzählen
+00:29:50 Realitätsabgleich <http://wrint.de/category/realitaetsabgleich/> #p
+00:30:00 Man soll sich gut überlegen was man in der Öffentlichkeit sagt.
+00:31:00 Xing <http://de.wikipedia.org/wiki/XING> #g
+00:34:00 Ehemalige Abteilung Techplaning
+
+00:34:10 ebooks und Amazon #chapter
+00:34:20 Kindle <http://de.wikipedia.org/wiki/Amazon_Kindle> #g
+00:35:40 Tipp: Kindle WiFi auf amazon.de ist günstiger <http://www.amazon.de/gp/product/B007HCCOD0/ref=famstripe_ks> #shopping
+00:37:10 Alle e-Bücher für den Kindle haben eine Leseprobe
+00:38:10 Vergleich Reingewinn Apple / Amazon
+00:40:00 Die Bücher die Amazon verkauft variiern sehr stark, nach Tag
+00:40:25 Thalia <http://de.wikipedia.org/wiki/Thalia_%28Buchhandel%29> #g
+00:41:00 Toby ist noch Erkältet
+00:41:30 Antibiothika <http://de.wikipedia.org/wiki/Antibiotikum> #g
+
+00:42:05 Toby liest aus Immanuel Kant, Die Kritik der reinen Vernunft #chapter
+Gebundene Ausgabe bei Amazon <http://www.amazon.de/dp/3866474083/> #shopping
+Als eBook <http://www.amazon.de/dp/B004SIYJ7U/> #shopping
+
+00:49:30 Sendungsende: 21:58:40
+

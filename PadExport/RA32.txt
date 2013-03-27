@@ -1,0 +1,130 @@
+HEAD
+Realitätsabgleich 32, Mittwoch, 27. Februar 2013
+mit Holger Klein (@holgi), und Toby Baier (@tobybaier, @schlafein)
+Publikation: <http://wrint.de>, <http://einschlafen-podcast.de>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://xsn.io/wrint.mp3>
+Chat: <http://webchat.freenode.net/?channels=%23kleitung>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FRA32&time=11%3A37%3A00&Button=Create%21
+
+
+Zusammengetragen von: @EvitaBley, @docretro, @hypergrip, @BigMcIntosh91
+
+Sendungsbeginn: ~11:37:00 Uhr
+
+/HEAD
+
+
+00:00:00 Intro #c
+00:01:00 Holgi hat vergessen ins Intro die Begrüßung zu sprechen
+00:01:30 Holgi ist müde
+00:02:00 Holgi hat den Eindruck, dass er überwacht wird. Er hört ein Brummen...
+
+00:03:00 Technik #c
+00:03:00 Technik: Presonus Audiobox <http://www.presonus.com/products/AudioBox-USB>, Holgi war in der letzten Sendung mit dem Gerät unzufrieden. #g
+00:03:50 DAB Digital Audio Broadcasting <http://de.wikipedia.org/wiki/Digital_Audio_Broadcasting>
+00:05:05 DSP Digital Sound Processing <http://de.wikipedia.org/wiki/Digitaler_Signalprozessor> #g
+00:05:30 Auphonic <https://auphonic.com/>
+00:06:35 Toby macht den Einschlafen-Podcast komplett ohne Effekte, Equalizer, etc.
+00:07:05 Holgis Räuspertaste ist einmal auf Mute klicken
+00:07:30 Holgi ist unzufrieden mit GUI und Handbuch seines Fireface UCX <http://www.rme-audio.de/products_fireface_ucx.php>
+00:07:55 Darwiinremote App für die Wii Fernbedienung <http://sourceforge.net/projects/darwiin-remote/> #shopping
+00:08:40 Kofferwörter <http://de.wikipedia.org/wiki/Kofferwort> #g
+
+00:09:10 Lustige Videos #c
+00:09:10 HitMist Germany Podcast <http://hitmist.podspot.de/> #podcast
+00:10:00 Ziegen die wie Menschen schreien <http://www.youtube.com/watch?v=PpccpglnNf0> #video
+00:11:00 John Bon Jovi Living on a Prayer <http://www.youtube.com/watch?v=w0CdXaOS5_o> #video
+00:11:20 Soundcloud "Frohes Fest" von Holgis Lachflash <https://soundcloud.com/holgi23/frohes-fest>
+00:11:35 Trust fall fail  <http://www.youtube.com/watch?v=wPOgvzVOQig> #video
+00:14:00 Wünsche für Auphonic: Übersprechen rausfiltern, Mehrkanalbearbeitung
+00:14:30 Holgi sendet 2 Spuren zu Auphonic
+00:15:05 Suche nach Themen
+
+00:15:15 Papst und Bundespräsidenten #c
+00:15:30 Die Redaktion will Holgi dazu überreden eine Sendung über den Papst zu machen
+00:16:00 Toby: Papst ist wie Bundespräsident und Wulff hätte bleiben dürfen
+00:16:40 Holgi findet Wulff besser als Gauck. Wulff doof aber moderner.
+00:17:00 Wulff war moderner
+00:17:30 Toby: Zaphod Beeblebrox cooler als Wulff
+00:17:45 Zaphod Beeblebrox <http://en.wikipedia.org/wiki/Zaphod_Beeblebrox>
+- Per Anhalter durch die Galaxis/ The Hitchhiker’s Guide to the Galaxy <http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis> #g
+00:18:40 Das Brummen ist wieder da
+00:19:00 Papsttod als Medienevent mit Meldungen wie: "Breaking: Pope still dead"
+00:19:40 Holgi findet, dass ein Papst ausharren muss bis zum bitteren Ende
+00:20:00 Frage: "Pack ich es nicht mehr" oder "Macht Euren Scheiß alleine!"?
+00:20:40 "Italien zu regieren ist möglich, aber sinnlos." #quote <http://de.wikipedia.org/wiki/Bettino_Craxi>
+00:21:00 Holgi fände es interessant, mal mit Ratzinger zu sprechen
+00:21:55 "Vielleicht macht das ja jetzt der Berlusconi" Toby #quote
+00:22:22 Frage nach dem Namen des Expapstes
+00:22:55 Der "What would Ratzinger do?" -Effekt
+00:24:00 Papst wird ein erfolgreiches Buch schreiben
+00:24:15 "Hugendubelkofferwort", "Hammse mal nen 15er Hugendubel für mich?", "Wie Fugendübel", "Könnte auch was aus der Dark-SM-Szene sein","Finde 5 Hugendubel um die Tür zu öffnen", "Benutze Hugendubel mit Tür" #quote
+
+00:25:00 Bücher und Filme kaufen #c
+00:25:00 Hugendubel <http://www.hugendubel.de/>
+00:25:05 Talia Buchhandlung <http://www.thalia.de>
+00:25:40 Buchhändler gehen durch Onlineversandhandel kaputt
+00:26:35 Pastewka Serie <http://de.wikipedia.org/wiki/Pastewka_(Fernsehserie)> #g
+00:28:00 Holgi geht lieber in die kleinen Buchhandlungen
+00:29:00 Holgi kauft immer weniger Filme auf DVD, kauft lieber Downloads.
+00:29:25 Apple TV
+00:30:00 Wiedergabegeräte mit DRM Problemen
+00:30:30 DRM <http://de.wikipedia.org/wiki/Digitale_Rechteverwaltung> #g
+00:31:00 HDCP: <http://de.wikipedia.org/wiki/HDCP> #g
+00:31:50 Watchever <http://watchever.de/>
+00:32:45 Philips BluRay Player
+00:33:00 Pastewka-app
+00:33:40 Toby schaut sich Game of Thrones per Festplattenrekorder an.
+00:35:10 Toby ist eine ehrliche Seele
+00:35:30 Holgi würde dem Toby mal die Zugangsdaten für Pay-TV geben
+
+00:36:20 Kochen/Essen #c
+00:36:20 Holgi kann nicht kochen ;)
+00:37:30 Holgi macht keksig, bröseligen Teig, der Katze im Mund hinterlässt
+00:37:00 Toby: "Katze im Mund" #quote
+00:38:30 In Curry kommt Zimt rein
+00:39:20 Gewürzmischungen von Herbaria <http://www.herbaria.com>
+00:40:10 Gewürzmischungsnamen:"die große Karavane", "Gärten von Siam", "Trüffelglück" <http://www.herbaria.com/9/33/7/254/1/produktdetail.html>
+
+00:41:35 Wetter #c
+00:41:40 Es war der dunkelste Januar seit Messung
+00:42:30 Zeitlicher Zusammenhang zwischen Meteoriten und Papstrücktritt
+00:43:00 Alternative zur Mediathek-App: Vavideo <http://vavideo.de/>, durchsucht Mediatheken und erlaubt Downloads
+
+00:44:00 Wirtschaftsethik #c
+00:45:30 Toby hat die Amazon-Doku gesehen("Ausgeliefert"), Holgi Tatort und "Water makes Money" <http://www.watermakesmoney.com/>
+00:46:00 Holgi: Wasserprivatisierung ist ein zivilisatorischer Skandal. 
+00:46:40 Viva con agua <http://www.vivaconagua.org/>
+00:47:30 Wasserprivatisierung in Berlin: Leitungen wurden nicht erneuert aber Preise sind gestiegen. Politiker die Wasser privatisieren sollten nicht wiedergewählt werden. <http://de.wikipedia.org/wiki/Privatisieren> #g
+00:48:20 Wasser ist nicht nur ein Problem der dritten Welt. Siehe auch Privatisierung in Londin. 
+00:49:00 Toby argumentiert mit Telefonprivatisierung. Holgi: Alle anderen Beispiele sprechen aber gegen Privatisierung, etwa Niedergang der Bahn. Telekom hat sich technologisch verändert, könnte heute als Staatsbetrieb vielleicht funktionieren.
+00:50:20 Kundensupport bei Telekommunikationsanbietern. Toby ist mit seinem jetzigen Anbieter sehr zufrieden.
+00:51:00 Hansenet
+00:51:30 Kundenbetreuer, die Verbindungsabbruch vortäuschen. Schlechte Behandlung von Kunden beim Kundensupport/Hotline
+00:52:00 Toby sieht die Ursache in der schlechten Behandlung der Kundenbetreuer durch die Unternehmen.
+00:53:00 Holgi hatte NSFW-Hörer im Support.
+00:55:00 Holgi: Bei Wasserprivatisierung Empörung am stärksten. Unverständnis, wie Politiker so kurzsichtig sein können.
+00:55:50 Toby und Holgi: Ver- und Entsorgung sollte vom Staat geliefert werden.
+00:56:20 Keine Sanktionsmöglichkeiten bei Versagen von privatisierten Unternehmen.
+00:57:30 Sanierung klammer Kassen durch Privatisierung. Versagen bei öffentlichen Bauprojekten.
+
+00:58:35 Proberäume, Hörbücher und Lesben #c
+00:58:40 Toby findet immer noch keinen Proberaum.
+00:59:10 Vorschlag: Proberaum in der Elbphilharmonie <http://de.wikipedia.org/wiki/Elbphilharmonie> #g
+01:00:00 Holgi: Ist meist von homosexuellen Frauen hingerissen und enttäuscht wenn er es erfährt.
+01:01:00 Toby hat väterliche Gefühle gegenüber jungen Frauen. "Könnte die sich nicht mal ordentlicher anziehen?"
+01:02:30 Toby identifiziert sich in Teenie-Filmen nicht mehr mit dem Highschool-Obermacker sondern mit den Vätern.
+01:03:10 Hörbücher von Rufus Beck <http://de.wikipedia.org/wiki/Rufus_Beck>
+01:04:00 "Attraktivität macht lesbisch"
+01:04:40 "Lesbenattraktion"
+01:05:00 Suche nach dem Sendungstitel. Toby muss los, hat Termin.
+01:05:30 Verabschiedung
+
+01:05:40 Schluss, Aus, Ende!
+
+Sendungsende: 12:43 Uhr
+
+
+

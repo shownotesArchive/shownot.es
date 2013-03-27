@@ -1,0 +1,90 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+Alle        Einträge bitte mit dreistelligem Zeitstempel:  hh:mm:ss, also z.   B.      01:23:45; damit diese synchronisiert sind, bitte  den   "Timer"-Link      benutzen, sobald er an die Startzeit angepasst ist!    Überzählige      Zeitstempel können dann ggf. beim späteren   Überarbeiten     herausgenommen   werden! Zitate in <italic>,   Themenüberschriften    in   <bold>.  Danke
+
+
+Realitätsabgleich 24, Mittwoch, 12. Dezember 2012
+mit Holger Klein (@holgi), und Toby Baier (@tobybaier, @schlafein)
+Publikation: <http://wrint.de>, <http://einschlafen-podcast.de>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://xsn.io/wrint.mp3>
+Chat: <http://webchat.freenode.net/?channels=%23kleitung>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fra24&time=11%3A35%3A45&Button=Create%21>
+
+Zusammengetragen von: @Joschasa, @eNBeWe
+
+00:00:00 Sendungsbeginn: 11:35:45 Uhr #chapter
+Holgi muss zum Bürgerbüro wegen Wohnsitzabmeldung
+Kompetente, freundliche Mitarbeiter, aber unpassende Öffnungszeiten
+Holgi wüscht sich die Möglichkeit bei der Polizei An- oder Abmeldungen abzugeben.
+Datenschutz; Behörden dürfen nicht untereinander Daten austauschen
+Unterschied zwischen Verbrechensaufklärung und Verbrechensbekämpfung.
+Verbrechensprävention durch Abschreckung klappt nicht, siehe Todesstrafe in den USA.
+Verbrecher handeln nur wenig rational und machen keine "Risikoanalyse".
+
+00:08:00 Politik #chapter
+Holgi möchte die CSU abschaffen, weil "da immer die Deppen rauskommen". #zitat
+Tobi redet ungern über Politik, weil er meint seine Meinung wäre nicht fundiert genug.
+Wahl-o-mat <http://www.bpb.de/politik/wahlen/wahl-o-mat/>
+Wähler wählen nach Stammtischniveau/Emotional, nicht Rational
+Thyssenkrupp hat 5 Milliarden Euro Verlust <http://www.tagesspiegel.de/wirtschaft/thyssen-krupp-macht-fuenf-milliarden-euro-verlust/7503296.html>
+Twitter: #fragpeer <https://twitter.com/search?q=%23fragpeer>
+Peer Steinbrück sitzt im Aufsichtsrat bei Thyssen Krupp.
+ThyssenKrupp ist zu komplex, als dass ein Aufsichtsrat sich da nen kompletten Überblick verschaffen könnte. 
+Toby: "Die Aufsichtsräte bekommen drei oder viermal im Jahr ne Präsentation von den Vorständen und stellen dann vielleicht ein paar unangenehme Fragen." #zitat
+Holgi: "Da werden Leute in Aufsichtsräte gesetzt die einfach keine Ahnung haben, also entweder planlos und/oder desinteressiert sind." #zitat
+Wie funktioniert Korruption in Deutschland? Dokumentation "Rot-Grün macht Kasse" <http://www.youtube.com/watch?v=vGeLYQzDgEY> #video #youtube
+Holgi hält Steinbrück für unglaubwürdig, korrupt oder zumindest der Korruption verdächtig.
+Holgi: "Steinbrück macht nichts für die Republik sondern alles für sich." #zitat
+Tobi möchte lieber den unglaubwürdigen Steinbrück als nochmal von Merkel regiert zu werden.
+Holgi nimmt lieber das "offene Böse" der CDU als den "Verrat" der SPD in Kauf.
+Vergleich der SPD unter Helmut Schmidt und der modernen SPD.
+Holgi: "Wir haben nicht mehr die 70er Jahre und die SPD ist daran Schuld." #zitat
+Angst vor deutschen Terroristen (RAF) in den 90ern, Steckbriefe in der Post.
+
+00:24:00 Standing Desk #chapter
+Arbeiten im Stehen
+Toby steht in einem Rückzug-Konferenzraum "Amsterdam" vor einem Bücherregal mit Rubybüchern.
+Toby testet seit 2 Wochen ein selbstgebautes Stehpult.
+Standing Desk selbstbauen aus IKEA-Möbeln <http://fooforge.com/2012/07/07/build-your-own-standing-desk.html>
+Bei Holgi auf der Arbeit haben "alle" elektrisch verstellbare Tische, die auch auf Stehpulthöhe hochgefahren werden können.
+Toby steht in Meetings auch manchmal auf um den Druck zu erhöhen.
+
+00:31:30 Erste Anzeichen des Weltuntergangs #chapter
+Die Leute erkennen den Zusammenbruch nicht während des Prozesses sondern erst nach dem Ende.
+Holgi: "Wer zur Zeit in Berlin aufwächst ist dran gewöhnt, dass die S-Bahn im Winter ausfällt." #zitat
+Dominanz der westlichen Starbucks&McDonalds-Kultur bröckelt
+Jede Epoche endet mal.
+Sind wir schon im Zerfall oder ist unsere Kulturepoche noch im Aufwind?
+Toby: "Nur weil Berlin gerade ein bisschen bröckelt, bricht nicht gleich das westliche Imperium zusammen." #zitat
+Peak-Oil <http://de.wikipedia.org/wiki/Globales_%C3%96lf%C3%B6rdermaximum> #wikilink und die Folgen für die Energieerzeugung.
+Wer sich am besten an die wechselnden Rahmenbedingungen anpassen kann ist im Aufwind, wer sich nicht anpasst geht unter.
+Global betrachtet ist es egal. Interessiert primär Betroffene mit Nachkommen.
+Leute mit Kinden möchten eher Nachhaltigkeit als die Kinderlosen.
+Gibt es Altruismus <http://de.wikipedia.org/wiki/Altruismus> oder sind Altruisten auch nur Egoisten?
+Holgi: "Wie schnell kommen die Einschläge näher? Wir haben schon wieder Altersarmut." #zitat
+Arbeitssuche mit 60 Jahren.
+Holgi: "2038 brauchen wir dann eh wieder ganz viele Softwareentwickler weil dann Linux vollläuft" #zitat
+Holgi hofft auch in 30 Jahren noch genug Flattr-Klicks zu bekommen.
+
+00:45:00 Kontaktanfragen bei XING und Foursquare #chapter
+Toby nimmt alle Kontaktanfragen seiner Hörer bei XING an, sofern das im Text steht.
+Holgi nimmt alle Kontaktanfragen von Mädchen bei XING an.
+Holgi: "Schönheit ist wie Moral, da kann man immer drüber verhandeln." #zitat
+Holgi wird nicht bei XING gefunden, weil es zu viele Holger Kleins gibt.
+Bei Foursquare nehmen beide kaum Anfragen an.
+Holgi ist "Bürgermeister der Lustgrotte, des Mutter-Kind-Bunkers und des IKEA-Parkhauses" bei Foursquare.
+Foursquare hat einmal in vier Jahren für Toby funktioniert.
+Holgi ist schlecht vernetzt.
+Was ist die Lustgrotte eigentlich? Holgi ist vielleicht Bürgermeister bei einem Wildfremden im Folterkeller.
+
+XING Werbeblock :)
+Holgi: "Warum baut ihr Social-Media-Leute diesen Spam-Mist ein?" #zitat
+Holgi geht sein eigenes XING-Profil durch.
+
+12:34:55 Sendungsende
+
+
+
+

@@ -1,0 +1,233 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Jobscast 15
+mit Daniel Autenrieth (@dautenrieth), und Tim Pritlove (@timpritlove)
+Sendungsseite: <http://www.jobscast.de/jc015-podcaster/>
+Sendungsbeginn: 11:30:30 Uhr
+Timer: http://epirat.de/timer/
+
+Zusammengetragen von: @Quimoniz
+
+00:00:00 Tims Schulzeit #chapter
+Tim war kein besonders herausragender Schüler.
+Tim war auf einer Waldorfschule, das war eine Entscheidung seiner Mutter, der diese einfacher charmanter war.
+Tim wuchs in den 70er Jahren auf in sozial schwierigeren Verhältnissen, in der Schule wurde jedoch nie Anstoss daran genommen.
+78, 79 sparte Tim Geld dafür einen Schachcomputer zu kaufen.
+Mit ca. 16 Jahren kaufte sich Tim um 1982 seinen ersten Computer
+10 PRINT hello, 20 GOTO 20 #spoiler
+Programmieren <http://de.wikipedia.org/wiki/Programmierung> #wikilink
+BASIC <http://de.wikipedia.org/wiki/BASIC>#wikilink
+C64 <http://de.wikipedia.org/wiki/Commodore_64> #wikilink
+Er hing dann in Kaufhäusern an den C64 rum mit anderen Jugendlichen
+Assembler, 6502 "wenn man Assembler programmiert, dann versteht man den Computer" #zitat
+- Assembler <http://de.wikipedia.org/wiki/Assemblersprache> #wikilink
+C <http://de.wikipedia.org/wiki/C_%28Programmiersprache%29> #wikilik
+
+00:09:00 Nach dem Abitur #chapter
+Er wurde von seinen Freunden überredet, Informatik zu studieren, weil das mit Computern ist, aber da überkam ihn das Schaudern, das hat für ihn nicht gepasst, nach 3 Monaten brach er es ab.
+Hackerrunde Hannover
+Kleinanzeigenerfassungssystem
+Eigene, kleine Projekte
+Systemadministration
+Die Hannoversche Hackerrunde "Die Dienstagsrunde"
+Karl Koch <http://de.wikipedia.org/wiki/Karl_Koch_%28Hacker%29> #wikilink
+Usenet <http://de.wikipedia.org/wiki/Usenet> #wikilink
+Xenix <http://de.wikipedia.org/wiki/Xenix> #wikilink
+ChatMail
+Tim fing schon früh mit Unix an in '87, '88
+"send-screen-Welt" IBM Main Frame
+Tim denkt nicht nach über die Zukunft, "die passiert eh"
+DTP <http://en.wikipedia.org/wiki/Distributed_transaction_processing> #wikilink
+Es waren sehr viele überfordert mit ihrer Technik, Tim fixte diese, und kriegte dafür sein Geld.
+Tim ist nicht indoktriniert worden, dass er eine Lehre ergreifen hätte sollen.
+Wenn man sich mit dem beschäftigt, was gerade da ist, und dass einem Spass macht, dann ist man immer motiviert.
+Er ist dann über Freunde um '90 an das Internet gekommen.
+RFCs <http://www.rfc-editor.org/>
+Er hat ein Jahr lang Siemensprogrammierern erklärt wie Unix funktioniert.
+Hacker, Geek (ganz besonders gut programmmieren können), Nerd (soziale Komponente) sind nur verschiedene Blickwinkel auf Menschen die die Welt kritisch hinterfragen, und wollen wissen, wie es wirklich funktioniert.
+Begriff Nerd <http://de.wikipedia.org/wiki/Nerd> #wikilink
+Illuminaten <http://de.wikipedia.org/wiki/Illuminatenorden> #wikilink
+Verschwörungstheorie <http://de.wikipedia.org/wiki/Verschw%C3%B6rungstheorie> #wikilink
+Discordia <http://de.wikipedia.org/wiki/Eris_%28Mythologie%29> #wikilink
+Film über Karl Koch, 23 - Nichts ist so, wie es scheint <http://de.wikipedia.org/wiki/23_%E2%80%93_Nichts_ist_so_wie_es_scheint> #wikilink
+Karl war ein sehr ruhiger Typ, mit langglidrigen Händen, und hatte eine besondere Aura
+Nerds sind nicht bessere Menschen.
+1992 hatte Tim schon einen Apple Macintosh, den er sich nach der Arbeit in einer Softwareentwicklerfirma für Macs in Hannover kaufte
+Bei Opel schrieb er Technische Dokumentation
+Grafikdesign mit Framemaker <http://de.wikipedia.org/wiki/FrameMaker> #wikilink
+
+00:30:00 Beate Uhse #chapter
+1992 Beate Uhse finanzierte Entwicklung der Die Villa, weil die 0190 Nummern aufkamen
+Dann hatte er auch den Kontakt mit dem Hamburger CCC
+CeBIT war damals, anfang der 90er "The Future", ein "MUST- Termin", dadurch knüpfte er auch Deutschlandweit Kontakte
+Das Ziel der Entwicklung für Beate Uhse war eine Virtuelle Reperbahn.
+"Cyberspace" <http://de.wikipedia.org/wiki/Cyberspace> #wikilink
+Tim erkannte damals, dass er bock hatte auf Quatschen Deluxe.
+Dank der Finanzierung für ein Jahr konnten sie das System für 120 Leute gleicheitig aufsetzen.
+Pager <http://de.wikipedia.org/wiki/Funkmeldeempf%C3%A4nger> #wikilink
+Villa Kunterbunt, "Die Villa".
+Sie wurden überrascht vom viralen Effekt.
+Bis 2001 lief die Villa, Tim zog es aber schon nach anderthalb Jahren weiter.
+Wau Holland <http://de.wikipedia.org/wiki/Wau_Holland> #wikilink
+CCC Hamburg <http://www.hamburg.ccc.de/>
+Der Hamburger CCC war ihm nicht modern genug.
+Er versank dann erstmal in Techno, bis er kein Geld mehr hatte, und ging dann nach Berlin, weil er ein Jobangebot kriegte.
+
+00:42:00 Umzug nach Berlin #chapter
+"Angst ist generell kein guter Berater" #zitat
+Tim steckt alles in seine Arbeit. #spoiler
+Tim bewundert es wenn jemand bei einem grossen Unternehmen wie Siemens arbeiten kann, ihm selber wäre es aber ein Alptraum.
+"Social-Media-Berater", "Webprogrammierer", "Search-Engine-Optimizer" #spoiler
+"Beruf ist halt Schall-und-Rauch"
+Tim ist heute "Professioneller Amateur" #spoiler
+1995 Tim arbeitete dann für ein Unternehmen (Start-Up) das von der Bercom finanziert wurde, dort gab es damals schon eine Software die wie Google Earth eine Karte mit Straßen etc. in Echtzeit anzeigte. #spoiler
+Silicon Graphics <http://de.wikipedia.org/wiki/Silicon_Graphics> #wikilink
+Glasfaser <http://de.wikipedia.org/wiki/Glasfaser#Nutzung_als_Lichtleiter> #wikilink
+Technokultur, Partys, niemand kannte das, damals um 1992
+"Der Mainstream ist Techno" #zitat
+Tim weiss jetzt noch den Tag, da er das erstemal eine Werbung hörte, die mit Technomusik war. #spoiler
+Die Technokultur war extrem Hippiemässig, und das prägte Tim extrem, und er wollte das kombinieren mit der Technik. #spoiler
+Tim verfiel dann mehr in die Rolle eines Systemadministrators. #spoiler
+Die Hackermethode: Man hat nicht immer ein klares Bild, dessen was man will, aber man beschäftigt sich eben erstmal damit, was einen gerufen hat, bis man es verstanden hat.
+Die 90er Jahre in Berlin waren der totale Wahnsinn.
+Tim fühlte sich schon immer sehr hingezogen zu den Wahnsinnigen und Irren. #spoiler
+
+01:00:00 CCC #chapter
+Des Clubs ehernes Gesetz: "Wer macht hat Recht"
+Wer nur redet, und nicht tut, labert nur #spoiler
+Chaos Communication Congress <http://events.ccc.de/>
+Veranstaltungen sind eine irre Herausforderungen, man muss viel Talent aufbringen um alles zu organisieren. #spoiler
+Eine gelungene Veranstaltungen ist eine, bei der die Besucher weggehen und vom nächsten mal reden. #spoiler
+1996-97 wurde Hacker und Internet cool, und die ganzen Kiddies wollten rein
+1998 Congress im Haus am Kölnischen Park, mit 2300 Leuten
+Eigentlich wollte Tim das Camp machen. #spoiler
+Bei der Planung eines Hackerkongress müssen alle alle Aufgaben übernehmen können, alle sind extrem engagiert. #spoiler
+Die Planung des Camps involviert das Aussuchen einer Location, das planen der Location (Anfahren/Abfahren/Parkplätze), Kalkulation, Staff, Zelte, Infrastruktur, Sanitäre Anlagen, Strom.
+Das bedeutete unter anderem, dass Dieselgeneratoren aufgestellt werden mussten, Feld gemäht, paar Kilometer Glasfaser in die Pferdewiese verbuddelt werden mussten für Internet. #spoiler
+Datenklo <http://de.wikipedia.org/wiki/Datenklo> #wikilink
+von 1998 bis 2005 organisierte Tim den Congress und das Camp #spoiler
+Chaosradio, November 1995 <http://chaosradio.ccc.de/> #podcast
+
+01:08:40 Podcasts #chapter
+Tim erklärte extrem gerne Sachverhalte - "lernen und lehren" sind sein Ding #spoiler
+Er hat viel Gas gegeben beim Chaosradio, und dann auch mit dem Fritz Moderator Frank Rosengart die Sendung geplant. #spoiler
+- Frank Rosengart <http://www.rosengart.de/> #wikilink
+Holger Klein hat Begriffen was sein Ding ist, und was nicht sein Ding ist "Er hat die Sendung moderiert, und wir haben die Inhalte moderiert" #spoiler
+Johny Häusler <http://de.wikipedia.org/wiki/Johnny_Haeusler> #wikilink
+UKW <http://de.wikipedia.org/wiki/Ultrakurzwelle> #wikilink
+"Publisher Hype" in 2004, 2005, 2006
+- Blogger <http://de.wikipedia.org/wiki/Blog> #wikilink
+- RSS <http://www.rssboard.org/>
+- Podcasting (dank RSS-enclosure) <http://en.wikipedia.org/wiki/RSS_enclosure> #wikilink
+Im Herbst 2006 kam iTunes für Podcasts, einen Monat später gab es das Chaosradio als Podcast.
+Dann fing Tim an mit dem Chaos Radio Express (CRE) <http://cre.fm> #podcast
+Interhemd
+Bundespost die zur Telekom wurde
+- Tanzende Buchstabenaktion, adbusting durch interhemd mit "kapuTt", "nullTarif"
+CCC Magazin Datenschleuder <http://ds.ccc.de/>
+Der CCC hat eine Gmbh zur Camp und Congress Organisation
+- Tim war eher aus Not deren Geschäftsführer, das lag ihm nicht so
+Tim hörte auf mit der Veranstaltungsorganisation, weil er sich immer nur im Kreis drehte.
+Nach CRE experimenten war Tim klar, dass er noch mehr davon machen will.
+Er machte dann Babypause. #spoiler
+Er schlug vor, dass man ihm spenden solle, sodass er sich eine Bahncard 100 kaufen könne, um mehr CRE produzieren zu können. #spoiler
+Die Spendenaktion schlug ein wie eine Bombe, damals hatte er eine Hörerschaft von ca. 8000 - 10000, per klassicher Überweisung. #spoiler
+Nach zwei bis drei Wochen war das Geld zusammen, es war am Ende sogar übeschüssig, das konnte er in den Ausbau seines Metaebene Studios stecken. #spoiler
+Metaebene Persona Media <http://metaebene.me/>
+Momentan ist CRE in Premiummodus, das heisst, Tim achtet mehr auf Qualität denn Quantität.
+Der zweite Podcast war Mobile Macs, welches zuvor ein finanzierter (Text-)Blog von O2 war <http://mobilemacs.de/> #podcast
+Dann kam der erste Auftragspodcast: Die Gesellschafter. <http://metaebene.me/diegesellschafter/> #podcast
+FSCKlog
+2009 kam "Sacknase" Holgi zu NSFW dazu <http://not-safe-for-work.de/> #podcast
+"Holgi ist ein Profi [...] der ist einfach on" #zitat
+
+01:33:40 Sendungsvorbereitungen #chapter
+Tim ist bei jedem Podcast anders.
+Bei Mobile Macs gibt es manchmal ein paar Notizen
+Bei NSFW sammelt Tim vorher Material
+Holgi kommt zu NSFW unvorbereitet. #spoiler
+Die Schwäche bei den etablierten Interviewformaten ist, dass diese vorbereitet werden, und dann eher als Stichwortgabe geführt werden.
+"Wenn ein Gast kommt und sich drei Seiten Bullet-Points hinlegt, dann wird das eine scheiss Sendung" #zitat
+Tims learning-by-doing Ansatz zur Interviewführung ist, dass er dumm fragt. Er lernt etwas, und andere hören zu.
+
+01:39:00 Raumzeit-Podcast <http://raumzeit-podcast.de> #podcast #chapter
+Über Andreas Schepers kam der Kontakt Zustande.
+Ziel ist es, die Öffentlichkeit über die Bedeutung der Raumfahrt aufzuklären.
+Raumfahrt ist irre Emotional, die Leute die dort arbeiten, lieben das.
+"To boldly go, to where no man has gone before" #zitat #spoiler
+Es ist Tim ein Privileg, eine Hörerschaft zu haben, die bereit sind zu lernen, die bereit sind ihre Meinung zu ändern.
+In der Schwerelosigkeit wird einem erst klar, wie sehr man an Gravitation hängt, das fängt schon an beim Parabelflug.
+Beim Hochfliegen des Flugzeugs wird der Gleichgewichtsinn ausser Gefecht gesetzt mit 1,8 G.
+Wenn man dann den Kopf bewegt, und sich umschaut, sehen die Augen, dass sich alles bewegt, da denkt das Gehirn, dass man vergiftet ist, und will kotzen.
+Man fliegt ohne Gravitation einfach erstmal geradeaus, auch wenn man rumzappelt, wenn man sich nicht abstossen kann, bewegt man sich einfach weiter.
+Tim wurde nicht übel, er hielt sich akribisch an die Anweisungen, er bekam auch eine Spritze, damit die Reaktionen nicht so stark werden sollten.
+
+01:50:00 Podcast herangehensweise #chapter
+Tim hat nur Lieblingspodcastprojekte.
+Wöchentliche Podcasts:
+- Logbuch Netzpolitik <http://logbuch-netzpolitik.de/> #podcast
+- Newz of the World <http://newz-of-the-world.com/> #podcast
+Zweiwöchentliche Podcasts:
+- NSFW <http://not-safe-for-work.de/> #podcast
+- Mobile Macs <http://mobilemacs.de/> #podcast
+Unregelmäßige Podcasts
+- Der Lautsprecher <http://der-lautsprecher.de/> #podcast
+- Kolophon <http://community.oreilly.de/blog/kolophon-der-podcast/> #podcast
+Bei NSFW schaut sich Tim vorher das Material an, nur die ersten 10-15 Minuten müssen vorbereitet sein, der Rest ergibt sich. #spoiler
+Essen vorher ist ein wichtiges Ritual.
+Das nervigste ist, dass man die Sendung veröffentlichen muss.
+Podlove <http://podlove.org>
+Die Ursprungsmotivation war, dass die Software Dreck ist.
+Podlove Podcast Publisher <http://podlove.org/podlove-podcast-publisher/>
+Podlove Web Player <http://podlove.org/podlove-web-player/>
+Tim will das Podlove Projekt "As soon as possible" (fertig) haben.
+Open-Source <http://de.wikipedia.org/wiki/Open_Source> #wikilink
+Shownotes <http://shownot.es/>
+Podcacription <http://podcascription.de/>
+Tim hätte gerne ein Radio OS, einen Podlove-Kernel.
+Man kann ja gar nicht alles wissen, sehr viele der Hörerschafft wissen es teilweise auch besser. #spoiler
+Podcasts bestehen aus einer Mischung, einer Pyramide aus Unterhaltung, Wissen und Meinung.
+Mobile Macs Intros von Daniel. <http://soundcloud.com/david1701>
+"Es hat sich seit 1995 technisch nicht viel getan, deswegen habe ich jetzt Podlove gestartet" #zitat
+Podlove soll auch Cliententwickler integrieren, damit das ganze am Ende funktioniert. #spoiler
+Arbeit der Arbeit willen war nie Tims Ding, er macht es vor allem auch weil es Spass macht.
+Das normale (UKW) Radio ist nicht inovativ, da bewegt sich nix. #spoiler
+Podcasts sind innovativ.
+Ziel ist es, dass Podcasts dann als archiviertes Artifakt erscheinen.
+Man will recherchieren können in Detaillierten Sendungsdaten. #spoiler
+"Das Poblem ist, man findet alles sehr leicht, aber man findet es nicht wieder" #zitat #spoiler
+Tims Vorstellung ist, dass zu den Sendungsaufnahmen Transkriptionen dazukommen, mit Differenzierung der Sprecher, genauen Zeitmarken und Verlinkung von Fachbegriffen. #spoiler
+Es sollen auch alle der Community zu den Sendungsnotizen beitragen können, bspw. mit Pull-Request. #spoiler
+Es entsteht eine neue Öffentlichkeit mit den Podcasts.
+Tims Vision ist, dass die Hörer eines Podcasts zu den Shownotes githubartig direkt im Player beitragen könnten. #spoiler
+Wenn man den Reiz hat, Podcasts zu machen, sollte man
+- 1. einen Fokus haben,
+- 2. Sich nicht der Illusion hingeben, dass die Audioqualität keine Rolle spielen würde,
+- 3. Sendebewusstsein haben.
+Tim ruft auf ein ordentliches PHP Webinterface für Shownotes zu bauen
+Astros Prittorrent unter Bitlove <http://bitlove.org/>
+Auphonic <https://auphonic.com/>
+Georg Holzmann, der Auphonic losgetreten hat, im Lautsprecher <http://der-lautsprecher.de/ls007/> #podcast
+Tim sind keine Nachteile des Podcaster Berufes bekannt, ausser den eben genanntenn, dass noch zu wenig gute Software existiert, um die repetitiven Probleme zu lösen. #spoiler
+Daniel findet, viel zu viele machen Dinge, die sie nicht machen wollen.
+
+02:24:00 Warum kann Tim das machen, was er tut? #chapter
+Tim versteht das als Beschränkung, er kann nur jene Dinge gut machen, die er toll findet.
+Tim hat das Environment, dass er braucht, alles was noch gemacht werden muss ist Software.
+Hoaxilla <http://www.hoaxilla.de/> #podcast
+Tim ist bei drei Projekte besonders zufrieden damit, diese gemacht zu haben:
+- Die Villa war bleeding edge, super, und einfach irre.
+- Veranstaltungsorganisation
+- Blinkenlights <http://blinkenlights.net/>
+
+02:29:38 Sendungsende: 14:00:29 Uhr
+
+
+
+
+
+
+
+
+

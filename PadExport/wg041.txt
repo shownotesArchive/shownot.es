@@ -1,0 +1,298 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+HEADER
+Wikigeeks 041
+Podcaster: Claudia Krell (@wortkomplex), Ralf Stockmann (@rstockm)
+Stream: <http://moepmoep.com:8600/moep6.mp3>
+Wiki: <http://wiki.wikigeeks.de/folgen:folge_41>
+Timer: http://epirat.de/timer/
+Chat: http://webchat.freenode.net/?channels=wikigeeks
+Shownoter: @Quimoniz, @SimonWaldherr, @EvitaBley, @gglnx, BigMcIntosh, Gurkitier
+
+/HEADER
+
+Preshow: ~20:17:00
+Sendungsbeginn: ~20:25:00
+
+-00:10:00 Preshow #chapter
+pre1358623506 Müssen schnell fertig werden, um Dschungelcamp #ibes nicht zu verpassen
+pre1358623571 Ralf hat mal eine WG-"Big Brother"-Motto-Party gemacht als "Kunst" und zum Anprangern
+pre1358623628 Verlust der Privatsphäre
+pre1358623640 Google Glasses <https://plus.google.com/+projectglass>
+
+
+1358623684 Sendungsbeginn 20:28:00 Uhr #chapter
+1358623773 Intro von Marcel vom Retinacast <http://retinacast.de/> #podcast
+1358623754 Claudia und Ralf haben zwei Retinauten in einer Schlange beim #29c3 kennengelernt
+1358623861 Erklärung: Konzept von Retinacast mit Seasons, den Retinauten und der Pilotenprüfung
+1358623906 Ralf war mit den Jungs tanzen und erzählt von Damals(TM)– Claudia: "...damals, als man Techno noch mit drei Ks geschrieben hat." #quote
+
+1358623967 News #chapter
+1358624016 rudimentor im Chat: "Ahh, na toll wie die Geeks mit den erschütternden Plagiatsvorwürfen umgehen. Sie folgen der klassischen Dramaturgie Phase 1 Ignorieren. Ich setz gleich mal geeksplag.de auf" #quote #chat
+1358624033 News der 2. Versuch
+1358624038 RIP Aaron Swartz <http://mashable.com/2013/01/14/anonymous-hacks-mit/>
+1358624114 Swartz war Co-Gründer von Reddit <http://www.reddit.com/>  #glossary
+1358624118 Mit-Autor der RSS 1.0-Spezifikation <http://de.wikipedia.org/wiki/RSS>
+1358624123 SOPA <http://de.wikipedia.org/wiki/Stop_Online_Piracy_Act> #glossary
+1358624133 JSTOR <http://en.wikipedia.org/wiki/JSTOR> #glossary
+1358624134 "Einbruch" in JSTOR
+1358624213 JSTOR ist umstritten, teure (National-)Lizenzen
+1358624299 Schilderung des Verfahrens gegen Swartz
+1358624328 Verfolgung nach Computer Fraud and Abuse Act <http://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act> #glossary
+1358624368 Gedroht wurde mit 35 Jahren als Höchststrafe und 1 Mio. US-Dollar
+1358624422 Swartz litt unter Depression <http://de.wikipedia.org/wiki/Depression> #glossary
+1358624500 Er schrieb offen über seine Erkrankung <http://www.aaronsw.com/weblog/verysick>
+1358624532 JSTOR will sich öffnen, aber sehr begrenzt <http://www.theverge.com/2013/1/9/3857628/jstor-opens-up-limited-free-access-to-its-digital-library>
+1358624575 Mail von Tim Berners-Lee auf W3C-Mailingliste "Aaron is dead." <http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html>
+1358624646 Blogpost von Lawrence Lessig <http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully>
+1358624656 Ideen für Aaron's Law, Abänderung des CFAA <http://www.theatlantic.com/national/archive/13/01/aarons-law/267247/>
+1358624702 WMR – Gespaltenheit der Netzbewegung
+1358624740 ACTA <http://de.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement> #glossary
+1358624766 Benno Ohnesorg <http://de.wikipedia.org/wiki/Benno_Ohnesorg> #glossary
+1358624815 Stand der Netzfreiheit und Netzbewegung weltweit
+1358624899 Spektulation über die Motive zum "Einbruch" in JSTOR 
+1358624939 Open Access <http://de.wikipedia.org/wiki/Open_Access> #glossary
+1358624973 Uni-Bibliothek Göttingen <http://www.sub.uni-goettingen.de/sub-aktuell/> #glossary
+1358625006 Digizeitschriften.de <http://digizeitschriften.de/>
+1358625039 Elsevier <http://de.wikipedia.org/wiki/Elsevier> #glossary
+1358625102 Renke vom anyca.st einladen zum Thema Strafrecht
+1358625115 Matthias Fromm im Open Science Radio zu Open Access <http://www.openscienceradio.de/podcast/osr002-pdftribute-und-open-access/> #podcast
+
+1358625148 Facebook stellt Graph Search vor <http://www.spiegel.de/fotostrecke/graph-search-so-funktioniert-die-facebook-suchmaschine-fotostrecke-92187-tablet.html> #chapter
+1358625183 Wildes "Facebook ist böse"-Raten
+1358625208 Die Facebook Suchmaschine (Graph Search) <https://www.facebook.com/about/graphsearch>
+1358625226 Open Graph <http://ogp.me/>
+1358625322 Einer reinen Suchmaschiene eine soziale Komponente geben
+1358625353 Kooperation mit Bing von Microsoft
+1358625369 Wolfram Alpha <http://www.wolframalpha.com/>
+1358625388 Beispiele über die Fragestellung bei Graph Search
+1358625429 Bericht beim Spiegel <http://www.spiegel.de/fotostrecke/graph-search-so-funktioniert-die-facebook-suchmaschine-fotostrecke-92187-tablet.html>
+1358625483 keine Volltextsuche, sondern mehr über Entitäten (Personen etc.)
+1358625505 Amen <https://getamen.com/>
+1358625549 Unterschied zu Phrasensuchanfragen (Google, Siri)
+1358625593 "Facebooks Angriff auf Google" trifft nicht zu
+1358625612 Bing <http://bing.com/>
+1358625652 Google+ Ergebnisse wurden (angeblich) höher eingestuft und keine Neutralität gewährleistet
+1358625720 Einbindung von Facebook in Bing-Suchergebnisse?
+1358625743 Twitter-Archiv <http://blog.twitter.com/2012/12/your-twitter-archive.html>
+1358625759 Vorsichtiges Ausrollen von Funktionen bei Facebook (Timeline z.B.) und Twitter
+1358625793 Man muss sich in eine Warteliste eintragen <https://www.facebook.com/about/graphsearch>
+1358625827 Sichere, aber mutlose Facebook-Tatik
+1358625879 Datenschutz
+1358625998 Streit über Einsatz von Facebook
+1358626029 Silencer: "Mich nerven Leute, die die gleichen Nachrichten über Facebook,  Twitter und sonstwas raushauen. Muss ich immer alles dreimal lesen." #quote #chat
+1358626048 Ralf nutzt Facebook nur als Datenhalde
+1358626077 Silencer: "Schrotflinten sind auch nicht Zielgruppenoptimiert" #quote #chat
+
+1358626092 Watchever #chapter
+1358626114 Neuer Dienst: Watchever <http://www.watchever.de/>
+1358626179 Grundmodell ist wie bei Spotify, Abo für 8,99€ im Monat
+1358626219 Das Meiste wird auch in Englisch (OV) angeboten
+1358626257 Watchever erschien einfach so auf dem Apple-TV
+1358626276 iPhone und iPad App ist verfügbar <https://itunes.apple.com/de/app/watchever/id558487547?mt=8>
+1358626288 Auch die Nutzung via WebApp funktioniert
+1358626315 Smart-TVs
+1358626336 Bisher lief der Dienst in Ordnung, vereinzelt wurden Probleme gemeldet
+1358626351 Gerade geschaut: Pilot von Knight Rider <http://www.watchever.de/serien/knight-rider-staffel-1-32838>
+1358626385 Serien- und Filmangebot ist noch eingeschränkt, und hinkt bei den meisten Serien hinterher (auch dem dt. Ausstrahlungstermin)
+1358626562 Gegenmodell z.B. Maxdome <http://www.maxdome.de/> 
+1358626641 Breaking Bad <http://de.wikipedia.org/wiki/Breaking_Bad> #glossary
+1358626678 Kubrick <http://de.wikipedia.org/wiki/Stanley_Kubrick>
+1358626692 Sehr aussagekräftige Passage mit Kritik zu Maxdome in Wikipedia <http://de.wikipedia.org/wiki/Maxdome#Kritik>
+1358626833 Mega von Kim Dot Com
+1358626845 Tweet von Kimdotcom <https://twitter.com/KimDotcom/status/288199968932630528>
+1358626876 Stream ist weg
+1358626936 Stream wieder da
+1358626972 Probleme mit Reaper <http://reaper.fm/>
+1358627005 XBMC Nightly Builds <http://wiki.xbmc.org/index.php?title=Development_builds>
+1358627041 Watchever hat einige Fehler von Maxdome, nur Content fehlt – werden aber mit neuen Kunden hoffentlich kommen
+1358627115 Lieblingskinderserie von Claudia: "Es war einmal ... das Leben" <http://de.wikipedia.org/wiki/Es_war_einmal_%E2%80%A6_das_Leben> #glossary
+1358627180 Heidi <http://de.wikipedia.org/wiki/Heidi_%281974%29> #glossary
+1358627245 "<DerAnthrazit> simonwaldherr: Vor allem war früher alles aus Holz..." #chat #zitat
+1358627268 Parallel mit bis zu 5 Geräten möglich
+1358627298 Microsoft Silverlight <http://de.wikipedia.org/wiki/Microsoft_Silverlight> #glossary
+1358627324 Der Tatortreiniger <http://de.wikipedia.org/wiki/Der_Tatortreiniger> #glossary
+1358627338 Coupling <http://de.wikipedia.org/wiki/Coupling_%E2%80%93_Wer_mit_wem%3F> #glossary
+1358627350 Episodefever <http://getepisodefever.com/>
+
+1358627424 Twitter-Foto-Urteil #chapter <http://arstechnica.com/tech-policy/2013/01/news-flash-for-the-media-you-cant-sell-photos-grabbed-from-twitter/>
+1358627540 Retweeten ist erlaubt, ausserhalb Weiterverbreiten nicht
+1358627564 Terms of Service von Twitter
+1358627589 Genrell problematisch: Rechte an Content in Diensten
+1358627630 Rechte bei Digitalisaten <http://de.wikipedia.org/wiki/Digitalisierung> #glossary
+1358627632 cc0 <http://de.wikipedia.org/wiki/CC0>#glossary
+1358627649 Derivate
+1358627656 Urheberrecht <http://de.wikipedia.org/wiki/Urheberrecht>
+1358627747 Blogpost von Jens Best: Diese Fotonutzung ist illegal – und das ist gut so. <http://jensbest.net/2013/01/16/diese-fotonutzung-ist-illegal-und-das-ist-gut-so/>
+1358627764 Gutachten zum Leitungsschutzrecht von Prof. Spindler <http://www.bundestag.de/bundestag/ausschuesse17/a06/anhoerungen/40_Urheberrecht/04_Stellungnahmen/Stellungnahme_Spindler.pdf> #pdf
+1358627886 mspro <http://mspr0.de/>: Urheberrecht abschaffen!
+
+1358627905 heißer SM-Shyce: EyeEm #chapter
+1358627940 Instagram-Gate
+1358627975 Promis bei Online-Bilderdiensten: Führten den Aufstand gegen Instagram an
+1358628018 Ralf: Digitaler Mob mit Fackeln und Mistgabeln
+1358628049 EyeEm <http://www.eyeem.com/>
+1358628089 Eigentlich wie Instagram
+1358628134 Fotos machen mit "Amen-Prinzip" kombiniert, Kontext statt Texte
+1358628203 Flickr <http://flickr.com>
+1358628268 Educated-Guess Mechanismus
+1358628370 "<adoa> du sitzt mit dem Playboy zu Hause und liest die Texte" #chat #quote
+1358628470 App.net Client Felix <https://itunes.apple.com/us/app/felix-for-app.net/id562447652?mt=8>
+1358628485 der Unterschied zwischen iPhone 4 und 4s ist schon sehr spürbar
+1358628538 EyeEM Photo Filter für Android <https://play.google.com/store/apps/details?id=com.baseapp.eyeem&hl=de>
+1358628622 es handelt sich um ein deutsches Startup und ist in den USA schon erfolgreicher als Instagram
+1358628648 AppStats: "Instagram hat die Hälfte seiner Nutzer verloren" <http://www.heise.de/mac-and-i/meldung/AppStats-Instagram-verliert-an-taeglich-aktiven-Nutzern-1785062.html> #heise
+1358628676 Konterzahlen Instagrams <http://www.heise.de/mac-and-i/meldung/Instagram-kontert-Berichte-ueber-angeblichen-Nutzerschwund-1786993.html> #heise
+1358628686 Deutsche Startups kommen "immer" aus Berlin
+1358628772 Wie ist es um die EyeEm-API bestellt?
+1358628821 EyeEm Blogpost zu API <http://blog.eyeem.com/2012/02/say-hello-to-our-api-photo-hack-day-berlin/>
+1358628821 EyeEm Seite für Entwickler <http://www.eyeem.com/developers>
+1358628830 Peak Twitter?
+1358628890 TimPritlove rief einen Follower Thursday auf app.net aus <https://alpha.app.net/timpritlove/post/2505409>
+1358628930 #29c3 hat fast nicht auf app.net stattgefunden, sondern auf Twitter
+1358628955 Social TV findet auf App.net nicht statt
+1358628978 Episode Fever <http://getepisodefever.com/now> – alle anmelden, damit Claudia Freunde zum Dienst-Ausprobieren hat
+
+1358629040:1358629681 Pause 1
+
+1358629682 Thema Crowdfunding #chapter
+1358629714 Blogpost auf Metaebene <http://metaebene.me/blog/2013/01/15/podlove-crowdfunding/>
+1358629812 Stand des Crowdfundings 2013
+1358629833 2012 war schon das Jahr des Crowdfundings
+1358629861 Jumpstart Our Business Startups Act (JOBS ACT)
+<http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act> #glossary
+1358629922 BaFin (Bundesanstalt für Finanzdiensleistungsaufsicht) <http://de.wikipedia.org/wiki/Bundesanstalt_für_Finanzdienstleistungsaufsicht>
+1358630072 Tesla-Museum auf Indiegogo <http://www.indiegogo.com/teslamuseum>
+1358630079 Bogkbier auf Inkubato <http://www.inkubato.com/de/projekte/bogkbier>
+1358630137 Dirk von Gehlen: Neue Version auf Startnext <http://www.startnext.de/neueversion>
+1358630149 Gianna Sisters auf Kickstarter <http://www.kickstarter.com/projects/project-giana/project-giana>
+1358630184 Göttingen-Krimi: Harder und die Göre <http://www.startnext.de/harderfilm>
+1358630205 Iron-Sky-Direktfinanzierung <http://www.ironsky.net/>
+1358630223 (abgelaufen) A Time Machine auf Indiegogo
+1358630258 Chris Roberts, Wingcommander <http://www.kickstarter.com/projects/cig/star-citizen>
+Star Citizen <http://www.robertsspaceindustries.com/>
+1358630304 Analogjoysticks für den PC (Nachfolge zu Amiga etc)
+1358630372 Bagger wurde finanziert durch Crowdfunding
+
+1358630459 Begriffsdefinition #chapter
+1358630490 Crowdfunding ist nicht Crowdsourcing <http://de.wikipedia.org/wiki/Crowdsourcing>
+1358630546 Crowdfunding ist nicht Fundraising <http://de.wikipedia.org/wiki/Fundraising>
+1358630615 betterplace.org <http://www.betterplace.org/>
+Die drei "Spielarten" des Crowdfungings nach Ralf
+1358630670 - Spende
+1358630696 - verbindliche Kaufzusage 
+1358630733 - Investition <http://de.wikipedia.org/wiki/Crowdinvesting> #glossary
+1358630791 Diskussion zu Spenden und Flattr <https://flattr.com/> #flattr
+1358630915 Krautsaufen: "<gglnx> anycast versäuft die kohle." #quote #chat #zitat
+1358630973 Weitere Abgrenzungsproblematik: klassisches Fundraising ist für eine klar definierte Zielgruppe – bei Crowdfunding geht der Aufruf an alle?
+1358631081 Flattreinstellungen: Anonymeinstellung (wo sieht man, wer was geflattrt hat) ist unklar
+1358631162 Pledge-System
+1358631201 Bei den Plattformen gibt es 2 verschiedene Grundformen:
+1358631222 - All or Nothing (AoN) = wenn es nicht reicht, gibt es das Geld zurück
+1358631235 - Keep it All (KiA) = bekommt das Geld trotz nicht Erreichens oder er gibt das Geld den Leuten zurück
+1358631261 (nicht zu verwechseln mit Killed in Action <http://en.wikipedia.org/wiki/Killed_in_action>) #glossary
+1358631304 Plattformen: - Kickstarter <http://www.kickstarter.com/>
+1358631489 Keine Einschränkungen beim Crowdfunding
+1358631507 - startnext.de <http://startnext.de/>
+1358631515 - Inkubato <http://www.inkubato.com/de/>
+1358631547 - Bergfürst <https://de.bergfuerst.com/>
+1358631549 BaFin <http://de.wikipedia.org/wiki/Bundesanstalt_f%C3%BCr_Finanzdienstleistungsaufsicht> #glossary
+1358631632 Forbes Magazin <http://www.forbes.com/sites/ryancaldbeck/2012/12/11/crowdfunding-predictions-for-2013/>
+1358631711 shownot.es <http://shownot.es/>
+1358631804 gofundme <http://www.gofundme.com/>
+
+
+1358631975 Plattformen #chapter
+1358631977 Crowdfunding für Wissenschaft Grundlagenforschung
+Crowdfunding für Reportagen
+- Spot.us <http://spot.us/>
+- Krautreporter <http://blog.krautreporter.de/pioniere>
+1358632025 DigiWunschbuch <http://digiwunschbuch.sub.uni-goettingen.de>
+1358632077 Es ist eine Demokratisierung des Wissenschaftsbetriebes
+1358632104 eBooks on Demand <http://books2ebooks.eu/de>
+1358632125 DFG <http://www.dfg.de/>
+1358632123 Crowdfunding durch Steuergelder? Ist es das gleiche?
+1358632195 Mitbestimmung bei der Steuergeldvergabe problematisch
+1358632293 Sichtbarkeit fördert die Wahrscheinlichkeit, gefördert zu werden
+1358632505 Beispiel Bogkbier <http://www.bogk-bier.de/>
+1358632601 Gefahr der gefakten Projekte
+1358632651 IronSky <http://www.ironsky.net/>
+1358632796 Crowdfunding ist Ich AG in richtig
+1358632824 Ich AG <http://de.wikipedia.org/wiki/Ich-AG> #glossary
+1358632844 gebackte Sachen aus dem Chat:
+- Oculus Rift <http://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game>
+- Broken Sword <http://www.kickstarter.com/projects/165500047/broken-sword-the-serpents-curse-adventure>
+- Unindicted Co-Conspirator <http://www.kickstarter.com/projects/1176637205/unindicted-co-conspirator-a-recording-project>
+- Brydge <http://www.kickstarter.com/projects/552506690/brydge-ipad-do-more>
+- Mini I2C OLED <http://www.kickstarter.com/projects/1567900542/mini-i2c-oled>
+- CEE <http://www.kickstarter.com/projects/itdaniher/cee-the-usb-analog-electronics-multi-tool>
+- Pioneer One (Film) <http://vodo.net/pioneerone>
+1358632910 Nichtlustig lässt sich einen Film crowdfunden
+1358632912 Nichtlustig <http://www.nichtlustig.de/main.html>
+1358632914 Joscha Sauer in Megamagisch <http://megamagis.ch/2012/11/28/006-tassenpanik> #podcast
+1358632934 "die Großen" nutzen Crowdfunging gern aus
+
+1358632960 Transaktionskosten der Dienste
+1358633072 Transaktionen von Paypal nach betterplace.org sind kostenlos
+1358633097 Artikel auf Crowdsourcingblog.de <http://www.crowdsourcingblog.de/blog/2011/03/01/doing-better-online-crowdfunding-fur-soziale-projekte/>
+1358633129 Karlheinz Böhm und die Traktoren für Äthiopien <http://de.wikipedia.org/wiki/Karlheinz_B%C3%B6hm> #glossary
+1358633274 TAN Verfahren SMS oder Geräte <http://de.wikipedia.org/wiki/Transaktionsnummer>
+1358633320 Bei Läden wie Lidl und Teegut kann man seinen Leergutpfand an wohltätige Organisationen Spenden <http://www.tafel.de/spenden-helfen/geld-spenden/pfandspende-nutzen.html>
+1358633390 Übernahme Teguts durch Migros <http://de.wikipedia.org/wiki/Tegut%E2%80%A6#.C3.9Cbernahme_durch_Migros> #glossary
+1358633398 Crowdfunding-"Spenden" sind nicht steuerlich absetzbar
+
+1358633430 Vor- und Nachteile von Crowdfunding #chapter
+1358633438 Probleme 2013: Crowdfundingprojekte zu Dingen, die man nicht haben möchte
+1358633458 Startnext Rechtes Land: Wiki zu Rechtsradikalen Übergriffen und Personen <http://www.startnext.de/rechtesland>
+1358633620 Homöopathie-Crowdfunding wird leider auch kommen
+1358633635 Hogwarts an der Oder <http://psiram.com/ge/index.php/Europa-Universit%C3%A4t_Viadrina> #glossary
+1358633668 Vorteile: es stärkt Projekte in der "Nische"
+1358633770 Liste Podcasts die Crowdfunding loben
+- Webciety 01Podcast <http://blog.cebit.de/2011/01/26/ne007-crowdfunding/> #podcast
+- Breitband, 14. Juli 2012, „Und alle so Ouya: Die crowdgefundete Spielekonsole“ <http://breitband.dradio.de/und-alle-so-ouya/> #podcast
+- DRadio,13.04.2012, „Ein Schwarm von Investoren: Wie Crowdfunding funktioniert und warum man dazu den „Kickstarter“ braucht.“ <http://wissen.dradio.de/crowdfunding-ein-schwarm-von-investoren.33.de.html?dram:article_id=15998> #podcast
+- Breitband, 17. September 2011, Crowdfunding in der Musik <http://breitband.dradio.de/die-musik-und-das-geld/> #podcast
+- Breitband, 30.10.2010. „Crowdfunding und Social Payment in der Musik“ <http://breitband.dradio.de/crowdfunding-und-social-payment-in-der-musik/> #podcast
+-  DRadio Kultur, 25.10.2010, „Der Fan als Mäzen“: Leander Wattig zu Crowdfuning <http://www.dradio.de/dkultur/sendungen/thema/1303862/> #podcast
+-  DRadio Kultur, 05.01.2013, NETSCOUT <http://www.dradio.de/dkultur/sendungen/netscout/1968963/> #podcast
+- bonedo.de Podcast (30.05.2012) <https://gpodder.net/podcast/bonedode-podcast/b-podcast-30052012-julia-marcell-uber-crowdfunding> #podcast
+- Amanda Palmer <https://soundcloud.com/breitband/amanda-palmer-interview>
+1358633885 Gerrit van Aaken hat sich MacBook selbstinitiiert spenden lassen und einen riesen Shitstorm abbekommen <http://praegnanz.de/weblog/die-grosse-macbook-spendengala-bei-praegnanzde>
+1358633989 Bei Spenden kommt gern Neid mit dazu.
+1358634024 Werden Shitstorms häufiger bei Apple Produkten losgetreten?
+1358634044 Das Beispiel @hoch21 in WG020 – <http://wikigeeks.de/201112/wg020-anatomie-einer-currywurst/#more-432>: Problem, das eine gut gemeinte Aktion in einen Shitstorm gegen einen Unvorbereiteten umschlug. Muss man sich als Initiator darauf einstellen? Einen möglichen Shitstorm in Betracht ziehen und sich bzw. den Beschenkten darauf vorbereiten?
+1358634121 Feminismus: Tropes against Women in computer games <http://www.feministfrequency.com/> 
+1358634280 Claudia spendet vornehmlich anonym: Kein sozialer Druck, keine Überprüfung und kein "Gegenleistungsdruck". 
+1358634299 Spiderman Quote „Aus großer Kraft folgt große Verantwortung“ (englisch: "with great power comes great responsibility")
+1358634309 Wing Commander 3: Der Preis der Freiheit ist ewige Wachsamkeit
+1358634310 Crowdfundingidee: Die große Fibel der popkulturellen Wahrheiten – Zitate (wie früher Aphorismen) aus Filmen, Spielen, Musik, ... 
+1358634330 Marc Uwe Kling, falsche Wahrheiten Kalender <http://www.marcuwekling.de/blog/2012/10/15/der-falsche-kalender/>
+1358634396 Känguruchroniken <http://www.fritz.de/media/podcasts/serien/neues_vom_kaenguru.html> #podcast
+
+1358634352 Psychologie #chapter
+1358634408 Vermeidung kognitive Dissonanz: Ich möchte auf der Gewinnerseite sein und fordere andere auf mit zu machen.
+1358634435 Automatischer viraler Effekt beim Crowdfunden?
+1358634503 Transparenz ja oder nein?
+1358634549 Fortschrittskontrolle, Blogführung, Video-/Podcastbeiträge
+1358634646 Ralf: "Gutes (Software-)Design ist nicht demokratisch"
+1358634840 Alle haben die Chance, in dem Bereich was zu machen
+1358634885 Ralf: "Im Moment funktioniert es ganz gut."
+
+1358634939 Das Video der Woche #chapter
+1358634987 Jacob Thornton (@fat), war Entwickler bei Twitter
+1358635030 Twitter Bootstrap <http://en.wikipedia.org/wiki/Twitter_Bootstrap> #glossary
+1358635031 Twitter Bootstrap Repo auf GitHub <http://twitter.github.com/bootstrap/>
+1358635138 Vortrag von Jacob Thornton: "What Is Open Source & Why Do I Feel So Guilty?" <http://www.youtube.com/watch?v=UIDb6VBO9os> #youtube #video
+Zweite Version des Vortrags: <https://www.youtube.com/watch?v=KbOZz1YNxT0> #youtube #video
+1358635182 Folien zum Vortrag <http://fat.github.com/slides-os-guilt/>
+1358635275 Das Cute-Puppy-Syndrom beim Entwickeln von Open-Source-Projekten
+1358635504 Ist generell "Erwerbsarbeit" das Problem?
+1358635596 Lock-in-Effekt <http://de.wikipedia.org/wiki/Lock-in-Effekt> #glossary
+
+1358635754 Nachreichung Watchever #chapter
+1358635799 Interessant wegen der Weiterentwicklung des Medienkonsums und der langfristigen Änderung von gewohnten Sehmechanismen (nach TV-Programm). Noch einige Probleme, dennoch Ralf: "Es fühlt sich gut an, es fühlt sich mehr nach Zukunft an."
+1358635837 Nach einer gewissen Zeit werden Serien wieder entfernt, z.B. 1. Staffel der Sopranos
+1358635892 Sopranos <http://de.wikipedia.org/wiki/Die_Sopranos> #glossary
+1358635911 Outro: Audio-Remix von M.K.
+Sendungsende: 23:53
+

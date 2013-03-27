@@ -1,0 +1,126 @@
+HEADER
+Einschlafen Podcast 225 vom 25.März 2013
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep217>
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/
+Shownoter: @evitabley, @simonwaldherr, @bigmcintosh91
+
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+
+Sendungsbeginn: ca 21:07
+
+- Preshow mit geheimen Inhalten
+
+
+00:00:00 Begrüßung #chapter
+Toby liest heute wieder Nils Holgersen in Frakturschrift vor
+00:00:32 Toby muss Frakturschrift entziffern
+00:00:36 Heute gibt es zwei Themen: 1. Programmierung und 2. den Ausflug mit seiner Familie zum Museum für Kunst und Gewerbe
+00:00:49 Toby hat zum ersten mal seit Jahren wieder programmiert, mehr dazu aber später
+00:01:13 Am Samstag ist seine Frau mit einer Freundin nach Sylt gefahren um eine andere Freundin zu besuchen (ohne Kinder)
+00:01:56 Toby war vor 2 Jahren auf Sylt mit ein paar Arbeitskollegen (Produktmanagern) von Xing
+00:02:03 Xing <http://xing.com/>
+00:02:32 Toby findet Sylt im Winter toll und hat bei Minusgraden in der Nordsee gebadet (Einschlafen episode suchen)
+
+00:02:50 Pixar #chapter
+00:02:54 Toby hat also am Samstag mal in Facebook reingeschaut
+00:03:09 Kollegin hat auf Facebook ein Bild mit einer Pixarfigur gepostet
+00:03:24 Pixarausstellung in Hamburg <http://www.hamburg.de/ausstellung-hamburg/3726050/pixar-25-years-of-animation.html>
+00:03:54 Toy Story <http://de.wikipedia.org/wiki/Toy_Story> #g
+00:03:57 Findet Nemo <http://de.wikipedia.org/wiki/Findet_Nemo> #g
+00:04:00 Merida <http://de.wikipedia.org/wiki/Merida_%E2%80%93_Legende_der_Highlands>
+00:04:10 Oben <http://de.wikipedia.org/wiki/Oben> #g
+00:04:29 Auf der Ausstellung gibt es originale Storyboards und andere Sachen 
+00:05:01 Seine Töchter schauen die Filme auch sehr gerne
+00:05:59 2 tolle Installationen: Zoetrop <http://de.wikipedia.org/wiki/Zoetrop> #g 
+00:06:52 große Scheibe mit aufgezeichneten Figuren die sich dreht und mit Stroboskoplicht beleuchtet wird
+00:07:16 Daumenkino <http://de.wikipedia.org/wiki/Daumenkino> #g
+00:08:18 Installation: Kino mit 3 Reihen, dort wird ein 11 Minuten Film gezeigt. 5000x1080 Pixel also ein sehr gut aufgelöstes sehr breites Bild 
+00:09:56 3 Beamer die nebeneinander die Bilder projezierten (1920x1080 Pixel) 
+00:10:19 Die Leinwand war 15 Meter breit und 3 Meter hoch. Das Bild war aber sehr nah
+00:11:18 Toby hat sich noch vor die 1. Sitzreihe auf den Fußboden gesetzt, um die anderen nicht zu stören
+00:11:38 Ausstellung war zuvor in Bonn
+00:11:47 Aufforderung in die Ausstellung zu gehen. (Link zu Ausstellungsseite?)
+00:12:25 In Hamburg in dem Musuemsgebäude gibt es viele wechselnde Ausstellung über Religion bis zu modernen Themen
+00:12:45 Es gab 2 Räume mit alten Musikinstrumenten
+00:13:02 Geigen ohne Klangkörper stumme Violine <http://de.wikipedia.org/wiki/Stumme_Violine> #g
+00:13:46 Es gab Geigen, die als Klangkörper einen Trichter eingebaut haben als Klangverstärkung
+00:14:25 Mareile hat sich ein Programm mitgenommen 
+00:14:43 JimBlock Burger <http://blog.jim-block.de/> #g
+00:15:14 Die Kinderüberraschung bestand aus einem Lineal
+00:15:26 Dann waren sie noch auf dem Dom "Wilde Maus" fahren
+00:15:35 Hamburger DOM <http://www.hamburg.de/dom/>
+00:16:46 Am Sonntag waren sie nochmal im selben Museum, weil Mareile rausgefunden hat, dass eine Lesung von Kirsten Boie angesetzt war <http://de.wikipedia.org/wiki/Kirsten_Boie> #g
+00:17:39 Zeichentrickserie "Ritter Trenk" <http://de.wikipedia.org/wiki/Der_kleine_Ritter_Trenk> #g
+- Ritter Trenk bei Amazon <http://www.amazon.de/kleine-Ritter-Trenk-Kirsten-Boie/dp/3789131636> #shopping
+00:19:12 Die Bücher sind "Infotainment" über das Mittelalter
+00:19:45 Mit seiner HVV Proficard kann Toby auch seine Familie am Wochenende mitnehmen <http://www.hvv.de/fahrkarten/proficard-grosskunden/>
+00:20:34 Metronombahn <http://www.der-metronom.de/>
+00:20:48 Die Lesung war sehr gut mit Erklärung, Vorlesung und Quiz
+00:21:37 Lovis hat mitgemacht und alle haben gewonnen und bald kriegen sie noch ein Geschenkpäckchen
+00:22:00 Toby hat Frau Boie einen Brief gegeben, indem er anfragt, ob er ältere Bücher von ihr vorlesen darf
+
+00:23:43 Programmieren #chapter
+00:24:01 Geeks und Nerds Programmieren, wenn sie abends alleine zu Hause sind
+00:24:16 Toby war mal Programmierer und wollte jetzt eine App bauen für den Einschlafen Podcast 
+00:24:24 single purpose app
+00:24:45 Auphonic <http://auphonic.com/>
+- Audiopostproduktion
+00:25:35 Auphonic bearbeitet die Audiodateien und versieht sie mit Metadaten
+00:25:53 FTP <http://de.wikipedia.org/wiki/File_Transfer_Protocol> #g
+00:26:41 Kapitelmarken bekommt Toby von den Shownotes <http://shownot.es/>
+00:27:11 Dank an @simonwaldherr und an @dieshownotes
+00:27:57 Einschlafen gibt es auch als Youtubevideo mit Standbild
+00:28:39 Die Kapitelmarken gibt es auch beim Video
+00:29:15 Youtube versucht per Spracherkennung ein Transkript zu den Videos zu erstellen
+00:29:30 Podlove <http://podlove.org/>
+- Publisher <https://github.com/podlove/podlove-publisher>
+- Player <https://github.com/podlove/podlove-web-player>
+00:32:01 auphonic ist Kostenlos
+00:32:16 Auphonic bei flattr <http://flattr.com/thing/946786/auphonic> 
+00:32:55 Auphonic bietet verschiedene Formate an 
+00:33:44 Wordpress <http://de.wikipedia.org/wiki/WordPress> #g
+00:34:27 JSON Datei <http://de.wikipedia.org/wiki/JavaScript_Object_Notation> #g
+00:35:14 Eric Teubert <http://ericteubert.de/> 
+00:36:26 Seine Arbeitsumgebung ordentlich einzurichten ist wichtig
+00:36:45 LAMP-Stack (Linux Apache MySQL PHP) <http://de.wikipedia.org/wiki/LAMP_(Softwarepaket)> #g
+00:37:10 Github <https://github.com/>
+00:37:29 Vagrant <http://www.vagrantup.com/>
+00:39:04 PHP <http://de.wikipedia.org/wiki/PHP> #g
+00:39:30 Ajax <http://de.wikipedia.org/wiki/Ajax_(Programmierung)>
+00:39:38 JavaScript <http://de.wikipedia.org/wiki/JavaScript> #g
+00:40:01 jQuery <http://jquery.com/>
+
+00:40:20 Podcasting Tipps #c
+00:41:20 Tobys Podlove Auphonic Module <https://github.com/tobybaier/podlove>
+00:42:00 Podlove Crowdfunding <http://metaebene.me/blog/2013/02/27/podlove-crowdfunding-gestartet/>
+00:43:53 Modul ist bei den Pubkameraden schon im Livebetrieb
+00:44:15 Same-Origin-Policy <http://de.wikipedia.org/wiki/Same-Origin-Policy> #g
+00:44:25 Host Europe <http://www.hosteurope.de/>
+00:46:22 Toby auf GitHub.com <https://github.com/tobybaier/>
+00:46:31 Toby mag Klarnamen
+
+00:47:41 Geschenke #c
+00:47:51 eine Hörerin hat eine Kafferösterei
+00:48:28 Kaffe mit Chilipulver
+
+
+
+00:49:32 Toby liest aus Selma Lagerlöfs Niels Holgersons wunderbare Reise mit den Wildgänsen vor #chapter
+- Er ist nun bei Kapitel 34 In Uppsala
+- Nils Holgersson (auf Gutenberg Kapitel 35) <http://www.gutenberg.org/files/31114/31114-h/31114-h.htm#kap33> #fulltext
+
+01:04:51 Verabschiedung #c
+01:05:42 Verweis auf den Realitätsabgleich am Mittwoch
+01:05:53 Nächste Woche ist wahrscheinlich Dienstag Sendung
+

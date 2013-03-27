@@ -1,0 +1,396 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+Relive, 29.11.2012 19:30 Uhr!
+
+
+Shownotes zu MobileMacs 100 Lemon Soaked Paper Napkins
+Stream: http://streams.xenim.de/mobile_macs.mp3
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2F199&time=19%3A30%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Denis @denis2342, Roddi @roddi 
+Verfahrensweise: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/100
+
+Zusammengetragen von: @flokeiner, hanz @kaeffchen_heinz, @SimonWaldherr, @evitabley, @Quimoniz, @mxmerz
+
+Titelvorschläge:
+Bumm Zack Packet loss
+Muted Macs
+Mobile Muted
+Offline
+Eifersucht, Neid und DDOS
+Stille Live (anstatt Still Alive)
+He´s dead Tim
+Mausen oder Touchen
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+00:00:00 Sendungsbeginn: 19:49:30
+
+
+00:00:00 Intro und Begrüßung und Technikprobleme #chapter
+Previously on mobileMacs von David1701 <http://soundcloud.com/david1701/previously-on-mobilemacs-099> #soundcloud
+Ausschnitte aus MobileMacs 1, 2, 4, 16, 17, 32, 36, 48, 50, 51, 59, 69, 74, 76, 77, 82, 86, 93 und 99 #spoiler
+- der Song aus dem Intro <http://www.jamendo.com/de/track/732520/la-busqueda-de-ianna> #video
+Bumm Zack Return #spoiler
+MobileMacs gibt es seit 2008 #spoiler
+DSL-Probleme (kein Internet, kein Stream) #spoiler
+Podcasting over EDGE, 3G #spoiler
+Fehler bei T-Online #spoiler
+Überlast durch MobileMacs #joke
+Neue Internetleitung verlegen lassen #spoiler
+Alternativen zur Telekom werden erörtert. #spoiler
+Denis schlägt Colt vor <http://www.colt.net/de/de/index.htm> #link
+CRE 191: Internet im Festnetz <http://cre.fm/cre191> #podcast
+Hukl hat für die EuRuKo bei Colt angefordert. #spoiler
+6.000 Euro für ein Wochenende Nutzung des Glasfaseranbindung #spoiler
+EuRuKo 2011 <http://euruko2011.org/> #link
+Pixelpark <http://de.wikipedia.org/wiki/Pixelpark> #wikilink
+Es werden IP Packete mitgezählt, Packet loss von 97% #spoiler
+Die Live Hörer sind die wahren Fans/doof #spoiler
+Denis hat sich vorbereitet und kommt an die Themen bei Google Notes nicht ran <http://de.wikipedia.org/wiki/Google_Docs> #wikilink
+Themen sind in der Cloud #spoiler
+
+00:11:20 BitCoin #chapter
+Bitcoins - Der 210.000 Block ist gefunden #chapter
+<http://blockchain.info/block-index/322335/000000000000048b95347e83192f69cf0366076336c639f9b7228e9ba171342e> #link
+Neue Blöcke sind nur noch halb so viel wert <https://de.bitcoin.it/wiki/FAQ#Was_ist_die_aktuelle_Gesamtzahl_an_existierenden_Bitcoins.3F> #link
+BitCoin <https://de.wikipedia.org/wiki/Bitcoin> #wikilink
+BitCoin Auszahlung hat sich halbiert #spoiler
+BitCoin Deflation #spoiler
+Preisspekulationen bei BitCoin aufgrund niedriger Auszahlung #spoiler
+Transaction Fee #spoiler
+BitCoin bis 2140 #spoiler
+Selbstregulierung im BitCoin-System #spoiler
+Welche Auswirkung hat es und wie werden sich die Miner verhalten? #spoiler
+Tim ist skeptisch #spoiler
+00:16:30 Denis "BitCoin ist noch da, wenn Flattr nicht mehr existiert" #zitat #spoiler
+Nicht nur leistungsfähige Grafikkarten werden benötigt, sondern auch große Festplatten #spoiler
+BitCoin Software Update coming soon #spoiler
+Diskussion über die Größe der Bitcoin Wallet, die lokal gespeichert wird #spoiler
+BerkleyDB <http://de.wikipedia.org/wiki/Berkeley_DB> #wikilink
+LevelDB <https://en.wikipedia.org/wiki/LevelDB> #wikilink
+Tims BitCoin Geldbörse braucht 5,58 GB #spoiler
+Alternate <http://alternate.de/> #shopping
+Tim ist immernoch skeptisch #spoiler
+BitCoin skaliert nicht/schlecht #spoiler
+Jeder BitCoin Nutzer hat alle Kontoauszüge aller anderen #spoiler
+BitCoin v 0.8 speichert weniger "Kontoauszüge" #spoiler
+BitCoin Client ist in QT <http://de.wikipedia.org/wiki/Qt_(Bibliothek)> #wikilink
+An diversen BitCoin Libs wird gearbeitet #spoiler
+Bitcoins Clients 
+- jbitcoin
+- pycoin
+- picocoin
+
+00:23:49 Semantic Web #chapter
+- Wiki <http://de.wikipedia.org/wiki/Semantisches_Web> #wikilink
+2001 Wikipedia; 2004 Blogs; 2005 Podcasting; 2006 Youtube #info
+- RSS-Enclosure <http://en.wikipedia.org/wiki/RSS_enclosure> #wikilink
+- Dave Winer <http://en.wikipedia.org/wiki/Dave_Winer> #wikilink
+Open Street Map <http://de.wikipedia.org/wiki/Open_Street_Map> #wikilink
+ChaosRadio 91 <http://chaosradio.ccc.de/cr91.html> #podcast
+Mögliche DSL-Problemlösungen #spoiler
+In Spielekasetten blasen hilft (nicht) #spoiler
+Münzen am Automaten reiben funktioniert nicht <http://www.spiegel.de/schulspiegel/wissen/1000-fragen-hilft-es-am-muenz-automaten-zu-reiben-a-515021.html> #artikel
+Coca Cola kostete knapp 100 Jahre lang nur 5 Cent <http://www.weku.fm/post/why-coke-cost-nickel-70-years> #spoiler #link
+Filmidee mit Steve Jobs #spoiler
+Tims Telekom Rant #spoiler
+Vorschlag für Live MobileMacs mit Publikum #spoiler
+Ab und zu kommen IP Pakete durch #spoiler
+Tim will nicht über EDGE streamen #spoiler
+Tim hat noch ein WLAN-Modul für den Mac Pro rumliegen, kann es aber nicht einbauen #spoiler
+Streamingrechner-(Ethernet)-MacBook-(WLAN)-iPhone-(EDGE)-Xenim-(DSL)-(X)-Hörer? #spoiler
+vielleicht ist die Telekom doch nicht schuld, aber wahrscheinlich schon #spoiler
+PrimaCom <https://de.wikipedia.org/wiki/Primacom> #wikilink
+
+00:34:35 Nokia Maps #chapter
+…ist schnell im AppStore freigeschaltet worden #spoiler
+HERE Maps von Nokia gate5 GmbH <https://itunes.apple.com/de/app/here-maps/id577430143?mt=8> #link
+gate5 wurde von Mitgliedern des CCC gegründet #info
+Denis hat auf einer CeBit 2003 die Maps von gate5 vorgeführt #spoiler
+gate5 Maps war für Windows (CE) #spoiler
+App ist "Phonegap" WebView von m.maps.nokia.com <http://m.maps.nokia.com/> #link
+- Phonegap <http://phonegap.com/> #homepage
+"Die ersten zehn Bewertungen auf keinen Fall glaube" #zitat #spoiler
+Nokia hat TeleAtlas nicht aufgekauft, das war TomTom (sind auch bei Navigon  und TomTom) #spoiler
+Tele Atlas <https://de.wikipedia.org/wiki/Tele_Atlas> #wikilink
+Das Teleatlas Strasse / Straße #spoiler
+SS-Bahnhof #spoiler
+"Nokia Maps liegt am Boden" #zitat
+Richard Williamson wurde gefeuert <http://www.heise.de/newsticker/meldung/Berichte-Apples-Maps-Manager-gefeuert-1758194.html> #artikel
+Scott Forstall hat mit iOS eine gute Arbeit gemacht #spoiler
+UI-Kit <http://developer.apple.com/library/ios/#documentation/uikit/reference/UIKit_Framework/_index.html> #applelink
+Neuer Podcast von alten Hasen namens Debug <https://itunes.apple.com/us/podcast/debug/id578812394> #podcast
+AppKit <https://developer.apple.com/library/mac/#documentation/cocoa/Reference/ApplicationKit/ObjC_classic/_index.html> #applelink
+Twitter App Tweetie von atebits/Twitter <https://en.wikipedia.org/wiki/Tweetie> #wikilink
+MacOS und iOS Legacy von NeXTStep <http://de.wikipedia.org/wiki/NeXTStep> #wikilink
+NS-"Namespace" in Cocoa #spoiler
+- NS hieß früher NX #info
+- Tim findet die Abkürzung NS für NeXTStep aus historischer Sicht schlecht #spoiler
+- Cocoa <http://de.wikipedia.org/wiki/Cocoa> #wikilink
+- Abkürzungs Vorschläge für NeXTStep #spoiler
+- NSConference <http://www.nsconference.com/> #homepage
+- Nationalsozialismus und die Sicht auf den Nationalsozialismus im Ausland #spoiler
+Kursk Schlacht <https://de.wikipedia.org/wiki/Unternehmen_Zitadelle> #wikilink
+Scott Forstalls Rauswurf war schlecht #spoiler
+Patenttroll trollt/verklagt Apple <http://gigaom.com/apple/patent-troll-hits-apple-for-using-headphones/> #artikel
+- Patent auf "Zu Telefonen, Headsets dazu legen" <http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/7373182> #link
+
+00:52:30 Podcasting #chapter
+"Heute gibt es keine Shownotes, sind alle abgewandert" #zitat
+Tim sagt, dass es keine Shownotes für MM100 gibt (haha, wir sind noch hier) #info
+PodGrasp <http://www.podgrasp.com/> #homepage #spoiler
+Podcast Mac App (wird nicht gelobt, deshalb kein Link) #spoiler
+"Simple, uncluttered Interface" #spoiler
+Podcasting aus nem Bunker #spoiler
+Auphonic macht gute Metadaten (wie z.B. Kapitelmarken in mp3) <https://auphonic.com/> #homepage
+OGG mit Kapitelmarken #spoiler
+ID3-Tags <https://de.wikipedia.org/wiki/ID3-Tag> #wikilink
+VLC <https://de.wikipedia.org/wiki/VLC_media_player> #wikilink
+Opus <https://de.wikipedia.org/wiki/Opus_(Audioformat)> #wikilink
+Opus ist im Ogg Container #spoiler
+eyeD3 - ID3 Python Lib <http://eyed3.nicfit.net/> #homepage
+Auphonic kann so ziemlich alle Codecs mit allen Features #spoiler
+Matroska ist anders und kommt erst später <http://de.wikipedia.org/wiki/Matroska> #wikilink
+01:01:00 BitTorrent und Bitlove <http://bitlove.org/> #homepage
+01:01:25 BitTorrent wird nicht von iTunes unterstützt werden #spoiler
+01:02:10 Podcast Flag (Media Kind) in Mediadaten #info
+01:02:55 Mediainformationen werden von iTunes im Mediafile gespeichert  #spoiler
+01:04:01 Feed-URL Flag #spoiler
+01:04:28 für eyeD3 wurden diese Flags reengineerd #spoiler
+01:05:10 iTunes Match, iCloud und Audio Books #spoiler
+01:06:00 Podcasting über eigenen Nicecast <http://www.rogueamoeba.com/nicecast/> #homepage
+- oder Mumble Server <http://mumble.sourceforge.net/> #homepage
+- oder FreeBSD und icecast <http://www.icecast.org/> #homepage
+
+01:07:50 Podlove Podcast Publisher und Web Player #chapter
+01:08:50 Plugin und Player sind in einer soliden Alpha Version #info
+01:09:10 Screencast Teil 1 <http://www.youtube.com/watch?v=YWebs8p8_As> #youtube #video
+Screencast Teil 2 <http://www.youtube.com/watch?v=bLgPqohbRv0> #youtube #video
+01:10:05 PodloveMeeting #spoiler
+
+01:11:00 C Headers #chapter
+01:11:05 C Header Files sollen abgeschafft werden <http://llvm.org/devmtg/2012-11/Gregor-Modules.pdf> #artikel
+01:11:45 C <https://de.wikipedia.org/wiki/C_(Programmiersprache)> #wikilink
+.m (bzw. .c, .cpp) und .h Files in C #spoiler
+01:13:40 C++ <https://de.wikipedia.org/wiki/C%2B%2B> #wikilink
+01:14:00 \#include stdio.h #spoiler
+01:14:45 Precompiled Header  #spoiler
+01:16:20 Hello world <https://de.wikipedia.org/wiki/Hello_world> #wikilink
+01:17:40 Symbole de-duplizieren durch Module unnötig #spoiler
+01:18:10 Modul-Export-Namespaces #spoiler
+01:19:00 roddi "sehr gewagt, aber auch sehr lecker" #zitat #spoiler
+01:19:10 Übergangsstrategien, Roadmap #spoiler
+Hacker News, für Standard braucht es eine Implementierung #spoiler
+01:20:00 googlen nach: Gregor-Modules-pdf #spoiler
+nur bei LLVM clang #spoiler
+
+01:20:30 Streamabbruch Erklärung #chapter
+Telekom hat reagiert, DSL läuft wieder (mehr oder weniger) #info
+
+01:22:46 Eröffnung AppleStore und Flughafen Berlin #chapter
+Apple Store ist erstmal nicht offen #spoiler
+01:22:45 Rauchableitung im Flughafen <http://www.taz.de/%2193014/> #artikel
+Rauch sollte abgepumpt werden (1km lang) #spoiler
+TÜV glaubt nicht, dass das funktioniert, weil das noch niemand gebaut hat, will Nachweis #spoiler
+Türen waren nicht breit genug für Flucht, Kabel darum waren aber schon angemessen #spoiler
+Umplanung verteuert den Flughafen #spoiler
+Für Airbus A380 mussten Gebäude "verschoben" werden #spoiler
+Mehr Flughäfen für Berlin #spoiler
+KR344 Küchenradio-Interview <http://www.kuechenradio.org/wp/?p=1438> #podcast
+"Inhaltloses Rumraten" ist die Stärke von MobileMacs #spoiler
+denis: "da kommen die halt nicht live, da machst du sie in 2 tagen dran" #zitat #spoiler
+
+01:28:00 Podcast mit Insightful Content - App.net #chapter
+Tim: "insightful-content ist das was wir nicht machen" #zitat #spoiler
+Wöchentlicher Podcast von App.net mit Dalton Caldwell (CEO) #info
+01:29:30 Episode 2: Private Messages <http://blog.app.net/2012/11/21/app-net-podcast-episode-2/> #podcast
+Es werden deutlich mehr Nachrichten privat als öffentlich verschickt #spoiler
+01:30:35 BlackBerry Messages 
+- wiki <http://de.wikipedia.org/wiki/BlackBerry_Messenger> #wikilink
+- blackberry.com <http://de.blackberry.com/services/blackberrymessenger/> #homepage
+01:31:00 iMessage #spoiler
+01:31:10 Glassboard App <http://glassboard.com/> #homepage
+01:32:30 UDK Mailinglisten #spoiler
+01:32:45 Mailman reply_goes_to_list-Frage <http://www.gnu.org/software/mailman/mailman-admin/node11.html> #link
+01:33:26 Mailinglisten Tim: "Der CCC hat so kaputte Mailinglisten" #zitat
+01:33:55 "Realität spielt da keine Rolle" #zitat #spoiler
+Mailinglisten Fails (Reply All) #spoiler
+01:35:10 Mail Clienten sollten Follow Up To haben #spoiler
+01:35:30 MUD haben bestimmt Follow-Up-To #spoiler
+
+01:37:10 Streaming #chapter
+01:37:30 Gladio Cast #spoiler
+01:38:40 Xenim Streaming <http://streams.xenim.de> #homepage
+Denis macht einen Quicktime-Streamingserver klar #spoiler
+01:39:30 RTSP <https://de.wikipedia.org/wiki/RTSP> #wikilink
+01:39:55 Port-Forwarding <https://de.wikipedia.org/wiki/Port-Forwarding> #wikilink
+01:41:10 Verfrühter Weltuntergang <http://zombocalyp.se/> #spoiler #link
+
+01:41:30 (Max') Drucker #chapter
+01:42:00 Treiberhölle #spoiler
+01:42:35 AirPrint dank Firmware update #spoiler 
+01:44:00 Apple LaserWriter <http://de.wikipedia.org/wiki/LaserWriter> #wikilink
+01:45:00 HP-Drucker <http://hp.com> #homepage
+01:45:50 "Lemon Soaked Paper Napkins" aus Per Anhalter durch die Galaxis, Band 2 <http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis> #wikilink
+01:47:30 Peak Drucker #spoiler
+AirPrint Verbreitung schlecht #spoiler
+01:48:10 "Quadratisch praktisch, beige" #zitat
+01:51:45 ePrint über das Internet <http://en.wikipedia.org/wiki/HP_ePrint> #wikilink
+01:52:00 Googles Drucker Dienst <http://www.google.com/cloudprint/learn/> #google
+01:53:30 Schlechte Webseiten (HP, Sennheiser, Joes Pizza) #spoiler
+01:54:00 Manager sollten gezwungen werden die Webseite ihrer Firma abzusurfen #spoiler
+01:54:30 Pizza von Joeys Pizza <http://joeyspizza.de> #link #spoiler
+01:55:50 Flash #spoiler
+01:56:37 Crickets und Steve Ballmer #spoiler
+01:57:25 "Hole es raus aus Youtube. Befrei es!" #zitat #spoiler
+AirPlay "mit Kabel" #spoiler
+
+02:59:50 Safari #chapter
+WebKit Inspector im Simulator und im Gerät, wenn per USB verbunden #spoiler
+Safari <http://www.apple.com/safari/> #apple
+02:01:25 Firefacebookapp <http://www.mozilla.org/en-US/firefox/17.0/releasenotes/> #link
+komische Anhörsachen die nicht funktionieren #spoiler
+
+02:04:45 Softwareupdates #chapter
+02:04:50 Steve Ballmer "ist blöd" <http://de.wikipedia.org/wiki/Steve_Ballmer> #wikilink
+02:05:55 Nokia Communicator #spoiler
+02:06:15 Windows CE #spoiler
+02:08:30 Softwareupdates durch Provider abnicken lassen #spoiler
+Apple iPhone #spoiler
+Android Update Fail #spoiler
+Microsoft Upgrade Fail #spoiler
+02:11:45 Steve Sinofsky verlässt Microsoft <http://www.heise.de/newsticker/meldung/Windows-Chef-verlaesst-Microsoft-1748601.html> #artikel
+Upgradevorsichtige Großunternehmen in Deutschland #spoiler
+02:15:40 40$ Upgradepreis für Windows 8 <http://www.heise.de/newsticker/meldung/Windows-8-Upgrade-Vorbestellung-und-Euro-Preise-1729381.html> #artikel
+Enterprise bleibt bei Windows 7 (oder XP) #spoiler
+"Windows 9 wird Super" #zitat
+02:18:35 "Mausen oder Touchen" #zitat
+Metro <http://de.wikipedia.org/wiki/Microsoft_Windows_8#Benutzeroberfl.C3.A4che> #wikilink
+Windows  RT für das Surface, ist ARM fähig #info
+02:20:35 Win RT <http://de.wikipedia.org/wiki/Microsoft_Windows#Windows_RT> #wikilink
+Windows Naming Fail #spoiler
+02:21:00 dotNet <http://de.wikipedia.org/wiki/.NET> #wikilinkik
+"Ich sehe derzeit leider nicht, wer Apple die Butter vom Brot nehmen soll" #zitat
+Man möchte keine Buchstaben hinter einer Zahl haben es sei denn es ist SLK #zitat
+Enterprise Markt ist Windows, HP, IBM Sache #spoiler
+02:25:00 PC-Markt - Privatkunden und Firmen #spoiler
+Sicherheitsprobleme bei Android #spoiler
+02:25:50 Microsoft Surface ist keine Konkurenz für das iPad #spoiler
+GoogleDocs <http://de.wikipedia.org/wiki/Google_Drive> #wikilink
+02:28:25 Mainframes von Sun, Oracle, IBM <http://de.wikipedia.org/wiki/Gro%C3%9Frechner> #wikilink
+
+02:30:00 Mobilgeräte #chapter
+Android Verkäufer geben keine Zahlen preis #spoiler
+Microsoft mietet sich in USA flächendeckend in Malls ein #spoiler
+02:31:50 Android wird über kurz oder lang an Samsung verkauft #spoiler
+Nur Apple gibt Zahlen für ihre Telefonverkäufe raus #spoiler
+Samsung Galaxy S 3 <http://de.wikipedia.org/wiki/Samsung_Galaxy_S_3> #wikilink
+02:36:00 Das Microsoft Surface verkauft sich nicht so gut <http://tech.fortune.cnn.com/2012/11/26/microsoft-surface-tablet-apple-ipad/> #link
+02:36:50 Google Nexus #spoiler
+02:38:35 Statistisch irrelevante Android Mobilgerät Webseitenabrufe #spoiler
+02:41:55 Smart Cover, Smart Case #spoiler
+02:42:30 Blackberry kommt wieder... #spoiler
+02:43:00 Google macht jetzt häufiger CAPTCHA-Abfragen <https://de.wikipedia.org/wiki/CAPTCHA> #wikilink
+02:45:00 RIM ist kein Kandidat für die Zukunft #spoiler
+02:45:30 Nokia Lumia ist schön auf Fotos <http://de.wikipedia.org/wiki/Nokia_Lumia> #wikilink
+
+02:47:00 Siri und KI #chapter
+Voice Recognition KI #info
+Spracherkennung auf dem Klo #spoiler
+Telefonbenutzung: Bahn, Klo, Auto, #spoiler
+02:49:20 ELEVEN mem <http://www.youtube.com/watch?v=5FFRoYhTJQQ> #youtube #video
+Mechbass <http://www.heise.de/newsticker/meldung/Bassgitarre-Roboter-MechBass-1756902.html> #artikel
+02:50:30 Hukls MustHaveListe: Beamen, Syncing, Drucken, Voice Recognition, Braininterface #spoiler
+02:52:15 Otto Walkes - Der Menschliche Körper <http://www.youtube.com/watch?v=Lob7Sdxs3b0> #youtube #video
+02:52:30 Google Glasses #spoiler
+02:53:00 MRAM <http://semiaccurate.com/2012/11/16/everspin-makes-st-mram-a-reality/> #link
+02:45:50 Schönste Misserfolge von Apple:
+- Ping <https://de.wikipedia.org/wiki/ITunes#Ping> #wikilink 
+- Dropbox <http://de.wikipedia.org/wiki/Dropbox> #wikilink
+02:57:00 Core Data Verriss #spoiler
+02:57:45 CoreData BitCoin Vergleich <http://en.wikipedia.org/wiki/Core_Data> #wikilink
+02:58:20 Vatical aus der Bayrischen Hackerpost <http://www.leo.org/information/freizeit/fun/Vatical.html> #link
+03:00:30 99 Bottles of Beer <http://www.99-bottles-of-beer.net/> #homepage
+03:01:00 Es gibt angeblich eine Implementation (ist aber outdated) #spoiler
+03:01:45 Apple Script und Automator <http://de.wikipedia.org/wiki/AppleScript> #wikilink
+Automator <http://de.wikipedia.org/wiki/Automator> #wikilink
+03:02:00 WatchMeDo in Automator #spoiler
+HyperCard <https://de.wikipedia.org/wiki/HyperCard> #wikilink
+03:06:20 os-commerce <http://www.oscommerce.de/> #homepage
+Käseplatte <http://de.wikipedia.org/wiki/K%C3%A4seglocke> #wikilink
+
+03:08:00 Android Jellybean vs. iOS #chapter
+Android Jellybean <http://www.android.com/> #homepage
+der Dezember fehlt #spoiler
+Lockscreenwidgets #spoiler
+Softwareupdate Fail bei Google #spoiler
+iTunes 11 verzögert sich auch #spoiler
+03:12:00 Google hat mehr Server als Apple #info
+03:12:25 Canon <http://de.wikipedia.org/wiki/Canon> #wikilink
+03:13:50 Swipetastatur bei Android #spoiler
+03:16:00 Hukl erzählt von seiner App auf Arbeit #spoiler
+03:17:30 iOS User surfen mehr als Android Nutzer #info
+03:20:00 Internet geht wieder nicht #spoiler
+03:21:00 iPhone-Hülle von will.i.am #spoiler
+- ist Schrott #spoiler
+03:22:00 Apple QuickTake <https://de.wikipedia.org/wiki/Apple_QuickTake> #wikilink
+03:22:30 iPhone Hardware Tastaturen #spoiler
+03:23:10 Bubbletea und Frozen Yoghurt
+- "benutze Bäcker mit Denis" #zitat #spoiler
+- BubbleTea <http://de.wikipedia.org/wiki/Bubble_Tea> #wikilink
+- Frozen Yoghurt <https://de.wikipedia.org/wiki/Frozen_Yogurt> #wikilink
+
+03:24:40 Amazon Cloud Storage #chapter
+03:25:20 Organisationseinheiten (Vaults, Archives) bei Glacier <https://aws.amazon.com/glacier/> #link
+Amazon S3 <http://en.wikipedia.org/wiki/Amazon_S3> #wikilink
+03:29:00 S3 -> Glacier -> S3 #spoiler
+03:30:00 Arq - Online Backup Software for Mac <http://www.haystacksoftware.com/arq/> #homepage
+03:31:00 wenig/schlechte Statistik der Backups bei Arq #spoiler
+03:34:50 Dropboxsync von Tim <http://dropbox.com> #homepage
+03:35:10 Documents, Music und Pictures Ordner werden vollgemüllt #spoiler
+03:35:50 Dankbarkeit für Lebkuchen: Lebkücherei Woitinek und Rosner #spoiler
+03:36:20 Jollys Fast VNC von Patrick Stein <http://www.jinx.de/JollysFastVNC.html> #homepage
+Chicken of the VNC <https://en.wikipedia.org/wiki/Chicken_of_the_VNC> #wikilink
+03:38:40 Tims Strategie mit Dropbox #spoiler
+03:40:35 Dropbox Chooser <https://blog.dropbox.com/2012/11/meet-the-dropbox-chooser-a-new-way-to-add-stuff-from-dropbox/> #article
+03:40:50 Trello <https://trello.com/> #homepage
+
+
+03:44:30 Versionkontrolle #chapter
+03:44:45 gitlab <http://gitlabhq.com/> #homepage
+03:45:48 GitHub Private Repos #spoiler
+03:46:00 BitBucket <https://bitbucket.org/> #homepage
+Mercurial <http://mercurial.selenic.com/> #homepage
+Git <http://git-scm.com/> #homepage
+- Wiki <http://de.wikipedia.org/wiki/Git> #wikilink
+03:46:30 "Peter What's Happening" meint, dass das Blöde bei Github ist, dass man Pull Requests nicht auf der Command Line machen kann #spoiler
+03:47:00 Travis-CI <https://travis-ci.org/> #homepage
+- Source <https://github.com/travis-ci/travis-ci> #source #spoiler
+03:50:49 Gitorious <http://gitorious.org/> #homepage
+03:52:10 Videospiel Galcon <https://en.wikipedia.org/wiki/Galcon> #wikilink
+- Opa erzählt vom Krieg #spoiler
+
+03:54:30 Kalender und AppStore #chapter
+Fantastical für iPhone <http://flexibits.com/fantastical-iphone> #homepage
+BusyCal <http://www.busymac.com/> #homepage
+03:56:30 BummZackReturn #spoiler
+03:59:30 Fantastical für iPhone sehr schick #spoiler
+04:00:00 Ende des Mayakalenders <http://zombocalyp.se/> #link
+AppStore Release Strategien #spoiler
+map (Martin Pittenauer - Coding Monkeys) <http://twitter.com/map> #twitter
+04:03:20 2012faq.de <http://2012faq.de/> #link
+
+04:04:00 Ausklang und Verabschiedung #chapter
+Heaven DX11 Benchmark <http://unigine.com/products/heaven/> #link
+04:04:45 Shortcat <http://shortcatapp.com> #homepoage
+04:06:25 Danksagungen von Tim an "alle" #info
+Gamification - Achievements für MobileMacs Hörer #spoiler
+04:07:20 Wie viel Zeit hat mobileMacs der Menschheit schon geklaut? #spoiler
+04:08:25 Besonderer Dank an David für die Intros #info
+
+04:09:54 Das Intro als Outro #chapter
+"That's what we have for you today, thank you for coming and… we'll see you soon!" #spoiler
+Previously on mobileMacs von David1701 <http://soundcloud.com/david1701/previously-on-mobilemacs-099> #soundcloud
+04:14:31 Ende
+

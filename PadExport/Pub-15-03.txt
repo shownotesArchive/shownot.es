@@ -1,0 +1,110 @@
+HEADER
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+Pubkameraden (Freitag, 15. März 2013)
+mit Toby Baier (@tobybaier) und Christoph
+Publikation: (noch eintragen)
+- auf Pubkameraden <http://www.pubkameraden.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/pubkameraden.mp3>
+Shownotes: <https://shownotes.piratenpad.de/Pub-15-03>
+Chat: <http://webchat.freenode.net/?channels=#einschlafen>
+Timer: Zeitangaben werden vom HMS-TimeStamp-Bookmarklet geschrieben.
+Siehe http://shownotes.github.com/EtherpadBookmarklets/
+Das Plugin wandelt alle ### am Anfang von Zeilen in HH:MM:SS Zeitangaben um
+
+Chatlogs: <bitte eintragen>
+
+Zusammengetragen von: @Kambfhase, @vale (ADN)
+
+Sendungsbeginn: 13:32:31 Uhr
+Sendungsende: 16:49:00 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+
+Kapitelmarken: 
+„Geheimtipp Cheap Tip“
+
+/HEADER
+
+1363381929 Sendungbeginn #chapter
+1363381946 Heute leider ohne Musik
+1363381960 Schnipsmarke
+1363382015 Toby ist auf Podcastingentzug
+1363382036 Big Peat
+1363382041 Sheep Dip
+1363382078 Blend <https://de.wikipedia.org/wiki/Blend_(Whisky)> #g
+1363382144 Christoph erklärt Blended Scotchs
+1363382188 Column still/Patent still <http://en.wikipedia.org/wiki/Column_still> #g
+1363382254 How to drink whiskey like a sir <https://www.youtube.com/watch?v=YVG1U-faqHY> #video
+1363382362 Richard Paterson <https://de.wikipedia.org/wiki/Richard_Paterson> #g
+- @the_nose <https://twitter.com/the_nose>
+1363382500 Der Sheep Dip wird probiert #chapter
+1363382502 Aromen von Feige, Birne und andere Früchte
+1363382554 Laphroaig Quarter Cask <https://de.wikipedia.org/wiki/Laphroaig> #g
+1363382638 Burbon Fässer werden wiederverwendet
+1363382825 Fruchtig, nussig, kein Rauch
+1363382868 „Everyday Whisky“ (Christoph) #quote
+1363382887 Letzter Nachgeschmack unangenehm, „trocken“ und „dumpf“ (Toby) #quote
+1363383057 Wie kommt der Rauch in den Whisky?
+1363383121 Dalmore <https://de.wikipedia.org/wiki/Dalmore> #g
+1363383227 „Whisky darf nicht mehr das Land verlassen“ (Christoph) #quote
+1363383395 Christoph hat sich bei Iain McArthur als Azubi beworben <https://secure.malts.com/index.php/de_de/Fuer-Friends/Werden-Sie-Azubi-in-Lagavulin/(source)/twitter/(eid)/3290>
+1363383615 Nun: Big Peat #chapter
+1363383620 Port Ellen <https://de.wikipedia.org/wiki/Port_Ellen_(Whiskybrennerei)> #g
+1363383736 Jameson <http://de.wikipedia.org/wiki/Jameson_(Whiskeybrennerei)> #g
+1363383804 „Das ist Rauch“ #quote
+1363383834 Pubkameraden auf Facebook <https://www.facebook.com/Pubkameraden>
+1363384138 Nun aber wirklich: Pig Peat
+1363384164 Aromen: Torf, feuchter Rauch, Citrus, erinnert an Coal Ila
+1363384204 Blends sollen eigentlich immer gleich schmecken
+1363384321 Jim Murray <http://en.wikipedia.org/wiki/Jim_Murray_(writer)> #g
+1363384356 Big Peat riecht nun süßlich
+1363384421 „Ein Apfelkuchen der in Flamen steht“ (Christoph) #quote
+1363384463 „Ein Apfelkuchen an einem mit Torf befeuerten Herd“ (Toby) #quote
+1363384652 Ingress <https://de.wikipedia.org/wiki/Ingress_(Computerspiel)> #g
+1363384688 Geocaching <https://de.wikipedia.org/wiki/Geocaching> #g
+1363384747 Fragmente des Rauchs und leichte Mineralik
+1363384866 Toby hatte eine metallische Jugend
+1363384913 Tonprobleme
+1363384973 /Tonprobleme
+1363384992 Konzert von Biffy Clyro <http://de.wikipedia.org/wiki/Biffy_Clyro> #g
+1363385090 Bowmore 18 <http://www.bowmore.com/whiskies/18-years-old/>
+1363385094 Christoph nutzt den Einschlafen Podcast zum Einschlafen
+1363385190 Black Forrest Still <http://www.blackforest-still.de/>
+1363385302 Christoph hat 100 Flaschen Whiskey
+1363385454 Kilchoman <http://kilchomandistillery.com/>
+1363385688 Whisky als Fliederbeergrog <http://einschlafen-podcast.de/2011/10/104-fliederbeer-grog-mit-ardbeg-entenrennen-und-goethe/> #podcast
+1363385744 Highland Park 18 <http://de.wikipedia.org/wiki/Highland_Park_(Whiskybrennerei)> #g
+1363385888 Black Bowmore <http://www.bowmore.com/whiskies/black-bowmore-1964/>
+1363386104 Bunnahabhain 12 <http://de.wikipedia.org/wiki/Bunnahabhain_(Whiskybrennerei)> #g
+1363386218 Bunnahabhain ist wenig rauchig, „Inselcharakter“
+1363386305 Kaltfiltrierung <http://de.wikipedia.org/wiki/Kaltfiltrierung> #glossary
+1363386438 Highland Park 12 <http://de.wikipedia.org/wiki/Highland_Park_(Whiskybrennerei)> #g #chapter
+1363386583 Aromen: Ein bisschen Rauch, Vanille, Citrus Schale (Grapefruit)
+1363386820 Whisky Muggel <http://de.wikipedia.org/wiki/Begriffe_der_Harry-Potter-Romane#Muggel> #g
+
+1363386931 Stream weg
+1363386994 Stream wieder da
+1363387113 Highland Park 12 besser als Christoph dachte
+
+1363387197 Sendungsende
+
+
+
+
+
+

@@ -1,0 +1,241 @@
+HEADER
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NSFW65 (Montag, 11. März 2013)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/metaebene.mp3>
+Shownotes: <h00ps://shownotes.piratenpad.de/NSFW065>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: Zeitangaben werden vom HMS-TimeStamp-Bookmarklet geschrieben.
+Siehe http://shownotes.github.com/EtherpadBookmarklets/
+Das Plugin wandelt alle ### am Anfang von Zeilen in HH:MM:SS Zeitangaben um
+
+Chatlogs: <bitte eintragen>
+
+Zusammengetragen von: @mrmoe, Gurkitier, @simonwaldherr
+
+Sendungsbeginn: 13:32:31 Uhr
+Sendungsende: 16:49:00 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+„Vollkornteutone“
+„Live aus der Frauengold-Arena“
+„The Front Fell off“
+
+Kapitelmarken: 
+
+/HEADER
+
+00:00:00 Amtstitel und Xenophobie #chapter
+An doppetn Mokka kuaz #audio
+Wienerisch mit The Grooves - Local Grooves mit Josef Hader
+- Amazon <http://www.amazon.de/Wienerisch-mit-The-Grooves-Local/dp/3897477238>
+- iTunes <https://itunes.apple.com/de/audiobook/wienerisch.-local-grooves/id368842040>
+00:01:01 Abrupter Beginn: Holgi isst noch Salat
+00:01:25 Räte in Österreich <http://de.wikipedia.org/wiki/Hofrat> #g
+Titel in Österreich <http://de.wikipedia.org/wiki/Berufstitel> #g
+00:02:12 „Das Haus der Krokodile“ ist das Gruseligste, was man Kindern vorlesen kann <http://de.wikipedia.org/wiki/Das_Haus_der_Krokodile> #g
+00:03:25 Bundesverdienstkreuz <http://de.wikipedia.org/wiki/Verdienstorden_der_Bundesrepublik_Deutschland> #g
+00:05:55 „Der Prenzlauer Berg ist nach wie vor der Szenebezirk“ <http://de.wikipedia.org/wiki/Berlin-Prenzlauer_Berg> #g #quote
+00:06:38 Holgi kennt keine andere Straße in Berlin, in der so viel Scheiße liegt (wie die, in der die Metaebene ist
+00:08:00 Holgi reitet wieder auf der Ausländerschiene rum
+00:08:30 Tim berichtet von seiner negativen Erfahrung mit Ausländerfeindlichkeit #t
+00:10:15 Tim wurde vor einiger Zeit in Hannover verprügelt
+00:13:03 Ein Freund von Tim hat in ähnlicher Situation mal erfolgreich vorgegeben, eine asiatische Kampfkunst zu beherrschen
+00:14:21 Holgi hat bei einem Freund gelernt, dass man in einer 1-gegen-mindestens-3-Situation immer versuchen sollte, sich rauszureden, und wenn jemand ein Messer zückt, immer umdrehen und gehen
+00:16:54 Auch Holgi hatte mal eine Schlägerei
+00:17:42 Schlägereien sind nicht wie im Film
+00:19:49 Holgi kann gefährlich aussehen, wenn er will
+00:20:20 Holgi wird gefühlt bei jeder fünften Fahrt mit den öffentlichen angepöbelt
+00:22:29 „Wir haben kein Ausländerproblem, wir haben ein Asi-Problem“ (Holgi) #q
+00:24:20 „Das Sein bestimmt das Bewusstsein“ (Marx) #q
+Dialektischer Materialismus <http://de.wikipedia.org/wiki/Dialektischer_Materialismus> #g
+00:26:00 Der Mindestanspruch an Berufsanfänger ist gestiegen, man darf kein Vollhonk mehr sein
+00:27:46 „Was soll's, ich bin weiß und Inländer!" (Holgi; dann Lachflash) #q
+
+00:28:00 Kurznachrichtendienste #chapter
+00:28:00 App.Net und Twitter #t
+00:31:00 Holgi ist der beliebteste Deutsche bei App.net <http://appnetizens.com/useroverview?view=2&month=2013-03-11> #t
+00:32:35 Holgi hat bisher kein Problem mit Twitter
+00:33:00 Tim vergleicht die Beschränkungen von Twitter im Vergleich zu ADN mit „Atmen durch den Strohhalm“ #q
+00:34:05 Tim erzählt von den Beschränkungen von Twitter und der API Abschaltung
+00:36:25 Holgi will Reichweite, Tim will Fortschritt 
+00:37:37 Der Begriff „Marktführer“ ist unzureichend, weil er zumeist nicht hinreichend definiert ist
+00:40:21 Tim Lieblingsclients #t
+- Felix <https://itunes.apple.com/de/app/felix-for-app.net/id562447652> #app
+- Kiwi <http://kiwi-app.net> #app
+00:42:00 Tim will in seinem Leben möglichst viel Zukunft gehabt haben #q
+00:42:04 „Selbst MySpace gibt's noch“ (Holgi) #q
+00:42:49 Holgi würde gerne zu ADN wechseln, aber dann würde er sein Publikum verlassen
+00:44:39 „Developers, Developers, Developers“ <http://www.youtube.com/watch?v=8To-6VIJZRE> #video #t
+00:45:45 Crossposting #t
+00:48:01 „Stream of Consciousness“ <http://de.wikipedia.org/wiki/Bewusstseinsstrom> #g
+00:48:55 Tim hat sich schon so an 255 Zeichen gewohnt, dass Tweets schwierig werden
+00:51:00 App.nets Geschäftsmodel
+
+00:53:02 Geschenke und interessante Orte #c
+00:53:03 Tim geht mal kurz Bier holen, Holgi liest die dazugehörige Hörerpost vor
+Hörerpost #t
+00:53:54 Altbier <http://de.wikipedia.org/wiki/Altbier> #g
+00:54:10 Schäl Sick <http://de.wikipedia.org/wiki/Schäl_Sick> #g
+00:55:15 Schlüssel Alt <http://de.wikipedia.org/wiki/Brauerei_zum_Schlüssel> #g
+- Website der Brauerei <http://www.zumschluessel.de>
+00:56:40 Tim weist darauf hin, keine verderblichen Waren zu schenken
+00:57:24 Brauhaus Tegernsee <http://de.wikipedia.org/wiki/Herzoglich_Bayerisches_Brauhaus_Tegernsee> #g #t
+00:58:32 Holgi ist der Stift eingetrocknet, Tim rät ihn in Wasser zu stellen
+00:58:55 Kaweco Sport <http://www.kaweco-pen.com/de/Schreibgeraete/sport_serien/sport_serien.php> #s
+- Amazon <http://www.amazon.de/Kaweco-Sport-Füllhalter-Silber-Mittel/dp/B006CQSNWS> #s
+01:01:15 Holgi und Tim inspizieren den Düsseldorfer Medienhafen in Google Maps <http://maps.google.de/maps?q=düsseldorf+medienhafen>
+01:03:48 Tim war schon mal auf dem CN Tower in Toronto
+CN Tower in Toronto <http://de.wikipedia.org/wiki/CN_Tower> #g
+01:04:00 Bild vom Glasboden im CN Tower <http://en.wikipedia.org/wiki/File:CNTowerNastyFall.jpg> #image
+01:04:22 Grand Canyon Skywalk <http://de.wikipedia.org/wiki/Grand_Canyon_Skywalk> #g
+01:06:51 „Der Andere Deutsche Nachrichtendienst“ (Holgi über ADN) #q
+01:08:35 Tim thematisiert den „Tugendfuror“ (Gauck), Holgi hat das Mem nicht mitbekommen
+
+01:09:19 Holgi: ARD hat die Namen von Fußballstadien nicht genannt, wenn sie Firmennamen enthalten, damit die Marken nicht Teil der seriösen Berichterstattung werden #q
+01:11:18 Geocaching <http://de.wikipedia.org/wiki/Geocaching> #g
+01:12:55 Holgi hat auf der Tempelhofer Freiheit einen Cache fotografiert <http://twitpic.com/c8lk46> 
+01:15:00 Holgi findet die Schweiz super, weil sie zu seinem Naturell passt (sauber, ordentlich usw.)
+01:16:32 Tim findet die KiTa-Preise in der Schweiz zu hoch.
+„Ich bin kinderfrei, mir macht das nichts!“ (Holgi) #q
+
+01:17:30 Homosexualität im Kollegenkreis und in der Politik #c
+01:17:31 Holgi ist von einer Kollegin hingerissen, aber es stellt sich heraus, dass sie eine Lesbe ist. Er fragt sich, was das über ihn aussagt.
+01:19:16 „Die würde nichtmal mit mir knutschen, wenn sie betrunken wäre. Wie die anderen.“ (Holgi, dann Lachflash) #q
+01:20:07 Die Homo-Ehe zerstört die Gesellschaft, weil... <https://www.youtube.com/watch?v=2kpCqtekimY> #video
+01:22:04 Holgi regt sich über Politiker wie Dobrindt (CSU) auf
+Alexander Dobrint <http://de.wikipedia.org/wiki/Alexander_Dobrindt> #g
+01:26:01 „So ein schlechter Mensch kann niemand sein, der es so weit gebracht hat!“ (Holgi) #q
+01:26:30 Man erwägt die Möglichkeit, dass er dumm ist.
+
+01:27:25 Hörertreffen-Kandidaten-Orte #c
+01:27:26 Beide würden gerne ein Hörertreffen in Neuseeland machen
+01:30:00 Holgi liest eine Postkarte vor, auf der die Wiese vor dem Wilhelm-Busch-Museum in Hannover als Ort für ein Hörertreffen vorgeschlagen wird <http://www.karikatur-museum.de>
+01:31:48 Tim preist Hannover als grüne Stadt an
+01:32:28 „Hannover ist das, woran man vorbeifährt.“ (Holgi) #q
+01:32:57 Man beschwert sich über das Wetter
+01:34:18 Maschsee <http://de.wikipedia.org/wiki/Maschsee> #g
+01:35:37 Sprengel-Museum <http://www.sprengel-museum.de> #l
+01:37:35 Holgi fragt, wo „die Schweiz Hannovers“ liegt - Tim hält Isernhagen für einen Kandidaten
+Isernhagen <http://de.wikipedia.org/wiki/Isernhagen> #g
+01:38:56 „Haut ab aus Euren Städten!“ (Tim) #q
+01:39:40 Post aus dem Saarland: ein Saarländisch-Lexikon <http://www.amazon.de/dp/3926320095> #s
+Holgi zitiert ausführlich aus dem Lexikon und erinnert sich an Heinz Becker 
+Heinz Becker  <http://de.wikipedia.org/wiki/Heinz_Becker_(B%C3%BChnenfigur)> #g
+Saarland als Flächenmaßstab
+01:45:30 Die beiden vergleichen das Saarland mit Krikkit aus dem Anhalter
+Per Anhalter durch die Galaxis <http://de.wikipedia.org/wiki/Per_Anhalter_durch_die_Galaxis> #g
+Krikkit <http://en.wikipedia.org/wiki/Places_in_The_Hitchhiker's_Guide_to_the_Galaxy#Krikkit> #g
+01:48:15 Wienerisch für Österreicher
+- Amazon <http://www.amazon.de/Wienerisch-für-Österreicher/dp/B003RS7LKY> #shopping
+- iTunes <https://itunes.apple.com/de/album/wienerisch-fur-osterreicher/id315715822> #shopping
+Neuseeland #t
+01:55:35 Holgi würde gerne an der Bay of Plenty leben
+Bay of Plenty <http://de.wikipedia.org/wiki/Bay_of_Plenty_(Region)> #g
+01:56:20 Die „Schlüpfer-Insel“ Slipper Island <http://de.wikipedia.org/wiki/Slipper_Island> #g
+01:56:34 Holgi möchte einen Foursquare-Check-In auf Mayor Island machen <http://de.wikipedia.org/wiki/Mayor_Island> #g
+- Foursquare <http://de.wikipedia.org/wiki/Foursquare> #g
+02:01:04 Tim kann der romantischen Vorstellung eines Lebens ohne Internet nichts abgewinnen
+02:02:00 The front fell off! <http://www.youtube.com/watch?v=WcU4t6zRAKg> #video #quote
+02:02:26 Bewerbung für Hörerinnengrillen in Hamburg #t
+Altonaer Balkon <http://de.wikipedia.org/wiki/Altonaer_Balkon> #g
+02:04:16 Holgi findet Düsseldorf besser
+02:04:40 Holgi wird altersweitsichtig <http://de.wikipedia.org/wiki/Presbyopie> #g
+02:05:04 Bewerbungsvideo für den Altonaer Balkon <http://holgerkrupp.de/kram/Altonaer_Balkon.mov> #video
+02:08:03 Bewerbungsvideo für den Elbstrand <http://holgerkrupp.de/kram/Elbstrand_Oevelgoenne.mov> #video
+02:09:50 Photo Op <http://en.wikipedia.org/wiki/Photo_op> #g
+02:11:00 Sylt <http://de.wikipedia.org/wiki/Sylt>
+02:13:19 Es ist aufwändiger, Sylt als Mallorca zu erreichen
+02:15:35 Direktflug Berlin-Tegel nach Sylt mit Air Berlin <http://www.airberlin.com/de-DE/flug-gwt>
+02:18:46 FRITZ!Box <http://de.wikipedia.org/wiki/FRITZ!Box> #g
+- Fritz!Box 7390 bei Amazon <http://www.amazon.de/AVM-FRITZ-Router-DECT-Basis-Server/dp/B003108AZI/> #shopping
+02:19:46 Holgi hat monatelang keinen IP-basierten VDSL-Anschluss bestellt, weil bisher alles funktioniert hat
+IP-basierter Telefonanschluss bei der Telekom <http://www.telekom.de/is-bin/INTERSHOP.enfinity/WFS/EKI-PK-Site/de_DE/-/EUR/ViewCategoryTheme-Start?CatalogCategoryID=UMkFC7IXRuwAAAEviTIB6jQt> #l
+02:21:44 Tim erklärt die DECT-Steckdose von AVM
+- Pressemitteilung von AVM <http://www.avm.de/de/News/artikel/2012/newsletter/ifa_dect_200E.html>
+- AVM FRITZ!DECT 200 bei Amazon <http://www.amazon.de/dp/B00AQ9E77M> #shopping
+02:24:06 Holgi setzt nur ca. 850kWh Strom im Jahr um, er wähnt sich unter dem Durchschnitt
+02:26:00 Holgi wird per Chat von Toby Bayer auf einen Telefonscherz hingewiesen
+„DJ Zappler - Mediamarkt Leipzig - alias Steffen Lukas“ <http://www.youtube.com/watch?v=nLQKnjsdzpE> #video
+02:27:13 Video: What do you think about vaginas <https://www.youtube.com/watch?v=Bd3gw3caSEk> #video
+- What Lesbians Think About Penises <https://www.youtube.com/watch?v=QvWziE0o8dw> #video
+02:30:30 Holgi packt Geschenke aus und trifft auf ein diskordianisches Datum
+02:30:51 Tim erklärt Holgi den Diskordianischen Kalender <http://de.wikipedia.org/wiki/Diskordianischer_Kalender> #g #t
+02:33:27 Es fehlt ein gutes deutsches Wort für The Aftermath
+02:34:32 Das Biergelee-Geschenk vom Cottbusser Podcast-Cluster hat sich aufgelöst
+02:36:25 Rechtschreibfehler auf dem Cover der Principia Discordia
+Principia Discordia <http://de.wikipedia.org/wiki/Principia_Discordia> #g
+02:37:13 Es werden schmatzend Cottbusser Kekse gefuttert
+02:39:10 5-Euro-Scheine und andere Aufkleber
+02:41:36 Die beiden denken sich eigene Aufkleber aus
+02:45:39 Raumzeit Live-Event in Darmstadt <http://raumzeit-podcast.de/2013/03/01/raumzeit-live-on-stage/> #l
+- Centralstation <http://www.centralstation-darmstadt.de/> #g
+
+02:46:21 Podlove und Crowdfunding #c
+02:47:25 Crowdfunding <http://de.wikipedia.org/wiki/Crowdfunding> #g
+02:47:26 Crowdfunding für Podlove-PlugIn: <http://podlove.org/>
+02:53:20 Die beiden diskutieren die Schwierigkeiten bei der Player-Integration ins Blog
+02:53:39 Firefox <http://www.mozilla.org/de/firefox/new/>
+02:58:19 Holgi hat gleich zwei Geräte zugesendet bekommen, für die er sich beim Crowdfunding beteiligt hat
+The Nifty Minidrive #t
+-  auf Kickstarter <http://www.kickstarter.com/projects/1342319572/the-nifty-minidrive>
+-  Website <http://theniftyminidrive.com>
+Stefan Kaminskis „Ring des Nibelungen“
+- auf Startnext <http://www.startnext.de/kaminski>
+- Stefan Kaminskis „Ring des Nibelungen“ auf Amazon (DVD) <http://www.amazon.de/dp/B00B2KW186>
+- Holgis Foto der CDs <https://twitter.com/holgi/status/310876004069560320>
+03:03:00 Weitere Diskussion über die Browserintegration
+03:06:00 MPEG und Patente #t
+03:10:07 Holgi unterstellt grundsätzlich erstmal marktwirtschaftliches Denken bei geleisteter Forschungsarbeit
+03:12:48 Tim wünscht sich die kostenlose Nutzung von Patenten nach Ablauf und Verhandlung über einen Ablösepreis, der an die Patentinhaber gezahlt wird
+03:14:02 Return on Investment <http://de.wikipedia.org/wiki/Return_on_Investment> #g
+03:14:35 Holgi muss weg
+
+03:14:54 Outro: Schwäbischer Kartoffelsalat #c <http://www.youtube.com/watch?v=Wuuv-HaOOQs>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

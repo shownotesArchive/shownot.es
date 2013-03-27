@@ -1,0 +1,108 @@
+HEADER
+Einschlafen Podcast 224 vom 18.März 2013
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep217>
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/
+Shownoter: @evitabley,@dr4k3_le, @JNSchuermann, @Kekschen, @vale (ADNonly)
+
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+
+Sendungsbeginn: ca 21:06
+
+- Preshow mit geheimen Inhalten
+
+1363637200 Anmoderation #chapter 
+1363637203 Toby liest heute wieder Kant vor
+1363637219 Viele Leute haben noch nie den Teil des Vorlesens gehört, weil sie vorher eingeschlafen sind.
+1363637240 Heute gibt es 2-3 Themen
+
+1363637289 Geschenke für Toby #c
+1363637290 Gestern gab es bei Toby Aachener Printen (von Jenny) <http://de.wikipedia.org/wiki/Aachener_Printen> #g
+1363637323 Toby hat sich mit ihr in Hamburg getroffen
+1363637341 Noch mehr Geschenke: Ein Glas Pesto von David (Jamie Oliver mit Chilli und Knoblauch) <http://www.amazon.de/dp/B003TT3VHI> #shopping
+1363637399 Wunschliste auf Amazon <http://www.amazon.de/registry/wishlist/3OB377ZDVZO1N>
+1363637413 Verweis auf den Beitrag über Amazon in der ARD <http://www.ardmediathek.de/das-erste/reportage-dokumentation/ausgeliefert-leiharbeiter-bei-amazon?documentId=13402260> #video
+1363637465 Toby hat ein Problem mit den großen teuren Firmen, die Werbung machen, aber da er sie auch nutzt, kann er nichts sagen
+1363637496 Der Amazon Wishlistlink ist zurück auf einschlafen-podcast.de
+1363637500 Buch "Deutschland verstehen" ein Wimmelbuch mit Infografiken über Deutschland <http://www.amazon.de/dp/3899554450> #shopping
+1363637557 Naturalien auf der Amazon Wunschliste: z.B. Chips <http://www.amazon.de/registry/wishlist/3OB377ZDVZO1N/ref=cm_wl_sb_v?reveal=unpurchased&filter=326&sort=date-added&layout=standard&x=12&y=0>
+1363637588 Idee des Chips-Verkostungs-Podcasts
+
+1363637616 Tatort #c
+1363637273 Tatort mit Til Schweiger <http://de.wikipedia.org/wiki/Til_Schweiger> #g
+1363637624 Toby schaut gerne den Hamburger Tatort, ist aber kein "Fan" (mit twittern und dem ganzen Gedöhns)
+1363637670 Manfred Krug <http://de.wikipedia.org/wiki/Manfred_Krug> #g
+1363637679 letzter Tatortkommisar von Hamburg: Cent Batu <http://de.wikipedia.org/wiki/Mehmet_Kurtuluş> #g
+1363637704 Er findet jetzt Til Schweiger auch nicht so toll, aber er hat sich über die Hamburger Filmschnipsel gefreut. <http://www.daserste.de/unterhaltung/krimi/tatort/kommissare/tschiller-guemer100.html> #g
+1363637742 Bruce Willis <http://de.wikipedia.org/wiki/Bruce_Willis> #g
+1363637748 Die Folge war sehr übertrieben und unrealistisch
+1363637761 Toby hat sich am meisten über die offensichtlichen Fehler in Hamburg geärgert (das weiß man aber auch nur als Hamburger)
+1363637810 James Bond Teil (Pierce Brosnan) mit Szene in Hamburg <http://de.wikipedia.org/wiki/James_Bond_007_-_Der_Morgen_stirbt_nie> #g
+- Pierce Brosnan <http://de.wikipedia.org/wiki/Pierce_Brosnan> #g
+- Film Locations<http://www.imdb.com/title/tt0120347/locations> #g
+1363637915 Der Tatort war ziemlich lächerlich
+1363637931 Aber man guckt sich ja sonst auch unrealistische Filme an
+1363637939 Wenigstens war der Tatort nicht langweilig
+
+1363637953 Ingress #c
+1363637979 Ingress Spiel für Android <http://de.wikipedia.org/wiki/Ingress_(Computerspiel)> #g
+- Offizielle Website <http://www.ingress.com/> 
+1363638001 Niantic <http://www.nianticproject.com/>
+1363638038 Augmented Reality <http://de.wikipedia.org/wiki/Erweiterte_Realität> #g
+1363638071 Erklärung des Spiels:
+1363638083 Spiel ist noch in geschlossener Beta-Phase man benötigt einen Invitecode
+1363638108 Toby hat ihn einfach so bekommen
+1363638119 Man benötigt ein Android-Telefon
+1363638165 "Exotic Matter" <http://en.wikipedia.org/wiki/Ingress_(game)#Exotic_Matter_.28XM.29> #g
+1363638214 "Enlightened" (wollen Menschen helfen) <http://en.wikipedia.org/wiki/Ingress_(game)#Enlightened> #g
+vs. "Resistance" (<http://en.wikipedia.org/wiki/Ingress_(game)#Resistance> #g
+1363638261 Übersetzungen für "mind" <http://dict.leo.org/#/search=mind> #g 
+1363638301 Das Spiel vermittelt den Eindruck einer laufenden Verschwörung und animiert zum Weiterforschen
+1363638339 Es gibt Portale die man "hacken" kann <http://de.wikipedia.org/wiki/Ingress_(Computerspiel)#Hacken_eines_Portals> #g
+1363638365 Waffen XM-Burster
+1363638386 Resonatoren <http://en.wikipedia.org/wiki/Ingress_(game)#Resonators> #g
+1363638397 Das geht aber nur wenn das Portal noch neutral ist
+1363638506 Codename für die Resistance ist "Schlumpf" wegen der blauen Farbe
+1363638541 Leveling in Ingress <http://en.wikipedia.org/wiki/Ingress_(game)#Leveling> #g
+1363638547 Nur in Städten sinnvoll spielbar
+1363638563 Im Nachbarort Tostedt (10.000 Einwohner) gibt es 3 umkämpfte Portale <http://de.wikipedia.org/wiki/Tostedt> #g
+1363638575 In Buchholz gibt es auch nur 4 Portale
+1363638645 Brücken in Hamburg <http://de.wikipedia.org/wiki/Liste_der_Alsterbrücken_in_Hamburg> #g
+1363638761 Ingress bekommt durch Chat eine soziale Komponente
+1363638781 Toby ist jetzt Level 3 (weil ihm auch die Zeit fehlt)
+1363638828 Toby weiß nicht wie lange er dabei bleibt
+1363638837 Wie beim Geocaching sieht man viele schöne Orte<http://de.wikipedia.org/wiki/Geocaching> #g
+
+1363638866 Tusche und Podcasts #c
+1363638867 Lovis wollte gestern gerne mit Tusche malen und Mareile hat genäht
+- Tusche <http://de.wikipedia.org/wiki/Tinte#Tusche> #g
+- Tuschmalerei <http://de.wikipedia.org/wiki/Tuschmalerei> #g
+1363638954 Toby hat zur Schulzeit zuletzt mit Tusche gemalt
+1363638972 Er war in Kunst aber nicht so gut
+1363638982 Facebook Bild <https://www.facebook.com/photo.php?fbid=506810492708994&set=a.149711565085557.35096.128150080575039&type=1&theater> 
+1363639067 Lob für die Shownoter <http://shownot.es>
+1363639104 Werbung für die Pubkameraden <http://www.pubkameraden.de/podcast/pp-24-blended-malt-whisky/> #podcast
+1363639117 Werbung für Klogschieters <http://www.klogschieters.de/> #podcast
+1363639154 Temple Run wurde im Chat empfohlen <http://de.wikipedia.org/wiki/Temple_Run> #g
+1363639160 Toby spielt aber lieber Subway Surfer <http://www.subwaysurfers.org/> 
+1363639171 Treffen zum Mittagessen mit dem Thema Kant zum Einschlafen
+
+1363639190 Toby liest Kants "Kritik der reinen Vernunft" #c
+es wurden bereits 41% gelesen 
+Transzendentale Analytik
+1363639502 2. Teil Transzendentaler Schein
+
+1363639903 Verabschiedung #chapter
+
+Sendungsende 21:52
+

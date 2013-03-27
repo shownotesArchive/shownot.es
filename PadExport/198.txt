@@ -70,7 +70,7 @@ Tim fliegt für zwei Wochen nach Bogotá in Kolumbien und hält dort Vorträge u
 00:50:05 Memes, Videos und WLAN-Hotspots #chapter
 Korrektur zur letzten Ausgabe: Die Nachricht hinter "Gangnam Style" <http://www.theatlantic.com/international/archive/2012/08/gangnam-style-dissected-the-subversive-message-within-south-koreas-music-video-sensation/261462/>
 00:52:25 Korea-Experte Johl <https://twitter.com/johl> #twitter
-00:53:55 Mitt Romney Style (Gangnam Style Parody) <http://www.youtube.com/watch?v=yTCRwi71_ns> #youtube #video
+00:53:55 Mitt Romney Style (Gangnam Style Parody) <http://www.youtube.com/watch?v=yTCRwi71_ns> #youtube #video #embed
 00:56:40 College Humor <http://www.collegehumor.com/>
 00:57:05 Learning English with Ricky Gervais <http://www.youtube.com/watch?v=Xw2bTpyHGCE> #youtube #video
 01:01:50 WLAN-Hotspots in Audis <http://www.audi.de/de/brand/de/neuwagen/infotainment_und_kommunikation/audi_connect_dienste/dienste/wlan.html>
@@ -94,11 +94,11 @@ Korrektur zur letzten Ausgabe: Die Nachricht hinter "Gangnam Style" <http://www.
 01:39:30 IPv6 <http://de.wikipedia.org/wiki/IPv6> #wikilink
 01:39:50 Nespresso-Kapseln sind nur im "Club" erhältlich <http://de.wikipedia.org/wiki/Nespresso#Kritik> #wikilink
 01:42:00 AeroPress <http://de.wikipedia.org/wiki/AeroPress> #wikilink
-01:44:00 AeroPress Coffee Maker <http://www.amazon.de/Aeropress-Coffee-Maker-350-Filter/dp/B000GXZ2GS/> #shopping #amazon
+01:44:00 AeroPress Coffee Maker <http://www.amazon.de/Aeropress-Coffee-Maker-350-Filter/dp/B000GXZ2GS/> #shopping #amazon #affiliate
 01:46:00 Der Postillon über Felix Baumgartners Sprung <http://www.der-postillon.com/2012/10/linie-ubertreten-rekordsprung-aus-39.html>
 01:48:00 Newsticker vom Postillon <http://www.der-postillon.com/search/label/Newsticker>
 01:50:40 Goldreserven der Bundesrepublik <http://de.wikipedia.org/wiki/Deutsche_Goldreserven> #wikilink
-01:52:50 Initiative "Holt unser Gold zurück"
+01:52:50 Initiative "Holt unser Gold heim"
 "Wahres Gold nur Metapher - wahres Gold in den Herzen der Menschen."
 
 01:56:44 Pause mit dem virtuellen Mob von Thomas Pigor <http://www.youtube.com/watch?v=2fJ_FtK6L4s> #video #youtube #chapter

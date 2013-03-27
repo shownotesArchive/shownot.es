@@ -1,0 +1,153 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Jobscast 18
+mit Daniel Autenrieth (@dautenrieth), und Daniel Nicolae
+Sendungsseite: <http://www.jobscast.de/jc018-design-und-app-entwicklung/>
+Sendungsbeginn: 20:30:00 Uhr
+Chat: http://webchat.freenode.net/?channels=%23jobscast
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fjc18&time=20%3A36%3A00&Button=Create%21>
+
+Zusammengetragen von: @Quimoniz, @kaeffchen_heinz. @timwanze
+
+ Sendungsbeginn: 20:36:00 Uhr
+
+00:00:00 Begrüßung #chapter
+JC17 zu Geschichtswissenschaften <http://www.jobscast.de/jc017-historiker-und-designer/> #podcast
+Nicolae hat schon immer interessiert zu designen
+Er war beeindruckt vom Nadeldrucker der Mutter, und war von den kleinen Buchstaben enttäuscht
+Nadeldrucker <http://de.wikipedia.org/wiki/Nadeldrucker> #glossary
+Er war schlecht im Bildende Kunst Unterricht, und ihm gefiel es nicht
+- Bildende Kunst <http://de.wikipedia.org/wiki/Bildende_Kunst> #glossary
+Er konnte nie auf Basis fester Vorgaben kreativ sein und musste immer eigene Sachen machen
+Er hat sich gegen ein Design Studium entschieden, weil er Historik interessanter fand
+Er wollte immer, dass sein Windows Computer wie ein Mac aussieht
+- Windows <http://de.wikipedia.org/wiki/Windows> #glossary
+- Mac OS <http://de.wikipedia.org/wiki/Mac_OS> #glossary
+00:08:00 Typografie <http://de.wikipedia.org/wiki/Typografie> #glossary
+Er war nie ein Freund von Theorie
+Blickfang <http://de.wikipedia.org/wiki/Blickfang> #glossary
+Vom Studium hat er für das designen vor allem nur gelernt seine Zeit einzuteilen, und Projekte zu organisieren, analytisches und freies denken.
+Das größte Problem ist, sich in Details zu verlaufen.
+00:11:00 Meernotes #chapter
+Es geht nicht nur darum, dass es gut aussieht, sondern dem auch Funktionalität zu geben.
+Meernotes <http://www.meernotes.com/> 
+- bei Apple <https://itunes.apple.com/de/app/meernotes/id447450957?mt=8>
+00:12:15 Milestones
+Evernote <http://evernote.com/intl/de/>
+Nicolae hat vor anderthalb Jahren Meernotes fertig programmiert, hatte gerade ein neues iPhone
+iPhone <http://de.wikipedia.org/wiki/Apple_iPhone> #glossary
+iPhone bei Apple <http://www.apple.com/de/iphone/> #glossary
+Notizbuch <http://de.wikipedia.org/wiki/Notizbuch> #glossary
+PenUltimate für das iPad <http://evernote.com/intl/de/penultimate/> 
+Nicolae wollte PenUltimate für das iPhone haben
+Es gab es nicht deswegen hat Nicolae selber eine App <http://de.wikipedia.org/wiki/App> programmiert
+
+00:15:15 Treffen mit dem Entwickler von PenUltimate #chapter
+Er war in Oxford <http://de.wikipedia.org/wiki/Oxford> #glossary
+Der Entwickler von PenUltimate in den USA <http://de.wikipedia.org/wiki/Vereinigte_Staaten> #glossary
+Er hat sich in London mit dem Entwickler von PenUltimate getroffen
+Er hat dort festgestellt, das Programmierer nur ganz normale Menschen sind
+PenUltimate wurde von Evernote aufgekauft, wird es aber weiterhin geben
+Visum <http://de.wikipedia.org/wiki/Visum> #glossary
+Nicolae arbeitet seit anfang des Monats an Evernote
+Zürich <http://de.wikipedia.org/wiki/Z%C3%BCrich> #glossary
+Schweitzerdeutsch <http://de.wikipedia.org/wiki/Schweizerdeutsch> #glossary
+00:20:00 Wie entwickelt Nicolae #chapter
+Was hat Nicolae über Design gelernt?
+Immer wieder probieren, verstehen von Dingen die er toll fand.
+Vom immitieren kann man dann zum selber kreiren kommen.
+Es benötigt viele Anläufe
+00:22:30 Wie wichtig ist für das Designen das Zeichnen auf Papier?
+Nicht so wichtig, das meiste wird auf dem PC gemacht.
+Er mal seine Sachen mit der Maus und nicht mit dem Tablet <http://de.wikipedia.org/wiki/Maus_%28Computer%29> <http://de.wikipedia.org/wiki/Tablet-Computer> #glossary
+Ihm macht Spaß neue Sachen zu kreieren, sich Dinge, Design zu überlegen
+Gegen Schluss gibt es ein Phase in der sehr vieles neu kreiert werden muss, weil es nicht ganz stimmig ist, beim Designen.
+00:26:00 Wenn nur noch scheisse raus kommt, dann macht er was anderes, und probiert es dann am nächsten Tag noch einmal
+
+00:27:00 Werkzeuge, konkretes #chapter
+Er hat mit 12-13 Jahren ein Adventure-Game mit einem Freund programmiert bei dem man Fälle lösen musste Adventure-Game <http://de.wikipedia.org/wiki/Adventure> #glossary
+2D <http://de.wikipedia.org/wiki/2D> #glossary
+3D <http://de.wikipedia.org/wiki/3D> #glossary
+Er hat es noch unter Dos in BASIC entwickelt
+- DOS <http://de.wikipedia.org/wiki/Disk_Operating_System> #glossary
+- BASIC <http://de.wikipedia.org/wiki/BASIC> #glossary
+Nicolae "das muss aussehen wie ein Notizbuch" #zitat
+- Notizbuch <http://de.wikipedia.org/wiki/Notizbuch> #glossary
+Bei der Entwicklung hätte Nicolae die Guidelines von Apple betreffend der User Interface lesen sollen, das hätte den Benutzern seiner App viel Ärger erspart.
+Nicolae lernte mit Anlesen von Programmierbüchern und Internetforen das programmieren, stellte dan aber fest, dass es besser gewesen wäre, hätte er die Programmierbücher durchgelsen.
+00:32:00 Was muss man können dafür die Schülerzeitung zu machen?
+Man muss wissen, wenn man etwas sieht, ob es einem gefällt, und man sowas auch gerne kreiert hätte.
+Viel optimismus mitbringen, sich daran immer wieder erinnern waws man eigentlich realiseren woltle.
+Adobe Photoshop <http://de.wikipedia.org/wiki/Adobe_Photoshop> #glossary
+Daniel: "Man sieht Photoshop, sieht scheiße das kann ich mir nicht leisten, dann besorgt man sichs illegal, oh das mit dem illegal habe ich nicht gesagt" #zitat
+Gimp <http://de.wikipedia.org/wiki/Gimp> #glossary
+Nicolae's Mikrophonknistern
+Nicolae benutzt Photoshop selten
+Photoshop ist nur ein Werkzeug, der Hauptteil der Arbeit findet ganz ohne Photoshop statt.
+00:38:45 Dribble <http://dribbble.com/>
+Nicolae sammelt viel Inspiration aus gedrucktem, Modemagazin, Produktdesign im Supermarkt.
+Er fotografiert viel was er sieht, ihn interessieren echte Dinge, z.B. alte Elektrodinge
+Braun Elektronik <http://de.wikipedia.org/wiki/Braun_%28Elektroger%C3%A4te%29> #glossary
+
+00:40:30 Design #chapter
+Er denkt viel darüber nach, warum er dieses oder jenes schön, ästhetisch findet
+Die Fotos auf dem iPhone landen immer in der Cameraroll und er wollte sie ordnen.
+Filmrollen <http://de.wikipedia.org/wiki/Rollfilm> #glossary
+Er hat viele Fehler gemacht.
+Wenn Licht von oben kommt muss der Schatten anders fallen.
+Meernotes sollte nicht aussehen wie Mail oder Safari
+Apple Mail <http://de.wikipedia.org/wiki/Apple_mail> #glossary
+Safari <http://de.wikipedia.org/wiki/Safari_%28Browser%29> #glossary
+App Paper
+App Clear
+App Things <https://itunes.apple.com/de/app/things/id284971781?mt=8> #shopping http://en.wikipedia.org/wiki/Things_%28application%29
+App Wunderlist 2 <http://www.6wunderkinder.com/wunderlist>
+Bisher hat Nicolae es noch nicht erlebt, dass jemand 
+Was hat Nicolae an Projektleitungsmanagement bei Meernotes gemacht?
+Es war bis zu zu seinem Evernote Projekt ein one-man project.
+Er hat es in Schritte/Milestones eingeteilt, zu erst das schreiben, dann das blättern, etc.
+Er hat ohne Milestones gearbeitet.
+"Eine gute App würde sehr davon profitieren, dass beides [Programmierung und Design] gleich viel belastet wird"
+Die Usability ist wesentlich wichtiger, als etwas besonders schönes zu kreieren.
+Die Innovation dabei ist, etwas zu kreieren, dass etwas neues macht, und zugleich gut zu bedienen ist.
+Apple User Interface Guidelines <http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html> #glossary
+Vieles dessen was dort empfohlen wird, ist in der Praxis offensichtlich notwendig.
+Man braucht die Apple interfaces oder seine eigenen
+Die Apple User Interface Vorlagen abzuwandeln ist sehr schwer.
+Page Turn Effekt
+Egal wie man es macht, man lernt immer etwas dabei
+Er wollte ein weißes iPhone 4, hat sich dann aber doch ein schwarzes geholt
+Man braucht alle möglichen Programmiersprachen zum Entwickeln u.a. C, ObjectiveC, Cocoa
+Entwicklungsumgebung Escort
+ObjectiveC
+Erst bei der Entwicklung seiner zweiten App hat Nicolae erkannt dass die IDE total sinnvoll ist.
+Flash & ActionScript <http://de.wikipedia.org/wiki/Adobe_Flash> #glossary
+Im Juni wurde er erst offizieller Apple Developer
+Er hat erst sehr spät die App auf dem iPhone ausprobiert, davor nur auf einem Simulator
+Als er die Meernotes App das erste mal auf dem iPhone testete, ging diese einfach nicht, es stellte sich raus, dass das nur wegen einen kleinen Fehlers war.
+XCode
+01:13:00 Als Nicolae seine App veröffentlichte, verbreitete sich die Neuigkeit viral
+Blog JournalApps
+App Marketing ist harte Arbeit.
+Nicolae empfiehlt die Mails kurz und prägnant zu halten.
+Meernotes 2 <http://beautifulpixels.com/iphone/meernotes-2-everything-that-the-official-moleskin-app-should-have-been-and-more/>
+
+01:16:00 Zukunft #chapter
+Meernotes wird es auch bald für das iPad geben
+Apple feierte kürzlich 40.000.000.000 Downloads in App Store
+One-Man Software wird seltener, die App Qualität wird besser.
+01:19:35 Wunder-Kit <http://www.wunderkit.com>
+01:20:10 Es gibt so wenig brauchbare Apps, es ist Goldgräberstimmung.
+Die meisten haben kein richtiges Geschäftsmodell
+01:24:00 Abhängigkeit vom AppStore bzw. Apple
+Er hat nie darüber nachgedacht Meernotes auf anderes Betriebssysteme zu portieren
+Android Geräte zu testen ist aufwendiger <http://de.wikipedia.org/wiki/Liste_von_Android-Ger%C3%A4ten> #glossary
+Nicolae würde als User Interace am liebsten ein Notizbuch nur als digital haben.
+01:29:20 Keine Bildung ohne Medien <http://www.keine-bildung-ohne-medien.de/> #podcast
+01:29:10 Hörertreffen Jobscast
+
+
+Sendungsende: 22:05 Uhr #chapter
+
+

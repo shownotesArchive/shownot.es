@@ -1,0 +1,97 @@
+Shownotes zum Podcastworkshop vom 29c3
+
+Tim Pritlove, Alex (Hoaxmaster) Waschkau
+
+Beginn: ca 30 minuten nach Beginn des Vortrags.
+
+Video: http://youtu.be/J3CfjU2-jIM
+
+00:00:00 Auphonic #chapter
+00:00:10 Optionen in Auphonic <https://auphonic.com/>
+00:00:15 Adaptiv Leveler
+00:00:35 Musik kaputtrechnen sollte nicht passieren, durch automatische Musikerkennung
+00:00:55 Musik wird erkannt
+00:01:15 Global loudness normalization == Lautheit != Lautstärke
+00:01:45 European Broadcasting Union (EBU) <http://de.wikipedia.org/wiki/Europ%C3%A4ische_Rundfunkunion>
+00:01:56 Lautheit ist Frequenzabhängig
+00:02:25 Targets für Loudness LUF 
+00:03:00 Internetaudio ca 18LUF
+00:03:30 16-18LUF sind optimal
+00:03:35 Seit Tim Auphonic verwendet, gabs keine Beschwerden mehr
+00:03:50 Filtering (lasst es einfach an) 
+00:04:03 Hintergrundgeräusche die konstant da sind werden rausgefiltert
+- zum Beispiel Lüfter oder 50Hz Rauschen
+00:04:50 Humreduction (für 50Hz Brummen)
+00:05:10 Reduction ammount
+00:05:50 Privatradiogeplärre
+00:06:23 Probleme bzgl. Raumbelegung
+00:06:50 geht wieder weiter
+00:07:00 Frage: wie wird bei der Aufnahme abgemischt. Gibt es da eine extra Person
+00:07:20 in der Regel wird beim Podcasting ohne spezielle Toningenieure aufgezeichnet
+00:08:00 Externers Mikro, Mixerelement dazwischen dann im Rechner Aufnahme
+00:08:15 Bei Auphonic geht´s demnächst auch Mehrspurig
+00:08:50 Übersprechen bei Mehrspurigen Aufnahmen
+00:09:00 Sollte bei Mehrspuren nicht passieren und rausgefiltert werden
+00:09.35 Alles sollte auf mehreren Spuren aufgenommen werden um auch Soundbett etc mit reingemischt werden kann
+00:09:50 man kann durch mehrspurige Aufnahmen auch besser Diskussionen erkennen
+00:10:00 Masteraudiofile welche Spuren
+00:10:20 Die meisten Audioformate können mehrspurige Dateien, aber die Software kann das oft nicht
+00:10:40 Mehrspuriges Ausliefern ist nicht ideal (wegen Größe)
+00:11:15 Eingangsformat für Auphonic hängt von Zeit, Geduld und Internetverbindung ab, 256kb AAC ist präferiert 
+00:12:10 Auphonic frisst alles an Audioformaten (WAV, FLAC, MP3, AAC, ...)
+00:12:50 Auphonic braucht für 3,5h Sendung ca 30 Minuten eher schneller
+00:13:25 Die Enddatei wird dann direkt, wenn gewünscht, auf den Server geladen
+- es sind folgende Targets möglich: FTP, SFTP, Dropbox, Soundcloud, YouTube, Amazon S3 ...
+00:14:30 Dank Rechenpower eines Rechenzentrums geht die Arbeit in hoher Qualität sehr schnell
+00:15:10 Wie lange wird es Auphonic noch geben? Wie bekommen die Ihr Geld?
+00:15:30 Förderung von offizieller Seite und bald evtl. von großen Unternehmen Geld nehmen und "die Kleinen" müssen nichts bezahlen
+00:15:50 Heavy User sind Fernsehsender und Radiosender, Tim ist kein Heavy User
+00:16:30 Metadaten: Subtitle und Summary folgt 
+00:17:00 Auphonic schreibt alle Metadaten an die richtige Stelle bei den jeweiligen Audioformaten
+00:17:30 Suchmaschinen und Speziallsoftware werden das irgendwann auch vernünftig auslesen
+00:18:00 Gibt es eventuell eine Livevariante? - Noch keine Lösung
+00:18:20 Es ist Diskusionswürdig. Mit 10 Sekunden delay könnte das schon gehen
+00:18:45 Kapitelmarkenfrage... macht keinen Sinn
+00:19:14 Images in Chaptern, Apple hat Änderungen vorgenommen, die noch nicht bekannt sind
+00:19:30 Es wird aber reverse engineerd werden
+00:20:35 Es wird eine Testplattform für Audiodateien geben (aus dem Gespräch mit Simon von den Shownotes :D ) <http://shownot.es/>
+00:21:20 Kapitelmarken in Mediendateien sind Quatsch, es sollte im Feed stehen
+00:21:50 Auch die Möglichkeit, die Kapitelmarken in die Header zu schreiben ist Sinnlos
+00:22:00 Bei Auslieferung via eMail macht es Sinn, die Chapters in die Datei zu schreiben
+00:22:35 Die Mutter hat Pech gehabt, die keinen Podcatcher hat
+00:23:10 Es wird empfohlen, sich den Lautsprecher (Podcast) anzuhören <http://der-lautsprecher.de/>
+
+00:23:20 Podlove Projekt <http://podlove.org/> #chapter
+2 Treffen in Berlin mit jeweils ca 30 Leuten
+00:23:40 Einigung auf Standards für Podcasting
+00:24:00 Podlove Simple Chapters <http://podlove.org/simple-chapters/>
+00:24:30 DeepLinking: Beschreibung wie man auf einen Inhalt in Podcasts verlinkt werden kann
+00:25:20 Media Fragments URI <http://www.w3.org/TR/media-frags/>
+00:25:35 wird im Firefox schon unterstützt <http://www.mozilla.org/de/firefox/new/>
+00:26:00 Podcastdirectorys sollen die Möglichkeit haben, das auszulesen
+00:26:25 Im Internet ist genug Platz (dass man viel spezifizieren kann ;-) )
+00:26:40 99% benutzen WordPress
+00:26:50 Wordpress ist ganz schlimm und furchtbar
+00:27:00 Umso mehr lob, für die, die es trotzdem machen
+00:27:10 Erik baut PPP PodlovePodcastPublisher <https://github.com/eteubert/podlove>
+00:27:30 Gerrit van Aaken baut den Podcast Player <https://github.com/gerritvanaaken/podlove-web-player>
+00:28:00 Podpress und Powerpress
+00:28:10 wer mag Podpress oder Powerpress? 
+00:28:35 Workflowmodell wurde definiert und das Plugin kann benutzt werden, ist aber noch Alpha
+00:29:30 Tim benutzt es schon für 6 seiner Podcasts immer in der aktuellen Version
+00:30:10 Es ist keine gute Idee, für echte Projekte, die Version von Github auszuchecken
+
+00:30:30 Erklärung Plugin siehe Screencast <http://podlove.org/2012/11/26/screencast-series-about-podlove-publisher/> #chapter
+00:36:45 Shownotes, wo alles drinsteht, was man noch nie wissen wollte
+
+00:40:05 Tim wird mitten im Vortrag angerufen
+
+
+
+
+
+
+
+
+
+

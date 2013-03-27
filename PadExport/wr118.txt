@@ -1,0 +1,164 @@
+Pre-Live Shownotes, ab 21:00 Uhr, Sendungsdauer 1 Stunde, 57 Minuten, 30 Sekunden
+Pad bleibt privat
+
+Wrintheit 118
+Mit Holger Klein (@holgi) und Uwe Lübbermann (@luebbermann)
+WRINT <http://wrint.de>
+Thema: Premium-Cola <http://www.premium-cola.de>
+Vorabveröffentlichtes MP3: <http://wrint.de/Files/gdoens/WR118.mp3>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fwr118&time=21%3A00%3A00&Button=Create%21>
+
+Zusammengetragen von: @johannes_k, @gurkitier, @Quimoniz, @evitabley, uwe
+
+00:00:00 Einleitung in die Premium Cola #chapter
+Uwe Lübbermann (36) aus Hamburg (@luebbermann) 
+Premium Cola <http://www.premium-cola.de/> #homepage
+Er war vor dreieinhalb Jahren schon im Radio zur Premium-Cola
+Premium Cola verzichtet auf: Logo auf der Flasche, Werbung, Sponsoring und Bikini-Girls
+Sie feiern im November ihr 11-jähriges Jubiläum.
+Sie verkaufen 2012 insg. 1 Million Flaschen
+Afri-Cola schmeckte ihm auf einmal nicht mehr, der Neubesitzer Mineralbrunnen AG änderte die Rezeptur
+Interessengruppe Premium mit 780 Leuten, weil man die "Afri-Cola Premium" wieder wollte.
+Er erhielt das ursprüngliche Rezept durch eine E-Mail, und lies 1000 Flaschen für 2000 Mark nachmachen.
+Nachdem Afri-Cola es zunächst zuließ, wurde dennoch ein Rechtsanwalt eingeschaltet, der abmahnte.
+Daher tauschte man in der Rezeptur Apfelsäure durch Phosphorsäure.
+Auch die Rezeptur von Premium Cola ist geheim.
+Mindestmenge sind bei Getränkeherstellern ca. 50.000 Flaschen.
+Von ca. 100 neuen Getränkeherstellern in Berlin überleben ungefähr drei.
+Die Herstellung kostete damals 2,00 DM pro Flasche.
+Dank großer Nachfrage wurden dann noch mehr Flaschen produziert.
+Anfänglich stellten sie 1000 her, dann wieder 1000, dann 2000.
+Sie hatten keinerlei Wissen in BWL, und fragten einfach nach und nach wie man das geschäftlich organisiert.
+Spediteure, Gastronome etc. müssen alle unter einen Hut gebracht werden und gemanaged werden
+fritz-kola <http://de.wikipedia.org/wiki/fritz-kola> #wikilink
+Seit der zweiten Bestellung trägt es sich ohne Fremdkapital
+Schneller als 30% dürfen sie Umsatzmässig nicht wachsen 
+Kosten und Liquidität müssen ausgeglichen bleiben
+Skull Getränke <http://www.drink-skull.de/> #homepage
+
+00:12:53 Idee von Wirtschaft und Moral #chapter
+Das wirtschaftliche Prinzip aus Angebot und Nachfrage führt u.a. dazu, dass Friseurgelehrte nur 3,45 € pro Stunde kriegen.
+Übersicht über die einzelnen Beteiligten behalten und alle Beteiligten zusammenführen.
+Er setzt für seine kollektive Wirtschaftung mindestens voraus, dass man nicht gegeneinander sondern miteinander arbeitet.
+Niemand kümmert sich um den Verkauf bei Premium Cola.
+Mittlerweile kann er davon leben, dass er alle koordiniert.
+Kalkuliert wird mit einem Anteil von 4 Cent pro Colaflasche
+Projektmanagement mit Redmine geplant <http://de.wikipedia.org/wiki/Redmine> #wikilink
+Es gibt eine Mailingliste, in der alle miteinander sprechen können.
+LiquidFeedback auch ausprobiert
+"Sobald die Leute sich einloggen müssen, wird es nicht benutzt" #zitat
+Jeder darf Vorschläge bringen und wenn keiner Widerspruch einlegt wird es umgesetzt, sobald einer ein Veto einlegt wird darüber diskutiert.
+Zu den Beteiligten gehören auch die Endkunden, die dann mitreden dürfen.
+Kleine Mengen weit fahren ist teuer.
+Kleine Händler bezahlen weniger pro Flasche als große Händler ("Anti-Mengenrabatt").
+Der kleine Händler bekommt seine Ware vom Großhändler.
+36,5 Cent netto ab Werk, 49 Cent beim Lager des Händlers, 60 Cent netto beim Laden - wenn das nicht tragfähig ist, werden 4 Cent draufgelegt
+Pro Flasche wird 1 Cent für den Anti-Mengenrabatt implizit verbucht.
+Vergleich mit Podcastern die von Flattr profitieren (1000 Spender geben mehr Sicherheit als ein Chef)
+es gibt 50 Module die berücksichtigt werden müssen, diese sind frei einsehbar im Netz.
+16 andere Getränkemarken machen es ähnlich wie Premium Cola.
+Uwes Lieblingsmodul ist der Anti-Mengen-Rabatt
+Getränkegroßhändler Trinks <http://www.trinks.de/>
+"Es hängt alles mit allem zusammen. Egal was du tust egal was du nicht tust es wird sich immer irgendwo auswirken." #zitat
+"Niemand ist extern." #zitat
+Uwe hat das Interview mit Sina Trinkwalder (@manomama) gehört <http://www.wrint.de/2012/10/12/wr115-holger-ruft-an-bei-sina-manomama-trinkwalder/> #podcast
+Daseinsvorsorge <http://de.wikipedia.org/wiki/Daseinsvorsorge> #wikilink
+Uwe erklärt, wie man in einen Wirtschaftsbereich einsteigen kann
+Die Bereitschaft, jede Meinung entgegenzunehmen ist nötig.
+Das "Orga-Team", dass nicht fest angestellt ist, agiert im Hintergrund.
+Viele Festangestellte bedeutet gleichzeitig viel Verantwortung.
+Es wird keine Werbung gemacht.
+Holger: "Werbung ist manchmal gut gemacht, aber nie gut gemeint."
+Unterschied zwischen Push- und Pull-Kommunikation
+
+00:37:30 Wie kommt das Produkt zum Kunden? #chapter
+Ein wesentlicher Bestandteil ist die Pull-Kommunikation (Podcast, Interviews, Webseite etc.)
+Holger trinkt eigentlich keine Cola.
+Die eigentliche Arbeit geht dabei los, den Laden, den Händler und schliesslich den jeweiligen Großhändler zu überzeugen.
+Überzeugte Endkunden ("Sprecher") sollen ihre lokalen Getränkdelieferanten überzeugen, Premium Cola ins Sortiment aufzunehmen.
+Die Sprecher bekommen 5 Cent pro Flasche, wenn dieser ein bisschen Kontakt hält zum Laden und weiter "überzeugt"
+Circa alle 4 bis 8 Wochen müssen sie den problemlosen Warendistributionsweg überprüfen.
+Eine Marke ist das, was man über diese redet.
+Gastronome wählen Produkte gezielt aus um das Angebot zu bereichern
+95 Städte werden dank der Sprecher beliefert.
+Etwa 16 weitere Unternehmen haben sich beim Geschäftsmodell von Premium Cola inspirieren lassen. <http://www.premium-cola.de/kollektiv/kooperationen> #homepage
+
+00:45:00 Ziel von Premium Cola #chapter
+Rein Formal ist es noch ein Ein-Mann-Laden.
+Unternehmen müssen keinen Profit machen.
+Status ist nicht Geld, sondern die Reichweite des Produkts. 
+Alleine wird die Welt nicht verändert, aber man kann vormachen wie es gehen könnte.
+Es gibt auch einen Ansatz für Großkonzerne, der einen Betriebsrat überflüssig macht, mit einer Person die den Konsens je gegenüber der höheren Ebenen vertritt.
+Soziokratie <http://de.wikipedia.org/wiki/Soziokratie> #wikilink
+Es gibt immer wieder Probleme
+Leergut nachzukaufen ist teuer.
+Leute die eine "faire Entlohnung" wollen, aber ihre Rolle im Kollektiv als vierfach wertvoll bewerten.
+Die Frage ist, was eine faire Entlohnung genau bedeutet.
+"Man lebt dann am komfortabelsten miteinander, wenn man aufhört sich gegenseitig zu bescheissen" #zitat
+Wenn die Organisierung nicht im Kollektiv, sondern mit Verträgen läuft, bescheisst man einander.
+Händler bekommen zunächst die Vorteile präsentiert.
+Der Anti-Mengenrabatt wird auch auf der Webseite erklärt <http://www.premium-cola.de/betriebssystem/oekonomie/198-modul-anti-mengenrabatt> #homepage
+
+00:58:20 Das Netzwerk #chapter
+Es gibt eine riesige Anzahl an Lieferanten im gesamten Netzwerk.
+Beispielsweise die Bequemlichkeit des Herstellers die Kästen Längs? statt Quer zu stellen, macht den Zwischenhändlern kein Problem, aber der Laden kann dann die Kisten nurnoch einzeln auf die Sackkarre stellen und bekommt davon Rückenprobleme.
+Uwe kennt einen Spediteur, der die Getränkehöfe "liest" und deren Lage beschreiben kann und die wirtschaftliche Situation der Hersteller.
+Man muss seine Kommunikationsweisen an seine Partner anpassen, und statt Mail auch Telefon benutzen, oder bei 66-Jährigen teilweise auch hinfahren.
+Seine Aufgabe ist es, die ankommende Meinung zu priorisieen, einzuordnen, abzuwägen.
+Kontaktdaten <http://www.premium-cola.de/kontakte>
+Das System könnte ohne Uwe vermutlich nicht weiter existieren, es gibt aber zwei potenzielle Kandidaten.
+Ein selbstorganisierendes System ist nicht möglich.
+Seine Naivität bestand lange in der Annahme, dass Menschen das tun, was sie sagen.
+Jede Funktion wird gebraucht und ist verhältnismäßig wichtig.
+Uwe will mal der "Fachmann für fairere Wirtschaftsmodelle" werden und gerne noch größere Unternehmen beraten.
+Uwe steht auch hinter wasted german beer <http://www.wasted-german-beer.com/> #link
+Die Abfüllmenge von 0,5 Liter wird vom Großhändler bevorzugt vertrieben, kommt beim Händler aber schlecht an, dagegen kommen 0,33 Liter besser beim Händler an.
+das Unternehmen ist an Abfüllunternehmen gebunden.
+Die Premium Cola wird vegan hergestellt, mittlerweile gilt auch die Verpackung.
+Alle bemühen sich ständig, das Bestmögliche umzusetzen.
+Bspw. Verpackungsoptimierung: Leichtglas ist dünner, aber die Branche könnte damit nicht umgehen.
+
+01:19:45 Crowdfunding und Organisation #chapter
+Crowdfunding als Finanzierungsmodell <http://de.wikipedia.org/wiki/Crowdfunding> #wikilink
+Einlagen sind nur bis 15.000 Euro oder maximal 6 Personen gestattet (sonst wäre man eine Bank).
+Während dem bisherigen Gespräch hat Uwe 78 E-Mails bekommen, durchschnittlich bekommt er 100 am Tag.
+Wäre es besser, wenn Premium Cola größer wäre?
+Es würde einen Präzedenzfall schaffen für Unternehmen.
+Mit dem Premium-"Betriebssystem" kommt nun auch eine neue Mate.
+Ziel ist der Erhalt, das Ergebnis eventuell Wachstum
+Es gibt vermutlich nicht einen einzigen "Sprecher", der nur hinter dem Geld her ist.
+Crowding Out Problematik
+Ein Mega-Masterplan an der Bürowand soll entstehen.
+Uwe konnte sich mit Premium einen Lebenstraum erfüllen.
+Er bemüht sich momentan sich selbst ein eigenes Leben wieder zu organisieren.
+Er hat nur zweierlei Allein entschieden: Das Aussehen des Layouts.
+Er hat das Notrecht, dass er nur wenn eine Entscheidung gefällt werden muss um den Betrieb am Überleben zu halten nutzen darf, und dass ihm auch vom Kollektiv entzogen werden kann.
+Die Marke "PREMIUM" gehört offiziell Uwe.
+
+01:34:00 Uwes Werdegang #chapter
+Er hatte mit 12 Jahren einen Job als Blumenlieferant, er musste nach und nach mehr arbeiten, bis er schließlich kündigte, als er nur 1,50 DM pro Stunde Lohn erhielt.
+Drei Eigenschaften werden benötigt, um auf die Schiefe Bahn zu kommen.
+- "Wissen, dass man nix weiß"
+- "Sehr, sehr stur sein"
+-  "Zugleich sehr flexibel sein."
+"Inspiration kommt von Transpiration" #zitat
+Wenn man das macht, was man am besten kann und was am meisten Spaß macht, gibt es eventuell die Chance, nach einer Weile davon leben zu können.
+Das Internet hat Möglichkeiten geschaffen.
+Es gibt noch einen externen Faktor, bspw. neue Technik (Internet, Flattr), oder ob der Markt reif ist.
+Mittlerweile gibt es 10 wissenschaftliche Arbeiten über ihr Geschäftsmodell.
+Corporate Social Responsibility (CSR)
+<http://de.wikipedia.org/wiki/Corporate_Social_Responsibility> #wikilink
+"Themen statt Köpfe ist quatsch." #zitat
+PREMIUM-Produkte werden ausserhalb Deutschlands in der Schweiz, in Wien und in Graz angeboten.
+Mitmachen als: Meinungsgeber, Starter, Sprecher <http://www.premium-cola.de/kollektiv/mitmachen> #link
+Großhändlern genügt es häufig, wenn 5 Läden einer Stadt ein Getränk wollen.
+Der Zoll verlangt auf Etiketten einen Bar-Code, der nur mit einer bestimmten Schriftart ausgegeben wird. <http://www.zoll.de/DE/Fachthemen/Zoelle/ATLAS/Internetzollanmeldungen/Fragen-und-Antworten/_functions/frage_28.html?nn=237622> #link
+Das Zollverfahren ist eine einzige Qual
+Uwe hat "COLA REBELL" beraten. <http://www.colarebell.de/> #link
+Er benutzt mittlerweile zum dritten Male eine Bahncard 100 - es ist superbequem.
+Gelegenheitsfahrer machen Holgi wahnsinnig.
+Holgi und Uwe sind sich nicht sicher, ob sie in Berlin oder in Frankfurt zusammen eine Radiosendung gemacht haben.
+
+99:99:99 Weitere Links #chapter
+Vortrag "Wirtschaft hacken" von Uwe im RaumZeitLabor <http://www.youtube.com/watch?v=37wyg3W4PxA>
+

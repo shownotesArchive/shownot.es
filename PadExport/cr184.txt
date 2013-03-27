@@ -151,7 +151,7 @@ events.ccc.de <events.ccc.de>
 "Not My Department" (Wernher von Braun Zitat) <http://de.wikipedia.org/wiki/Wernher_von_Braun> #wikilink
 
 01:56:30 Ende #chapter
-Musik: Tracky Birthday - Websiiite <http://www.trackybirthday.com>
+Musik: Tracky Birthday - Website <http://www.trackybirthday.com>
 
 Sendungsende: 00:01:53 Uhr
 

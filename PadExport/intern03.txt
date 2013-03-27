@@ -1,0 +1,161 @@
+Planung zur Entwicklung einer angepassten Etherpad-Lite Variante
+
+Ziel: Ersatz für das momentan suboptimale Team-Pad (Software "Piratenpad", Anpassung von Etherpad)
+Codename: ShowPad
+Github:
+   * <https://github.com/mluto/ShowPad>
+   * <https://github.com/mluto/etherpad-lite>
+Lizenz: GPL
+Projektentwurfsbeginn: 15.08.2012
+Layout: http://puu.sh/XaT7 (Hauptseite), http://puu.sh/XaSp (Profilseite)
+Domain: http://shownot.es/  dank dem @SimonWaldherr
+Struktur/Template: https://shownotes.piratenpad.de/Template
+
+
+Begrifflichkeiten:
+   * Podcast, eine Reihe von Sendungen. Zum Beispiel: Raumzeit, Wrint
+   * Sendung, eine einzelne Sendung eines Podcasts. Zum Beispiel: RZ13, CRE100
+   * Podcaster, Personen die einen bestimmten Podcast produzieren. Zum Beispiel: "holgi", "Tim Pritlove"
+   * Podcast-Betreuer, ein User, der sich um die Organisation der Erstellung von Mitschriften eines Podcasts kümmert.
+
+
+Features[1]:
+   * MUST-Features
+     * Accountsystem
+       * Rechteverwaltung ✘
+       * User kicken und bannen ✘
+     * Readonly-Links
+     * Etherpad-Features:
+       * Beibehalten [2]
+       * Listen mit "–". Sinn: Erhaltung der Listen beim exportieren (Problem bei mobilemacs).
+         * überprüfen ob das bei etherpad-lite auch passiert
+       * Überschriften (mit größerer Schrift), zum Zweck automatisch Kapitelmarken exportieren zu können - noch verifizieren, ob das nicht den Stil bricht, es gibt ein Plugin dafür - muss man testen
+     * Verwaltung mehrerer Podcasts
+       * Pads per Knopfdruck mit richtigem Prefix und Template erstellen ✘
+     * Kalender ✘
+       * Podcasts und Episoden
+     * Export  existiert, benötigt aber abiword serverseitig => nicht eingeschalten
+     * "Final" Revision: Pad-Bearbeitung als Admin deaktivieren => nurnoch read-only für normale User
+     * kleine CMS-Funktionen (einzelne Unterseiten für die Hauptseite, die Admins editieren können), evtl. dazu eine Möglichkeit, die Links im Menü zu ändern
+     * Export von Kapitelmarken, Podlove kompatibel <http://podlove.org/simple-chapters/> ✘
+   * SHOULD-Features
+     * Timer ✘  mit ePirat besprechen
+     * Chat immer einblenden ✘
+     * Userliste immer einblenden ✘
+     * Templates beim Pad-Erstellen ✘
+     * Stilregeln - je nach Podcast - verlinken/anzeigen ✘
+     * Pad-Features: 
+       * Kommentare - vlt. mit grauem Hintergrund und in Kapitälchen absetzen
+     * Fertige Shownotes automatisch vertwittern
+     * Schöne URLs, z. B.: "http://shownot.es/mm094" ✘
+       * leiten automatisch auf read-only version um
+   * MAY-Features
+     * Tablet-Version ✘
+     * Mobile-Version ✘
+     * evtl. Bitlove-Links zu den Podcasts ✘
+     * RSS Feed für Podcasts ✘
+     * Amazon-Affiliate-Link-Macher-Utility
+     * Buttons für: "✘", "✔" und "¶"
+
+
+Seitenstruktur
+   * Hauptseite
+     * Kurze Beschreibung
+     * Liste der Sendungen in nächster Zeit / Verweis zum oder Ausschnitt vom Kalender
+     * Login + Button zur Registrierung
+   * Registrierung
+     * Username
+     * E-Mail
+     * Passwort (+ Wdh.)
+     * "An welchen Podcasts willst du mitschreiben?"
+   * Impressum [3]
+     * Anschrift
+     * Disclaimer
+     * E-Mail-Adresse
+   * Spenden
+     * Flattr-Button / PayPal-Link mit Erklärung
+   * Kalender
+     * ??? Vorausschau auf angekündigte Podcasts
+     * Möglichkeit zum "zusagen", damit klar ist, wo zu wenige mitschreiben/noch Mitschreiber benötigt werden
+   * Infos für Podcaster
+     * Einführung in die Shownotes, kurze Erklärung und Hinweis darauf, dass wir nicht für Vollständigkeit garantieren können
+   * Podcast-Profil
+     * Liste der regelmäßigen Mitschreiber
+     * Liste der nächsten Sendungen
+     * Wenn Rechte vorhanden:
+       * Daten ändern
+       * Neue Sendung
+   * User-Profil
+     * Username
+     * Podcasts an denen der User regelmäßig mitschreibt
+     * Wenn eigenes Profil:
+       * Profil editieren
+     * Wenn Admin:
+       * Profil editieren (bei jedem Profil)
+   * MAY-FEATURE: RSS-Feed
+
+
+Objekte:
+   * User
+     * Name
+     * E-Mail
+     * Passwort-Hash
+       * bspw. SHA256+Per-User-Salt
+     * Passwort-Salt
+     * Rechte
+       * Gast (dient dem Vergewissern, dass der angefragte Account erstellt wurde)
+         * Hat keinerlei Privilegien
+       * User
+         * Darf mitschreiben (d. h. alle Features vom Standard-Etherpad nutzen)
+       * Podcast-Betreuer (erbt User Rechte)
+         * Darf Podcast-Daten ändern
+         * Darf neue Sendungen eintragen
+         * Darf User aus dem Pad kicken für das er zuständig ist
+         * Darf aus Gästen User machen
+       * Podcaster (erbt Podcast-Betreuer Rechte)
+       * Admin
+         * Darf alles oben genannte UND:
+           * User bearbeiten (Profil ändern, kicken, bannen etc.)
+           * Usern andere Rechte geben
+           * Seiten bearbeiten (im CMS)
+   * Podcast
+     * Name
+     * Homepage
+     * Liste von Podcastern (Usern)
+   * Sendung
+     * Podcast
+     * Name (zB: "mm33")
+     * Datum + Uhrzeit
+
+
+
+
+==================
+Erledigt: ✔
+(Noch) nicht erledigt: ✘
+In Bearbeitung: ¶
+==================
+
+
+
+
+
+
+
+[1] vgl. RFC 2119 <http://www.rfc-editor.org/rfc/rfc2119.txt>
+[2] Grundlegende Etherpad-Funktionen:
+ * paralleles editieren, durch mehrere gleichzeitig die Seite betrachtende. ✔
+ * unterschiedliche Farben für unterschiedliche Editierer. ✔
+ * "Revisionen" ✔
+ * Formatierungsoptionen (Fett, Kursiv, Durchstreichen, sowie nicht notwendigerweise: Unterstrichen) ✔
+ * Listen ✔
+[3] siehe auch §5 TMG http://www.gesetze-im-internet.de/tmg/__5.html
+
+
+
+
+
+
+
+
+

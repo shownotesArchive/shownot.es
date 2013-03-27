@@ -1,0 +1,114 @@
+(Zum Mitschreiben ist die Anmeldung auf <https://shownotes.piratenpad.de/> erforderlich)
+
+HEADER
+Einschlafen Podcast 214
+mit Toby Baier (@tobybaier, @schlafein)
+Sendungsseite: <http://einschlafen-podcast.de/>
+Shownotes: <https://shownotes.piratenpad.de/ep214> )
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: BOOKMARKLET (###)
+Downloadlink: <http://einschlafen.com.de/episoden/ep0214.mp3>
+
+Shownoter: @evitabley, @simonwaldherr @quimoniz
+Titel:  "Schnee"
+
+/HEADER
+
+1358194345 Sendungsbeginn und Audiosetup #chapter
+1358194356 Niels Holgerson 
+1358194363 Audiosetup Änderungen: 
+1358194373 Programm auf dem Mac, was live streamt.
+1358194388 Bei der letzten Sendung gab es nachts um halb 3 mehr leute als normalerweise und er konnte danach gut einschlafen<http://einschlafen-podcast.de/podcast/ep0213-nicht-einschlafen-konnen-mit-lew-tolstoi/> #podcast
+1358194442 Kinder waren brav und er konnte lange schlafen
+1358194450 Nicecast <http://www.rogueamoeba.com/nicecast/> #podcast
+1358194467 Xenim <http://www.xenim.de/>
+1358194473 Statusmeldungen für den Stream beachten, falls Xenim Probleme macht
+1358194488 Nicecast wird mit Soundflower gefüttert
+1358194496 Soundflower <http://code.google.com/p/soundflower/>
+1358194538 Aufnahme über den Tascam 40 <http://www.thomann.de/de/tascam_dr40.htm> #shopping
+1358194567 das ganze ist dafür da, dass man dann den Stream schon mal laufen lassen kann und die Leute schon da sind
+
+1358194600 Chat, Musik, Podcasts und Geschenke #chapter
+1358194604 IRC <http://webchat.freenode.net/?channels=%23einschlafen>
+1358194612 Musikauswahl: Kraffuttermischwerk (CC Musik)
+1358194629 Holgi <https://twitter.com/holgi> #twitter
+1358194632 Blue Moon <http://www.fritz.de/programm/blue_moon.html> #podcast
+1358194657 Creative Commons <http://creativecommons.org/>
+1358194664 Aufruf CC Musik vorzuschlagen, die müde macht (Trance etc)
+1358194698 Toby und seine Tochter hat bei einem Hörspiel mitgewirkt bei der 
+1358194714 Geschichtendose "Das Mädchen, das nicht schlafen konnte" <http://geschichtendose.de/15-das-madchen-das-nicht-schlafen-konnte/> #podcast
+1358194762 Toby als Sandmann und seine Tochter, Mareile, als "Das Mädchen" 
+1358194830 Sie haben das Hörspiel zugeschickt bekommen mit Cover von dem Mädchen gemalt von <http://hobbykoch.he-hosting.de/blog/glanzwurst/2013/01/14/illustration-fur-eine-geschichte-der-geschichtendose-bild-klicken/> #podcast
+1358194839 Hobbykoch <http://www.hobbykoch-podcast.de/> #podcast
+1358194862 Toby hat Kai beim Hamburgerpodcastcluster kennengelernt
+1358194882 Toby hat Verblendung auf BluRay als Geschenk bekommen <http://www.amazon.de/dp/B006W64TZI/> #shopping
+1358194900 Social Network (Film) <http://www.amazon.de/dp/B00475CB2E/> #shopping
+1358194904 Musik von Trent Reznor, dafür hat er einen Oskar bekommen <http://de.wikipedia.org/wiki/Trent_Reznor> #glossary
+1358194952 Neuverfilmung gleich 2 Jahre später nochmal 
+1358194955 Original auf DVD <http://www.amazon.de/dp/B002RAQR08/> #shopping
+
+1358194980 Bücher, Kino und Filme #chapter
+1358194988 Europäische Filme schaffen es oft gar nicht erst ins Kino, weil in den Kinos Hollywoodfilme laufen
+1358195019 In Hamburg Programmkinos "Abaton" und "Zeise Kino"
+
+1358195081 Toby hat als letztes im Kino "Der Hobbit" gesehen, er mag "Die Herr der Ringe" und las diese mit 16 Jahren, ausgeliehen in der Bibliothek
+1358195126 mit 16 war er in Irland das erste mal für 3 Wochen als Austauschschüler
+1358195144 Kings Hospital im Westen von Dublin <http://www.kingshospital.ie/thekingshospital/Main/Home.htm>
+1358195205 Der Austauschvater fand gut, dass Toby liest und hatte das Buch auch. 
+1358195223 Bibliothekszimmer mit einem sehr gemütlichen Lesesessel und Schallplattenspieler
+1358195247 The Black Family <http://en.wikipedia.org/wiki/The_Black_Family_(band)> #glossary
+1358195303 eine der Töchter wurde sogar ein bisschen berühmt. 
+1358195322 Live im CCH <http://cch.de>
+1358195346 Enya gehörte nicht zur Black Family
+1358195369 aber Mary Black
+1358195373 Frances Black
+1358195394 The Lord of the Rings im Original, er las auf Englisch eines der Kapitel "Treebeard" und war total entspannt
+1358195450 Ent <http://en.wikipedia.org/wiki/Ent> #glossary
+1358195478 50 Mark für ein Buch hier in Deutschland (für die englische Ausgabe)
+1358195497 Simarillion, über die Vorgeschichte von Mittelerde und Tolkiens Welt, mit sehr vielen Charakteren. Daher der Begriff "Simarillionesk" für Bücher mit zu vielen Charakteren
+1358195514 Gandalf <http://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf> #glossary
+1358195569 Viel schlechte Presse über den Film "Der Hobbit" 
+1358195579 Schauspieler wurden ausgenützt und unter Druck gesetzt nichts auszuplaudern
+1358195659 HFR (High Frame Rate) <http://de.wikipedia.org/wiki/High_Frame_Rate> #glossary
+1358195687 Bild ist zu gut, sagen viele
+1358195740 1st Person Shooter <http://de.wikipedia.org/wiki/Ego-Shooter> #glossary
+1358195747 Frame Rate <http://de.wikipedia.org/wiki/Bildwiederholfrequenz> #glossary
+1358195770 Hobbit wurde mit 48fps produziert
+1358195838 Polarisationsfilter <http://de.wikipedia.org/wiki/Polarisationsfilter> #glossary
+1358195860 Avatar <http://www.amazon.de/dp/B007QU5GXS/> #shopping
+1358195908 Alice im Wunderland <http://www.amazon.de/dp/B0037QGJWW/> #shopping
+1358195950 weit hinten sitzen hilft bei 3D und HFR 
+1358195982 Die Geschichte war auch gut
+1358196000 Der Hobbit (Buch) <http://www.amazon.de/dp/3608939776/> #shopping
+1358196005 Unterschiede zwischen Buch und Film
+1358196275 Der englische Trailer <https://www.youtube.com/watch?v=G0k3kHtyoqc> #video
+1358196320 Spotify <http://www.spotify.com/>
+1358196344 Dreiteilung des Filmes <http://de.wikipedia.org/wiki/Der_Hobbit_(Filmtrilogie)> #glossary
+1358196386 Spoiler Alert Podcast <http://spoileralert.bildungsangst.de/> #podcast
+
+1358196412 Schnee #chapter
+1358196419 es gab so 0,5 Zentimeter Schnee
+1358196435 Es gab Verspätung im öffentlichen Nahverkehr
+1358196453 Toby mag Schnee und findet ihn albern und schön
+1358196475 "Schnee macht Kinder glücklich" #quote #zitat
+1358196535 Das anstrengende ist es, die Kinder Schneefest anzuziehen
+1358196565 Nieselwetter mag er nicht, so wie die letzten Tage/Wochen waren
+
+1358196639 Nils Holgerson "Der Walpurgisabend" #chapter
+
+1358196669 Toby wird im Schweizer Fernsehen zu sehen sein
+1358196740 Toby liest aus Selma Lagerlöfs Niels Holgersons wunderbare Reise mit den Wildgänsen vor #chapter
+- Er ist nun bei Kapitel 30, der Walpurgisabend
+- Nils Holgersson (auf Gutenberg Kapitel 31) <http://www.gutenberg.org/ebooks/31114> #fulltext
+1358197094 Toby wünscht allen eine Gute Woche
+1358197100 Am Mitwoch gibt es wieder den Realitätsabgleich mit holgi <http://wrint.de/category/realitaetsabgleich> #podcast
+1358197112 Einschlafen Podcast am Montag (außer er kann nicht schlafen)
+1358197120 Toby hat alle lieb, und wünscht eine gute Nacht
+
+Aftershow #chapter
+1358197162 Kraftfutter Mischwerk <http://dkfmw.de/>
+1358197169 Toby bedankt sich für die Shownotes, erwähnt dabei aber Quimoniz nicht, der mittlerweile auch mitgeschrieben hat <http://shownot.es/>
+
+
+
+

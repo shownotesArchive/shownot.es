@@ -41,28 +41,33 @@ PHP Parser Entwurf <https://gist.github.com/334d5d1694a462aa9dd2>
 
 Tags:
 --------------
-#chapter
+#chapter || #c
   wird benutzt bei "Items" die das Thema der nächsten 10 - 40 Minuten grob beschreiben
-#image
+#topic || #t
+  wird für wichtige Inhalte die unbedingt in den shownotes enthalten sein müssen verwendet
+#image || #i
   bei Links auf Webseiten die nur ein Bild, ohne relevante textliche Beschreibung enthalten
-#video
+#video || #v
   bei Links auf Webseiten die Primär nur ein Video enthalten, bspw. auch youtube video links
+#embed
+  wird in zukunft die direkte integration von Fremdinhalten ermöglichen
 #podcast
   bei Links die auf die Webseite eines Podcasts, oder auch nur auf eine spezielle Episode verweisen
 #flattr
   bei Links die auf ein Profil oder ein Thing auf Flattr verweisen
 #spoiler
   bei beschreibendem Text ohne Link
-#quote ODER #zitat
+#quote || #q
   Bei wortgetreuen Zitaten aus der Sendung
 #chat
   bei Zitaten aus dem Sendungschat, die im Podcast zitiert werden, oder auf die direkt Bezug genommen wird
 #shopping
   bei Links die auf Webseiten mit direkter Einkaufsmöglichkeit verweisen
-#wikilink
+#glossary || #g
   bei Links auf Wikipedia, Wikisource, Wikiquote, und Wiki Commons, sowie Wiki ähnlichen Seiten
-#twitter
-  bei Verweisen auf Twitterccounts
+#tweet
+  bei Verweisen auf Microbloggingeintrage und Microbloggingaccounts
+
 (Liste ist PRINZIPIELL unvollständig, da per Standard Tags frei gewählt werden dürfen)
 
 Zeitmarke: 2*NUM ":" 2*NUM ":" 2*NUM "." 3*NUM

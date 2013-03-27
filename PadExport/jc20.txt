@@ -1,0 +1,136 @@
+HEADER
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+Jobscast 20
+mit Daniel Autenrieth (@dautenrieth), und Ralph Caspers (@hyperjinx) am 01.02.2013
+Sendungsseite: <http://www.jobscast.de/jc020-moderator-und-drehbuchautor-ralph-caspers-teil-2/>
+Chat: <http://webchat.freenode.net/?channels=%23jobscast>
+Timer: <http://epirat.de/timer/>
+
+Zusammengetragen von: @EvitaBley, @SimonWaldherr
+/HEADER
+
+1359622820 Sendungsbeginn: ~10:00:00 Uhr #chapter
+Sendungen von Ralf:Die Sendung mit der Maus (Sachgeschichten), Wissen macht Ah!, Du bist kein Wehrwohl!, Quarks und Caspers (Vertretung für Quarks und Co)
+Kinder sind nicht unbedingt die Zielgruppe für Ralphs Sendungen
+Ralph moderiert noch bis März 0-Gewinnt (Adaption der BBC Sendung Pointless)
+
+Entwicklung der Fernsehlandschaft von 1990 - heute
+Mehr Krawall im Privatfernsehen (Tutti Frutti), öffentliches rechtliches Fernsehen hat sich davon nicht beeindrucken lassen
+Bis heute haben sich privates Fernshen und öffentlich rechtliches Fernsehen mehr aneinander angenähert
+
+1359623173 Scripted Reality #chapter
+Anfang der 90er 
+1359623330 H.G. Wells schrieb das Buch <http://de.wikipedia.org/wiki/H._G._Wells> #g
+und Orson Welles machte daraus das Hörbuch <http://de.wikipedia.org/wiki/Orson_Welles> #g
+1359623333 Krieg der Welten <http://de.wikipedia.org/wiki/Der_Krieg_der_Welten> #g
+1359623355 SR ist leicht und billig zu produzieren
+1359623377 ZDF hatte auch SR Gerichtsshows
+1359623419 Kindersendungen hatten "damals" noch einen moralischen Anspruch
+1359623462 DisneyProduktionen
+1359623473 Kleiderordnung und Wortverbote bei Disney
+1359623520 Löwenzahn <http://de.wikipedia.org/wiki/L%C3%B6wenzahn_(Fernsehsendung)> #g
+1359623546 Sesamstraße <http://de.wikipedia.org/wiki/Sesamstra%C3%9Fe> #g
+1359623555 Wissen macht Ah! <http://de.wikipedia.org/wiki/Wissen_macht_Ah!> #g
+1359623579 Es ist völlig ok, wenn man Fragen stellt und wenn mal was schief geht
+1359623640 Wie geht ihr mit dem Wandel zur Informationsgesellschaft um?
+1359623680 Zielgruppenrelevanz ist nicht so wichtig, Ralph moderiert so, wie er es lustig findet
+1359623728 Die Halbwertszeit von Wissen/Fakten ist unterschiedlich
+1359623751 Die Newtonsche Mechanik wird sich nicht mehr ändern
+1359623780 Es geht darum Spaß zu haben und neugierig zu bleiben
+1359623839 (Wissen macht Ah!) ? ist im dreizehnten Jahr
+1359623870 Es gibt viel Zuschauerpost
+1359623903 Quoten sind nicht vordergründig
+
+1359623935 Studiohierarchie #chapter
+1359623938 Frage nach der Hierarchie im Studio
+1359623956 es gibt eine Redakteurin im Studio
+1359623985 Die Redakteurin ist sozusagen die Chefin
+1359624004 Ralph ist für die Moderation etc im Studio zuständig, die Filme laufen über die Redakteurin
+1359624072 Jede Sendung hat seine 5 Themen
+1359624096 Ralph muss die Verbindung der einzelnen Themen aufbauen
+1359624139 danach schaut die Redakteurin vom WDR nochmal drüber
+1359624159 In den Auszugslisten steht dann, was alles gebraucht wird
+1359624218 3 Wochen Zeit um alles zu besorgen/bauen/basteln
+1359624244 kurze Proben und dann wird aufgenommen 
+1359624297 Dann geht das Material in den Schnitt und wird aufs Band kopiert
+
+1359624355 Kameratechnik und Speicherung der Aufnahmen #chapter
+1359624356 Vor ein paar Jahren war die Kameraqualität noch sehr schlecht
+1359624392 Innen- und Außenaufnahmen durch ein Fenster sind schwierig
+1359624400 Verschiedene Lichtverhältnisse sind schwierig für Kameras
+Kontraste in Bildaufnahmen <http://de.wikipedia.org/wiki/High_Dynamic_Range_Image> #g
+1359624459 Die Kamerasachen lernt man auch im Studium
+1359624491 Im WDR gibt es ein riesiges Archiv mit Bändern. Mittlerweile sind das optical discs
+1359624583 Die Digitalisierung der Medien wird immer mehr
+1359624611 Die Speicherung auf Servern ist problematischer als einfach optical Discs im Archiv zu lagern
+
+1359624658 Verbreitung und Verfügbarkeit von allen Inhalten #chapter
+1359624659 Daniel wünscht sich, alle Sendungen in der Mediathek anschauen zu können
+1359624680 Ralph fände das auch toll und er wünscht sich eine freie Lizenz dafür
+1359624706 Keynote von Markus Beckedahl auf dem Social Community Day
+1359624724 Markus Beckedahls erste Urheberrechtsverletzung war bereits in der Schulzeit im Kunstunterricht
+1359624799 Depublikation der Sendungen. Bei Wissen macht Ah gibt es einen Podcast der länger noch verfügbar ist.
+1359624842 Ralf findet Depublikation ärgerlich
+1359624850 Das Leistungsschutzrecht ist schlecht
+1359624902 Daniel hat die Idee, jede Sendung zu trankribieren und Shownotes zu erzeugen
+1359624965 Ralph stören die Beschränkungen, denen Öffentlich Rechtliche Fernsehsender im Internet unterlegen sind
+1359624994 Das Internet sollte die Erweiterung des Fernsehns sein
+1359625020 Niemand lässt sich mehr vorschreiben, wann er was gucken soll
+1359625064 Zeitsouveränes Nachschauen von Fernsehsendungen, wie bei Podcasts
+1359625120 Nur noch Großereignisse werden Live geschaut
+1359625178 HbbTV <http://de.wikipedia.org/wiki/Hybrid_Broadcast_Broadband_TV> #g
+HBBTV spielt derzeit noch keine großer Rolle
+
+1359625291 Mediensozialisation von Kindern #chapter
+1359625292 Wie sollten Kinder an Medien herangeführt werden
+1359625300 Es ist falsch, Kindern die Medien (Fernsehen, Internet) zu verbieten
+
+1359625324:1359625440 
+
+1359625455 Manfred Spitzer <http://de.wikipedia.org/wiki/Manfred_Spitzer> #g
+1359625490 Fernsehen kann dir helfen, Ideen zu finden.
+1359625524 Die Primärerfahrung trumpft die Sekundärerfahrung
+1359625567 Man kann im Fernsehen sehen, wie man Tierspuren mit Gips abgießt, aber selber rauszugehen und das zu tun macht mehr Spaß
+1359625660 Digital Divide <http://de.wikipedia.org/wiki/Digitale_Kluft> #g
+1359625671 Interessenvielfalt führt zu verschiedenen Formaten (Frauentausch gegen Physik und Stricken)
+1359625705 Ralph "lass uns doch mal ne Woche mit der Nachbarin tauschen" #quote
+1359625721 Ralf wünscht sich, dass viele Menschen selbstbestimmt handeln
+1359625781 Mut zur Lücke und nie unterfordern, sondern lieber überfordern und hoffen, dass was hängen bleibt.
+1359625831 Stefan Raab Polittalkshow
+1359625840 Bei Talkshows ist niemand nachher schlauer
+1359625937 Im Vordergrund steht heute die Quote, Inhalte müssen sich hinten anstellen
+1359625966 die Zuschauer haben die Macht, umzuschalten
+1359626008 Durch Quotenmessung werden auch die Sendungen beeinflusst
+1359626063 Ralf kann unbesonnen durch Köln laufen, wird nicht ständig von Fans angesprochen
+1359626141 Ralph lernt gern neue Dinge in seiner Freizeit
+1359626157 Er lernt auch gerne Programmierung von Datenbanken (MySQL)
+MySQL <http://de.wikipedia.org/wiki/MySQL>
+FileMaker <http://de.wikipedia.org/wiki/FileMaker>
+1359626248 Seine Moderationen macht er mit Filemaker und Tabellen 
+1359626307 Mac oder Windows? - Mac
+1359626329 Wenn er den ganzen Tag vor so einem Gerät sitzt, dann möchte er, dass es schön ist
+1359626352 Im WDR sind hauptsächlich Windows Rechner
+im Grafikbereich gibts aber auch Macs
+1359626392 Ralph findet es sehr schön in der Sendung (Jobscast)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

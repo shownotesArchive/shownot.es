@@ -1,0 +1,218 @@
+HEADER 
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NSFW66 (Montag, 25. März 2013)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/metaebene.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NSFW66>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: Zeitangaben werden vom HMS-TimeStamp-Bookmarklet geschrieben.
+Siehe http://shownotes.github.com/EtherpadBookmarklets/
+Das Plugin wandelt alle ### am Anfang von Zeilen in HH:MM:SS Zeitangaben um
+
+Chatlogs: <http://pastebin.com/F88ibm5T>
+
+Zusammengetragen von: @mrmoe, @frodolf, @kaeffchen_heinz, 
+
+Sendungsbeginn: 12:49:31 Uhr
+Sendungsende: 15:45 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+„Bürger an die Latrinen!“
+„Zernichtet“
+„Heil Erde“
+
+Kapitelmarken: 
+
+/HEADER
+
+00:00:00 Heil Erde #chapter
+„HEILERDE - Keller und Verstärkung“ <https://www.youtube.com/watch?v=bQAGAGse-qM> #v
+00:03:36 Begrüßung
+00:04:15 Holgi: „Heilerde“ wäre ein guter Name für völkische Bands
+00:06:53 Nur noch 22 Ausgaben bis zur 88!
+00:08:01 Chauvinismus <http://de.wikipedia.org/wiki/Chauvinismus> #g
+„Nationalkapitalismus“
+00:09:47 „Knorkator - Böse“ <https://www.youtube.com/watch?v=eb6oWy-NySc> #v
+00:12:02 Holgi ist aufgefallen, daß viele Dinge in letzter Zeit ernst genommen werden, die eigentlich Quatsch sind.
+00:12:36 „Schickt alle Euer Geld in die Chodowieckistraße in Berlin!“ (Holgi) #q
+00:14:17 Spaß mit Starbucks <http://www.starbucks.de>
+00:15:08 Fritz Schnackenpfefferhausen <http://www.youtube.com/watch?v=ykWjG3p1rsg> #v
+00:16:38 Amygdala <http://de.wikipedia.org/wiki/Amygdala> #g
+00:16:58 „Ein großes Hallo“ (Zitat aus der Serie „Loriot“) <https://www.youtube.com/watch?v=9hOpwTVqh_0#t=0m48s> #v
+00:19:27 Speech Jammer <http://www.extremetech.com/computing/120583-new-speech-jamming-gun-hints-at-dystopian-big-brother-future>
+- PDF <http://arxiv.org/ftp/arxiv/papers/1202/1202.6106.pdf>
+00:21:05 Video vom Speech Jammer <https://www.youtube.com/watch?v=USDI3wnTZZg?t=0m40s>
+
+00:24:06 Berlin und Webdienste #c
+00:25:15 Holger meint: „Mate ist doch nicht zum Trinken. Mate ist zum Felgenreinigen“ #q
+00:26:35 Tim fühlt sich in Berlin wie im Urlaub
+00:27:31 „Twitter ist eh vorbei!“ (Tim) #q
+00:28:30 Tim sieht bei ADN positive Entwicklungen
+00:33:50 Robin ADN-Client für Android
+00:35:18 Infinite Jukebox mit dem WRINT-Soundlogo <http://labs.echonest.com/Uploader/index.html?trid=TROTLXA13D9EB4BE82> #a
+00:37:59 Infinite Jukebox mit „Call me maybe“ von Carly Rae Jepsen
+00:40:04 Die Infinite Jukebox loopt dort wo es passt
+00:40:13 Music Hack Day <http://musichackday.org>
+00:42:05 SoundCloud <http://de.wikipedia.org/wiki/SoundCloud> #g
+00:42:42 „Man braucht alles im Leben!“ (Holgi zitiert Helmut Berger)
+- Helmut Berger <http://de.wikipedia.org/wiki/Helmut_Berger> #g
+00:44:14 Podlove <http://podlove.org/>
+00:44:54 Holgi ist von dem Screencast verrückt geworden <http://www.youtube.com/watch?v=YWebs8p8_As> #v
+00:46:19 Holgi überlegt, wie sein Podcast-Internetauftritt verbessert oder neugestaltet werden könnte
+00:49:15 Tim *lässt* implementieren
+00:51:41 Fehler lassen sich laut Tim in den Tiefen der Blog-Software kaum finden
+00:52:05 Man sorgt sich um die Zukunft von Feedburner <http://en.wikipedia.org/wiki/FeedBurner> #g
+00:53:30 Googles Image als Open-Source-Weltretter schwindet
+00:55:02 Google Android <http://de.wikipedia.org/wiki/Android_%28Betriebssystem%29> #g
+00:55:39 Google hat sehr viele Produkte zurückziehen müssen
+00:56:48 Orkut <http://www.orkut.com> war nur zwei Wochen vor Facebook da
+00:59:43 Holgi hat einen eingebauten Spam-Filter für seine Umgebung, denkt aber, dass er auf einer emotionalen, unbewussten Ebene von Plakatwerbung erreicht wird
+01:00:29 Werbung zeigt dir immmer das, was du nicht hast
+01:03:13 Holgi hat eine Twitter-App gefunden, die die eigene Twitter-Timeline vorliest: „The Social Radio“ <http://www.thesocialradio.com/>
+- The Social Radio im Apple App Store <https://itunes.apple.com/us/app/the-social-radio-for-twitter/id487272062> #s
+- im Google Play Store <https://play.google.com/store/apps/details?id=com.thesocialradio> #s
+- Sprachsynthese <http://de.wikipedia.org/wiki/Sprachsynthese> #g
+01:08:09 Joy Division <http://de.wikipedia.org/wiki/Joy_Division> #g
+01:09:22 Holgi erklärt, wie man mit der o. g. Software ein Sport-Nachrichtenradio aus den ARD-Text-Meldungen auf Twitter und Musikbett bauen kann <https://twitter.com/ARDText>
+01:12:09 Paranormale Tonbandstimmen <http://de.wikipedia.org/wiki/Tonbandstimmen> #g
+01:13:16 Tim hat Norweger in der Timeline
+01:14:32 „Das ist Social-Media-Management aus der Hölle!“ (Holgi zur heutigen Sendungsankündigung auf Twitter) #q
+- Ankündigung <https://twitter.com/me_nsfw/status/316134136559579136>
+Buchempfehlung: Hotze <http://www.hotzesworld.de/>
+01:18:14 „X-Dream - The 5th Dimension“ <http://www.youtube.com/watch?v=cmLw1dIJ5dQ>
+01:20:42 „Der Kutscher kennt den Weg!“ (Tim erzählt Otto-Waalkes-Witze) <http://www.youtube.com/watch?v=UE3HhJrNj58> #v
+
+01:21:14 Hörergrillen und Podcasts #c
+01:21:14 Tim und Holgi werden zum Hörerinnengrillen nach Nürnberg eingeladen, der laut Spiegel langweiligsten Stadt Deutschlands.
+01:21:34 Fahrerlose U-Bahn in Nürnberg <http://de.wikipedia.org/wiki/U-Bahn_N%C3%BCrnberg#Automatisierung> #g
+01:21:25 Wostok <http://wostok-limonade.de/de/wostok-limonaden/tannenwald/>
+01:22:19 LMAA <http://de.wikipedia.org/wiki/Leck_mich_am_Arsch> #g
+01:23:51 Die langweiligste Stadt in Deutschland ist Nürnberg. Oder Hannover. Oder Hildesheim.
+01:24:56 Reichshufeisensiedlung <http://www.hufeisensiedlung.info/geschichte/gegenwart.html>
+01:26:05 Es wird weiter um „webschriftliche Bewerbung“ gebeten
+01:27:57 Neuseeland hat viele NSFW Hörerinnen
+01:28:13 „Economy Class geht nicht! [..] Wo bleibt denn da die Physik?“ (Holgi will mindestens Business Class fliegen) #q
+01:29:03 Granderwasser <http://de.wikipedia.org/wiki/Belebtes_Wasser> #g
+01:30:28 „Indonesien ist nicht wirklich Asien“ (Holgi) #q
+- Indonesien <https://de.wikipedia.org/wiki/Indonesien> #g
+01:31:12 MAD Magazine <http://www.madmagazine.com>
+- auf Wikipedia <http://de.wikipedia.org/wiki/Mad_(Magazin)> #g
+01:31:59 Bay of Plenty <http://de.wikipedia.org/wiki/Bay_of_Plenty_%28Bucht%29> #g
+01:32:47 Tim würde mindestens zwei Wochen nach Neuseeland fliegen
+01:34:20 Holgi empfiehlt Florian Freistetters Podcast „Sternengeschichten“ <http://www.sternengeschichten.org>
+01:36:16 Tim stellt fest: das Medium Podcast nimmt weiterhin Fahrt auf
+01:36:47 Podcasts werden vermehrt als Ergänzung zum Bloggen gesehen
+
+01:37:55 Urlaub, Skifahren und Fliegen #c
+01:37:56 Tim war im (Winter-)Urlaub und ist jetzt erholt
+01:38:38 Kanarische Inseln <http://de.wikipedia.org/wiki/Kanarische_Inseln> #g
+01:39:36 Tim war im Tuxertal <http://de.wikipedia.org/wiki/Tuxertal> #g
+01:40:52 Holgi mag keinen Wintersport
+01:43:20 Tim vergleicht Skifahren mit Schwerelosigkeit
+01:43:53 Douglas Adams <http://de.wikipedia.org/wiki/Douglas_Adams> #g
+- Adams' Zitat zum Fliegen <http://de.wikipedia.org/wiki/Hintergründe_zu_Per_Anhalter_durch_die_Galaxis#Fliegen> #g
+01:45:16 Raumzeit RZ010 „Raumstationen“ <http://raumzeit-podcast.de/2011/03/11/rz010-raumstationen/>
+
+01:46:30 Suchmaschinen #c
+01:46:30 Wolfram Alpha <http://www.wolframalpha.com>
+01:46:41 Ixquick <https://www.ixquick.com/deu/>
+01:47:06 Schlangenöl <http://de.wikipedia.org/wiki/Schlangenöl>
+01:47:28 Duckduckgo <https://duckduckgo.com/>
+01:49:03 Wolfram alpha Beispiel <http://www.wolframalpha.com/input/?i=how+much+ml+are+400g+flower>
+01:51:53 Zoidberg curve <http://www.wolframalpha.com/input/?i=zoidberg+curve>
+01:52:30 Hitler Curve <http://www.wolframalpha.com/input/?i=hitler+curve>
+01:52:56 Spongebob-like curve <http://www.wolframalpha.com/input/?i=spongebob+curve>
+01:53:30 Bay of Plenty auf Wolfram alpha <http://www.wolframalpha.com/input/?i=bay+of+plenty>
+01:55:08 Melkfett <http://de.wikipedia.org/wiki/Melkfett> #g
+01:56:17 „Melkfett ist die beste Creme“ (Holgi) #q
+01:56:46 Teures Melkfett bei Manufactum <http://www.manufactum.de/manufactum-melkfett-p1460631/> #s
+01:58:13 Vaseline <http://de.wikipedia.org/wiki/Vaseline> #g
+01:58:25 Eutra Melkfett <http://www.eutra-shop.com/melkfett/eutra-tetina-melkfett-klassik.html>
+01:59:01 WD-40 <http://www.wd40.de>
+- WD-40 auf Wikipedia <http://de.wikipedia.org/wiki/WD-40> #g
+
+01:59:25 Auphonic #c
+02:00:47 Holgi hat Angst davor, dass Auphonic den Betrieb einstellen könnte <https://auphonic.com>, Tim hofft auch, dass das Geschäftsmodell aufgeht
+02:01:05 „Nehmt doch einfach Geld!“ (Holgi) #q
+02:02:42 Tim beruhigt Holgi
+02:03:40 Holgi hätte gerne noch Enthallung <http://de.wikipedia.org/wiki/Nachhall> #g
+02:05:45 Container-Format <http://de.wikipedia.org/wiki/Containerdatei> #g
+
+02:07:11 Österreich und Gadgets #c
+02:07:12 „Monomania - Österreich ist geil“
+<https://www.youtube.com/watch?v=KNq5bHco2Z4> #v
+02:10:09 Holgi hält den enthaltenen Reggae für schlecht gemacht
+02:11:34 Beiden fehlt Loriot <https://de.wikipedia.org/wiki/Loriot> #g
+02:12:32 Tim bekommt sein Nexus 7 nicht mehr an <http://de.wikipedia.org/wiki/Nexus_7> #g
+02:13:02 Birkenstock <http://www.birkenstock.de/>
+02:14:59 Apple Store Köln <http://www.apple.com/de/retail/rheincenter/>
+02:18:17 Holgi will Ingress spielen <http://www.ingress.com>
+02:20:04 Halbstarke <http://de.wikipedia.org/wiki/Halbstarker> #g
+
+02:21:55 James Bond und Karl Marx #c
+02:21:56 Auto-Ortung bei „James Bond - Goldfinger“
+<http://de.wikipedia.org/wiki/Goldfinger#Spezialausr.C3.BCstung_.E2.80.93_Bond-Auto> #g
+- Der Bösewicht in Goldfinger, gespielt von Gert Fröbe, sächselt
+<http://de.wikipedia.org/wiki/Gert_Fröbe> #g
+- Aston Martin DB5 <http://de.wikipedia.org/wiki/Aston_Martin_DB5> #g
+02:24:07 Casino Royale <http://de.wikipedia.org/wiki/Casino_Royale_%282006%29> #g
+02:25:13 Holgi hält „Skyfall“ für den bisher besten James-Bond-Film
+02:25:49 Stanley Kubrick <http://de.wikipedia.org/wiki/Stanley_Kubrick> #g
+02:26:35 James Bond 007: Ein Quantum Trost <http://de.wikipedia.org/wiki/James_Bond_007:_Ein_Quantum_Trost> #g
+02:26:43 „Man braucht drei Dinge für einen guten Film: Ein gutes Buch, ein gutes Buch und ein gutes Buch.“ (Holgi zitiert Billy Wilder) #q
+- Billy Wilder auf Wikipedia <http://de.wikipedia.org/wiki/Billy_Wilder> #g
+02:28:42 Holgi vergleicht die Situation beim Fernseh- und Filmdreh in Deutschland und den USA
+02:29:18 Tim regt einen Podcaster-Streik an, bis die Neuseeland-Reise finanziert ist (gespendet wurde)
+02:30:12 Holgi hält deutsche Gewerkschaften für nicht durchsetzungsfähig und will aus ver.di austreten <http://www.verdi.de>
+02:31:23 Holgi hätte gerne Generalstreiks in Deutschland, die sind aber nicht zulässig <http://de.wikipedia.org/wiki/Generalstreik#Zul.C3.A4ssigkeit> #g
+02:33:01 Man einigt sich, nicht zu streiken. „Das habt ihr nun davon!“ (Tim) #q
+02:34:05 Holgi findet den Medienwandel irritierend
+02:34:21 Holgi schätzt, dass er noch in zehn Jahren so irritiert sein wird
+02:35:19 Holgi hat noch nie Karl Marx' Ausspruch so gut verstanden wie heute: „Das Sein bestimmt das Bewusstsein.“ <http://de.wikipedia.org/wiki/Karl_Marx#.C3.9Cberblick_.C3.BCber_die_marxsche_Theorie> #g
+
+02:36:03 Fotografie und Texteingabehilfen #c
+02:36:03 Holgi preist seine Kamera an: Fujifilm Finepix X100 <http://www.finepix-x100.com/de>
+02:37:38 Trotz des harten Winters hat er schon schöne Fotos ohne Probleme machen können
+02:39:03 Tim probiert die Kamera aus und findet die Schwachstelle: den manuellen Fokus
+02:41:08 „Schiefentärfe“ (Holgi) #q 
+- Schärfentiefe auf Wikipedia <http://de.wikipedia.org/wiki/Schärfentiefe> #g
+- Man sagt auch „Tiefenschärfe“, meint damit aber dasselbe <http://de.wikipedia.org/wiki/Tiefenschärfe> #g
+02:42:57 Leica M9 <http://en.wikipedia.org/wiki/Leica_M9> #g
+02:43:41 Holgi auf flickr <http://www.flickr.com/photos/holgi>
+02:45:06 Lumix DMC-LX7 <http://www.panasonic.de/html/de_DE/Produkte/Übersicht/10116814/index.html>
+02:45:43 Die Schnüre hätte man mit der Lumix nicht gesehen <http://www.flickr.com/photos/holgi/8527510719/in/photostream>
+02:47:50 Holgi benutzt Siri, um SMS im Auto zu schreiben <http://www.apple.com/de/ios/siri/>
+02:48:03 Tim hasst es, entmachtet zu werden: Wenn man alles richtig macht und die Technik macht alles falsch
+02:48:21 „Dafür wurde Orrrrr erfunden“ #q (Holgi)
+02:49:13 T-9 <http://de.wikipedia.org/wiki/Text_on_9_keys> #g
+02:49:43 T-9-Betrollung <http://www.spiegel.de/netzwelt/web/kommunikation-nazi-statt-maxi-a-189879.html> 
+02:50:07 Der Führer hat geheiratet: Frau Braun, dann Frau Hitler <http://de.wikipedia.org/wiki/Eva_Braun> #g
+02:51:48 Vavideo <http://vavideo.de/>
+02:52:05 Holgi empfiehlt „Unsere Mütter, unsere Väter“  <http://de.wikipedia.org/wiki/Unsere_M%C3%BCtter,_unsere_V%C3%A4ter> #g
+02:53:02 Verabschiedung
+02:53:40 „Der Italiener war's!“ (Tim) #q
+02:53:56 YT <BITTE EINFÜGEN!>
+
+02:56:00 Sendungsende
+
+
+
+

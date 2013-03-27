@@ -1,0 +1,226 @@
+HEADER
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>. Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NSFW64 (Montag, 25. Februar 2013)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/metaebene.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NSFW064>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben.
+Siehe http://shownotes.github.com/EtherpadBookmarklets/
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+
+Chatlogs: <http://pastebin.com/kR8TfhEg>
+
+Zusammengetragen von: @mrmoe, @ZarembaMarco, @Kambfhase, @SimonWaldherr, @BigMcIntosh91, Martin, @JNSchuermann, @frubi, German
+
+Sendungsbeginn: 12:50:40 Uhr
+Sendungsende: 16:15:54 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+Verkehr mit Leo Fischer
+Pferdefleisch Mimimi
+„Föttchesföhler“
+„Ein Shownot.es-Zelt!“
+„Kein Sex für Nazis“
+
+Kapitelmarken: 
+
+/HEADER
+
+1361793083 Intro, Begrüßung und Piraten #chapter
+1361793084 „Da ist kein Video!“ (Tim) #q
+1361793085 Baauer - Harlem Shake (HQ Full Version) <https://www.youtube.com/watch?v=Bk1_DbbzSdY> #video
+1361793235 Tim war in Österreich und wurde für sein Österreichisch kritisiert
+1361793288 Tim glaubt über eine österreichische Staatsbürgerschaft mehr Erfolg in Deutschland zu haben
+1361793300 „Piratendemagoge Tim Pritlove“ #q #t
+1361793320 „Die Piraten sind von hinten wie von vorn: durch!“ (Tim) #q
+1361793390 „Den Karren aus dem Dreck fahren.“ #q
+1361793478 Der eigene Gründungsmythos steht den Piraten im Weg
+1361793577 Die Piraten wissen selber nicht, was sie wollen, und wofür sie stehen #t
+1361793700 „Es ist kein Reboot nötig, sondern ein Rewrite“ (Tim) #t #quote
+1361793892 „Themen statt Köpfe geht nicht!“ (Holgi) #quote
+1361793907 „In der Politik muss man erstmal die passende Programmiersprache lernen“ (Holgi) #quote
+1361793963 Martin Delius <https://de.wikipedia.org/wiki/Martin_Delius> #glossary
+1361794008 Christopher Lauer <https://de.wikipedia.org/wiki/Christopher_Lauer> #glossary
+1361794078 „Piraten sind mit den Grünen in deren Entstehungsphase vergleichbar“ (Tim) #quote
+1361794249 „Das Problem ist, zu glauben, dass man die Politik durch Anwesenheit revolutionieren kann“ (Holgi) #quote
+1361794510 Filibuster <https://de.wikipedia.org/wiki/Filibuster> #g
+1361794724 Holgi ist von seiner Räuspertaste fasziniert
+1361794734 Parametrisches Recording <https://en.wikipedia.org/wiki/Equalization_(audio)#Parametric_equalizer> #g
+1361794770 Holgi will eine Wahlempfehlung
+1361794796 „Meine Prinzipen verbieten mir, Grüne oder FDP zu wählen“ (Holgi) #quote
+1361794867 „Ich kann doch nicht die CDU wählen, nur weil die das am klarsten definierte Übel sind“ (Holgi) #quote
+1361794900 Tim glaubt nicht, dass die Piraten die 5%-Hürde bei der Bundestagswahl 2013 meistern #t
+1361794914 Holgi wählt die Piraten und Tim nichts, weil sie nicht anders können
+1361794965 „Soll ich dir was zu England sagen? Ich scheiß drauf!“ (Tim) #quote
+1361794971 „England hat angerufen: Die scheißen auch auf dich!“ (Holgi) #q
+1361795116 Haben wir zu viele Abgeordnete im Parlament? #t
+
+1361795178 Radio, Podcasting und erzwungene Internetstörungen #chapter
+1361795195 Tim hat ein rotes Radio
+1361795210 Logitech Squeezebox Radio <http://www.logitech.com/de-de/support/squeezebox-radio-black?crid=409> #t
+- Squeezebox bei Amazon <http://www.amazon.de/dp/B002N2YZYU> #shopping
+- Der Podcast Support ist lausig
+1361795427 Relive Radio <https://reliveradio.de/> #g #podcast
+1361795557 Tim findet Lauftext und lange Sendungstitel blöd #t
+1361795676 Tim empfiehlt den Podlove Publisher <http://podlove.org/podlove-podcast-publisher/> #t
+1361795684 Holgis WRINT-Soundlogo wurde für ein Bauspar-Werbe-Video verwendet
+1361795740 Tim empfiehlt Holgi die fiesesten Abmahnanwälte
+1361795912 „Man stelle sich vor, der Stromprovider stellt einmal am Tag den Strom ab“ (Tim) #quote #t
+1361795981 Energische Aussprache: „Mach das Netz an und mach es nicht aus!“ #q
+1361796006 Tim und Holgi verstehen die 24 Stunden-Zwangstrennung Unsinn #t
+1361796106 Holgi beschwert sich über die Telekom Navigationshilfe
+1361796150 Navigationshilfe lässt sich nicht ausschalten
+1361796230 Holgi rantet über die FRITZ!Box <http://www.avm.de/de/Produkte/FRITZBox/> #t
+1361796265 Sehr energische Aussprache: „IP … … Telekom … $%&? … Verbindung!“ #q
+1361796297 Tim und Holgi essen Pizza und trinken Club-Mate und Bier
+1361796358 „Wenn man lange genug ausdifferenziert, baut Porsche auch energieeffiziente Autos“ (Holgi) #quote
+1361796416 „Im ausgeschalteten Zustand ist es super. Es zeigt Datum und Uhrzeit an.“ (Tim) #q
+1361796430 iPad als Klolektüre
+1361796570 IP statt UKW und Podcasts im Auto #t
+1361796700 Tim spricht sich für die Nische aus #t
+1361796796 „Lean forward“ und „Lean back“ <http://en.wikipedia.org/wiki/Interactive_television#User_interaction> #g
+1361796829 Das Interesse daran ist da, sonst hätte Wrint nicht so viel Erfolg
+1361796971 Tim ist nicht Zielgruppe der Automobilindustrie #t
+1361797035 Tim will ein hochwertiges Audiosystem mit Podcast-Support im Auto haben
+- Beispiel Ford <http://www.heise.de/newsticker/meldung/Ford-stellt-mobiles-Multimedia-System-vor-1810137.html>
+1361797205 DAB+ ist eine tolle Technik, wird sich aber nicht durchsetzen. Sachsen will UKW erst 2024 abschalten #t
+- DAB+ <https://de.wikipedia.org/wiki/Digital_Audio_Broadcasting> #g
+
+1361797348 Ein Herz für Podcasts <http://podlove.org/> #chapter
+1361797356 re:publica 13 <http://re-publica.de/> #t
+1361797375 re:publica Vorveranstaltung am Wochenende davor #t
+1361797405 „GdP – Gewerkschaft der Podcaster. DPolG – Deutsche PodLover Gewerkschaft.“ (Holgi) #quote
+1361797505 Wikigeeks <http://wikigeeks.de/> #podcast #t
+1361797537 Holgi spricht den „Mein Führer“ Trailer nach <https://www.youtube.com/watch?v=dOrHmivPEhk> #video
+1361797790 Kostenlos Podcasten mit Auphonic <https://auphonic.com/blog/2013/02/07/how-to-podcast-for-free/>
+1361797815 „Sehr nette Leute!“ (Holgi zitiert Loriots Ödipussi) #q
+- Sehr nette Leute auf Youtube: <https://www.youtube.com/watch?v=slQZeIwKHYE#t=1m19s> #v
+1361797888 Coworking <https://de.wikipedia.org/wiki/Coworking> #g
+- Holgi gefällt co-up.de <http://co-up.de/>
+- Tim empfiehlt den Raum für Software-Entwickler
+1361797995 Holgi befürwortet Gemütlichkeit
+1361798130 „… (Stille) …“ #quote
+1361798144 Holgi hat auf die Notfall-CD gewartet
+1361798242 Holgi hat eine PreSonus Audiobox 22VSL <http://www.presonus.com/products/AudioBox-22VSL>
+- Bei Thomann <http://www.thomann.de/de/presonus_audiobox_22vsl.htm> #shopping
+- Sehr mobil durch robuste Verarbeitung
+- Kein Realtime-Expander 
+1361798248 Holgi hat keinen Hall
+1361798459 DSP <https://de.wikipedia.org/wiki/Digitaler_Signalprozessor> #g
+1361798578 Tim fragt, ob Holgi das Gerät auch richtig bedient hat #t
+1361798685 Open Sound Control (OSC) <https://de.wikipedia.org/wiki/Open_Sound_Control> #glossary
+
+1361798721 Roadkill, Pferdepizza und Soundschnipsel #chapter
+1361798721 Tim war auf Reisen in München, in der Pampa und in Wien #t
+1361798767 Holgi fragt sich, was man macht, wenn man einen Hund überfährt #t
+- Wäre am 24.02. Holgi fast passiert (Sonnenallee)
+- Kleiner Hipster-Hund
+1361798877 „Thilo, ich weiß was Du getan hast“ (Holgi) #quote
+1361798973 „Aussteigen. OH MEIN GOTT, MEINE FELGEN! Einsteigen. Wegfahren“ #quote
+1361798996 Holgi hat seinen eigenen Hasen gegessen #t
+1361799033 Kaninchenverschlag #t
+1361799135 Holgi fragt sich und Tim, warum wir keine Hunde essen #t
+1361799162 „Pferdefleisch Mimimi“ (Holgi) #quote
+1361799247 I Due Forni hat Pizza mit Pferdefleisch <https://plus.google.com/109554841420417194193/> #g
+1361799439 Il Casolare <https://plus.google.com/116376149679724621784/> #g
+1361799462 „Dafür kann man sich auch anschreien lassen.“ #q
+1361799480 Radio Aporee (Geotagging von Soundschnipseln) <http://radio.aporee.org> #t
+1361799647 Hundstage <https://de.wikipedia.org/wiki/Hundstage_(2001)> #g
+1361799874 Holgi macht nun immer sonntags den Blue Moon bei Fritz <http://www.fritz.de/programm/blue_moon.html> #t
+- Beim Thema Wochenrückblick rufen kaum Leute an
+- Holgi will Tipps von Tim
+
+1361800079 Meteor in Russland #chapter
+1361800079 Zusammenfassung <http://scienceblogs.de/astrodicticum-simplex/2013/02/17/der-meteor-uber-russland-eine-zusammenfassung/> #t
+1361800090 In Russland haben die Leute zum Selbstschutz Kameras in den Autos
+1361800196 Eigentlich hatte die ganze Welt auf den Vorbeiflug eines Asteroids gewartet
+1361800243 Hätte man den Einschlag vorhergesagt, wäre das ein Totschlagargument für die Astronomen #t
+1361800339 Holgi ist für nächste Woche mit seinem „Hausastronom“ verabredet
+1361800511 Der BANG! <http://youtu.be/b0cRHsApzt8> #video
+- „Leck mich am Arsch!“ (Holgi zum Einschlag) #q
+- Die Explosion von nahem <http://www.youtube.com/watch?v=TXWBHyM3rbE> #video
+- Die Reaktion der Russen <http://www.youtube.com/watch?feature=endscreen&NR=1&v=4wvzzsZn0bI> #video
+1361800678 Namensklärung: Asteroiden und Kometen #t
+1361800758 Ist Physik, muss man wissen #quote
+
+1361800943 Geschenke #chapter
+1361800935 Arduino <http://arduino.cc/> #t
+1361801003 Erfolgreiche Crowdfunding-Projekte
+1361801022 NSFW-Port „A$r%s&…“ #t
+1361801051 Tim scannt das Anschreiben mit einem Dokumentenscanner ein <http://scanners.fcpa.fujitsu.com/scansnap11/iX500.html> #t
+1361801104 mobileMacs-Folge in der Tim seinen Scanner vorstellt <http://mobilemacs.de/2013/02/mm105.html> #podcast
+1361801231 Watchever <http://www.watchever.de>
+- Gibt die gleichen alten Sachen wie bei iTunes, nicht mit NetFlix vergleichbar
+1361801338 LED, die irgendwas morst – Gebaut mit Digispark <http://digistump.com/>
+1361801477 500 € sind für Holgi zu viel für einen Scanner. Tim will ein digitales Büro #t
+1361801676 Tims Scanner kann doppelseitig scannen
+1361801707 Tim digitalisiert die Hörerpost
+1361801840 Der kleine Wappler: So flucht und schimpft Österreich <http://www.amazon.de/dp/3701715998> #shopping
+1361801994 Kürbiskernöl von Familie Gutmann
+- Kürbiskernöl bei Wikipedia <https://de.wikipedia.org/wiki/Kürbiskernöl> #g
+1361802054 Der Sinn des Labens <https://de.wikipedia.org/wiki/The_Meaning_of_Liff> #g
+1361802086 Bleistift <https://de.wikipedia.org/wiki/Bleistift>
+1361802174 Darmwinde <https://de.wikipedia.org/wiki/Flatulenz> #topic
+1361802300 Wappler <http://www.ostarrichi.org/woerterbuch.html?wort=51> #g
+1361802359 Berlusconi wird wohl nicht wieder Ministerpräsident <http://www.faz.net/aktuell/politik/ausland/$-12093979.html> #news
+1361802363 30 Rock <https://de.wikipedia.org/wiki/30_Rock> #g
+1361802380 Glif <http://www.studioneat.com/products/glif>
+1361802428 „Neuer ist immer besser! Immer!“ (Holgi) #q
+1361802592 Geschenk mit Briefumschlag von den Shownotes <http://shownot.es> #t
+1361802708 „Hach! Ein Shownotes-Zelt!“ (Holgi zu seinem shownot.es T-Shirt in 3XL) #q
+1361802786 Holgi freut sich über Knackfolie #t
+- Synchronpoppen aufm 29C3 <https://soundcloud.com/tasmo/29c3-poppen-at-29c3> #audio
+1361802854 Paragraph #t
+- ¶ in der Textverarbeitung <https://de.wikipedia.org/wiki/Absatzzeichen> #g
+- § im Gesetz <https://de.wikipedia.org/wiki/Paragraphenzeichen> #g
+
+1361802894 Tim schlägt vor, im Vorfeld der nächsten Sendung einen Witzplan anzufertigen
+1361802947 Helden wie wir <https://de.wikipedia.org/wiki/Helden_wie_wir> #g #book
+1361803020 Der grüne See <https://de.wikipedia.org/wiki/Tragöß#Kultur_und_Sehenswürdigkeiten> #g
+- Tims Foto <http://pbs.twimg.com/media/BCxPHSgCAAENj54.jpg> #image
+1361803157 Fascinating Pics <https://twitter.com/Fascinatingpics> #g
+
+1361803261 Snapseed for iOS <https://itunes.apple.com/de/app/snapseed/id439438619> #shopping #app
+1361803293 Hart aber Fair am 25. Februar mit dem Thema „Hitler als Witzfigur – worüber darf Deutschland lachen?“
+- Sendung <http://www.hartaberfair.de>
+- Gäste: Oliver Pocher, Erika Steinbach, Hellmuth Karasek, Leo Fischer, Rudolf Dreßler
+1361803300 „Es bleiben im Raum: Pocher, Steinbach, Karasek!“ (Holgi) #quote #t
+1361803369 „Föttchesföhler“ (Holgi) #q
+- Erklärung <http://www.koelsch-woerterbuch.de/foettchesfoehler-auf-deutsch-455.html> #g
+1361803524 Constantin Film lässt Untergang-Videos löschen <http://www.gulli.com/news/13111-$>
+- Hitler Reacts Meme <http://knowyourmeme.com/memes/downfall-hitler-reacts>
+
+1361803747 Verkehr und Leo Fischer #chapter
+1361803754 „Kein Sex für Nazis“ #quote
+1361803766 Induktionsbus für Berlin <http://www.tagesspiegel.de/berlin/elektromobilitaet-strom-aus-der-strasse-fuer-bvg-busse/6016606.html> #t
+1361803972 Renault Twizy <https://de.wikipedia.org/wiki/Renault_Twizy> #g
+1361804098 Mitschnitt von der LateLine mit Leo Fischer <http://ubuntuone.com/27gixYTZOAipTCxV5oSxOA> #audio
+1361804208 Hintner Jugend <http://hintnerjugend.de>
+- Wikipedia <https://de.wikipedia.org/wiki/Partei_für_Arbeit,_Rechtsstaat,_Tierschutz,_Elitenförderung_und_basisdemokratische_Initiative#Die_Hintnerjugend> #g
+1361804483 Holgi fand die Sendung sehr lustig
+1361804538 Tim geht auf die Bühne mit Raumzeit
+- Mo, 08.04.2013 19:00 Uhr in der Centralstation Darmstadt <http://www.centralstation-darmstadt.de/event.php/5300001/> #g
+1361804778 Holgi macht einen Weiberabend auf der Bühne
+1361804823 Holgis neue Wrintheits Partnerin Alexandra <http://alexandratobor.de/> #t
+- Alexandra auf Twitter @silenttiffy <https://twitter.com/silenttiffy> 
+1361804975 Ziegen die wie Menschen schreien
+- Goats Yelling Like Humans - Super Cut Compilation <http://www.youtube.com/watch?v=PpccpglnNf0> #video
+1361805129 Tims Grafikkarte ruckelt bei Flash-Videos #t
+
+1361805149 Sendungsende
+- Video zum Ende: Wenn die Slipeinlage nur gut sitzt <http://www.youtube.com/watch?v=LgnSf6PipJ4> #video
+

@@ -1,0 +1,92 @@
+HEADER 
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NG67 (Montag, 25. März 2013)
+mit Witzman (@witzman) und Tom
+Publikation: (noch eintragen)
+- auf netzgespraeche.de <http://netzgespraeche.de/>
+
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/ng.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NG67>
+Chat: <http://webchat.freenode.net/?channels=#ng>
+Timer: Zeitangaben werden vom HMS-TimeStamp-Bookmarklet geschrieben.
+Siehe http://shownotes.github.com/EtherpadBookmarklets/
+Das Plugin wandelt alle ### am Anfang von Zeilen in HH:MM:SS Zeitangaben um
+
+/HEADER
+
+1364241653 Begin der Sendung mit Troll-Intro von Tom #chapter
+1364241759 Intro die 2.
+1364241801 Begrüßung und wie ein Umlaut sich bei Xenim rächt
+1364241814 Tom zeigt sich schüchtern
+1364241862 Die Schmerzen mit den Umlauten
+1364241903 Der Umzug zu Xenim
+1364241950 Wie war die letzte Woche?
+1364241967 Erkältungen, Ohrtrompetenvereiterung, Antibiotika
+1364242032 Krankschreibungsstastik
+1364242095 Kinder als Überträger
+1364242125 Christans Empfehlung der Woche: Plague Inc <https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&hl=de> #shopping
+1364242335 Zombokalypse-Notfallplan der BRD <http://www.n-tv.de/politik/Berlin-ignoriert-Zombies-article10343821.html> #chapter
+1364242432 World War Z - Zombie-Film mit Brad Pitt <http://www.imdb.com/title/tt0816711/>
+1364242492 Walking Dead hat Christian das Genre madig gemacht
+1364242528 Das Licht muss getauscht werden. Technische Probleme bei Christian. Tom überbrückt.
+1364242589 Leuchtmittel im Hause Christian
+1364242637 Leuchtschlauch <http://www.amazon.de/10m-Lichtschlauch-BLAU-Prismeneffekt-13mm/dp/B000TQHO6S> #shopping
+1364242661 „Es leuchtet Blau“
+1364242711 Zurück zu den Zombie-Filmen
+1364242779 Liebesgeschichten in Zombie-Filmen
+1364242791 Zombie-Komödie Warm Bodies <http://www.imdb.com/title/tt1588173/>
+1364242912 Google schaltet den Reader ab #chapter
+1364243053 duckduckgo.com und weitere Suchmaschinen
+1364243191 Alternativen zum Google Reader
+1364243245 Tiny Tiny RSS <http://tt-rss.org/redmine/projects/tt-rss/wiki>
+1364243289 Tom möchte keinen Web-Client
+1364243499 Zusammenspiel zwischen Apps und Readern
+1364243678 Technikthemen 
+1364243752 Vettel ignoriert Stallorder #chapter
+1364243915 Autorennen, Formel 1 ... Christian hat Fragen
+1364243944 Warum fährt man im Team?
+1364244119 Christian würde die Damenvölkerball-WM mit Medizinbällen schauen
+1364244181 Robowars
+1364244234 Xing - Jeder kennt jeden über sechs Ecken #chapter
+1364244341 Die Theorie wird überprüft, ob man mit 19 Clicks von Spiegel.de zu Youporn gelangt.
+1364244558 Sex-Suchanfragen der verschiedenen Ländern <http://www.pornmd.com/sex-search> #chapter
+1364244816 Galerie der Pornostars ungeschmickt <http://izismile.com/2013/03/08/porn_stars_before_and_after_their_makeup_makeover_93_pics.html>
+1364244952 Sexy Sport Clips Car Stuck Girls <www.carstuckgirls.com>
+1364245110 Videos im Podcast sind langweilig 
+1364245148 Bahn steigert ihren Gewinn, Tom regt sich auf
+1364245208 Foxxcon steigert seinen Gewinn ebenfalls, Tom regt sich noch mehr auf
+1364245288 Die Bahn und ihre Investitionen
+1364245355 
+1364245454 Link aus dem Chat: Pornoseiten gescannt und Kommentare extrahiert >http://incautious.org/>
+1364245555 Kickstarter #chapter
+1364245565 Was haben Tom und Witzman „gecrowdfundet“
+1364245625 App.net - Braucht man das? <http://app.net>
+1364245755 Tom wüsste nicht warum er für App.net zahlen sollte
+1364245838 ADN ist wie ein Golfclub (Christian)
+1364245892 Was gibt es noch an Social Networks?
+1364246010 Verwirrte Antilope <http://www.chilloutzone.net/video/verwirrte-antilope.html>
+1364246012 Tom über eine Erfahrung mit Google+
+1364246209 Pinterest Redesign
+1364246242 Android-Client für Tiny Tiny RSS <http://tt-rss.org/redmine/projects/tt-rss-android/wiki>
+1364246270 Abmoderation
+1364246315 Verabschiedung
+
+
+
+
+

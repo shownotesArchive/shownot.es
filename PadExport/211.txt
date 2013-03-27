@@ -1,0 +1,195 @@
+HEADER
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.)
+
+Alle Einträge  bitte mit dreistelligem Zeitstempel: hh:mm:ss, also z. B. 01:23:45;  damit diese synchronisiert sind, bitte den "Timer"-Link benutzen, sobald  er an die Startzeit angepasst ist! Zitate in <italic>, Themenüberschriften in <bold>. Danke
+
+
+NSFW60 (Montag, 07. Januar 2012)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/nsfw.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NSFW061>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FNSFW061&time=12%3A50%3A11>
+Chatlogs: <http://pastebin.com/YAL1UDrw>
+
+Zusammengetragen von: @mrmoe, Pooky, @evitabley, @SimonWaldherr, German
+
+Sendungsbeginn: ca. 12:50:11 Uhr
+
+
+
+Sendungsende: ca. 16:29:13 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+"Tim hats kaputt gemacht"
+"Der Stream wird vorbereitet"
+"Gigabit Merkel"
+"Holgi bucht schonmal"
+"Die ARD weinen sehen"
+"Du, meine Mutter und Don Alphonso"
+"Mein Haus, mein Porsche, mein Programmierer"
+"Speisekartentürkisch"
+"One pound fish im Schritt"
+"Hörschulden"
+"Von hinten wie von vorn: B-E-T-T-I-N-A"
+
+
+
+Kapitelmarken: 
+00:00:00.000  Birthday Song
+00:11:40.000  29C3
+00:33:11.000  Holgis Pläne für 2013
+00:42:00.000  Tims Pläne für 2013
+01:23:30.000  Professionelle Radio- und Fernsehsprecher
+01:32:00.000  Bahn-Fahren und Carsharing
+01:54:00.000  One Pound Fish im Schritt
+02:08:00.000  Erholungsurlaub und 29C3 (Fortsetzung)
+02:33:40.000  Geschenke
+02:49:00.000  Skaten, wo und wie
+03:09:05.000  Von hinten wie von vorn: B-E-T-T-I-N-A
+03:20:25.000  Podcast-Empfehlungen und Holgis Küche
+03:35:20.000  Outro: "MITTEKILL - Jzt wrd gfckt"
+
+<http://cdn.simon.waldherr.eu/projects/osf-parser-suite/?configfile=timpritlove>
+
+
+/HEADER
+
+1357666558 Intro: "Jon Lajoie - "The League" The Birthday Song" <http://www.youtube.com/watch?v=kqf9hxf3GLs> #video #chapter
+
+1357666658 Scientology-Betrollung durch Anonymous in Berlin
+Anonymous <http://de.wikipedia.org/wiki/Anonymous_(Kollektiv)> #glossary
+E-Meter <http://de.wikipedia.org/wiki/E-Meter> #glossary
+Lachflash
+Begrüßung
+Holgi erzählt von seinem ersten digitalen Anrufbeantworter
+Holgi hat alles was er sich vor 20 Jahren gewünscht hat
+Tim hat dieses Jahr "25 Jahre erste Email"
+Germany.net <http://de.wikipedia.org/wiki/Germany.net> #glossary
+"Die Metaebene ist gerüstet für 2013" #quote
+
+1357666690 Affiliate Test Kapitel #chapter
+iTunes Demo Link Gangnam <https://itunes.apple.com/de/album/gangnam-style-gangnamseutail/id560409896?uo=4>
+Tim hat seine Kopfhörer in den Fritz Studios gefunden <http://www.fritz.de> #topic
+Sennheiser HME26 #topic
+- HME26 bei Thomann <http://www.thomann.de/de/sennheiser_hme266007_set.htm> #shopping
+- HME280 bei Amazon <http://www.amazon.de/dp/B0026RKFFK/> #shopping
+Domian trägt auch so ein Headset <http://www.einslive.de/sendungen/domian/> #topic
+Sennheiser HD 25 <http://www.thomann.de/de/sennheiser_hd251_ii.htm> #shopping
+
+1357666758 29C3 #chapter
+29C3 <http://events.ccc.de/congress/2012/wiki/Main_Page> 
+Holgi war in Berlin, der Kongress jedoch in Hamburg
+In der 1. Turnhalle waren ca 300 Leute und nur elf in der 2. die Übernachtung kostete 5€
+Hotelpreise beim 29C3
+"Man kann über den Kongress wenig klagen" #quote
+Probleme beim Ticketkauf der vergangenen Jahre beim CCC
+"CCC ist in Hamburg "zu Hause", und hat dort einen hohen Stellenwert" #quote
+Geschichtliche Entwicklung des CCC in Hamburg und Berlin
+Organisatorische Neuerungen / Verbesserungen beim 29C3
+Foto des gehackten CCH-Logos: http://bit.ly/VNO7bI
+Foto der Schlange: http://bit.ly/108kHg6
+Sääle des 29C3: Saal 1 hatte 3000 Plätze auf 4 Ebenen, Saal 4 ca 350 Plätzen und Saal 6 mit ca 200 Plätzen 
+6.600 Tickets verkauft
+Holgi bucht schon mal jetzt die Übernachtung für den 30c3
+
+1357666858 Holgis Pläne für 2013 #chapter
+Holgi will die Schlagzahl von Wrint <http://www.wrint.de/> etwas verringern
+Holgi ist begeistert von den vielen tausend Hörern und von den Spenderzahlen
+Holgi möchte 2013 sein Studium abschließen <http://www.onlineradiomaster.de/>
+Holgi will sich beim WDR bewerben und Intendant werden #spoiler
+Holgi möchte ab Februar die Wrint-Ferngespräche wieder aufnehmen #spoiler
+
+1357666958 Tims Pläne für 2013 #chapter
+Tim will die ARD weinen sehen
+PodloveProjekt <http://podlove.org/>
+Die GEZ und der Rundfunkstaatsvertrag
+Jim-Studie <http://www.mpfs.de/index.php?id=527>
+Projekt der Hörsuppe <http://hoersuppe.de> 
+Podlove soll verbessert werden
+Crowdfunding-Initiative um Entwickler für eine bestimmte Zeit aus ihren Jobs rauszukaufen.
+Shownotes-Verbesserung, -Standardisierung, -Archivierung, Personenübersichten, etc.
+Blogs als Thesen- und Diskussionsplattform
+Die Liste ist lang und noch lange nicht am Ende angelangt
+Tim: "Podcasting ist Radio mit Community" #quote
+Holgi zu seinen Podcasts: "Ich bin die Stimme der Sendung, die wir gemeinsam produzieren" #quote
+Holgi: "Ich warte darauf, dass in meinem Leben drei Menschen recht haben: Du, meine Mutter und Don Alphonso" #quote #spoiler
+Tim: "Mein Haus, mein Porsche, mein Programmierer" #spoiler
+Sheldon Cooper: "Everything is better with Bluetooth" #quote <http://de.wikipedia.org/wiki/The_Big_Bang_Theory> #glossary
+Verbesserungen beim Podcasting (Holgi: "Der Auphonic-Effekt")
+
+1357667058Professionelle Radio- und Fernsehsprecher #chapter
+Radio-"Panne" des Kollegen Tommy Wosch zum Thema Aussteuerung
+<http://www.radiopannen.de/index.php?pid=185>
+Elmar Gunsch ist gestorben <http://de.wikipedia.org/wiki/Elmar_Gunsch> #glossary
+Elmar Gunsch liest Wolfgang Petry
+<http://www.youtube.com/watch?v=-ioVqGOxbEw> #video
+Christian Brückner <http://de.wikipedia.org/wiki/Christian_Br%C3%BCckner> #glossary
+
+
+1357667158 Bahn-Fahren und Carsharing #chapter
+Holgi erzählt von seiner Bahnfahrt von Berlin nach Erftstadt
+Horrem
+<http://de.wikipedia.org/wiki/Horrem_(Kerpen)> #glossary #spoiler
+Tim hat eine BahnCard 100 <http://www.bahncard-100.de>
+Carsharing <http://de.wikipedia.org/wiki/Carsharing> #glossary
+Carsharing-Firmen:
+- Multicity
+<http://www.multicity-carsharing.de/>
+- Car2Go <http://www.car2go.com/> 
+
+1357667258 One pound fish im Schritt #chapter
+One pound fish 
+- Original <http://www.youtube.com/watch?v=ETSl8gWsFZ0> #video
+- Remix <http://www.youtube.com/watch?v=lF_QrrB8ct8> #video
+- BBC News <http://www.bbc.co.uk/news/uk-20826525> #video
+Holgi liest aus dem Van de Velde <http://www.amazon.de/Die-vollkommene-Theodor-Hendrik-Velde/dp/B0000BOV9V> #shopping
+
+1357667358 Erholungsurlaub und 29C3 (Fortsetzung) #chapter
+Holgi hat seit der letzten Sendung nichts erlebt #spoiler
+"Man muss ein interessantes Leben leben, damit man was zu erzählen hat" #quote
+Kongress die 2.
+Lockpicking <http://de.wikipedia.org/wiki/Lockpicking> #glossary #wikilink
+"Eine Leistungsshow von Netzwerktechnik" #quote
+NOC beim 29C3 <http://www.youtube.com/watch?v=MU7KZiCL9fg> #video
+Bild/Tweet des NOC beim 29C3 (Photoshop) <http://twitter.com/c3noc/status/286523604835893248>
+CCH wurde mit vier Providern mit "Dem Internet" verbunden
+Dark Fibre (dunkle Faser) <http://de.wikipedia.org/wiki/Lichtwellenleiter#Dark_Fibre> #glossary #wikilink
+eine zusätzliche Leitung gabs vom Nachbarhaus durch die Stadtwerke
+WLAN beim 29C3
+Henne-Ei-Problem <http://de.wikipedia.org/wiki/Henne-Ei-Problem> #glossary #wikilink
+IPv6 <http://de.wikipedia.org/wiki/IPv6> #glossary #wikilink
+Internet der Dinge durch IPv6 möglich <http://de.wikipedia.org/wiki/Internet_der_Dinge> #glossary #wikilink
+9000 WLAN Devices auf dem 29C3
+Streaming auf dem Kongress in Flash und HLS (HTTP Live Streaming) <http://de.wikipedia.org/wiki/HTTP-Streaming> #glossary
+- und MP3, Telnet, ...
+
+1357667458 Holgis Festplattentausch
+FusionDrive <http://de.wikipedia.org/wiki/Fusiondrive> #glossary
+Tim muss mal vorbei kommen
+Fish Man - One Pound Fish <https://www.youtube.com/watch?v=LbT3Z_f7Qds> #youtube #video
+Gangnam Style ohne Deutschland - dank GEMA
+Ankündigung HörerInnengrillen
+iTunes Demo Link Gangnam <https://itunes.apple.com/de/album/gangnam-style-gangnamseutail/id560409896?i=560409906&uo=4>
+
+1357667558 Geschenke #chapter
+Sticker von Peppermint "Denkt an die Elektrolyte!" (Zitat aus "Herr Lehmann" (2003)) #spoiler
+Tim schreibt wieder Briefe
+- und Holgi Postkarten
+Nur für Holgi: ein diskreter Umschlag, über dessen Inhalt man nicht sprechen kann
+Mystery Science Theater 3000
+- Amazon <http://www.amazon.de/Mystery-Science-Theater-3000-Movie/dp/B0008FMHIU> #shopping
+- Wikipedia <http://de.wikipedia.org/wiki/Mystery_Science_Theater_3000> #wikilink #glossary
+Holgis Lachflash <https://soundcloud.com/holgi23/frohes-fest>
+Flak-Punsch
+"Hörschulden" #zitat
+Urlaub und Reisen
+GolfCross <http://www.golfcross.com>
+GolfCross Wikipedia <http://en.wikipedia.org/wiki/GolfCross> #glossary
+Fotos von Briefkästen in Neuseeland <http://letterboxes-nz.tumblr.com>
+

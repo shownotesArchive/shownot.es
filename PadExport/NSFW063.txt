@@ -1,0 +1,210 @@
+HEADER
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>. Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+NSFW63 (Montag, 11. Februar 2013)
+mit Tim Pritlove (@timpritlove) und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf WRINT <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/metaebene.mp3>
+Shownotes: <https://shownotes.piratenpad.de/NSFW063>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+Chatlogs: <http://pastebin.com/sQUhURn9>
+
+Zusammengetragen von: @mrmoe, Gurkitier, German, Aduril, @evitabley, @ctrettin, @hypergrip, @Yocky, @Kambfhase, @SimonWaldherr, @ZarembaMarco, modprobe
+
+Sendungsbeginn: 13:10:31 Uhr
+Sendungsende: ca. 16:21:43 Uhr
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+„Barbiepuppenblond“
+„Der Podcast-Papst“
+„Podcasten bis der Papst ruft“
+„Flitzebogen, Hackebeil und Schießgewehr“
+„Pontifex Interruptus“
+„Wurst, Mett und Pfennige“
+„Provisoriumsbrösel“
+„AFK“
+„Nobody expects the Bavarian inquisition“
+
+Kapitelmarken: 
+
+/HEADER
+
+1360585760 Intro #chapter
+Kurt Razelli – General Stronach Song <https://www.youtube.com/watch?v=U19mvsyRVRc> #video
+1360585920 Holgi kennt den Ursprung des Videos (Interview mit Frank Stronach) <http://de.wikipedia.org/wiki/Frank_Stronach>
+1360585945 Stronach will Nazipartei in Österreich gründen
+1360585965 Es gibt ein Interview bezüglich eines Skandals <http://www.youtube.com/watch?v=11xK-GK3VBI> #video
+1360585978 Interview mit Stronach erinnert an Alex Jones bei Piers Morgan <http://www.youtube.com/watch?v=gWQPZ-taYBs> #video
+1360586038 Intro von NSFW062: 7200 Schilling Song <http://www.youtube.com/watch?v=4VTTz6CrFM4> #video
+
+1360586096 Begrüßung und Copyright-Diskussion #chapter
+1360586137 Vanessa Song 2 <http://www.youtube.com/watch?v=mmlb0uMguww> #video
+1360586271 Shiva Song <http://www.youtube.com/watch?v=ig9tveIsgj0> #video
+1360586383 Der Monat des Genitivs wurde von Tim ausgerufen
+1360586444 „Der Süden kann sich mal“ #quote
+1360586530 „Aromatische Sprachkombination“ #quote
+1360586532 „Dem Genitiv sein Freund“ #quote
+1360586635 Tim und Holgi sind derzeit noch nicht allzu begeistert von iTunes-Match <http://de.wikipedia.org/wiki/iCloud#iTunes_Match>
+1360586706 Derzeit hat Tim wenig bis gar keine Musik
+1360586729 Zu Zeiten des Chaosradios war Tim noch auf dem Technotrain
+1360586786 Holgi will schnelleres Rippen
+1360586807 Tim hatte frustrierendes Downloaderlebnis mit iTunes
+1360586884 HDCP-Frust (High-Bandwidth Digital Content Protection) <http://de.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection> #g
+1360586993 Tim meint, das sei kein Apple-Problem, sondern ein Hollywood-Problem
+1360587039 Holgi vermutet, dass DRM jetzt vielleicht wieder kommt, im Kontext von spotify und Co.bhb
+Film: The Pirate Bay Away From Keyboard <http://www.youtube.com/watch?v=eTOKXCEwo_8> #video #t
+1360587392 Holgi: „Contentindustrie wollte ein Exempel statuieren“ #quote
+1360587440 Tim behauptet, Schweden sei die "Pop-Schmiede" der Welt; Holgi ist da skeptisch
+1360587480 Peter Sunde <http://de.wikipedia.org/wiki/Peter_Sunde> #g #topic
+- Twitter <https://twitter.com/brokep> #tweet
+- his TPB AFK Review <http://blog.brokep.com/2013/02/07/tpb-afk-my-review/> #topic
+1360587535 Der Schweden-Schrei ist ein Studentengag <https://www.youtube.com/watch?v=7WhW30sjFhA> #video
+1360587835 Pressekammer des Landgerichts Hamburg <http://de.wikipedia.org/wiki/Landgericht_Hamburg#Pressekammer> #g
+1360587870 Wunsch von Holgi: realitätsnahe Urteile von Gerichten. Problem: Richter sind unabhängig
+1360587884 Ronald „Richter Gnadenlos“ Schill <http://de.wikipedia.org/wiki/Ronald_Schill> #g
+
+1360587984 Papst-Rücktritt und Karneval #chapter
+1360587984 Der Papst hat angekündigt, zurückzutreten <http://www.spiegel.de/panorama/gesellschaft/papst-ruecktritt-benedikt-xvi-legt-sein-amt-am-28-februar-nieder-a-882629.html> 
+- Statement: <http://de.radiovaticana.va/Articolo.asp?c=663810> #topic
+1360588118 Sanskrit <http://de.wikipedia.org/wiki/Sanskrit> #g
+1360588123 BNF-Grammatik <http://de.wikipedia.org/wiki/Backus-Naur-Form> #g
+1360588180 Kommentare zu Holgis Meinung über die lateinische Sprache aus NSFW062 <http://not-safe-for-work.de/nsfw062/#comments>
+1360588240 „Romanes eunt domus!“ Monty Python <http://www.youtube.com/watch?v=axq3ngoFK_s> (Holgi) #q
+1360588251 „alea iacta est“ #q
+1360588386 Tim schlägt vor, den Papst zukünftig als Experte im TV Kirchenveranstaltungen kommentieren zu lassen.
+1360588441 Harald Glööckler <http://de.wikipedia.org/wiki/Harald_Glööckler> #g
+1360588465 Detlef D! Soost <http://de.wikipedia.org/wiki/Detlef_Soost> #g
+1360588502 Holgi findet, Gauck sollte Papst werden
+1360588550 „Vatikan und Karneval ist eigentlich das Gleiche“ #quote
+1360588827 Karnevalsvereine sind Klüngel <http://de.wikipedia.org/wiki/Kölner_Klüngel> #g
+1360588837 „Niemand geht in die FDP weil er politische Überzeugungen hat, sondern wegen des Klüngels.“ (Holgi) #quote
+1360588999 Holgi hat gerne in Düsseldorf gearbeitet. „Dem Dreckskaff.“ #quote
+1360589080 „Ich habe mein Bein im Krieg gelassen, aber ich hab schöne Marschmusik dabei.“ #quote
+1360589100 Mainzer Nahallarrmarsch <http://www.youtube.com/watch?v=U-2DFOyUDAc> #v
+1360589182 Holgis Johannes-Paul-II.-Imitation #quote
+1360589324 Holgis Papstbewerbung #topic
+1360589500 „Wir werden beide Papst“ #quote
+1360589536 “Science is interesting and if you don’t agree you can fuck off!” (Richard Dawkins) <https://www.youtube.com/watch?v=407HpvK2fsM> #video #quote
+- Richard Dawkins <http://de.wikipedia.org/wiki/Richard_Dawkins> #g
+1360589562 Tim will eine CRE-Episode mit Joseph Aloisius Ratzinger (Benedictus XVI.) machen #t
+1360589690 Berufsform des Papstes (Ist der Papst Freiberufler/Selbstständig?) #topic
+1360589761 “Nobody expects the Bavarian inquisition” - Anspielung auf Monty Pythons Flying Circus <http://www.youtube.com/watch?v=Tym0MObFpTI> #video #quote
+1360590036 heute Abend 20:15 Uhr Hertha gegen Union
+
+1360590110 Geschenke und Podlove #c
+1360590240 Große Blechkiste, auf ihr steht „Das nötige Kleingeld“
+1360590286 Inhalt: Wurst, Schinken, Mett und Pfennige
+1360590567 Bamberger Mahrs Bräu <http://www.mahrs.de/>
+1360590690 Hatchet-Wielding Homeless Hitchhiker Took Down Man Claiming To Be Jesus <https://www.youtube.com/watch?v=U8tX1FOEEX0> #video
+1360590886 Remixe #topic
+1360591037 Holgi erinnert an den Bed Intruder <https://www.youtube.com/watch?v=mEAKsaQOCpQ> #video
+1360591154 Und täglich grüßt das Murmeltier (1993) <http://de.wikipedia.org/wiki/Und_täglich_grüßt_das_Murmeltier> #g
+- Punxsutawney <http://de.wikipedia.org/wiki/Punxsutawney#Murmeltiertag> #g
+- Murmeltiertag <http://de.wikipedia.org/wiki/Groundhog_Day>#g
+1360591202 Geschenk vom Namhaften Podcast <http://www.namhaft.org/> #podcast
+1360591339 Holgi erklärt die Aeropress <http://de.wikipedia.org/wiki/AeroPress> #g
+- bei Amazon <http://www.amazon.de/dp/B000GXZ2GS/> #shopping
+- offizielle Webseite des Herstellers <http://www.aeropress.com/>
+1360591490 „Ist halt hässlich…“ (Holgi zur Aeropress) #q
+1360591540 Holgi schenkt Tim Äthiopien (und wenn er brav ist Österreich und die Schweiz) <http://de.wikipedia.org/wiki/Äthiopien> #g
+1360591600 Podlove Web Player <http://podlove.org/podlove-web-player/> #t
+1360591614 Podlove Podcast Publisher <http://podlove.org/podlove-podcast-publisher/> #t
+1360591676 Holgi plant ein Projekt außerhalb der WRINT Reihe. #t
+1360591760 Plugin "in ein leeres Wordpress" installieren #t
+- ca. 5 Minuten installieren
+- dannach kommt ein fertiges Podcast Blog bei raus
+1360591881 „Hundstage“ Film (2001) <https://de.wikipedia.org/wiki/Hundstage_(2001)>
+1360591976 Holgi und Tim wissen nicht genau wie es weiter gehen soll <http://www.youtube.com/watch?v=UdAN-8kTl0A> #video
+
+1360592041 Alte Computertechnik in England #chapter
+1360592050 Linksverkehr in England
+1360592061 Bletchley Park <http://de.wikipedia.org/wiki/Bletchley_Park> #g
+1360592090 Alan Turing <http://de.wikipedia.org/wiki/Alan_Turing> #g
+1360592098 Holgi sinniert über eine berühmte Frau von Bletchley Park
+1360592176 Apple Maps ist immernoch scheiße, aber die Navigation funktioniert echt gut
+1360592177 Apple Maps spricht englische Straßennamen deutsch aus
+1360592230 Enigma Rotor-Schlüsselmaschine <http://de.wikipedia.org/wiki/Enigma_(Maschine)> #g
+- im Krieg massenhaft eingesetzt zur geheimen Nachrichtenübermittlung
+- ursprünglich für Banken
+1360592375 Tim erklärt die Nutzung der Enigma #t
+1360592517 Plain Text Attacken <http://de.wikipedia.org/wiki/Crib> #g #t
+- Wettervorhersage
+1360592744 Mechanischer Dechiffrierer „Turing Bombe“ <http://de.wikipedia.org/wiki/Turing-Bombe> #g
+1360592985 Das Leben und Schicksal von Alan Turing #t
+- homosexuell
+- chemische Kastration
+- man geht von Suizid aus
+1360593059 Turing complete <http://de.wikipedia.org/wiki/Turing-Vollständigkeit> #t #g
+1360593148 Diskriminierung Turings wg. Homosexualität
+1360593194 The National Museum of Computing <http://en.wikipedia.org/wiki/The_National_Museum_of_Computing> #g
+1360593213 Sinclair ZX 81 <http://de.wikipedia.org/wiki/Sinclair_ZX81> #g
+1360593255 ARM <http://de.wikipedia.org/wiki/ARM-Architektur> #t #g
+- RISC <http://de.wikipedia.org/wiki/Reduced_Instruction_Set_Computer> #t
+1360593288 Acorn Archimedes <http://de.wikipedia.org/wiki/Acorn_Archimedes> #g
+1360593288 BBC Micro <http://de.wikipedia.org/wiki/BBC_Micro> #g
+1360593332 Mikroprozessoren <http://de.wikipedia.org/wiki/Mikroprozessor> #g
+1360593389 Osborne Computer Corporation <https://en.wikipedia.org/wiki/Osborne_Computer_Corporation> #t
+- Osborne 1 Computer <http://de.wikipedia.org/wiki/Osborne_1> #g #t
+1360593433 Ozzy Osbourne <https://de.wikipedia.org/wiki/Ozzy_Osbourne> #g
+1360593498 Adam Osborne <http://de.wikipedia.org/wiki/Adam_Osborne> #g
+1360593512 Osborne effect <http://en.wikipedia.org/wiki/Osborne_effect> #g
+1360593524 Dezimalrechnender Computer „The WITCH“ (Wolverhampton Instrument for Teaching Computing from Harwell) <http://de.wikipedia.org/wiki/Harwell_Computer> #g
+1360593603 Konrad Zuse <http://de.wikipedia.org/wiki/Konrad_Zuse> #g
+1360593646 Core Memory <http://de.wikipedia.org/wiki/Kernspeicher> #g #t
+- Bild 1 <http://en.wikipedia.org/wiki/File:KL_CoreMemory.jpg> #image #t
+- Bild 2 <http://commons.wikimedia.org/wiki/File:KL_CoreMemory_Macro.jpg> #image #t
+1360593682 Core Dump <http://de.wikipedia.org/wiki/Dump> #g
+1360593739 Ferrit Magnet Kerne <http://de.wikipedia.org/wiki/Ferritkern>  #g
+1360593798 Lochstreifen <http://de.wikipedia.org/wiki/Lochstreifen> #g
+1360593863 Nixdorf Museum Paderborn <http://www.hnf.de/> #g
+1360593870 Deutsches Museum München <http://www.deutsches-museum.de/> #g
+1360593873 Technikmuseum Berlin <http://www.sdtb.de/> #g
+1360593881 Zuse Z3 <http://de.wikipedia.org/wiki/Zuse_Z3> #g
+1360593920 Elektronenröhren <http://de.wikipedia.org/wiki/Elektronenr%C3%B6hre> #g
+1360593930 Transistoren <http://de.wikipedia.org/wiki/Transistor> #g
+1360594006 Primzahl-Faktorisierung <http://de.wikipedia.org/wiki/Primfaktorzerlegung> #g
+1360594052 Holgi erlebt nix mehr #q
+1360594087 Die Wrintheit mit Nicolas ist gestorben <http://www.wrint.de/2013/02/03/wr144-die-letzte-wrintheit/> #podcast
+- Holgi hat beschlossen, das Konzept fortzusetzen
+- evtl. wird es schon im April etwas
+
+1360594219 TV, GEMA und Creative Commons #chapter
+1360594260 First Screen und Second Screen <http://de.wikipedia.org/wiki/Second_Screen> #g
+1360594311 Vereinnahmung, keine externe Verlinkung
+1360594415 Steve Jobs’ Zitat zu Fernsehen: “TV is meant to turn your brain off” #quote
+- Lean-backward-Medium vs. Lean-forward-Medium <http://en.wikipedia.org/wiki/Interactive_television#User_interaction> #g
+1360594536 „Quelle: Internet“
+1360594566 „Internet-Kannibalisierung“ #quote
+1360594645 RIP Mediathek App #t
+- wurde eingestellt, weil „die Einschläge näher kamen“ #q
+1360594726 Urheberrechtsproblem
+1360594795 Mangelnde Kooperationsbereitschaft der Öffentlich-Rechtlichen wegen Sendeauftrags
+1360594849 „Es gibt keine Grenzen für die Kreativität“ #quote
+1360594873 BR-Space-Night <http://www.br.de/fernsehen/br-alpha/sendungen/space-night/> #t
+1360594950 C3S <http://c-3-s.eu/> #t
+- auf Twitter <https://twitter.com/C3S> #tweet
+1360595040 „GEMA-Vermutung“ (§ 13c UrhWahrnG) <http://de.wikipedia.org/wiki/GEMA-freie_Musik#GEMA-Vermutung> #g #t
+- entfällt bei mehreren Verwertungsgesellschaften (§ 13c Abs. 2 UrhWahrnG) <http://www.gesetze-im-internet.de/urhwahrng/__13c.html>
+1360595182 Vortrag auf dem 29C3 zu C3S: Der Mord fällt aus <https://www.youtube.com/watch?v=eOmUvUcH5Wk> #video
+- HQ <http://mirror.fem-net.de/CCC/29C3/mp4-h264-HQ/> #video
+1360595699 „Mainstream ist klein“ #quote
+1360595704 „Die Summe der Nische schlägt alles“ #quote
+1360595736 Tims Super-Tweet <https://twitter.com/timpritlove/status/116104926689624064> #tweet
+1360595773 Holgis Böhse Onkelz-Tweet <https://twitter.com/holgi/status/7913135978> #tweet
+
+1360595868 Outro: Stoiber On Drums <http://www.youtube.com/watch?v=9Vg2h_nW0bA> #video
+
+

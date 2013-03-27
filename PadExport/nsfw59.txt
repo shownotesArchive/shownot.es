@@ -1,0 +1,216 @@
+c(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.)
+
+Alle Einträge bitte mit dreistelligem Zeitstempel: hh:mm:ss, also z. B. 01:23:45; damit diese synchronisiert sind, bitte den "Timer"-Link benutzen, sobald er an die Startzeit angepasst ist! Überzählige Zeitstempel können dann ggf. beim späteren Überarbeiten herausgenommen werden! Zitate in <italic>, Themenüberschriften in <bold>. Danke
+
+
+NSFW59 (Freitag, 30. November 2012)
+mit Tim Pritlove (@timpritlove), und Holger Klein (@holgi)
+Publikation: (noch eintragen)
+- auf not-safe-for-work <http://not-safe-for-work.de/>
+- auf Wrint <http://www.wrint.de/>
+Stream:
+- Xenim <http://streams.xenim.de>
+- MP3 <http://streams.xenim.de/nsfw.mp3>
+Shownotes: <https://shownotes.piratenpad.de/nsfw59>
+Chat: <http://webchat.freenode.net/?channels=#nsfw>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fnsfw59&time=12%3A49%3A17>
+Chatlogs: <einfügen>
+
+Hausaufgabe für diese Ausgabe war: "Wie komme ich am schnellsten runter, um ein Nickerchen zu machen?"
+siehe dazu Kommentare:
+<http://not-safe-for-work.de/nsfw058-prolozaen/#comment-10538>
+<http://not-safe-for-work.de/nsfw058-prolozaen/#comment-10561>
+<http://not-safe-for-work.de/nsfw058-prolozaen/#comment-10640>
+
+Zusammengetragen von: @mrmoe, Pooky, @SimonWaldherr, Gurkitier, @kaeffchen_heinz, 
+
+Sendungsbeginn: 12:49:17 Uhr
+
+00:00:00 Intro: Adolf Hitler - Die Wahrheit von Frank Peter Hellmann  <https://www.youtube.com/watch?v=iewXmGxknNk> #chapter #video #youtube
+00:00:30 Magenliebe <http://www.youtube.com/watch?v=GlwxwlC394Q> #video #youtube
+00:02:15 Man ist sich einig, dass man sich gerade bei Witzen einig sein muss.
+00:03:20 Vorstellung und Begrüßung
+00:03:30 Unterhaltung über das Kranksein
+Holgi war Krank #spoiler
+00:04:40 Holgi spannt bei "Mieten Kaufen Wohnen" <http://www.vox.de/cms/sendungen/mieten-kaufen-wohnen.html> #link
+Eine Nachbarin von Holgi hat nackt gekocht #spoiler
+00:06:30 Tim war in Bogota 
+- wiki <http://de.wikipedia.org/wiki/Bogota> #wikilink
+- blog <http://metaebene.me/blog/2012/10/21/on-my-way/>
+00:07:20 "Hui"-Test
+Holgi spielt mit seinem Stuhl und fährt rauf und runter
+<http://de.wikipedia.org/wiki/Gasfeder> #wikilink
+Es stellt sich heraus, dass der Stuhl wegen mangelnder Erdung Störungen im Ton erzeugt
+00:08:30 Zahlensender <http://de.wikipedia.org/wiki/Zahlensender>
+00:09:30 Eso-Deppen: Viadrina in Frankfurt Oder <http://www.europa-uni.de/de/index.html> #link
+<http://de.wikipedia.org/wiki/Europa-Universit%C3%A4t_Viadrina> #wikilink
+00:09:53 Mondverschwörung - Der Film <http://mondverschwoerung.de/>
+00:11:00 Mädchen im Aufzug <http://www.youtube.com/watch?v=D2f35Jlb3Go> #video #youtube
+Holgi erzählt von einem ähnlichen Spass-Video von einem Mädchen im Hausflur, das aber am Ende zusammengeschlagen wird #spoiler <http://www.youtube.com/watch?v=7P06CYi8o7s> #video
+
+00:12:55 Tim erzählt von Kolumbien #chapter
+Kolumbien <http://de.wikipedia.org/wiki/Kolumbien> #wikilink 
+Er erzählt über Klima und die Wasser-/Energieversorgung Bolivar Revolution
+00:17:00 Simón Bolívar <http://de.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar> #wikilink
+00:18:10 Pablo Escobar <http://de.wikipedia.org/wiki/Pablo_Escobar> #wikilink
+00:19:25 Polizei Familie Gesetze
+00:20:00 Kohle und Strukturwandel
+00:21:00 Álvaro Uribe <http://de.wikipedia.org/wiki/Álvaro_Uribe_Vélez> #wikilink
+FARC <http://de.wikipedia.org/wiki/FARC> #wikilink
+00:25:10 Amerikanischer Straßenbahn-Skandal <http://de.wikipedia.org/wiki/Gro%C3%9Fer_Amerikanischer_Stra%C3%9Fenbahn-Skandal>
+00:28:40 Busspurwächter (keine Quelle), Radwegwächter
+00:30:00 iTunes <http://www.apple.com/de/itunes/>
+00:30:30 zurück zu Bogota, Tim: "Das teuerste was es da zu kaufen gibt ist Bildung."
+00:35:00 Kolumbianische Währung <http://de.wikipedia.org/wiki/Kolumbianischer_Peso> #wikilink
+- Peso <http://de.wikipedia.org/wiki/Peso> #wikilink
+00:36:25 WLAN in Bogota ist üblicherweise kostenlos und fast überall sofort verfügbar
+00:37:15 iPhone EMEA-Region-Lock <http://de.wikipedia.org/wiki/EMEA_(Wirtschaftsraum)> #wikilink
+00:39:05 Keine Apple Stores in Bogota
+00:40:00 Tarife
+00:40:50 Bogota Hackerspace <http://hackerspaces.org/wiki/Bogota>
+- .co <http://www.hackbo.co/>
+Vespa Laden in Schöneberg
+00:43:10 Geographie Bogotás <http://de.wikipedia.org/wiki/Bogotá#Geographische_Lage> #wikilink
+- Karte Kolumbiens (SVG) <http://upload.wikimedia.org/wikipedia/commons/e/ed/Mapa_Colombia_%281908-1910%29.svg>
+00:44:00 Meta Ebene Kolumbien <http://de.wikipedia.org/wiki/Meta_(Kolumbien)> #wikilink
+Lufttemperatur pro Höhenunterschied: pro 100 Meter tiefer wird es ca. 1°C wärmer <http://de.wikipedia.org/wiki/Lufttemperatur#Abh.C3.A4ngigkeit_von_der_H.C3.B6he> #wikilink
+00:48:00 ÖPNV in Bogotá und im Allgemeinen <http://de.wikipedia.org/wiki/Bogotá#Verkehr> #wikilink
+
+00:52:00 Gadgets und Mobilität #chapter
+00:52:30 Holgis neuestes Gadget: Joby Gorillapod Micro 800 <http://joby.com/gorillapod/micro800> 
+- Amazon <http://www.amazon.de/dp/B006O4NB34/> #shopping
+Glif <http://www.studioneat.com/products/glif> #link
+- Amazon <http://www.amazon.de/dp/B004MLN9E2/> #link
+00:55:55 Holgis Car2Go-Rant <https://www.car2go.com> #link
+- Tweet <https://twitter.com/holgi/status/274184680671170560> #link
+01:02:00 Twizy <http://de.wikipedia.org/wiki/Renault_Twizy> #link
+01:05:00 multicity <https://www.multicity-carsharing.de/>
+01:07:40 Holgi leidet darunter, keine Bahncard 100 mehr zu haben <http://www.bahn.de/p/view/bahncard/bahncard.shtml> #shopping
+01:08:20 Holgi hat im Mini keinen Platz <http://www.mini.de> #spoiler #link
+Im smart hat er mehr Platz <http://www.smart.de> #spoiler #link
+Drive Now <https://www.drive-now.com/international?language=de_DE&L=0> #link
+Tim rantet über BMW Fahrer (in Berlin) #spoiler
+
+01:10:00 WRINT #chapter
+01:10:30 Tim mag WRINT <http://wrint.de> #spoiler #link
+Holgi hätte gerne ein Studio und eine Garage in seiner Nähe #spoiler
+01:13:10 Tim mag das WRINT-Soundlogo, produziert von <http://ok-sounddesign.de> #link
+01:14:00 WRINT 126 - Ortsgespräch mit Jürgen Domian <http://www.wrint.de/2012/11/26/wr126-ortsgesprach-jurgen-domian/>
+01:16:30 Holgi: "Medienleute kochen mit kaltem Wasser" #zitat
+01:17:30 Falbala-Moment für Holgi: <http://bit.ly/Yeeo9Q> #link
+Holgi hat über 6000 Gespräche in 850 Sendungen geführt
+01:24:30 Tims Podlove-Publisher-Screencasts <http://podlove.org/2012/11/26/screencast-series-about-podlove-publisher/> #link
+
+01:24:40 Podlove #chapter
+01:24:45 Podlove Developer Meeting <http://metaebene.me/blog/2012/09/27/podlove-developer-meeting-2/>
+Holgi hat Angst, sein Blog neu aufsetzen zu müssen #spoiler
+Flattr <http://de.wikipedia.org/wiki/Flattr> #wikilink
+Holgi benutzt das Power Press Plugin <http://www.blubrry.com/powerpress/> #link
+01:29:45 Weihnachtsgeschenk an Holgi ist ein Feature des Podlove Podcast Publishers, das Holgi in Zukunft wahrscheinlich viel Arbeit sparen wird #spoiler
+Tim erklärt Podlove #spoiler
+Holgi benutzt Feedburner <http://www.feedburner.com> #link
+Ziel ist es, Podlove WRINT-kompatibel zu bauen
+
+01:36:00 Congress #chapter
+01:36:15 Tim macht mit dem "Hoaxmaster" Alexander einen Workshop auf dem Chaos Communication Congress #spoiler
+- Hoaxmaster <http://www.hoaxilla.com/team/hoaxmaster/> #link
+- 29C3 Events <http://events.ccc.de/category/29c3/> #link
+- Podcaster Workshop <https://events.ccc.de/congress/2012/wiki/Podcaster_Workshop> #link
+Es wird genug Platz für alle da sein #spoiler
+Es gibt noch viele Probleme die gelöst werden müssen #spoiler
+Das CCH hat die Organisation an einen Sub-Unternehmer outgesourct
+<http://www.cch.de/> #link
+
+01:44:00 Hörerpost und Apple Store-Eröffnungen #chapter
+01:43:45 Paket von Katrin aus Kärnten mit Kartoffelchips und Steirischem Kürbiskernöl
+- Crunchips Bratl-Style Austria-Edition <http://www.oesterreichmarkt.de/2011/01/15/crunchips-bratl-style-austria-edition/> #shopping
+- Kürbiskernöl <http://de.wikipedia.org/wiki/Kürbiskernöl> #wikilink
+- Kärnten <http://de.wikipedia.org/wiki/K%C3%A4rnten> #wikilink
+01:45:50 Tim war bei Auphonic <https://auphonic.com> #link
+Tim soll seine Kinder mit Chips und Bier abfüllen #spoiler
+Tim und Holgi schmeckt's
+01:50:50 Berliner Schnitzel <http://de.wikipedia.org/wiki/Berliner_Schnitzel> #wikilink
+Kutteln <http://de.wikipedia.org/wiki/Kutteln> #wikilink
+Pansen <http://de.wikipedia.org/wiki/Pansen> #wikilink
+01:53:00 Ostprodukte in Westregalen <http://www.youtube.com/watch?v=nw8-2ctIBBI> #video
+01:55:10 Aufruf Eröffnung Applestore in Berlin zu "verhageln"
+- Flashmob <http://de.wikipedia.org/wiki/Flashmob> #wikilink
+01:55:45 Geschenk: Tardis und Dalek von Doctor Who aus einem 3D-Drucker
+Doctorin' the Tardis <http://en.wikipedia.org/wiki/Doctorin'_the_Tardis> #wikilink
+Doctor Who <http://de.wikipedia.org/wiki/Doctor_Who> #wikilink
+Dalek <http://en.wikipedia.org/wiki/Dalek> #wikilink
+01:57:45 KLF - Kopyright Liberation Front <http://de.wikipedia.org/wiki/The_KLF> #wikilink
+Graffiti im WDR <http://de.wikipedia.org/wiki/Graffiti_%28H%C3%B6rfunksendung%29> #wikilink
+01:58:20 Holgi liest aus dem Van de Velde, während Tim Eis holt
+- Amazon <http://www.amazon.de/dp/B0000BOV9V> #shopping
+01:59:15 Eis für Holgi
+02:00:00 Apple Store-Eröffnung in Stockholm <http://www.youtube.com/watch?v=VCrmKJjeJPI> #video #youtube
+02:02:00 Steve Jobs steht von den Toten auf und eröffnet den Berliner Apple Store #spoiler
+02:02:25 Tim hat sich in Häagen-Dazs "Salted Caramel" verliebt <http://www.haagen-dazs.de/produkte/produkt/salted_caramel>
+02:04:00 vanilla & marille in Berlin <http://www.vanille-marille.de/>
+02:06:15 "Haben sie auch Batterien?" #zitat #spoiler
+Man sollte Microsoft-Mitarbeiter zu Apple schicken #spoiler
+Ein Hörertreffen wär auch gut #spoiler
+Facebook-Partys <http://de.wikipedia.org/wiki/Facebook#Facebook-Partys> #wikilink
+02:11:30 Geschenk für Tim: "Latin Biorhythm Mate" von Coca Cola in Japan <http://www.foodnavigator-asia.com/Business/Coca-Cola-Japan-to-cultivate-new-product-category-with-Latino-tea-product>
+02:13:15 Litschi-Weingummis für Holgi
+02:13:40 Vorschau auf die nächste Ausgabe: Weihnachts-Kaufberatung #spoiler
+02:15:05 Post aus Madeira von Peter: Zuckerrüben-Gewürzkuchen
+Madeira gehört zu Portugal <http://de.wikipedia.org/wiki/Madeira> #wikilink
+02:18:00 Nerds von Wonka <http://en.wikipedia.org/wiki/Nerds_(candy)> #wikilink
+- Amazon <http://www.amazon.de/dp/B003TL6088/>
+Puerto Rico <http://de.wikipedia.org/wiki/Puerto_Rico> #wikilink
+02:19:30 Handy-Verzierungsschmuck: Tierfiguren für die Kopfhörerbuchse
+Allgäu <http://de.wikipedia.org/wiki/Allg%C3%A4u> #wikilink
+02:20:50 Lachflash von Holgi: "Sieht das Scheisse aus!" #zitat
+"Bei Tim guckt unten ein Katzenkopf raus" #zitat
+02:22:22 Kopfhörer-Lautsprecher
+02:23:20 Geschenke speziell für Holgi: Geldbörse (Moneyclip) 
+<http://www.walletking.de/> #link
+02:25:30 Tim testet seine neuen Kopfhörer-Lautsprecher #spoiler
+02:26:00 Geschenk: James-Bond-DVDs
+02:27:05 Holgi war in Hamburg und fragt sich, ob er seinen Mitschnitt des gemeinsamen Bond-Abends veröffentlichen soll #spoiler
+02:30:20 Kopfhörer-Lautsprecher taugen nichts #spoiler
+Tim will Techno hören #spoiler
+
+02:31:00 Flattr, Memes und mehr #chapter
+02:31:00 Flattr: Aufruf von Tim, das flattr-Geld abzuholen Micropayment mit Flattr <http://flattr.com> #link
+Leute, die noch ihr Geld abholen müssen <http://flattr.com/catalog/unclaimed> #link
+02:35:40 "Faxengroschen" verteilen mit SuperFav <http://superfav.com/> #link
+Sweet Brown <http://www.youtube.com/watch?v=JaAd8OuwwPk> #video #youtube
+Haekelschwein <http://haekelschwein.de/> #link
+Autotune Remix: <http://www.youtube.com/watch?v=bFEoMO0pc7k> #video #youtube
+02:50:35 Tims Strategie, Dinge richtig einzupacken
+02:52:15 Tims aktuelle Einkaufszettel-App für iOS: ShoppingList (Einkaufsliste) <https://itunes.apple.com/DE/app/id282758413> #shopping
+03:02:40 Landminenentschärfung: Mine Kafon <http://vimeo.com/51887079> #video
+03:06:40 Revolights <http://vimeo.com/51042117> #video
+03:09:00 Surftipp: werd.com <http://www.werd.com/> #link
+03:09:40 iPad Foosball <http://www.werd.com/18003/ipad-foosball/> #link
+03:10:00 Blinkenlights hat auf der Media Architecture Biennale in Dänemark den Preis für "Participatory Architecture" gewonnen <http://mab12.mediaarchitecture.org/awards/>
+- Blinkenlights <http://www.blinkenlights.net/blinkenlights/> #link
+- Blinkenlights bei Wikipedia <http://de.wikipedia.org/wiki/Projekt_Blinkenlights> #wikilink
+- Blinkenlights in Toronto <http://vimeo.com/6175371> #video
+- Nuit Blanche <http://fr.wikipedia.org/wiki/Nuit_Blanche_(manifestation_culturelle)>
+03:28:50 Tim saß mit Ulrich Wickert im ICE <http://de.wikipedia.org/wiki/Ulrich_Wickert> #wikilink #spoiler
+Holgi hat Henryk M. Broder keine gelatzt <http://de.wikipedia.org/wiki/Henryk_M._Broder> #wikilink #spoiler
+
+03:29:56 Outro: Hitler kaputt <http://www.youtube.com/watch?v=OovaKrhTBsU> #youtube #video #chapter
+03:32:30 Ende
+
+Sendungsende 16:19:45 Uhr
+
+Hausaufgabe: ""
+
+Vorschläge für Sendungstitel, ggf. aus dem Chat:
+Hui-Kabel-Test
+los sianos de meta (oder wie das auch immer geschrieben wird) +1
+Falbala-Moment
+Der Titel dieser Sendung
+Bratl Style
+Doctorin' the Tardis
+Bärchenkopf
+
+
+Kapitelmarken
+00:00:00.000  Intro: 
+

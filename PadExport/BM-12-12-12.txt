@@ -1,0 +1,207 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ notwendig.)
+
+HEAD
+Blue Moon-/LateLine-Shownotes
+Am 12.12.2012 mit Holger Klein, Tel: 0331 70 97 110, ab 23 Uhr: 0800 80 55555
+Thema: Wie viel Kontrolle braucht das Internet?
+Seiten zur Sendung: 
+ * Blue Moon http://www.fritz.de/programm/sendungen/33/1212/121212_blue_moon_8391.html
+ * LateLine http://blogs.hr-online.de/lateline/2012/12/12/12-dezember-2012-kontrolle/
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FBM-12-12-12&time=22%3A01%3A40&Button=Create%21
+Chat: http://Geheimch.at
+
+Zusammengetragen von: Gurkitier, @Quimoniz, ctrettin, @Joschasa, @stormitux
+/HEAD
+
+00:00:00 Sendungsbeginn: 22:01:40 Uhr #chapter
+Momentan tagt die World Conference on International Telecommunication <http://www.heise.de/thema/WCIT>
+Inwieweit ist das Internet zu regulieren?
+Zu welchem Zweck wird Kontrolle ausgeübt?
+
+00:04:30 Intromusik: Entertainment For The Braindead – run! (Das Kraftfuttermischwerk-Remix) - <http://www.kraftfuttermischwerk.de/blogg/?p=6389> #chapter
+Politiker fordern mehr Kontrolle des Internets.
+Unter Kontrolle versteht man das Vergleichen der Realität mit einem Referenzwert.
+Was ist der Referenzwert für die Kontrolle des Internets?
+
+00:09:30 Arne #chapter
+Soziale Kontrolle <http://de.wikipedia.org/wiki/Soziale_Kontrolle> #wikilink
+Arne sieht Kontrolle wegen z. B. Cyber-Mobbing gerechtfertigt. <http://de.wikipedia.org/wiki/Cyber-Mobbing> #wikilink
+Arne hätte gerne eine rechtliche Reglementierung gegen Mobbing.
+iShareGossip <http://www.spiegel.de/netzwelt/web/mobbing-plattform-offline-isharegossip-offenbar-gekapert-a-768331.html>
+Erziehung des Volkes gegen Mobbing statt durch Verbote.
+Abstimmungen bei Facebook <http://www.pcwelt.de/news/Social_Network-Facebook-Abstimmung_beendet__In_Zukunft_keine_User-Wahlen_zu_AGB-Aenderungen_mehr-7128863.html>
+Facebook ist als Informationsquelle nützlich
+Kontrolle als Neusprech für Überwachung
+
+00:22:40 Tankred #chapter
+Er findet, dass jeder das Recht auf Privatsphäre hat.
+Personen sollen nicht überwacht werden, Institutionen jedoch schon.
+Mobbing schon auch früher existent, jedoch wird heutzutage mehr in den Medien darüber berichtet.
+Überwachungskameras existieren zum manifestieren der gefühlten Sicherheit, jedoch bringen sie keine echte Sicherheit.
+Er kann mit Überwachungskameras in öffentlichen Räumen leben, Holgi jedoch nicht.
+
+00:31:15 FritzInfo mit Nachrichten, Wetter und Verkehr #chapter
+
+00:35:54 Michael aus Potsdam #chapter
+User sollte im Internet vor Verbotenem gewarnt werden.
+Michael hatte unbeabsichtigt ein kommerzielles Spiel illegal runtergeladen und wurde dafür abgemahnt.
+Michael fliegt aus der Leitung.
+
+00:39:07 Martin #chapter
+Er findet es gut, dass an Orten, an denen sich viele Menschen befinden, Kameras stehen.
+Kameras für die Aufklärung von Verbrechen, nicht für die Verhinderung.
+Da wo eine Kamera steht, sind schon mal keine Polizisten.
+Jeder sollte selber entscheiden können, wie viel Sicherheit er hat.
+TÜV für Software
+Holgi erklärt Crowdfunding <http://de.wikipedia.org/wiki/Crowdfunding> #wikilink
+Irgendwann ist der Punkt angekommen, da man die Daten nicht mehr für angepasstere Werbung verwenden will, sondern das Verhalten anhand derer voraussagen will.
+Bundesamt für Sicherheit in der Informationstechnik https://www.bsi.bund.de/DE/Home/home_node.html>
+holgi: "Wir warten eigentlich alle darauf, dass Mutter vorbeikomt und uns sagt, war wir zu tun haben" #zitat
+
+00:52:19 Micha #chapter
+Er hält Fremdkontrolle nicht für notwending.
+Beispiel: Wenn jeder unter 100 fahren würde auf der Landstraße, bräuchte man keine Blitzer.
+Das Weltbild vom Ich zum Wir.
+Micha: "Moral ist kein Haben." #zitat
+Er ist ein Idealist.
+"Alles was über dich gesammelt wird, kann und wird gegen dich verwendet werden"
+Verfassungsschutz: schadet nur, keine messbaren Erfolge <http://de.wikipedia.org/wiki/Verfassungsschutz> #wikilink
+
+00:59:00 Halbzeitmusik: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - <http://www.kraftfuttermischwerk.de/blogg/?p=153> #chapter
+
+Für die meisten Menschen ist das Internet alltag.
+Wenn gefordert wird, das Internet mehr zu kontrollieren, wird gefordert den Alltag mehr zu kontrollieren.
+Letztlich heisst Kontrolle nichts weiter als Überwachung.
+Nordkorea <http://de.wikipedia.org/wiki/Nordkorea> #wikilink
+
+01:05:20 Dennis aus Frankfurt #chapter
+Er, als ICQ-Chat Nutzer, hält Kontrolle für sinnvoll.
+Proxys <http://de.wikipedia.org/wiki/Proxy_%28Rechnernetz%29>
+Man kann auch rechtswidriges Verhalten im Internet bei der Poizei anzeigen.
+Jemandem auf die Fresse zu geben, ist so ziemlich das dümmste was man machen kann.
+IRC <http://de.wikipedia.org/wiki/Internet_Relay_Chat> #wikilink
+Gerüchte, Gerechtigkeit, Kinderschutz
+"Die Handlungsgrundlage 'Ich glaube, das wird passieren' ist eine schlechte Grundlage"#zitat
+Er will um 2000 Euro wetten, dass in seiner Ecke ein Unfall geschehe.
+Er ist frühe auch gerast, "aber immer mit Vorsicht".
+
+01:17:35 Maximilian (18) aus Morschen nahe Kassel #chapter
+"Es gibt wieder Leben in Nordhessen" #zitat
+Der Anrufer ist ebenfalls für Kontrolle.
+Videospieleidee: Kontrolletisimulator
+"Das was man nicht darf, will man am meisten." #zitat
+Teamspeak <http://www.teamspeak.com>
+Markennamen in den Medien nennen
+Behindertenausweise <http://de.wikipedia.org/wiki/Schwerbehindertenausweis> #wikilink
+holgi: "Man kann die Verbreitung von Software nicht verhindern." #zitat
+Jailbreaking <http://de.wikipedia.org/wiki/Jailbreak_(iOS)> #wikilink
+Steam <http://de.wikipedia.org/wiki/Steam> #wikilink
+Origin <http://de.wikipedia.org/wiki/Origin> #wikilink
+"Denkt doch niemand an die Kinder?" #zitat
+Doom <http://de.wikipedia.org/wiki/Doom> #wikilink
+"Selbst wenn man alle Computerspiele - sogar Mario - verbieten würde, hätten wir dennoch genug Spiele für die nächsten 100 Jahre." #zitat
+Von der Leyen <http://de.wikipedia.org/wiki/Ursula_von_der_Leyen> #wikilink
+holgi hat mal fünf Tage nach dem Kinorelease von Matrix 3, diesen Film als DVD in Bangkok für 5 Euro gekauft. Seit dem glaubt er nicht mehr an Kopierschutz.
+Chatroulette <http://de.wikipedia.org/wiki/Chatroulette> #wikilink
+Der "Melden"-Button bei Facebook
+Er hat jemanden verpfiffen, weil er nackte Frauen als Profilbild hatte.
+Er übt Kontrolle über Dinge aus, die ihn nix angehen. (anderer Leute Kommentarseiten)
+Er betrachtet sein Verhalten als Zivilcourage.
+Holgi kann nicht lügen. Das verdankt er seiner Mutter.
+Er meint durch Nachdenken, durch Bilden eines Bildes über Beleidigungen entwickelt sich ein Gespür dafür, wann er gebraucht wird.
+"Wie leben in einem freien Land, da darf sich jeder so verhalten wie er will, solange er jemand anderem nicht zu sehr auf den Sack geht" #zitat
+"Die Frage ist, wer möchte kontrollieren und warum?" #zitat
+
+01:39:00 Patricia (20) #chapter
+Patricia würde die Terroristen kontrollieren wollen, indem sie Facebook durchsucht, weil zBsp Breivik <http://de.wikipedia.org/wiki/Anders_Behring_Breivik> #wikilink
+seine Taten im Internet angekündigt hat.
+Das CIA habe bestimmt die Möglichkeiten.
+Person of Interest <http://de.wikipedia.org/wiki/Person_of_Interest> #wikilink
+Sie möchte, dass die bekannten Tatverdächtigen überwacht werden.
+Rachejustiz
+Wie kann man die Identität eines Nutzers im Internet zweifelsfrei feststellen?
+Sie ist für "Zwangsweise die Webcam anschalten, sodass jeder im Zweifelsfall kontrolliert werden kann"
+Problem: Selbsthilfeforen, in denen man zum Selbstschutz anonym bleibt.
+Patricia hat Angst davor, dass Politiker irgendwann dennoch diese Form der lückenlosen Überwachung anordnen.
+Wenn Politiker sich nicht so verhalten, wie der Souverän möchte, dann werden sie abgewählt.
+Polizeistaat <http://de.wikipedia.org/wiki/Polizeistaat> #wikilink
+Holgi: "Woher weiss man, ob jemand, der einmal Täter war, immer Täter sein wird?" #zitat
+Holgi: "Muss man wirklich Angst um die eigenen Kindern haben, oder reden dir das Leute ein?" #zitat
+Holgi: "Der Weg den wir gehen, ist der falsche, denn wir kommen nirgendwo an." #zitat
+Tatsächliche Zahl der Kinderschänder vs. Subjektive Wahrnehmung
+
+01:53:00 Ist vielleicht eine ganz andere Art von Kontrolle notwendig?
+
+01:53:45 Chris aus Heilbronn #chapter
+Chris würde gerne weniger kontrolliert werden, glaubt aber, dass das nicht mehr geht.
+"Tritt in eine Partei ein, und mach' Politik." #zitat
+Allein aus dem Umstand, dass man zwei verschiedene paar Socken an hat, kann deine Krankenversicherung annehmen, dass du nicht ganz dicht bist.
+Datensparsamkeit <http://de.wikipedia.org/wiki/Datensparsamkeit_und_Datenvermeidung> #wikilink
+Holgi: "Jeder der sich auf Facebook darstellt, betreibt Public Relations in eigener Sache." #zitat
+PR/Öffentlichkeitsarbeit <http://de.wikipedia.org/wiki/Öffentlichkeitsarbeit> #wikilink
+"Es ist der feuchte Traum der Bundesregierung so viele Daten über die Leute zu haben wie Facebook" #zitat
+Man hat durchaus etwas zu verbergen, auch wenn man nichts zu befürchten hat. 
+Kontrollverlust <http://de.wikipedia.org/wiki/Kontrollverlust> #wikilink
+Wenn man einen Identitätsnachweis per Postident verlangen würde, würde die Hälfte nicht mehr bei eBay mitmachen.
+Postident <http://de.wikipedia.org/wiki/Postident> #wikilink
+Wenn die Politik sagen würde, dass die Plattformen zehnfach für entstandenen Schaden zahlen müssten, würde es sicherer werden.
+Er hat mal bei einem Auto-Gewinnspiel mitgemacht, woraufhin er nun ständig Post von Autoherstellern bekommt.
+
+Erkenntnis aus der Psychologie: Überwachtete verhalten sich so, wie die Überwacher wollen, dass er sich verhalte.
+
+02:05:20 Arne aus Kiel #chapter
+"EDV ist kopieren! Wer das nicht begreift, der hat verloren!" #zitat
+Man will ja nicht in seinem Komfort eingeschränkt werden, nur weil man die massenhafte Datenspeicherung vermeiden will. 
+"Datenmissbrauch muss wehtun!" #zitat
+"Eigentlich ist es[dass die Daten entgegen Vertrag missbraucht werden] eine Verwschörungstheorie, aber ich kann garnicht anders, als anzunehmen, dass sie es doch machen. Dafür passieren zu viele seltsame Dinge im Briefkasten." #zitat
+Abkoppeln von Gesellschaften, durch Kontrolle im Internet.
+Zensurinfrastruktur Chinas
+Absolute Kontrolle des Netzes (Zensur) vs. Eingreifen im Missbrauchsfall
+"Überall wo Menschen miteinander agieren, gibt's Kriminalität." #zitat
+Enkeltrick <http://de.wikipedia.org/wiki/Enkeltrick> #wikilink
+
+02:22:00 Jessika (20) #chapter
+Echtheitsnachweis per Personalausweis Scan bei Internetchats.
+Sie selbst würde das aber nicht machen.
+
+02:24:00 Ingo aus Neuenkirchen (zwischen Saarbrücken und Kaiserslautern) #chapter
+Ingo findet, dass der Staat mehr kontrollieren sollte, d.h. einige Gesetze verschärfen.
+Der Schaden sei größer bei der Vergewaltigung als beim Töten.
+Für eine Unfallverursachung mit Todesfolge unter Alkoholeinfluss gibt es eine längere Haftstrafe, als für Vergewaltigung. 
+Er wünscht sich mehr Kontrolle im Internet, insbesondere dort, wo Kinder im Netz sind. 
+Die Eltern sollen auf das Internet geschult werden.
+Medienkompetenz <http://de.wikipedia.org/wiki/Medienkompetenz> #wikilink
+Er will eine Ausweispflicht für den Aufenthalt im Internet.
+
+Datenmissbrauchbeispiel: Autobahnmautbrücken werden mittlerweile zur PKW Fahndung missbraucht.
+
+02:33:50 Theodor #chapter
+Theodor sagt, Überwachung gibt es schon seit Menschen denken können.
+Internetpolizist
+Internetwache <http://de.wikipedia.org/wiki/Internetwache> #wikilink
+"Die dummen Terroristen sind die, die sich überwachen lassen. Die klugen Terroristen die, die Anschläge ausüben." #zitat 
+Kapitalismus <http://de.wikipedia.org/wiki/Kapitalismus> #wikilink
+Bundesnachrichtendienst <http://de.wikipedia.org/wiki/Bundesnachrichtendienst> #wikilink
+"Es wird bereits genug überwacht, es dauert zwar eine Weile, aber es funktioniert." #zitat
+9/11 hat uns eines gelehrt, dass Behörden anderen Behörden keine Daten zukommen lassen.
+Holgi: "Ich traue dem Frieden nicht." #zitat
+
+02:42:30 Martin aus Hannover #chapter
+Es muss Konsequenzen geben, es muss ein Identitätssystem sicherer als die IP geben.
+"In dem Moment, wo Daten anfallen, werden sie missbraucht." #zitat
+Martin findet zentrale Datenspeicherung nicht gut. Er sträubt sich z.B. Facebook beizutreten.
+Wie kann ich sicher sein, dass Vorratsdaten wirklich gelöscht werden?
+Funkzellenüberwachung in Sachsen
+Funkzellenabfrage <http://de.wikipedia.org/wiki/Funkzellenabfrage> #wikilink
+Potenzieller Lösungsweg: Regelmechanismen in sozialen Systemen im Internet.
+"Für die Freiheit sind Menschen gestorben. Wir sind dabei diese leichtfertig abzugeben." #zitat
+
+02:51:00 Steffen #chapter
+Steffen sagt, es ist wichtig, dass im Internet kontrolliert wird.
+Musikerwerb ist für ihn ein ganz großes Thema.
+Steffen glaubt, dass das Kopieren von Musik und Filmen den Künstlern schade.
+Die Musikindustrie geht darum kaputt, weil sie es versäumt haben, eine vernünftige Plattform für den Musikerwerb anzubieten.
+
+
+02:56:27 Sendungsende:  00:58:30 Uhr #chapter
+

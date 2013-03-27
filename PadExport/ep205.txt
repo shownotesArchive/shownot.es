@@ -1,0 +1,60 @@
+HEADER
+Podcast: Einschlafen-Podcast
+Episode: 205
+Podcaster: Toby Baier (@tobybaier)
+Shownoter: @Quimoniz
+
+Einsatzpunkt: 22:26 Uhr
+/HEADER
+
+00:00:00 St.Pauli und Einschlafen-Podcast #chapter
+
+St.Pauli hat verloren mit 0 zu 1 gegen Hertha
+St.Pauli machte Fehler in Verteidigung, sie stehen momentan auf 12./13. Platz
+Fabian Boll <http://de.wikipedia.org/wiki/Fabian_Boll> #wikilink
+Wiimote <http://motej.sourceforge.net/>
+Shownotes <http://shownot.es/>
+Tobys Java Tool <https://github.com/tobybaier/TimeCodeWriter> #github
+Kapitelmarken
+Pubkameraden Podcasts <http://www.pubkameraden.de/>
+Melatonin <http://de.wikipedia.org/wiki/Melatonin> #wikilink
+Susanne hat in WDRs aktueller Stunde vom Einschlafen-Podcast erzählt <http://www.wdr.de/mediathek/html/regional/rueckschau/2012/11/14/aktuelle_stunde.xml> #video
+Tobys Datei Auslieferung wird nun gesponsert
+Band Isolation <http://www.isolation.de>
+
+00:07:00 Wordpress <http://wordpress.com/> #chapter
+Wordpress DSG Plugin für Podcasting wird nicht weiterentwickelt, jedoch ist es erst nach 2 Jahren, vor einer Woche bei einem Wordpress Update, kaputtgegangen.
+Host-Europe <http://de.wikipedia.org/wiki/Host_Europe> #wikilink
+Podlove Wordpress Plugin <http://podlove.org/podlove-podcast-publisher/>
+Podlove Web Player <http://podlove.org/2012/11/19/podlove-web-player-1-2/>
+Podlove Simple Chapters Spezifikation <http://podlove.org/simple-chapters/>
+Android App Podkicker Pro <https://play.google.com/store/apps/details?id=com.podkicker&hl=de> #shopping
+Neuer Feed
+FeedBurner <http://www.feedburner.com/>
+Twitter <http://twitter.com/schlafein> #twitter
+Facebook <http://www.facebook.com/tobybaier>
+Chat <http://einschlafen-podcast.de/chat/>
+
+00:17:00 Tobys Vorlesen #chapter
+Thomas Kraft <http://de.wikipedia.org/wiki/Thomas_Kraft> #wikilink
+Restarant Waldquelle in Meckefeld
+Klotzfisch, Fischstäbchen <http://de.wikipedia.org/wiki/Fischst%C3%A4bchen> #wikilink
+Xing <http://www.xing.com/de/>
+Toby ist nun Nebenberuflich Sprecher für den Airmotion Games Verlag (München) <http://airmotion-games.de/>
+- Zeitschrift PS3M <http://www.ps3m.de/>
+- Zeitschrift 360-live <http://www.360-live.de/>
+"Einschlafen" ist bei Google auf der ersten Seite
+
+00:23:00 Hoffest in Klauenburg #chapter
+Das Hoffest war auf dem Hof Ölkers, eine riesige Tannebaumförsterei, die auch Spargel, Kürbisse und Erbeeren anbauen und einen Hofladen mit Fleischprodukten haben #spoiler
+Wurzelholzweihnachtskrippen
+Bratkartoffeln
+
+00:29:00 Toby liest aus Selma Lagerlöfs Niels Holgersons wunderbare Reise mit den Wildgänsen vor #chapter
+- Er ist nun bei Kapitel 28, Seite 448 #spoiler
+- Nils Holgersson (auf Gutenberg Kapitel 29) <http://www.gutenberg.org/ebooks/31114>
+
+00:45:00 Abschied #chapter
+Toby will Niels Holgersen zu Ende vorlesen.
+Toby wuenscht allen eine gute Nacht, eine gute Woche zu haben, und er hat alle lieb.
+

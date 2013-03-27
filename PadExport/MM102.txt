@@ -1,0 +1,352 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskusion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM102
+
+
+Shownotes zu MobileMacs 102
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Timer: Zeitangaben werden vom EPL-TimeStamp-Plugin geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+Mit: Tim @timpritlove, Hukl @hukl, roddi @roddi, Clemens @csch42
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/102>
+
+Zusammengetragen von @evitabley, @SimonWaldherr, @mrmoe, @kaeffchen_heinz, @saibot, @johannes_k
+Sendungstitel Vorschläge:  
+<http://showbot.tk/> 
+Harmlose kleine Infrastrukturelemente
+Erlang ist nicht im Sauerland
+In 10 Minuten im Repo einchecken
+Es gibt kein Normalerweise
+Ich denke also PING ich
+gib mir Hostnamen
+SSD mit kaum Laufgeräuschen
+Kraftknubbel
+"I heard you like virtualized Mac, so i put a virtualized mac in your virtualized mac"
+Tolle Regelung aus dem Reichs Trallala Gesetz
+Nur noch mit Profis!
+Es ist nicht nur Teuer, es sieht auch gut aus
+Vadern at home
+
+Sendungsbeginn:  19:38:20 Uhr
+
+/HEADER
+
+1357756700 Intro: Previously on MobileMacs von David <https://soundcloud.com/#david1701/previously-on-mobilemacs-101> #chapter
+1357756811 Bum Zack Return
+
+1357756855 Begrüßung #chapter
+1357756890 neue Besetzung mit Hukl, ohne Denis, mit Roddi, Clemens und Tim
+1357757026 clemens muss die entgegengesetzte Meinung von Tim haben
+1357757040 Frage nach der Quotenfrau
+1357757053 Clemens erster Mac war ein MacMini Powermac <http://de.wikipedia.org/wiki/Mac_mini#Mac_mini_G4_.281._Generation.29> #glossary
+1357757134 Der Chef sitzt im Ledersessel
+1357757159 Clemens war nicht auf dem Congress, hat ihn aber per Stream mitverfolgt
+
+1357757190 Onlinezugang und Provider #chapter
+1357757200 Diskussion über Streamabbrüche bei mobileMacs
+1357757290 Fritz!Box <http://de.wikipedia.org/wiki/Fritzbox> #glossary
+1357757300 Wir sind gern Herr unserer eigenen Hardware
+1357757310 Telekom und Alice möchten keine selbst gekauften Modems
+1357757385 Alice/Hansenet <http://de.wikipedia.org/wiki/Hansenet> #glossary
+1357757403 Telefonica <http://www.telefonica.de/>
+1357757427 "Nordeuropäer stehen auf Blond" sagten die Marketingfuzzies
+1357757494 O2 ist Teil von Telefonica <http://www.o2online.de/>
+1357757500 "bei O2 wird das Internet noch in Handarbeit gemacht" #joke
+1357757551 Sendung mit der Maus über das Internet Folge <http://www.youtube.com/watch?v=8PNRrOGJqUI> #video
+1357757589 Pieptöne von Modems
+1357757736 Tim würde die Maus Redaktion auch reinlassen
+1357757751 Sendung mit der Maus <http://de.wikipedia.org/wiki/Sendung_mit_der_Maus> #glossary
+1357757790 Sendung mit der Maus über Gesetze <http://www.youtube.com/watch?v=uDLhFbcXLk8> #video
+1357757840 Es fehlt die Quotenfrau/-maus
+1357757898 Apps von Frauen Sophiestication: Articles, Groceries, xxtrail <http://twitter.com/sophiestication>
+
+1357757971 Der Kongress 29C3 #chapter <http://events.ccc.de/congress/2012/wiki/Main_Page>
+1357758110 Die letzten Kongresse waren anstrengend
+1357758143 Painstation auf dem Kongress
+1357758290 Location war doppelt so groß und wurde trotzdem super organisiert
+1357758304 das Netz lief tadellos trotz 3000 Leuten in einem Saal
+1357758320 Luftpolsterfolie
+1357758337 9000 WLAN Geräte wurden gezählt
+1357758382 Einlass und Presale liefen super
+1357758421 Art & Beauty war überall ???
+1357758539 Datenschutz beim CCC
+Catering auf dem Kongress
+1357758558 Hacker Jeopardy 29C3 <http://www.youtube.com/watch?v=wx4THCBPNtE> #video
+1357758638 Hacking Cisco Phones <http://www.youtube.com/watch?v=f3zUOZcewtA> #video
+1357758771 Cisco <http://de.wikipedia.org/wiki/Cisco> #glossary
+1357758800 Verbreitung von Cisco Telefonen, z.B. in Air Force One <http://de.wikipedia.org/wiki/Air_Force_One> #glossary
+1357758846 Crypto auf dem 29C3
+1357758880 SCADA <http://www.youtube.com/watch?v=XdJ0cgExjPA>
+1357758905 "Harmlose kleine Infrastrukturelemente wie z.B. Atomkraftwerke" #quote
+1357759990 Ableton Live <http://de.wikipedia.org/wiki/Ableton_Live> #glossary
+1357759048 40% IPv6 auf dem Kongress
+1357759066 Fast alle großen Internet-Services benutzen schon IPv6 (z.B. Youtube, BitTorrent)
+1357759090  "Getreu meinem Lebensmotto: 'Kaum macht man's richtig, geht es auch schon!'" (Clemens) #quote
+1357759120 IP ist schon belegt (Internet Protokoll, Intellectual Property, Telekom VoIP Telefonie)
+1357759210 "Peak Telefon" #quote
+1357759289 Switches <http://de.wikipedia.org/wiki/Switch_%28Computertechnik%29> #glossary
+1357759349 MAC-Adressen <http://de.wikipedia.org/wiki/MAC-Adresse>
+1357759362 "Niemand hat vor, einen Flughafen zu errichten" #quote
+
+1357759495 Sicherheitsprobleme bei Kongressen und  Kongresscentern #chapter
+1357759546 DECT Netzwerk <http://de.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications> #glossary
+1357759548 GSM Netzwerk <http://de.wikipedia.org/wiki/Global_System_for_Mobile_Communications> #glossary
+1357759625 GPRS würde das Netz abschießen <http://de.wikipedia.org/wiki/GPRS> #glossary
+1357759641 Roaming <http://de.wikipedia.org/wiki/Roaming> #glossary
+
+1357759749 Kongress 2 #chapter
+1357759764 Anzahl der Macs wird nicht mehr erhoben
+1357759873 Chaos Communication Congress NOCs <http://en.wikipedia.org/wiki/Network_operations_center> #glossary
+1357759890 Engel Team besteht aus mehreren Nationalitäten 
+1357759940 "Mit Deutsch kommt man nicht weit." (Tim) #quote
+
+1357759980 Events Munich Erlang Factory Lite #chapter
+1357759983 Munich Erlang Factory 2013 (19.02.2013) <https://www.erlang-factory.com/conference/Munich2013>
+Erlang <http://www.erlang.org/>
+Tim hat sich ein Ticket für einen Event gekauft
+Keynote hält John Bader = Hukl
+1357760200 "In 10 Minuten im Git Repo einchecken" #quote
+1357760317 PowerPoint Karaoke auf dem 23C3 (Roddi ab 5m18s) <http://media.ccc.de/browse/congress/2006/23C3-1683-de-powerpoint_karaoke.html> #video
+1357760362 Datenschleuder <http://ds.ccc.de>
+1357760552 BCC <http://www.bcc-berlin.de/>
+
+1357760614 Meta-Errata-Kram #chapter
+Hierarchy Separator
+IMAP <http://de.wikipedia.org/wiki/Imap> #glossary
+POP3 <http://de.wikipedia.org/wiki/Pop3> #glossary
+ASCII <http://de.wikipedia.org/wiki/Ascii> #glossary
+Telnet <http://de.wikipedia.org/wiki/Telnet> #glossary
+Mail.app <http://www.apple.com/osx/apps/#mail>
+Mail for Mac <http://de.wikipedia.org/wiki/Apple_mail> #glossary
+1357761113 "Es gibt kein Normalerweise" (Clemens) #quote
+1357761250 Es gibt kein Move, sondern nur Copy und Delete
+1357761288 Microsoft Outlook Express <http://de.wikipedia.org/wiki/Outlook_Express>
+1357761350 Mail.app ist gar nicht "so" schlecht
+1357761490 Postbox <http://www.postbox-inc.com/>
+1357761545 Naming Convention
+1357761560 Übersetzungen bei Naming Convention
+1357761576 Standard schreibt UTF-7 vor <http://de.wikipedia.org/wiki/UTF-7>
+1357761615 Apple übersetzt im Client, Microsoft im Server
+1357761666 IDLE Command IMAP4 <http://tools.ietf.org/html/rfc2177>
+1357761753 IMAP Wiki <http://imapwiki.org/Specs>
+1357761768 Dovecot <http://www.dovecot.org/>
+1357761865 Unique URL <http://de.wikipedia.org/wiki/Uniform_Resource_Locator> 
+
+1357761910 IP und Netzmasken #chapter
+Garage Sale <http://www.iwascoding.com/garagesale/>
+- for iOS im AppStore <http://itunes.apple.com/app/garagesale-touch/id330789429?mt=8>
+1357762000 Hetzner <http://www.hetzner.de/>
+1357762002 HostEurope <http://www.hosteurope.de/>
+1357762060 IP-Bereiche
+1357762090 T-Mobile USA <http://en.wikipedia.org/wiki/T-Mobile_USA>
+1357762175 Netzmasken <http://de.wikipedia.org/wiki/Netzmaske>
+1357762284 Tim will alle Provider zu IPv6 überzeugen
+1357762335 30C3 ohne IPv4 (leider unrealistisch)
+1357762365 Arduino Ethernet kann kein IPv6 <http://de.wikipedia.org/wiki/Arduino-Plattform> #glossary
+1357762368 Arduino Ethernet Shield <http://arduino.cc/en/Main/ArduinoEthernetShield>
+Apple Geräte haben von Hause aus nur IPv6
+1357762444 "Ich denke also PING ich" (hukl) #quote
+1357762542 "Scan mich, ping mich, gib mir Hostnamen" (hukl) #quote
+1357762544 There's an XKCD for that: "Permanence" <http://xkcd.com/910/>
+1357762590 Hukls Name entstand durch draufhauen auf die Tastatur #spoiler
+1357762636 "Es wird Geräte geben, die nur noch IPv6 können" (tim) #quote
+
+1357762644 Schriftarten #chapter
+1357762655 Freier Adobe Font <http://blogs.adobe.com/typblography/2012/09/source-code-pro.html>
+auf Github <https://github.com/adobe/source-code-pro>
+Download <http://sourceforge.net/projects/sourcecodepro.adobe/>
+Menlo <http://en.wikipedia.org/wiki/Menlo_(typeface)> #glossary
+Monaco <http://en.wikipedia.org/wiki/Monaco_(typeface)> #glossary
+DejaVu <http://en.wikipedia.org/wiki/DejaVu_fonts> #glossary
+Menlo vs Deja Vu <http://9-bits.com/post/123940811/menlo-font-macosx>
+Bitstream Vera Sans <http://de.wikipedia.org/wiki/Bitstream_Vera> #glossary
+Objectiv-C
+1357763060 "Objective-C hat mir zuviele Klammern, ich bin ja schon bei LISP ausgetickt" (Clemens) #quote
+1357763062 Objective-C <http://de.wikipedia.org/wiki/Objective-C> #glossary
+1357763105 ISO8859-1 <http://de.wikipedia.org/wiki/ISO_8859-1> #glossary
+1357763133 Unicode <http://de.wikipedia.org/wiki/Unicode> #glossary
+1357763190 Klingonisch <http://de.wikipedia.org/wiki/Klingonische_Sprache> #glossary
+1357763255 Font Awesome <http://fortawesome.github.com/Font-Awesome/>
+1357763285 Disketten als Speichern-Symbol
+1357763302 Die Word-Diskette ist spiegelverkehrt
+1357763470 OpenType <http://de.wikipedia.org/wiki/OpenType> #glossary
+1357763471 TrueType <http://de.wikipedia.org/wiki/TrueType> #glossary
+1357763515 Blinkenlights Font <http://www.primetype.com/free_fonts.php> <http://www.fraugerlach.de/?p=63> 
+1357763517 Nadeldrucker <http://de.wikipedia.org/wiki/Nadeldrucker> #glossary
+1357763594 Die Schriftart entspricht dem ersten Haus
+1357763760 Frau Verena Gerlach <http://www.fraugerlach.de/>
+Street Font <http://www.fraugerlach.de/?p=46>
+1357763918 Webfonts <http://de.wikipedia.org/wiki/Webfont> #glossary
+1357763951 Avenir <http://de.wikipedia.org/wiki/Avenir> #glossary
+1357763974 Google Web Font <http://www.google.com/webfonts>
+1357763985 Fontshop <http://www.fontshop.de/>
+1357764011 Typekit <https://typekit.com/> 
+1357764103 My Fonts <http://www.myfonts.com/>
+1357764130 WOFF <http://de.wikipedia.org/wiki/Web_Open_Font_Format> #glossary
+1357764131 EOT <http://en.wikipedia.org/wiki/Embedded_OpenType> #glossary
+1357764155 Schriftart Browserunterstützung <http://caniuse.com/#search=font>
+1357764223 CSS <http://de.wikipedia.org/wiki/Cascading_Style_Sheets> #glossary
+1357764251 Gerrit van Aaken <https://twitter.com/gerritvanaaken>
+1357764257 Webtypo Buch <http://webtypobuch.de/> #glossary #shopping
+
+1357764340 Aktien und Internetdienste #chapter
+1357764342 "Wir sollten mehr über Macs reden" (Tim) #quote
+1357764348 "oder MAC Adressen" (Clemens) #quote
+1357764369 Apple Kurs ist gefallen. <http://www.finanzen.net/aktien/Apple-Aktie> 
+1357764441 Apple Ping <http://en.wikipedia.org/wiki/ITunes_Ping>
+1357764453 "Analysten haben gute Erklärungen, warum sie falsch lagen" (Clemens) #quote
+1357764500 Börsenkurse in den SERPS (Beispiel Apple) <https://www.google.de/search?q=aapl>
+1357764580 Akamai <http://www.akamai.com/>
+1357764635 "Google hat sehr viele Internetdienste sehr gut hinbekommen" (Tim) #quote
+1357764670 Google Wave Fail <http://de.wikipedia.org/wiki/Google_Wave> #glossary
+1357764730 Dropbox <https://www.dropbox.com/home>
+1357764755 "Mit iDisk gang das halbwegs" #quote
+
+1357764890 Maps und iCloud #chapter
+1357764899 Apple Maps <http://www.apple.com/ios/maps/>
+1357764960 BugReports bei Apple Maps
+1357765025 Apple ist zu stolz
+1357765044 Apple will Waze kaufen <http://www.waze.com/> 
+waze <http://de.wikipedia.org/wiki/Waze> #glossary
+Tim war in Kolumbien <http://metaebene.me/blog/2012/10/21/on-my-way/>
+1357765195 Clemens will ne App, die Nummernschilder in Handynummern auflöst
+1357765255 Dropbox - Samsung Partnership <http://www.samsung-blog-news.de/2013/01/08/samsung-bringt-die-dropbox-auf-smartphone-kameras-und-pc/>
+1357765260 Karl Klammer <http://de.wikipedia.org/wiki/Microsoft_Office> #glossary
+Clippy <http://en.wikipedia.org/wiki/Office_Assistant> #glossary
+1357765310 iCloud sind drei Dienste (KeyValue, UbiquityContainer, CoreData)
+AppStore Ablehnung wegen iCloud Fail
+1357765542 iCloud beim Mac benutzen ist nur möglich, wenn du über den Appstore verkaufst
+1357765597 Messages App <http://en.wikipedia.org/wiki/Messages_(application)> #glossary
+1357765672 SIM-Karte <http://de.wikipedia.org/wiki/SIM-Karte> #glossary
+1357765698 Simlock freie Phones in Schweden
+1357765704 Verizon <http://www.verizonwireless.com>
+1357765781 GoogleMaps App for iOS <https://itunes.apple.com/de/app/google-maps/id585027354> #shopping
+1357766040 Open Street Map <http://www.openstreetmap.de>
+
+1357766257 Applestore Berlin #chapter
+1357766265 Vorhersage der Eröffnung für März 2013
+1357766301 Flughäfen in Berlin <http://de.wikipedia.org/wiki/Liste_der_Berliner_Flughäfen> #glossary
+BER <http://de.wikipedia.org/wiki/Flughafen_Berlin_Brandenburg> #glossary
+Sperenberg <http://de.wikipedia.org/wiki/Flugplatz_Sperenberg> #glossary
+
+1357766355 Mac Mini, Platten und Performance #chapter
+1357766360 Neuer iMac der "do i look fat iMac"
+1357766418 das kleine Modell ohne RAM-Slot
+1357766475 Power G7 Mac  
+1357766553 ECC RAM <http://en.wikipedia.org/wiki/ECC_memory> #glossary
+1357766660 "SSD mit kaum Laufgeräuschen" #quote
+1357766661 Samsung 840 Pro 256GB <http://www.amazon.de/dp/B009LI7CTY/> #shopping
+Samsung 840 Pro 512GB <http://www.amazon.de/dp/B009LI7CYE/> #shopping
+1357766930 Mac Mini bekommt man immer wieder
+1357766931 Mac Mini Server <http://www.amazon.de/dp/B009WHV2VI/> #shopping
+1357767019 cLang <http://clang.llvm.org/>
+1357767124 VM Ware Fusion <http://www.vmware.com/de/products/desktop_virtualization/fusion/overview>
+- bei Amazon <http://www.amazon.de/dp/B008VLUE24/>
+1357767126 Virtual Box <https://www.virtualbox.org/>
+1357767215 Oracle hat Sun (und Virtual Box) kaputt gemacht
+1357767243 "Yo dawg, I heard you like virtualized Mac, so i put a virtualized mac in your virtualized mac so you can virtualize while you virtualize" <http://knowyourmeme.com/memes/xzibit-yo-dawg> #quote
+1357767375 AnandTech <http://www.anandtech.com/SearchResults?q=840>
+1357767445 FusionDrive <http://de.wikipedia.org/wiki/Fusiondrive> #glossary
+1357767485 "Ihre Datei befindet sich nur wenige Gigabyte entfernt" #quote
+1357767610 Thunderbolt <http://de.wikipedia.org/wiki/Thunderbolt_(Schnittstelle)> #glossary
+1357767613 Belkin Thunderbolt Dock <http://www.belkin.com/us/pressreleases/8798255940668>
+Sony Video Kameras mit Firewire <http://en.wikipedia.org/wiki/Sony_camcorders> #glossary
+Firewire kam von Apple <http://de.wikipedia.org/wiki/Firewire> #glossary
+USB und Thunderbolt u.a. von Intel <http://de.wikipedia.org/wiki/Intel> #glossary
+1357767992 Apple Thunderbolt Dock (mit integriertem Display) <http://store.apple.com/de/product/MC914ZM/B/apple-thunderbolt-display-(27-flachbildschirm)> #shopping
+
+1357768032 iWorld #chapter
+1357768042 Roddi war in den USA im Applestore Portland, OR
+1357768050 Portland <http://de.wikipedia.org/wiki/Portland_%28Oregon%29> #glossary
+1357768075 iPad Mini <http://www.apple.com/de/ipad-mini/overview/>
+10 P.M. shopping
+Roddi hat jetzt ein iPad mini
+1357768500 Schweine im Weltall <http://de.wikipedia.org/wiki/Die_Muppet_Show#Schweine_im_Weltall> #glossary
+iOS 6 <http://de.wikipedia.org/wiki/Ios_6> #glossary
+1357768568 Tim war auch wieder in einem Applestore in Augsburg und hat somit 75% der deutschen Stores abgedeckt
+1357768722 Es gibt 10 Apple Stores in Deutschland
+1357768760 Mac vergisst WLAN
+1357768785 Genius Bar <http://www.apple.com/de/retail/geniusbar/> #glossary
+1357768794 Mac Tipps und Tricks: PRAM- und SMC-Reset <http://support.apple.com/kb/HT3964?viewlocale=de_DE> <http://support.apple.com/kb/HT1379?viewlocale=de_DE> #glossary
+1357768920 Tims Mac hat seine Seriennummer vergessen
+1357768923 Apple Hardware Test <http://support.apple.com/kb/HT1509?viewlocale=de_DE> #glossary
+1357769027 Nokia <http://www.nokia.de/>
+1357769080 iFixIt iPad App <https://itunes.apple.com/de/app/ifixit-repair-manual/id407417097?l=en&mt=8> #shopping
+1357769112 Kassen im Applestore existieren nicht wirklich, es gibt nur eine.
+1357769200 Die Kasse ist im Tisch integriert
+1357769245 Cash Drawer <http://www.cashdrawer.com/products/pos-podium-drawer>
+1357769318 "Tolle Regelung aus dem Reichs Trallala Gesetz" #quote
+
+1357769332 Bugs und der AppStore #chapter
+1357769340 Apple und Zeit 
+1357769372 BusyCal App
+1357769374 Tim hat alles zu Kalender gesagt, redet aber trotzdem wieder darüber
+1357769419 Do Not Disturb Bug (YYYY-yyyy) <http://arstechnica.com/apple/2013/01/ask-ars-why-will-apples-do-not-disturb-bug-fix-itself-next-week/>
+1357769526 Apples Werbung für "Do Not Disturb" <https://www.youtube.com/watch?v=eLJN_d2sVjk> #video
+1357769590 Geplante Obsoleszenz für Geräte <http://de.wikipedia.org/wiki/Obsoleszenz#Geplante_Obsoleszenz> #glossary
+1357769766 1Password <https://itunes.apple.com/app/1password-password-manager/id568903335?ls=1&mt=8> #shopping
+1357769773 iOutBank <https://itunes.apple.com/de/app/ioutbank-pro/id299850339?l=en&mt=8> #shopping
+1357769943 Feature selection (Feature set) <http://en.wikipedia.org/wiki/Feature_selection> #glossary
+1357770026 Class action lawsuit <http://en.wikipedia.org/wiki/Class_action> #glossary
+1357770273 RadioOpt: Traffic Monitor mit Speed Test <https://itunes.apple.com/de/app/traffic-monitor-speed-test/id482570191?l=en&mt=8>
+1357770500 MM 101 Pirate Match <http://mobilemacs.de/2012/12/mm101-pirate-match.html>
+1357770510 Movies.io
+1357770616 Hukl macht Vorträge in der UdK namens "The Hitchhikers Guide to the internet"
+1357770700 Abmahnungen Hacken
+1357770940 Adressbuch Abzocker <https://www.lawblog.de/index.php/archives/2012/06/26/adressbuch-abzocke-anwlte-drehen-den-spie-um/>
+
+1357770974 Kramecke #chapter
+1357770980 Y Combinator <http://ycombinator.com/>
+1357770982 Bitcoin 
+BitPay <https://bitpay.com/>
+CoinBase <https://coinbase.com/>
+BitPain <http://bitpain.com/>
+Samwer Brüder
+
+1357771290 Steuerfoo #chapter
+1357771291 Steuersysteme in Europa und den US im Vergleich
+1357771364 Tim verweigerte es eine lange Zeit Steuern ordentlich zu zahlen
+1357771466 Lösung dafür: Ordnung in das Leben bringen
+1357771533 Buchhaltungssoftware bringts nicht, und Tabellenkalkulation ist auch nicht das Wahre
+1357771570 Es gibt eine Lösung
+1357771580 Umsatz Pro <http://umsatz-programm.de/>
+- im AppStore <https://itunes.apple.com/de/app/moappsumsatz-buchhaltung-fur/id415071004?mt=12> #shopping
+1357771650 Leseprobe <http://umsatz-programm.de/resources/iBook_Buchhaltung_MOApp.pdf>
+
+1357771822 Scanner und Dokumentenmanagement #chapter
+1357771822 Dokumenten-Scanner ScanSnap 300 <http://www.fujitsu.com/emea/products/de/scanners/discontinued/tmpl_scanners_scansnap-s300.html>
+1357771890 Fujitsu ScanSnap1300 <http://www.amazon.de/dp/B008F05ND6/> #shopping
+1357772062 Fujitsu ScanSnap iX 500 <http://scanners.fcpa.fujitsu.com/scansnapit/DE/scansnap-ix500.php>
+1357772165 OCR <http://de.wikipedia.org/wiki/Texterkennung>
+1357772166 VCF-Datei <http://de.wikipedia.org/wiki/VCard>
+1357772354 "Genau das Gerät für Tim: Es ist nicht nur Teuer, es sieht auch gut aus" (Roddi) #quote
+1357772392 "Scan to Dropbox"
+1357772480 "Wir Mac Nutzer können PDFs einfach so machen, wir können sie sogar anzeigen" #quote
+1357772485 Online Briefe versenden <http://www.onlinebrief24.de/>
+1357772761 Tim würde Liebesbriefe nicht über Onlineservices versenden, stattdessen mit Füller und parfümiertem Papier
+1357772809 Es gibt Unterschriftroboter <http://de.wikipedia.org/wiki/Unterschriftenautomat> #glossary
+- Artikel auf SPON <http://www.spiegel.de/politik/ausland/zeitdruck-obama-laesst-gesetz-von-maschine-unterschreiben-a-765411.html>
+1357772920 Signaturfunktion in Preview <http://support.apple.com/kb/HT2506#signature>
+
+1357773148 Microblogginglandschaftsbeleuchtung #chapter
+1357773158 App.net und Twitter
+1357773208 Messaging-API: private Nachrichten sind möglich
+1357773216 Felix App <https://itunes.apple.com/de/app/felix-for-app.net/id562447652?mt=8> #shopping
+1357773520 Wer hat den Längsten (Bart)?
+1357773601 Shownotes-Qualität nimmt zu.
+1357773642 "Vadern @ home" (Hukl) #quote
+1357773658 Gastbewerbungen von Frauen und Eichhörnchen werden entgegen genommen
+1357773710 Ende
+

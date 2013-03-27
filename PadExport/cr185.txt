@@ -1,0 +1,148 @@
+(Um mitzuschreiben bitte auf https://shownotes.piratenpad.de/ einloggen/registrieren.)
+
+HEAD
+Chaosradio 185
+mit Marcus Richter (@monoxyd), Martin Haase (@martinhaase), @erdgeist und ths
+Thema: Weltuntergang
+Seiten zur Sendung: 
+ * http://blog.chaosradio.ccc.de/index.php/2012/11/29/cr185-weltuntergang/
+ * http://www.fritz.de/programm/sendungen/33/1211/121129_blue_moon_8255.html
+ * http://monoxyd.de/20121129-cr-mixtapes-2-185
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fcr185&time=22%3A01%3A30&Button=Create%21>
+Zusammengetragen von: Gurkitier, @Quimoniz
+/HEAD
+
+Sendungsbeginn: 22:01:30 Uhr
+
+Heute zu Gast in der Sendung: @erdgeist, Martin Haase und ths
+cr.mixtapes #2.185 <http://monoxyd.de/20121129-cr-mixtapes-2-185>
+Free Music Sampler von GEMA verklagt <http://musik.klarmachen-zum-aendern.de/pressemitteilung/2012/06/26/gema_verklagt_musikpiraten_ev_wegen_nutzung_eines_creative_commons-songs>
+Die GEMA-Vermutung <http://de.wikipedia.org/wiki/GEMA-freie_Musik#GEMA-Vermutung> #wikilink
+Initiative C3S <http://c3s.cc/>
+
+00:10:30 Anrufer: Meinhard Starostik #chapter
+Urheberrechtswahrnehmungsgesetz <http://www.gesetze-im-internet.de/urhwahrng/BJNR012940965.html>
+Mögliche Alternative: Creative Commons <http://de.creativecommons.org/>
+Eine der Forderungen der C3S: keine Abmahnungen für Privatkopien
+Mitglied bei der C3S werden und Spenden <http://c-3-s.org/#howitworks>
+2013 wird es die C3S definitiv geben
+
+00:18:00 Google und das Leistungsschutzrecht #chapter
+Google und seine Monopolmacht<http://www.focus.de/politik/deutschland/streit-um-recht-der-presseverlage-google-missbraucht-seine-marktmacht_aid_871567.html>
+Wenn selbst die Junge Union gegen das Leistungssuchtzrecht ist, dann kann es nur schlecht sein.
+Google: "Verteidigt euer Netz" <https://www.google.de/campaigns/deinnetz/>
+SOPA <http://de.wikipedia.org/wiki/Stop_Online_Piracy_Act> #wikilink
+Europa Forschungsprojekt zu einer staatlichen Suchmaschine, Galileo
+Megaupload <http://de.wikipedia.org/wiki/Megaupload> #wikilink
+Kim Schmitz' eigenes Glasfaserkabel <http://www.augsburger-allgemeine.de/digital/Kim-Schmitz-will-13-000-Kilometer-langes-Tiefsee-Internetkabel-verlegen-id22624276.html>
+UrhG §52a <http://www.gesetze-im-internet.de/urhg/__52a.html>
+Zweite und dritte Beratung Urheberrechtsgesetz/Änd
+- Drucksache 17/11317 <http://dip.bundestag.de/btd/17/113/1711317.pdf> #pdf
+- Drucksache 17/10087 <http://dip.bundestag.de/btd/17/100/1710087.pdf> #pdf
+- Drucksache 17/11699 <http://dip.bundestag.de/btd/17/116/1711699.pdf> #pdf
+Netzneutralität <http://de.wikipedia.org/wiki/Netzneutralit%C3%A4t> #wikilink
+
+00:29:50 FritzInfo mit Nachrichten, Wetter und Verkehr
+
+Neusprech <http://de.wikipedia.org/wiki/Neusprech> #wikilink
+Mahas Neusprechblog <http://neusprech.org/>
+Das Hamburger Transparenzgesetz
+
+00:37:00 Anrufer: Dodger (@zuendelkind) #chapter
+Informationsfreiheitsgesetz <http://de.wikipedia.org/wiki/Informationsfreiheitsgesetz> #wikilink
+Initiative für ein Transparenzgesetz <http://www.transparenzgesetz.de/>
+Wikiprojekt zum Schreiben des Gesetzes <http://de.hamburgertransparenzgesetz.wikia.com/wiki/Hamburger_Transparenzgesetz_Wiki> #wikilink
+Grundgedanke: Alle Information die mit Steuermitteln gefördert wurde, sollte öffentlich verfügbar sein
+Elbphilharmonie <http://de.wikipedia.org/wiki/Elbphilharmonie> #wikilink
+Frag den Staat <https://fragdenstaat.de/>
+
+ths: "Naja, ich bin ja nur hier zum Autofahren" #zitat #spoiler
+
+00:44:10 Sicherheit von Mobiltelefonen #chapter
+iOS, Blackberry OS und Android
+Windows Phone 7 <http://de.wikipedia.org/wiki/Microsoft_Windows_Phone_7> #wikilink
+IPsec <http://de.wikipedia.org/wiki/IPsec> #wikilink
+Backup-Systeme von Smartphones bestehen bisher nur aus Cloudanbindung
+WhatsApp <http://de.wikipedia.org/wiki/WhatsApp#Kritik> #wikilink
+Alternativen zur SMS
+Facebook <http://www.heise.de/thema/Facebook> #heise
+Skype <http://www.heise.de/thema/Skype> #heise
+Internet Explorer-Sicherheitslücken <http://de.wikipedia.org/wiki/Internet_Explorer#Sicherheit> #wikilink
+GSM <http://de.wikipedia.org/wiki/Global_System_for_Mobile_Communications> #wikilink
+erdgeist: "Wenn du für einen Dienst nicht bezahlst bist du die Ware, nicht der Kunde" #zitat
+Kopierschutzmodul spielt verrückt <http://winfuture.de/news,73051.html>
+Fragwürdiger Standard: Neue Apps holen alle möglichen Rechte ein.
+"Leute wenn ihr weiter Whatsapp benutzt, kommt irgendwann erdgeist mit dem Gummihandschuh!" #zitat
+Initiative Chaos macht Schule <http://cre.fm/cre189> #podcast
+SMS-Kosten sind viel zu hoch
+
+00:59:45 Anruferin: Tanja #chapter
+Sie nutzt WhatsApp, ihr macht das tierisch Spass
+Sie findet es frech, dass sie verurteilt wird, weil sie sich nicht mit den Sicherheitslücken beschäftigt hat.
+Sie findet die Smileys, die Bildchen und das veschicken von Bildern bei Whatsapp toll.
+XMPP <http://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol> #wikilink
+ths hat sich eine App für 10 Euro gekauft, als Anwendungsalternative für Whatsapp, die aber noch mehr kommunizierte.
+OTR <http://de.wikipedia.org/wiki/Off-the-Record_Messaging> #wikilink
+heise-Artikel zu WhatsApp-Account-Klau Sicherheitsproblem <http://www.heise.de/newsticker/meldung/Erneut-Account-Klau-bei-WhatsApp-moeglich-1756224.html> #heise
+
+01:04:10 Anrufer: Robert #chapter
+Laut ihm ist es Leuten, die ohnehin schon ihre sämtliche Daten Facebook offengelegt haben, auch egal, ob WhatsApp ihre Daten hat, oder nicht.
+Kettenmails über WhatsApp <http://www.heise.de/security/meldung/Kettenbrief-verunsichert-WhatsApp-Nutzer-1759124.html>
+Er meint, dass eh Irgendwann rauskomme, dass alle uns überwachen.
+
+01:07:05 Anrufer: Frank Rieger (@frank_rieger) #chapter
+CCC kritisiert Antiterrordatei <http://www.zeit.de/digital/datenschutz/2012-11/ccc-kritik-antiterrordatei>
+- Stellungnahme auf ccc.de <http://www.ccc.de/de/updates/2012/stellungnahmeatdg>
+Trennung von Geheimdienst und Polizei nach zweitem Weltkrieg <http://de.wikipedia.org/wiki/Trennungsgebot_zwischen_Nachrichtendiensten_und_Polizei> #wikilink
+Geheimdienstsoftware RScace
+Chaos Communication Congress 29 "Not My Department" <https://events.ccc.de/congress/2012/wiki/Main_Page>
+01:14:55 EU Datenschutzverordnung/Richtlinie
+01:15:20 Abmahngeschichte Snake cake <http://www.kraftfuttermischwerk.de/blogg/?p=39886>
+Kimble und Gravenreuth
+Abteilung ZPÜ bei GEMA <http://de.wikipedia.org/wiki/Zentralstelle_f%C3%BCr_private_%C3%9Cberspielungsrechte> #wikilink
+Idee: Kulturwertmark <http://www.ccc.de/de/updates/2011/kulturwertmark>
+Micro-Payment mit Flattr <http://flattr.com/> #flattr
+Elektronische Währung Bitcoin <http://de.wikipedia.org/wiki/Bitcoin> #wikilink
+CR169 über Bitcoins <http://chaosradio.ccc.de/cr169.html>
+Elektronische Gesundheitskarte <http://de.wikipedia.org/wiki/Elektronische_Gesundheitskarte> #wikilink
+E-Postbrief <http://de.wikipedia.org/wiki/E-Postbrief> #wikilink
+
+01:28:10 FritzInfo mit Nachrichten, Wetter und Verkehr
+
+01:32:45 Drohnen sind nun Alltag in USA #chapter
+Daniel Suarez - Kill Decision <http://www.amazon.de/Kill-Decision-Daniel-Suarez/dp/0451417704/> #amazon #shopping
+WikileaksVerfilmung von Dreamworks <http://www.hollywoodreporter.com/news/wikileaks-movie-casts-inglourious-basterds-395078>
+Benedict Cumberbatch <http://de.wikipedia.org/wiki/Benedict_Cumberbatch> #wikilink
+Daniel Brühl <http://de.wikipedia.org/wiki/Daniel_Br%C3%BChl> #wikilink
+
+CR 184 zu Drohnen <http://chaosradio.ccc.de/cr184.html>
+maha, Bruce Willis <http://de.wikipedia.org/wiki/Bruce_Willis> #wikilink
+Wernher von Braun "Not my Department" 
+Tom Lehrer - Wernherr von Braun
+- Wikipedia zu Tom Lehrer <http://de.wikipedia.org/wiki/Tom_Lehrer> #wikilink
+- der Song <http://www.youtube.com/watch?v=kTKn1aSOyOs> #youtube #video
+Es gibt noch Karten für den Chaos Communication Congress <https://events.ccc.de/congress/2012/wiki/Tickets> #wikilink
+Chaos Communication Congress 2012 29c3 im CCH bei Hamburg Dammtor <http://www.cch.de/>
+Konzept der Assemblies <https://events.ccc.de/congress/2012/wiki/Assemblies> #wikilink
+Berliner BCC <http://www.bcc-berlin.de/>
+Man kann auf dem 29c3 neues entdecken, man muss nur Interesse haben. 
+An Tag 3 ist Junhackertag <https://events.ccc.de/congress/2012/wiki/Chaos_macht_Schule> #wikilink
+Assemblies <https://events.ccc.de/congress/2012/wiki/Assemblies#List_of_already_registered_assemblies> #wikilink
+Lightning Talks <https://events.ccc.de/congress/2012/wiki/Lightning_Talks> #wikilink
+Workshops <https://events.ccc.de/congress/2012/wiki/Workshops> #wikilink
+Mitfahrgelegenheiten, Unterkünfte <https://events.ccc.de/congress/2012/wiki/Main_Page#Tickets_and_Travel_Information> #wikilink
+Der 29c3 findet am 27. bis 30. Dezember 2012
+Microsoft Window 8 <http://de.wikipedia.org/wiki/Microsoft_Windows_8> #wikilink
+X Window System <http://de.wikipedia.org/wiki/X_Window_System> #wikilink
+monoxyd kriegt Sekt, Geduldsspiel, und schwarzes Schaf geschenkt zum Abschied.
+Dies ist der letzte Blue Moon von Marcus Richter.
+Holger Klein (@holgi) wird Chaosradio-Moderation übernehmen
+Marcus wird von einem Spezialkommando "Freie[n] Rächer in turbulenten Zeiten (FRITZ)" zur Rettung der Welt von 2112 in die Zukunft verschleppt.
+"Mach immer schön eure Backups und lasst euch nicht überwachen" #zitat
+
+01:53:00 Tracky Birthday - Websiiite <http://www.upitup.com/catalogue/sharemp3.php?cat_id=28&trk_id=268>
+
+Nächstes Chaosradio am 31. Januar mit Holger Klein.
+
+Ende der Sendung: 23:58:10 Uhr
+

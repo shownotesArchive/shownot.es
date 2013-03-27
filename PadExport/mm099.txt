@@ -1,0 +1,148 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Shownotes zu MobileMacs 099
+Stream: http://streams.xenim.de/mobile_macs.mp3
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fmm099&time=20%3A01%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Denis @denis2342, roddi 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/99
+
+Zusammengetragen von: @kaeffchen_heinz, @evitabley, @quimoniz, @simonwaldherr, @johannes_k
+
+00:00:00 Sendungsbeginn: ~20:01:00 Uhr #chapter
+Intro gesprochen von Christian, Mr. Hörsuppe (@hoersuppe)
+Zack Bum Return
+Artikel auf SMYCK <https://smyck.net/2011/06/02/mac-os-x-keyboard-shortcut-for-locking-the-screen/> #link
+"Wir stehen auf den Schultern von Riesen" (Bernhard von Chartres) #zitat
+Liste aller shortcuts für OS X <http://www.danrodney.com/mac/> #link
+Vorderste Applikation abschiessen: Command + Option +Shift + Escape
+Tim hat seine Game Center Freunde gelöscht <http://de.wikipedia.org/wiki/Game_Center> #wikilink
+Chaosradio Nummer 0XY wurde geskipt 
+USB Gitarre <http://store.apple.com/us/product/HA153LL/A/squier-by-fender-usb-stratocaster-guitar> #shopping
+
+00:14:30 Tim war im Apple Store #chapter
+Apple Store Oberhausen <http://www.apple.com/de/retail/centro/> #link
+Spiegel berichtete über die Apple Stores in Deutschland #spoiler
+- Kameraüberwachung
+- 10 Euro pro Stunde Gehalt
+- Store Mitarbeiter müssen ihre Apple Geräte vorzeigen wenn sie gehen
+Tims iPhone 5 funktioniert nicht #spoiler
+- Tweet <https://de.twitter.com/timpritlove/status/265258238071668736> #link
+Pre-Paid Datentarife in Kolumbien sind gut <http://de.wikipedia.org/wiki/Kolumbien> #wikilink
+Tims iPhone 4 ist auf EMEA gelockt <http://de.wikipedia.org/wiki/EMEA_%28Wirtschaftsraum%29> #wikilink
+Huawei <http://de.wikipedia.org/wiki/Huawei> #wikilink
+
+00:36:00 Apple Management #chapter
+Pressemitteilung <http://www.apple.com/pr/library/2012/10/29Apple-Announces-Changes-to-Increase-Collaboration-Across-Hardware-Software-Services.html>
+MobileMacs 096 <http://shownot.es/mm/96> #shownotes
+Ein neuer König: Jonathan Ive <http://de.wikipedia.org/wiki/Jonathan_Ive> #wikilink
+Sithlord <http://en.wikipedia.org/wiki/Sith> #wikilink
+Star Wars <http://de.wikipedia.org/wiki/Starwars> #wikilink
+Phill Schiller <http://de.wikipedia.org/wiki/Phil_Schiller> #wikilink
+Scott Forstall <http://de.wikipedia.org/wiki/Scott_Forstall> #wikilink
+Steve Buscemi <http://de.wikipedia.org/wiki/Steve_Buscemi> #wikilink
+Skeuomorphismen <http://en.wikipedia.org/wiki/Skeuomorph> #wikilink
+UIs "sollten sich mehr nach Zukunft anfühlen" #zitat
+Mircosoft Surface <http://de.wikipedia.org/wiki/Microsoft_Surface_%28Tablet%29> #wikilink
+Bob Mansfield <http://en.wikipedia.org/wiki/Bob_Mansfield> #wikilink
+
+01:01:00 LV(M) und Filesystem #chapter
+Fusion Drive <http://de.wikipedia.org/wiki/Fusiondrive> #wikilink
+Fusion Drive auf älteren Macs <http://jollyjinx.tumblr.com/post/34638496292/fusion-drive-on-older-macs-yes-since-apple-has> #link
+@jollyjinx <https://twitter.com/jollyjinx> #twitter
+Logical Volume <http://de.wikipedia.org/wiki/Logical_Volume_Manager> #wikilink
+rEFIt <http://refit.sourceforge.net/> #homepage
+The rEFInd Boot Manager <http://www.rodsbooks.com/refind/> #homepage
+Fusion Drive Support <http://support.apple.com/kb/HT5446> #homepage
+hardwrk SATA-Adapter <http://www.amazon.de/dp/B0070W33L4/> #amazon #shopping
+Apple MacBook Pro Retina <http://www.apple.com/macbook-pro/> #apple
+bei Amazon <http://www.amazon.de/dp/B008ATNIDE/> #amazon #shopping
+
+01:29:30 Apple iPad Mini #chapter
+Apple iPad mini <http://www.apple.com/ipad-mini/overview/>
+Non Retina Display 1024 × 768 Pixel 163 ppi
+second Generation iPad mini mit Retina Display?
+Konkurrenzgeräte mit utopischen/sinnlosen ppi
+HTC J Butterfly mit 440 ppi
+Subpixel <http://de.wikipedia.org/wiki/Subpixel-Rendering>
+
+01:48:00 Neue Macs #chapter
+neuer iMac auch nicht viel Dünner (aufgrund starker Wölbung) <http://www.apple.com/imac/> homepage
+iMac im Zug benutzen <https://twitter.com/macwelt/status/256280717049331713> #twitter
+
+01:54:00 Microsoft Surface #chapter
+Surface - Laptop Vergleich <https://twitter.com/banmans/status/216725932583559169> #twitter
+Windows 8 Kachel Design
+Microsoft Surface 32GB im Auslieferungszustand nur ca 16GB frei
+
+02:04:45 Microsoft Management #chapter
+Steven Sinofsky geht<http://de.wikipedia.org/wiki/Steven_Sinofsky>
+Steve Ballmer <http://de.wikipedia.org/wiki/Steve_Ballmer>
+Pirates of the Silicon Valley <http://de.wikipedia.org/wiki/Die_Silicon_Valley_Story> #wikilink
+bei Amazon <http://www.amazon.de/dp/B0009NSCS0/> #amazon
+bei Amazon (deutsch) <http://www.amazon.de/dp/B006WVESHW/> #amazon
+Steve Jobs the Lost Interview <http://www.stevejobs-thelostinterview.de/> #link
+
+02:08:00 Back-Ups #chapter
+Backup-Strategien
+Amazon S3 <http://aws.amazon.com/de/s3/> #link
+Amazon Glacier <http://aws.amazon.com/de/glacier/> #amazon
+Time Machine <http://de.wikipedia.org/wiki/Time_Machine_%28Apple%29> #wikilink
+Netatalk <http://de.wikipedia.org/wiki/Netatalk> #wikilink
+Arq - Online Backup Software for Mac <http://www.haystacksoftware.com/arq/> #homepage
+AWS Lifecycle Rule <http://aws.typepad.com/aws/2012/11/archive-s3-to-glacier.html> #homepage
+Tarsnap - Online backups for the truly paranoid <http://www.tarsnap.com/> #homepage
+
+02:25:30 AVM Fritz!Box #chapter
+AVM FRITZ!Box 
+- homepage <http://www.avm.de/de/Produkte/FRITZBox/index.php> #homepage
+- bei Amazon <http://www.amazon.de/dp/B003108AZI/> #amazon
+Jitsi - OpenSource VoIP App <https://jitsi.org/> #homepage
+
+02:35:30 App.net #chapter
+"App.net ist nicht Twitter, sondern Plattform" #zitat
+Identity and Payment
+
+02:45:00 Apple Bank #chapter
+Die Apple Bank
+Golden Delicious <http://de.wikipedia.org/wiki/Golden_Delicious> #spoiler
+Braeburn Capital (117Milliarden Dollar) <http://en.wikipedia.org/wiki/Braeburn_Capital> #wikilink
+Filme mit Banken
+- Blade Runner Film <http://de.wikipedia.org/wiki/Blade_Runner> #wikilink
+- Resident Evil <http://de.wikipedia.org/wiki/Resident_Evil_(Film)> #wikilink
+- Terminator <http://de.wikipedia.org/wiki/Terminator_(Film)> #wikilink
+Apple Campus 2 - Neue Apple Firmenzentrale <http://www.cupertino.org/index.aspx?page=26&recordid=463> #homepage
+
+02:53:40 Apps und Applications #chapter
+LetterPress App (Denis) <http://www.atebits.com/letterpress/> #homepage
+- AppStore <https://itunes.apple.com/de/app/letterpress-word-game/id526619424?mt=8> #shopping
+Pid (Hukl) <http://www.pidgame.com/> #shopping
+Karateka (vorgestellt von Denis)<http://en.wikipedia.org/wiki/Karateka_(video_game)> #wikilink 
+Remake für Xbox360, PS3, PC und iOS <http://karateka.com/> #homepage
+Trailer <https://www.youtube.com/watch?v=6pDy-CSFsPs> #youtube
+CloudOutliner (vorgestellt von Tim) <https://itunes.apple.com/de/app/cloud-outliner-outline-creator/id542911846?mt=8> #shopping
+Outliner (Definition Wikipedia) <http://de.wikipedia.org/wiki/Gliederungseditor> #wikilink
+OmniOutliner for Mac FAIL <http://www.omnigroup.com/products/omnioutliner/> #homepage
+Dave Winer <http://dave.editthispage.com/myNameIsDaveWiner> #homepage
+MORE Outliner by Dave Winer <http://outliners.scripting.com/more31.html> #homepage
+OPML <http://de.wikipedia.org/wiki/Outline_Processor_Markup_Language> #wikilink
+Scientology <http://psiram.com/ge/index.php/Scientology> #wikilink #psiram
+eMeter <http://de.wikipedia.org/wiki/E-Meter> #wikilink
+Angry Birds StarWars
+- AppStore <https://itunes.apple.com/de/app/angry-birds-star-wars/id557137623?mt=8>
+- GooglePlay <https://play.google.com/store/apps/details?id=com.rovio.angrybirdsstarwars.ads.iap&hl=de>
+Podcast Client Apps für Android
+- AntennaPod <https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=de>
+
+03:31:40 Arbeitsbedingungen bei Apple Retail #chapter
+Gravis-Store <http://www.gravis.de> #homepage
+
+03:41:30 Ausklang und Verabschiedung #chapter
+Lob an David <http://soundcloud.com/david1701> #link
+und an Christian (hörsuppe) <http://hoersuppe.de/> #podcast
+Lebkuchen bei Nürnberg <http://www.woitinek.de> #homepage
+Kickstarter Projekt zur Bierbrauüberwachung <http://www.kickstarter.com/projects/parasitx/the-beerbugtm-digital-hydrometer> #link
+
+Sendungsende: 23:55:25 Uhr
+
