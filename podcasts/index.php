@@ -101,7 +101,21 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <link rel="stylesheet" href="http://fortawesome.github.com/Font-Awesome/assets/css/font-awesome.min.css"/>
+  
+  <link href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/mediaelement/build/mediaelementplayer.min.css" rel="stylesheet" media="screen" type="text/css" />
+  <link rel="stylesheet" href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/pwpfont/css/fontello.css" /><!--[if IE 7]>
+  <link rel="stylesheet" href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/pwpfont/css/fontello-ie7.css" /><![endif]-->
+  <link href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/podlove-web-player.css" rel="stylesheet" media="screen" type="text/css" />
+  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/html5shiv.js"></script>
+  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/jquery-1.9.1.min.js"></script>
+  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/mediaelement/build/mediaelement-and-player.min.js"></script>
+  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/podlove-web-player.js"></script>
   <style id="editablestyle"></style>
+  <style>
+  	iframe {
+  		visibility: visible; height: 23px; width: 130px;
+  	}
+  </style>
 </head>
 
 <body onload="baf_listenerInit();">
@@ -171,9 +185,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     
     
 
-    echo '<br/> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><!--<a class="FlattrButton" href="'.$__SERVER["SCRIPT_URI"].'" title="'.ShownoteTitle().'" lang="de_DE">
+    echo '<br/><a class="FlattrButton" href="'.$__SERVER["SCRIPT_URI"].'" title="'.ShownoteTitle().'" lang="de_DE">
       [description]
-    </a>-->';
+    </a> <iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url='.rawurlencode($_SERVER["SCRIPT_URI"]).'&amp;text='.rawurlencode(strip_tags(ShownoteTitle())).'" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>';
     ?>
   </div>
 
@@ -200,7 +214,9 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
         s.type = 'text/javascript';
         s.async = true;
         s.src = '//api.flattr.com/js/0.6/load.js?'+
-                'mode=auto&uid=shownotes&language=de_DE&category=text';
+                'mode=auto&uid=shownotes&language=de_DE&category=text&button=compact&popout=0';
+        s.button = 'compact';
+        s.popout = false;
 
         t.parentNode.insertBefore(s, t);
     })();
