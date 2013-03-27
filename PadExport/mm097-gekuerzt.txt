@@ -1,0 +1,130 @@
+
+
+Shownotes zu MobileMacs 97
+Vom 03.10.2012
+Stream:<http://streams.xenim.de/mobile_macs.mp3>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fmm097&time=18%3A10%3A25>
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Roddi @roddi, Denis @denis2342 und Clemens @csch42, Dom @monkeydom
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/96>
+
+Sendungsbeginn: 18:10:25 Uhr
+
+Zusammengetragen von: evita @evitabley, johannes_k @johannes_k , hanz @kaeffchen_heinz , @Quimoniz , @Eragos , 
+
+
+
+00:00:00 Previously on Mobile Macs <http://soundcloud.com/david1701/previously-on-mobilemacs-096> #chapter
+
+00:03:48 Begrüßung #chapter
+Gastvorstellung Coding Monkey Dom @monkeydom #twitter
+
+
+00:05:00 Blitzgeräte #chapter
+Micro-USB zu Lightning für 19€ <http://store.apple.com/de/product/MD820ZM/A/lightning-auf-micro-usb-adapter?fnode=48> #shopping 
+
+00:15:00 iPhone 5 <http://www.apple.com/de/iphone/> #chapter
+
+00:22:45 Apple Maps #chapter
+Maps-Gate <http://www.macrumors.com/2012/10/03/apple-turning-to-select-retail-store-employees-to-help-improve-maps-for-ios-6/> #article
+Google Maps hat auch eine Fly-Over-Ansicht 
+Benutzer können beim Verbessern helfen über Problemmeldenbutton
+Das Kartenmaterial von Openstreetmap ist für Bahnlinien besser  <http://www.openstreetmap.de/> #homepage
+Yelp <http://www.yelp.de/> #homepage
+Qype <http://www.qype.co.uk/> #homepage
+
+01:05:00 Vermischtes #chapter
+Hukl berichtet über T-Mobile Support <http://twitter.com/arnaudfeld> #twitter
+News zum Applestore in Berlin
+Kamera Lowlightmodus
+Panoramafeature
+Kickstarter: 3D-Printer <http://www.kickstarter.com/projects/formlabs/form-1-an-affordable-professional-3d-printer> #shopping
+
+(01:22:40 Mac OS Server #chapter
+Hukl testete Mac OS X.8 Server #Spoiler)
+
+01:30:30 iOS6 #chapter
+App-Store in iOS6 Verbesserungen/Veränderungen
+Neuerung: 3 Sicherheitsfragen und alternative E-Mailadresse
+"Wie heisst deine Lieblingsfarbe?" - "Blau.. Nein Gelb!" Zitat aus Monty Pythons Ritter der Kokosnuss #quote
+iOS 6 hat jetzt auf dem iPad eine Uhr aber noch keinen Taschenrechner
+
+01:41:30 Androidbashing #chapter
+Bug: Geräte lassen sich über eine URL zurücksetzen
+- Fix <https://play.google.com/store/apps/details?id=com.voss.notelurl>
+- Artikel <http://stadt-bremerhaven.de/samsung-smartphones-komplettloeschung-aus-der-ferne-fuer-jedermann/> #article
+Menschen, die QR-Codes abfotografieren <http://picturesofpeoplescanningqrcodes.tumblr.com>
+
+02:00:00 Glaskugeling iPad mini #chapter
+Jemand wollte Apple verklagen weil sein Display kaputt war <http://appleinsider.com/articles/12/09/07/court_says_iphone_4_owners_cant_sue_apple_over_broken_glass>
+Apple hat keine Geheimnisse mehr <http://appleinsider.com/articles/12/10/02/purported-ipad-mini-parts-show-front-back-panels-lcd-nano-sim-tray>
+iPad mini 
+- Artikel auf imore <http://www.imore.com/regarding-ipad-25-and-ipad-26> #artikel
+- Artikel auf Chip <http://www.chip.de/news/iPad-mini-Produktion-angeblich-schon-gestartet_54874707.html> #artikel
+
+
+02:16:13 App.net <http://www.app.net> #chapter
+IFTTT <https://ifttt.com/> #homepage
+Netbot <http://tapbots.com/software/netbot/> #homepage
+Tweetbot für App.net #homepage
+clients: 
+- felix <http://tigerbears.com/felix/> #homepage
+- river <http://www.appriver.com/> #homepage
+- app.net-Apps <http://blog.app.net/blog/2012/10/03/app-net-app-update/> #homepage
+- appbot <https://alpha.app.net/hashtags/AppBot>
+App.net Apps kosten zwischen 1-4$
+
+02:43:00 Mumble #chapter
+Mumble ist das neue Teamspeak
+<http://de.wikipedia.org/wiki/Mumble> #wikipedia
+Opus <http://de.wikipedia.org/wiki/Opus_(Audioformat)> #wikipedia
+Skype und Auphonic wollen (auf) Opus (wechseln)/integrieren #spoiler
+- Auphonic <https://auphonic.com/> #homepage
+
+02:55:00 Apps #chapter
+- Tiny Wings <http://itunes.apple.com/de/app/tiny-wings/id417817520?mt=8> #shopping
+- Skisafari <http://itunes.apple.com/de/app/ski-safari/id503092422?mt=8> #shopping
+- Angry Birds <http://itunes.apple.com/de/app/angry-birds/id343200656?mt=8> #shopping
+- BadPiggies <http://itunes.apple.com/de/app/bad-piggies/id533451786?mt=8> #shopping
+- Workflowy <http://itunes.apple.com/us/app/workflowy/id551139514?ls=1&mt=8> #shopping
+- Things <http://itunes.apple.com/de/app/things/id284971781?mt=8> #shopping
+- Trello <http://itunes.apple.com/us/app/trello/id461504587> #shopping
+
+03:10:00  Temperaturregelungen und Bier #chapter
+- Roddis Blog <http://winkenschürfel.de> #homepage
+- CRE194 Bier <http://cre.fm/cre194> #Podcast
+
+GuildWars2 <https://buy.guildwars2.com/de/>
+Portal 2 <http://www.thinkwithportals.com/>
+- i wish i had a portal gun <http://www.youtube.com/watch?v=NggUSbgRUhc> #video
+- fanvideo <http://www.moviepilot.de/news/portal-vom-spiel-zum-fanvideo-112034> #video
+- Mit der Portal-Wumme durch Haus und Garten <http://de.engadget.com/2012/06/13/video-mit-der-portal-wumme-durch-haus-und-garten/> #video
+
+03:32:00 Gitarrennews #chapter
+Buchempfehlung: Electronics for Guitarists <http://www.amazon.de/Electronics-Guitarists-Denton-J-Dailey/dp/1461440866/ref=dp_ob_title_bk> #shopping
+Tunertip von Roddi: 
+- Polytune <http://www.tcelectronic.com/polytune.asp> #homepage
+- App <http://itunes.apple.com/de/app/polytune/id364009203?mt=8> #shopping
+Gibson <http://www.gibson.com/RobotGuitar/> #homepage
+
+03:39:00 Outro #chapter
+Christan Ehring <http://www.ndr.de/fernsehen/sendungen/extra_3/videos/extra4463.html> #video
+
+
+
+
+
+Titelvorschläge:
+Ich mach mir die Welt, wie sie mir gefällt!
+Der IT-Experte
+Antenna-Denis
+Die Wolke braucht Pause
+Mein Gefühl täuscht mich selten
+Ich hatte ein Nokia-Telefon
+mach den Affen weg
+Zieht Fäden bis in den 4. Stock
+
+
+
+
+

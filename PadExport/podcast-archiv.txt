@@ -1,0 +1,136 @@
+Bluemoon Podcast Archiv
+bitte helft mit, zu gewährleisten, dass die Mitschnitte frei von potenzieller GEMA Musik sind.
+
+Der stackevil hat ein Bluemoon Podcast Archiv hier: http://bitly.com/bluemoon-lateline-nightline
+Dieses enthält heruntergeladene Podcasts und Mitschnitte von 2010 bis 2006. Leider ist bei den Aufnahmen nicht mehr bekannt, ob diese nur GEMA-freie Musik enthalten. Das muss überprüft werden vor einer Veröffentlichung der Mitschnitte von 2006 bis 2010. Helft bitte mit, beim Nachhören und Überprüfen von Bluemoon Mitschnitten "broadcast-recordings".
+
+Beim bemerken von potenziel GEMA pflichtiger Musik, bitte die ungefähre Zeit im Mitschnitt notieren, und hier reinschreiben, sodass die Musik rausgeschnitten werden kann (der Musikname ist nicht vonnöten). Andernfalls notieren, dass der jeweilige Mitschnitt GEMA-frei ist.
+
+Die Frist bis wann die Mitschnitte überprüft sein müssen ist: Ad infinitam
+Mit anderen Worten, es gibt dabei keine Frist.
+Seitens Quimoniz steht der Vorschlag einer willkürlichen Frist, dass kollaborativ alle Podcasts in einem Monat (d.h. zum Ende des Septembers) überprüft werden.
+Wenn das geschehen ist, ist die nächste Phase, dass die Mitschnitte mit GEMA-pflichtiger Musik, diese rauschgeschnitten bekommen.
+Schliesslich werden die Mitschnitte dann im Bluemoon-Lateline-Nightline Archiv veröffentlicht.
+
+Die Mitschnitte von 2006 können hier heruntergeladen werden:
+http://resonanzkaska.de/broadcast-recordings/2006/
+./2006:
+GEMA-frei? |  Name
+  nein         | 20060102_BlueMoon_Holger_Klein_Nichtraucher_in_3_Stunden.mp3 (Scarlett - fertig)
+                    06:15 - 07:35 - The Sabres Of Paradise - Smokebelch II (Beatless mix)
+                    30:10 - 31:45 - The Sabres Of Paradise - Smokebelch II (Beatless mix)
+                    01:12:15 - 01:13:50 - The Sabres Of Paradise - Smokebelch II (Beatless mix)
+                    01:28:20 - 01:30:23 - The Sabres Of Paradise - Smokebelch II (Beatless mix)
+                    02:19:44 - 02:23:50 - The Sabres Of Paradise - Smokebelch II (Beatless mix) und Nachrichten
+                    02:44:53 - 02:48:25 - The Sabres Of Paradise - Smokebelch II (Beatless mix)
+  gema-frei  | 20060417_BlueMoon_Holger_Klein_Wie_sieht_euer_Gott_aus.mp3 (Scarlett - fertig)
+                   (3 x Kraftfuttermischwerk - Eingang nach Draußen)
+  gema-frei  | 20060508_BlueMoon_Holger_Klein_Marken.mp3 (Quimoniz - fertig)
+                   bei Minute 2 "Dr.Frankenstein and have you seen it" thestealingorchestra.com ist CC musik,
+                   vom Album Nofludumundo von musicartistry.de
+                   bei 01:24 Mossa - Townhold 1 (epsilonlab.com freie Musik)
+                   bei 02:34 http://interdisco.net/
+GEMA frei     | 20060510_BlueMoon_Holger_Klein_Was_hindert_euch_daran_das_schoene_Wetter_von_heute_zu_geniessen.mp3 (hanz)
+                  00:01:10 - 00:01:30 GEMA freie Musik Interpret leider nicht verstanden wurde aber erwähnt
+                  00:47:50 - 00:48:00    Kraftfuttermischwerk Am Wolkenberg
+  GEMA-frei | 20060522_BlueMoon_Holger_Klein_Grundgesetz.mp3 (Quimoniz - fertig)
+                   Nofludumundo - Flu von musicartistry.de bei 4:30
+                   bei Minute 43 ein Stück von nodrecords.de (free music)
+                   kfmw - am wolkenberg bei 1:55:45
+  GEMA frei       | 20060605_BlueMoon_Holger_Klein_Nichtraucher-in-3h.mp3 
+                00:47:00 - 00:47:20    Kraftfuttermischwerk
+                01:38:20 - 01:38:40     Kraftfuttemischwerk
+                02:03:50 - 02:03:57     Kraftfuttermischwerk
+  nein          | 20060612_BlueMoon_Holger_Klein_BMdmV_WM-Spezial.mp3 (Scarlett - fertig)
+                    01:42 - 05:25 oder 09:20 - Stahlplatte
+                    14:00 - 15:30 - Berti Vogts singt
+                    24:00 (angespielt) Freddy's Dinner - Einmal nur
+                    28:20 - 32:00 - Nachrichten
+                    35:20 - 37:40 - Dirrrty Franz & die b-Side Boyz
+                    41:20 (angespielt) - Holly and Friends
+                    47:00 (angespVon Fans für Fans - Wir sind die WM
+                    50:30 (angespielt) - Holly and Friends
+                    53:00 (angespielt) - Deutschland ist g-g-g-geil
+                    01:01:15 (angespielt) - Klinsi, ich bin dein Mann
+                    01:03:00 (angespielt) - Wir lieben Fußball
+                    01:05:30 - 01:08:50 - Olaf Henning - Wir holen den Cup nach Haus
+                    01:13:30 - 01:15:00 - The Fußballerz
+                    01:29:00 - 01:32:20 - Nachrichten
+                    01:34:00 - 01:37:20 - Fußball ist unser Leben
+                    Datei defekt? Abbruch bei 01:48:25
+  GEMA frei | 20060703_BlueMoon_Holger_Klein_Schule.mp3 (hanz)
+                    01:21:00 - 01:21:15 GEMA freie Musik
+  nicht GEMA frei       | 20060925_BlueMoon_Holger_Klein_BMdmV_mit_Sven_Banis.MP3 (hanz)
+                    00:00:00  - 00:05:30 danach labert der Moderator immer wieder darüber Yellow Screen - Digital Emotion
+                    00:07:00 - 00:14:00    musikalisches Soundbett von Sven Banis
+                    00:14:00 - 00:17:00    Sven Banis
+                    00:30:20 - 00:34:00    undefinierbare Musik
+                    00:47:30 - 00:48:00    Only You
+                    00:52:50 - 00:57:00    Volker Lechtenbrink Ich Mag
+                    Sendung zu Ende
+
+./2007:  hier gibt es Probleme, da die vorliegenden Aufnahmen als MP2, nicht als MP3 vorliegen. Diese files sind auch teileweise beschädigt.
+ 
+Die Mitschnitte von 2008 können von hier heruntergeladen werden:
+http://resonanzkaska.de/broadcast-recordings/2008/
+./2008:
+GEMA-frei? |  Name
+  gema-frei  | 20080218_BlueMoon_Holger_Klein_Was_hat_Holgi_verpasst.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080225_BlueMoon_Holger_Klein_Raetsel_loesen.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080303_BlueMoon_Holger_Klein_Rausschmiss.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080310_BlueMoon_Holger_Klein_Ueberwachung.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080317_BlueMoon_Holger_Klein_Krankheiten.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080324_BlueMoon_Holger_Klein_Drogenmissbrauch.mp3 (Scarlett -  fertig - bereits geschnitten)
+                  Audio kratzt (defekt)
+  gema-frei  | 20080331_BlueMoon_Holger_Klein_Schabernack.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080407_BlueMoon_Holger_Klein_Arztgeschichten.mp3 (Scarlett -  fertig - bereits geschnitten)
+  gema-frei  | 20080414_BlueMoon_Holger_Klein_Medikamente.mp3 (Scarlett -  fertig - bereits geschnitten)
+ 
+Die Mitschnitte von 2009 können von hier teilweise heruntergeladen werden:
+http://resonanzkaska.de/broadcast-recordings/2009/
+./2009:
+GEMA-frei? |  Name
+     nein       | 20090105_BlueMoon_Holger_Klein_freie_Themenwahl.mp3 (Scarlett -  fertig)
+                    03:15 - 06:55 The Cure - Night like This
+                    59:15 - 01:03:10 Ladytron
+                    01:21:56 - 01:24:20 Lloyd Cole - Four Flights Up (danach Nachrichten) - 01:27:35
+                    01:51:35 - 01:55:32 The Postal Service - Such Great Heights
+     nein       | 20090112_BlueMoon_Holger_Klein_Vorsorgen_in_der_Weltfinanzkrise.mp3 (Scarlett)
+                    03:40 - 07:20 Modeselektor feat. Sasha Perera - Silikon
+                    30:00 - 32:40 Nachrichten
+                    
+  unklar       | 20090119_BlueMoon_Holger_Klein_Hausaufgaben_fuer_Praesident_Obama.mp3 (Scarlett)
+     nein       | 20090126_BlueMoon_Holger_Klein_Lernen_lernen_mit_Swantje_Goldberg.mp3 (Scarlett)
+                   07:40 - 10:40 - Plastic Bertrand - Ca Plane Pour Moi
+                   
+  gema-frei  | 20091123_BlueMoon_Holger_Klein_Schweinegrippe.mp3 (Scarlett -  fertig - bereits geschnitten)
+ 
+ 
+Die Mitschnitte von 2010 können von hier heruntergeladen werden:
+http://resonanzkaska.de/broadcast-recordings/2010/
+ 
+./2010:
+GEMA-frei? |  Name
+  gema-frei  | 20100126_Nightline_mit_Holger_Klein.mp3 (Quimoniz - fertig - bereits geschnitten)
+  unklar       | 20100316_Nightline_mit_Holger_Klein.mp3 (Quimoniz - teilweise geschnitten)
+  00:11 musik
+  
+  unklar       | 20100317_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100318_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100323_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100324_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100325_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100330_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100331_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100401_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100406_Nightline_mit_Holger_Klein.mp3
+  unklar       | 20100407_Nightline_mit_Holger_Klein.mp3
+
+
+Nachricht fuer jene, die Mitschnitte beitragen möchten <https://twitter.com/stackevil/status/244559733225291776>.
+
+Noch mehr zeugs: <http://mirrors.cloudheros.biz/podcasts/index.php?dir=bluemoon-lateline>
+
+EIn Archiv wurde entdeckt auf mediafire: http://www.mediafire.com/?dwm53gfwyamnc#myfiles
+Diff machen (leider gehts wohl nur manuell), und die, die noch nicht dabei sind (minus chaosradio bluemoons) dann wieder abhoeren nach GEMA-musik
+

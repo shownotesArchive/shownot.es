@@ -1,0 +1,136 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 009 Reboot tut gut
+Vom: 24.07.2008
+Download: <http://mobilemacs.de/2008/07/mm009-reboot-tut-gut.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-009&time=21%3A25%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/09
+
+Zusammengetragen von: @mxmerz, @kaeffchen_heinz, @evitabley, @woLeonard
+
+00:00:00 Intro und Begrüßung #chapter
+Loriot Weihnachten bei Hoppenstedts Staubsauger <http://www.youtube.com/watch?v=aksjhtIhfqg> #video
+Virgina Tech baut wieder Mac-Cluster <http://www.vt.edu> #homepage
+Mac Pro <http://store.apple.com/de/browse/home/shop_mac/family/mac_pro> #shopping
+Mobile Macs 007 <http://mobilemacs.de/2008/06/mm007-halbfinale.html> #link
+
+
+00:03:40 iPhone und Jailbreak #chapter
+BaseBand <http://en.wikipedia.org/wiki/Baseband> #wikilink
+Bootloader <http://de.wikipedia.org/wiki/Bootloader> #wikilink
+Jailbreak mit Pwnage 2.0 <http://www.macnotes.de/2008/07/20/tutorial-jailbreak-und-unlock-mit-pwnage-20/> #homepage
+- <http://de.wikipedia.org/wiki/Jailbreak_(iOS)> #wikilink
+DFU Modus 
+- How to put your iPhone in DFU mode http://www.youtube.com/watch?v=fiTcKMZfyfk> #video
+- DFU-Mode <http://theiphonewiki.com/wiki/index.php?title=DFU_Mode> #homepage
+WebKit Performance im Mobile Safari <http://daringfireball.net/2008/07/webkit_performance_iphone> #homepage
+Twitter-client Edween <http://edween.net> #homepage
+Apple Remote Tool <https://itunes.apple.com/de/app/remote/id284417350?mt=8> #shopping
+c´t online <http://www.heise.de/ct/> #homepage
+Cydia Installer <http://board.gulli.com/thread/1456528-was-ist-cydia-installer/> #forum
+externe Akkus für das iPhone <http://richardsolo.com> #shopping
+
+00:28:00 Appstore #chapter
+NetNewsWire <http://netnewswireapp.com/> #homepage
+Apples Appstore ist führend <http://www.macworld.co.uk/ipad-iphone/news/?RSS&NewsID=22135> #artikel
+eWallet <http://www.iliumsoft.com/ewallet> #shopping
+TechCrunch <http://techcrunch.com/> #homepage
+NDA <http://de.wikipedia.org/wiki/Geheimhaltungsvertrag> #wikilink
+Free Software Foundation: 5 reasons to avoid iPhone 3G <http://www.fsf.org/blogs/community/5-reasons-to-avoid-iphone-3g> #artikel
+FairPlay DRM <http://de.wikipedia.org/wiki/FairPlay> #wikilink
+Skyhook <http://www.skyhookwireless.com> #homepage
+Ogg <http://de.wikipedia.org/wiki/Ogg> #wikilink
+Theora <http://de.wikipedia.org/wiki/Theora> #wikilink
+MP3 <http://de.wikipedia.org/wiki/Mp3> #wikilink
+Freerunner <http://de.wikipedia.org/wiki/FreeRunner#Neo> #wikilink
+OpenMoko <http://wiki.openmoko.org/wiki/Main_Page> #homepage
+CRE042 OpenMoko <http://cre.fm/cre042> #podcast
+MKV <http://de.wikipedia.org/wiki/Matroska> #wikilink
+CRE 061: Medienformate und Codecs <http://cre.fm/cre061> #podcast
+Vorbis <http://de.wikipedia.org/wiki/Vorbis> #wikilink
+Matroska <http://de.wikipedia.org/wiki/Matroska> #wikilink
+
+01:02:00 MobileMe #chapter
+MobileMe <http://de.wikipedia.org/wiki/MobileMe> #wikilink
+Back to my Mac <http://en.wikipedia.org/wiki/Back_to_My_Mac> #wikilink
+Weave <http://en.wikipedia.org/wiki/Mozilla_Weave> #wikilink
+Widearea Bonjour <http://de.wikipedia.org/wiki/Bonjour_%28Apple%29>
+- <http://www.dns-sd.org>
+DynDNS <http://de.wikipedia.org/wiki/DynDNS> #wikilink
+DropBox 
+- <https://dropbox.com> #homepage
+- <http://de.wikipedia.org/wiki/Dropbox> #wikilink
+Skyhook <http://www.skyhookwireless.com> #homepage
+AGPS <http://de.wikipedia.org/wiki/AGPS> #wikilink
+
+
+01:19:50 Positionsbestimmung und OSS #chapter
+Skyhook <http://www.skyhookwireless.com> #homepage
+AGPS <http://de.wikipedia.org/wiki/AGPS> #wikilink
+Open Source Software
+Firefox <http://www.mozilla.org/en-US/firefox/> #homepage
+Gimp <http://www.gimp.org/> #homepage #download
+- Wikipedia <http://de.wikipedia.org/wiki/Gimp> #wikilink
+- CRE 054: GIMP <http://cre.fm/cre054> #podcast
+
+01:29:30 Quartalszahlen Q3/2008 #chapter
+Quartalszahlen 3/08 <http://www.apple.com/pr/library/2008/07/21Apple-Reports-Record-Third-Quarter-Results.html> #link
+Appleinsider.com <http://appleinsider.com> #homepage
+
+01:45:00 Hörerfragen Teil 1 #chapter
+App Store Ratschläge
+- NetNewsWire <https://itunes.apple.com/de/app/netnewswire/id284881860?mt=8> #shopping
+- REM ohne Jabber
+- iTunes Remote <https://itunes.apple.com/de/app/remote/id284417350?mt=8> #shopping
+- Twitterrific <https://itunes.apple.com/de/app/twitterrific-for-twitter/id359914600?mt=8> #shopping
+- Twinkle
+- Fahrplan von der DB <https://itunes.apple.com/de/app/db-navigator/id343555245?mt=8>#shopping
+- VNC Client
+- Wordpress <https://itunes.apple.com/de/app/wordpress/id335703880?mt=8>#shopping
+- Evernote <https://itunes.apple.com/de/app/evernote/id281796108?mt=8> #shopping
+- Evernote Homepage <http://evernote.com/> #Homepage
+- Shazam <https://itunes.apple.com/de/app/shazam-encore/id337288863?mt=8> #shopping
+- Firewire 800 <http://de.wikipedia.org/wiki/Firewire> #wikilink
+- SATA <http://de.wikipedia.org/wiki/Serial_ATA> #wikilink
+Firefly (mt-daapd) <http://en.wikipedia.org/wiki/Firefly_Media_Server> #wikilink
+DAAP <http://en.wikipedia.org/wiki/Digital_Audio_Access_Protocol> #wikilink
+AppleTV <http://www.apple.com/de/appletv/> #homepage
+TimeCapsule <http://www.apple.com/de/timecapsule/> #homepage
+Drobo <http://www.drobo.com> #homepage
+EA Tetris <http://www.ea.com/de/tetris> #homepage
+A2DP auf dem Mac <http://de.wikipedia.org/wiki/A2DP> #wikilink
+
+02:34:40 Rumor Sites #chapter
+MacSurfer <http://macsurfer.com/> #homepage
+Crazy Apple Rumor Site <http://www.crazyapplerumors.com/> #homepage
+vimeo.com <http://vimeo.com> #spoiler #nebenkriegsschauplatz #homepage
+AppleInsider <http://www.appleinsider.com/> #homepage
+fscklog <http://fscklog.com> #homepage
+The Unofficial Apple Weblog <http://tuaw.com> #homepage
+Gizmodo <http://gizmodo.com> #homepage
+ArsTechnica Apple Section <http://arstechnica.com/apple.ars> #homepage
+MacNotes.de <http://www.macnotes.de> #homepage
+College Humor: Font Conference <http://www.collegehumor.com/video:1823766> #homepage
+TidBits <http://db.tidbits.com/> #homepage
+Take Control E-Books <http://www.takecontrolbooks.com/> #homepage
+MacInTouch <http://www.macintouch.com> #homepage
+MacFixIt <http://reviews.cnet.com/macfixit/?tag=mfiredir> #homepage
+MacNews <http://www.macnews.com> #homepage
+Mac OS X Hints <http://macosxhints.com> #homepage
+
+02:46:30 Hörerfragen Teil 2 und Verabschiedung #chapter
+FileVault <http://de.wikipedia.org/wiki/FileVault> #wikilink
+1Password <https://agilebits.com/onepassword> #homepage
+Discwarrior 1 <http://www.heise.de/download/diskwarrior-1151434.html> #download
+Discwarrior 2 <http://www.alsoft.com/diskwarrior/> #download #homepage
+Rulers <http://omnidea-rulers.softonic.de/mac> #download
+T-Mobile MultiSIM <http://www.t-mobile.de/multisim/> #homepage
+Push-Mail <http://de.wikipedia.org/wiki/Push-Medien> #wikilink
+Xcode 3.1 <http://de.wikipedia.org/wiki/Xcode> #wikilink
+Open MP <http://de.wikipedia.org/wiki/OpenMP> #wikilink
+
+03:09:35 Verabschiedung #chapter
+

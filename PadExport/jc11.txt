@@ -1,0 +1,202 @@
+Jobscast #011 zur Neurobiologie
+Jobscast mit Daniel Autenrieth (@dautenrieth) und Michael Schleyer (@MSchleyerDTR)
+Thema:   Michael Schleyer arbeitet derzeit an seiner Doktorarbeit in   Neurobiologie. Er erforscht hauptsächlich Lern- und Gedächtnisprozesse   im Gehirn von Fruchtfliegen-Larven (Drosophila melanogaster).
+Seite zur Sendung:
+http://www.jobscast.de/akademische-berufe/%20jc011-neurobiologie-vom-lernen-und-vergessen
+Zusammengetragen von: insider
+
+00:00 - Intro
+ * Begrüßung von Michael Schleyer
+ * Hinweis auf den Chat
+   * http://webchat.freenode.net/?channels=jobscast
+ * 00:01 - persönlicher Werdegang
+   * Biologie-LK auf dem Gymnasium, Interessenschwerpunkte auf
+     * Evolution
+       * http://de.wikipedia.org/wiki/Evolution
+     * Hirnforschung
+       * http://de.wikipedia.org/wiki/Hirnforschung
+     * Verhalten
+       * http://de.wikipedia.org/wiki/Verhaltensbiologie
+   * Diplom-Studium der Biologie in Würzburg
+     * http://de.wikipedia.org/wiki/Biologiestudium
+     * Grundstudium
+       * Physik, Grundlagen
+       * Chemie
+         * http://de.wikipedia.org/wiki/Organische_Chemie
+         * http://de.wikipedia.org/wiki/Anorganische_Chemie
+         * http://de.wikipedia.org/wiki/Physikalische_Chemie
+       * Mathematik
+     * Hauptstudium
+       * Spezialisierung auf 15 verschiedene Fächer (Schwerpunktbereiche)
+     * Unterschiede zwischen Biologen und Medizinern
+     * Spezialisierung
+     * Praktikum
+     * Diplomarbeit
+     * die wissenschaftliche Methode, laiengerecht erklärt
+       * http://de.wikipedia.org/wiki/Wissenschaftliche_Arbeit#Wissenschaftliches_Arbeiten
+       * http://de.wikipedia.org/wiki/Wissenschaftliche_Methodik#Forschung
+     * Vergleich Biologie Oberstufe mit Grundstudium
+     * Prüfungsvorbereitung
+ * 00:19 - Wer eignet sich für ein Biologiestudium?
+ * 00:22 - Gibt es Berufsfelder in der Biologie außerhalb von Forschung?
+   * Pharmazie
+     * http://de.wikipedia.org/wiki/Pharmazie
+   * Spezialwege
+     * http://de.wikipedia.org/wiki/Biologiestudium#Nach_dem_Biologiestudium
+ * 00:24 - Wie steht es um den Forschungbedarf in der Biologie?
+   * Gentechnik
+     * http://de.wikipedia.org/wiki/Gentechnik
+   * Neurobiologie (Hirnforschung, physische- wie psychologische Erkrankungen uvm.)
+     * http://en.wikipedia.org/wiki/Neuroscience#Major_branches
+ * 00:26 - Doktorarbeit
+   * Fertigstellung
+   * Forschungsstelle im Anschluss
+   * Probleme mit Stellen in der universitären Forschung
+   * Forschungsschwerpunkt seiner Arbeit
+     * Klassische Konditionierung
+       * http://de.wikipedia.org/wiki/Klassische_Konditionierung
+     * Beispiel: Pavlovscher Hund
+       * http://de.wikipedia.org/wiki/Pavlovscher_Hund
+   * Forschungsobjekt
+     *  Fruchtfliegen-Larven (Drosophila melanogaster)
+       * http://de.wikipedia.org/wiki/Drosophila_melanogaster
+     * Lebensalter der Fliegen im Labor und der Natur
+     * Beschreibung eines Versuchsaufbaus
+ * 00:34 - Seit wann und weshalb wird mit Fruchtfliegen geforscht?
+   * Modellorganismus
+     * http://de.wikipedia.org/wiki/Modellorganismus 
+ * 00:36 - Zwischenfrage (chat): Wie erforscht man so winzige Fliegengehirne überhaupt?
+   * Elektrophysiologie
+     * http://de.wikipedia.org/wiki/Elektrophysiologie
+   * Gentechnische Manipulation
+     * Einschleusung beliebiger funktioneller Gene in das Fliegengenom inkl. Markern wie GFP)
+       * http://de.wikipedia.org/wiki/Marker_%28Genetik%29
+       * http://de.wikipedia.org/wiki/Gr%C3%BCn_fluoreszierendes_Protein
+ * 00:38 - Ginge das auch beim Menschen?
+   * ethische Bedenken
+ * 00:40 - Humane embryonale Stammzellenforschung
+   * Gesetzeslage
+     * in Deutschland
+       * http://www.drze.de/im-blickpunkt/stammzellen/gesetze-und-regelungen
+     * im Ausland 
+       * http://de.wikipedia.org/wiki/Stammzelle#Vereinigte_Staaten
+   * beim Menschen
+     * http://www.drze.de/im-blickpunkt/stammzellen
+     * http://library.fes.de/pdf-files/stabsabteilung/04450.pdf
+     * http://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/archiv_download/eszell_d_99.pdf
+   * bei anderen Organismen
+     * genteschnisch veränderte Pflanzen
+       * http://de.wikipedia.org/wiki/Gentechnisch_ver%C3%A4nderte_Pflanze
+   * mehr Informationen im Web
+     * http://en.wikipedia.org/wiki/Embryonic_stem_cell
+ * 00:48 - Lernen auf molekularer und zellulärer Ebene
+   * Gene gezielt ausschalten 
+   * Neuronen gezielt aus- und einschalten
+ * 00:51 - Zellen markieren (einfärben)
+   * Grün fluoreszierendes Protein
+     * http://de.wikipedia.org/wiki/Gr%C3%BCn_fluoreszierendes_Protein#Varianten
+   * Genmanipulation in fertig entwickelten Organismen
+     * Vektoren http://de.wikipedia.org/wiki/Vektor_%28Gentechnik%29
+     * Stammzellen <http://de.wikipedia.org/wiki/Stammzellen>
+ * 00:55 - Quo vadis, Biologie?
+   * Genomanalyse (next-generation sequencing)
+     * http://en.wikipedia.org/wiki/DNA_sequencing
+   * Proteomik (Protein-Typisierung in vielen Spezies)
+     * http://de.wikipedia.org/wiki/Proteomik
+     * http://de.wikipedia.org/wiki/Proteom
+   * Konnektomik (computergestütze Simulation von Gehirnen)
+     * http://de.wikipedia.org/wiki/Konnektom
+   * [Chat]
+     * Software Emulates Lifespan of Entire Organism
+       * http://www.nytimes.com/2012/07/21/science/in-a-first-an-entire-organism-is-simulated-by-software.html
+     * Synthetische Biologie
+       * http://de.wikipedia.org/wiki/Synthetische_Biologie
+       * http://www.nytimes.com/2012/06/03/magazine/craig-venters-bugs-might-save-the-world.html
+       * http://blogs.discovermagazine.com/loom/2010/05/20/synthetic-genome-natural-cell-new-life/
+ * 00:57 - Lernforschung von Erik Kandel an Meeresschnecken (Aplysia)
+     * http://de.wikipedia.org/wiki/Erik_Kandel
+     * http://de.wikipedia.org/wiki/Aplysia
+   * Vergleich zur Fruchtfliege
+   * Gene-Silencing
+     * http://de.wikipedia.org/wiki/Gen-Silencing
+   * Genregulation
+     * http://de.wikipedia.org/wiki/Genregulation
+   * Genregulation (-Expression) mit Licht
+     * http://www.ncbi.nlm.nih.gov/pubmed/16096960
+   * Transkription
+     * http://de.wikipedia.org/wiki/Transkription_%28Biologie%29
+ * 01:03 - Genetik als Spielplatz für Informatiker
+   * Computersimulation eines kompletten (Mikro-)Organismus
+     *  http://www.engadget.com/2012/07/24/first-simulated-organism/
+ * 01:04 - Welche Prozesse finden beim Lernen im Gehirn statt?
+   * klassische Konditionierung
+     * http://de.wikipedia.org/wiki/Klassische_Konditionierung
+   * Koinzidenzdetektor
+     * http://en.wikipedia.org/wiki/Coincidence_detection_in_neurobiology
+     * Adenylat-Cyclase
+       * http://de.wikipedia.org/wiki/Adenylylcyclasen
+     * Synapse
+       * http://de.wikipedia.org/wiki/Synapse
+ * 01:07 - Wie funktioniert (beim Menschen) Vokabeln- oder Mathelernen?
+   * Deklaratives Gedächtnis
+     * http://de.wikipedia.org/wiki/Ged%C3%A4chtnis#Deklaratives_Ged.C3.A4chtnis
+   * auf molekularer Ebene (Probleme)
+   * auf zellulärer Ebene
+     * Amygdala 
+       * http://de.wikipedia.org/wiki/Amygdala
+     * Angst-Konditionierung
+       * http://en.wikipedia.org/wiki/Fear_conditioning
+     * Funktionelle Magnetresonanztomographie
+       * http://de.wikipedia.org/wiki/Funktionelle_Magnetresonanztomographie
+ * 01:14 Wie funktioniert Vergessen (und Erinnern)?
+   * Vergessen durch Krankheiten
+     * Alzheimer-Krankheit und Demenz
+       * http://de.wikipedia.org/wiki/Alzheimer-Krankheit
+       * http://de.wikipedia.org/wiki/Demenz
+       * Großhirnrinde
+         * http://de.wikipedia.org/wiki/Gro%C3%9Fhirnrinde
+         * Weiße Substanz (white-matter)
+           * http://de.wikipedia.org/wiki/Wei%C3%9Fe_Substanz
+     * Extinktion (Psychologie)
+       * http://de.wikipedia.org/wiki/Extinktion_%28Psychologie%29
+     * Hyperthymestisches Syndrom ("Unvergesslichkeit") [Chat]
+       * http://de.wikipedia.org/wiki/Hyperthymestisches_Syndrom
+       * http://de.wikipedia.org/wiki/Jill_Price
+       * http://xenophilius.wordpress.com/2009/04/19/total-recall-the-woman-who-cant-forget/
+     * Speicherkapazität des menschlichen Gehirns
+       * http://www.scientificamerican.com/article.cfm?id=what-is-the-memory-capacity
+     * Erinnern und Vergessen auf molekularer und zellulärer Ebene
+       * http://web.mit.edu/newsoffice/2012/conjuring-memories-artificially-0322.html
+     * Abrufen von Erinnerungen, Bewegungsabläufen, u.ä.
+       * http://www.dailymail.co.uk/sciencetech/article-2178115/Transported-time-Brain-scans-recalling-vivid-memories-exactly-the-original-experience.html
+ * 01:22 - Positive- und Negative Verstärkung, Bestrafung
+     * http://de.wikipedia.org/wiki/Verstärkung_(Psychologie)
+   * Abgleich von Geschehen (Sinneseindrücken) und Erwartung
+   * Rescorla-Wagner-Modell (in der klassischen Konditionierung)
+     * http://de.wikipedia.org/wiki/Rescorla-Wagner-Modell
+ * 01:29:56 <<< Kommunikationsprobleme >>> 01:32:41
+ * 01:32:42 - Aufruf an angehende, noch unentschlossene Studenten/innen; helft dem Michael Schleyer in den Neurowissenschaften! (+1)
+   * Fortschritte in den Neurowissenschaften
+ * 01:35 - Warum lernen Kinder schneller als Erwachsene?
+   * Hirnentwicklung
+     * http://de.wikipedia.org/wiki/Inklusion_%28P%C3%A4dagogik%29#Hirnentwicklung.2C_Intelligenz
+     * http://de.wikipedia.org/wiki/Ontogenese
+   * Plastizität
+     * http://de.wikipedia.org/wiki/Synaptische_Plastizit%C3%A4t
+     * http://de.wikipedia.org/wiki/Neuronale_Plastizit%C3%A4t
+   * Hormonelle Änderung in der Pubertät
+     * http://neurowissenschaften.blogspot.de/2008/02/pubertt-2-das-adoleszente-gehirn.html
+ * 01:39 - Was ist das "Higgs-Teilchen" der Neurobiologie
+   * [Chat]
+     * http://de.wikipedia.org/wiki/Human_Connectome_Project
+       * http://www.brainsciencepodcast.com/bsp/sebastian-seung-explores-brains-wiring-bsp-85.html
+       * http://www.ted.com/talks/sebastian_seung.html
+ * 01:42 - Wie kommt man von der Neurobiologie zum Fantasy Buchautor?
+   * Kaos, der Kobold (Der Träumende Riese) [Kindle]
+     * http://www.amazon.de/Kaos-Kobold-Tr%C3%A4umende-Riese-ebook/dp/B007D2INJI/ref=ntt_at_ep_dpt_1
+ * 01:47 - Tipps zu (Pop-)wissenschaftlichen Seiten im Netz?
+   * http://www.brainsciencepodcast.com/ [Chat]
+   * http://www.scienceblogs.de/
+   * http://scienceblogs.com/channel/brain-and-behavior/
+01:50 Outro
+

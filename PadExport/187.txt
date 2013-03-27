@@ -1,0 +1,58 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+
+Einschlafen Podcast 187
+mit Toby Baier (@tobybaier, @schlafein)
+http://einschlafen-podcast.de/
+(http://streams.xenim.de,  http://streams.xenim.de/einschlafen.mp3 ,
+Shownotes: https://shownotes.piratenpad.de/ep184b )
+Chat: http://webchat.freenode.net/?channels=#einschlafen
+
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2F187&time=22%3A07%3A20&Button=Create!>
+Zusammengetragen von: Melman (@MaestroBodo), Leonard (@woLeonard), @Quimoniz
+
+Sendungsbeginn: 22:07:20
+
+Ab Montag dem 08.10.12 wird täglich eine Folge veröffentlicht.
+Schwedisches Sprichwort "Viele kleine Bäche, machen eine großen Strom." als Einleitung zur Flattr-Bomben-Aktion.
+Peter Sunde <http://de.wikipedia.org/wiki/Peter_Sunde>
+- Mitbegründer bei Piratebay <http://piratebay.org>
+
+00:03:50 Thema: Bittorrent #chapter
+Bittorrent <http://de.wikipedia.org/wiki/Bittorrent> #wikipedia
+Anleitung zur Flattr-Bomben-Aktion.
+Seeder/Leecher <http://de.wikipedia.org/wiki/Seeder> #wikipedia
+P2P <http://de.wikipedia.org/wiki/Peer-to-Peer> #wikipedia
+Bitlove <http://bitlove.org>
+Napster <http://de.wikipedia.org/wiki/Napster> #wikipedia
+Edonkey <http://de.wikipedia.org/wiki/Edonkey> #wikipedia
+Kakenstorf <http://de.wikipedia.org/wiki/Kakenstorf> #wikipedia
+Toby hat vDSL und einen Upstream von 35 MBit/s
+Miro <http://www.getmiro.com/> <http://de.wikipedia.org/wiki/Miro_Media_Player> #wikipedia
+iTunes <http://de.wikipedia.org/wiki/ITunes> #wikipedia
+Toby hat 5 - bis 6000 Downloads pro Sendung.
+Host Europe <http://de.wikipedia.org/wiki/Host_Europe> <http://www.hosteurope.de>
+
+00:10:10 Linux <http://de.wikipedia.org/wiki/Linux> #chapter
+Kernel <http://www.kernel.org/>
+SCSI <http://de.wikipedia.org/wiki/SCSI> #wikipedia
+Apache <http://httpd.apache.org/>
+Instacast <http://vemedio.com/products/instacast>
+Android <http://de.wikipedia.org/wiki/Android_%28Betriebssystem%29> #wikipedia
+BeyondPod <http://www.beyondpod.mobi/android/>
+App <http://de.wikipedia.org/wiki/App> #wikipedia
+Toby wünscht sich eine "Einschlafen-App" für iOS und Android. Die Folgen sollen, wenn möglich, durch Bittorrent gehohlt werden können.
+Toby hat eine geheime Idee für ein Killerfeature einer Podcast App, wird das aber erst einem Entwickler nennen.
+Kanzlerkandidat Peer Steinbrück <http://www.tagesschau.de/inland/steinbrueck434.html>
+"Es gibt auch schlechtere."
+Podcast "Die Esel und Teddy Show" <http://esel-und-teddy.podspot.de/>
+
+00:24:54 Toby liest Gudrun Mebs Schutzengel mit Segelohren, Kapitel 7 + 8 <http://de.wikipedia.org/wiki/Gudrun_Mebs> #chapter
+- Amazon <http://www.amazon.de/Schutzengel-mit-Segelohren-Isabel-Pin/dp/3794161467>
+
+Sendungsende: 22:48:22
+
+
+Am Mittwoch gibt es Toby wieder im Realitätsabgleich mit @holgi, siehe auch <http://wrint.de>
+

@@ -1,0 +1,122 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 012 Die Welt ist eine Scheibe
+Vom: 04.09.2008
+Download: <http://mobilemacs.de/2008/09/mm012-die-welt-ist-eine-scheibe.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-012&time=14%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es:
+
+Zusammengetragen von: hanz @kaeffchen_heinz, @evitabley
+
+00:00:00 Intro und Begrüßung #chapter
+Livestreampuffering #spoiler
+iTV <http://de.wikipedia.org/wiki/Apple_TV> #wikilink
+VLC <http://de.wikipedia.org/wiki/VLC_media_player> #wikilink
+UPNP (Server)
+Spreeblick Blog <http://www.spreeblick.com/> #homepage
+Catcontent "Katzen in Gefahr bei Spreeblick #spoiler
+Knight Rider <http://de.wikipedia.org/wiki/Knight_Rider> #wikilink
+
+
+00:03:40 Tims iPhone 3G #chapter
+Tim hat jetzt ein Unlocked iPhone 3G #spoiler
+Jailbreak <http://de.wikipedia.org/wiki/Jailbreak_%28iOS%29> #wikilink
+Tims Erfahrungen mit dem iPhone
+tolle Bedienung, noch sehr buggy (abstürze) vor allem bei PORN :D,  #spoiler
+iPhone OS 2.02 <http://de.wikipedia.org/wiki/IPhone_OS#Versionen> #wikilink
+das iPhone gibt es unlocked in Tschechien #spoiler
+GPS auf dem iPhone
+- TomTom <http://de.wikipedia.org/wiki/TomTom> #wikilink
+- Garmin <http://de.wikipedia.org/wiki/Garmin> #wikilink
+GPS Tracker <https://itunes.apple.com/de/app/gps-tracker/id286658744?mt=8> #shopping
+instamapper.com  <http://www.instamapper.com/> #homepage
+Barentssee <http://de.wikipedia.org/wiki/Barentssee> #wikilink
+APN Konfiguration <http://de.wikipedia.org/wiki/Access_Point_Name> #wikilink
+EDGE <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #wikilink
+Griffin Kopfhörer von Sony <http://www.mobilefun.de/28046-griffin-smarttalk-kopfhoerer-adapter-fuer-iphone-und-ipod.htm> #homepage
+IFA <http://de.wikipedia.org/wiki/Internationale_Funkausstellung_Berlin> #wikilink
+iSync <http://de.wikipedia.org/wiki/ISync> #wikilink
+DRM <http://de.wikipedia.org/wiki/Digitale_Rechteverwaltung> #wikilink
+
+00:45:00 Podcastrant von Tim #chapter
+Autocorrection <http://en.wikipedia.org/wiki/Autocorrection> #wikilink
+Nicknamesuche <http://de.wikipedia.org/wiki/Nickname> #wikilink
+Google Mobile App <http://www.google.com/intl/de_ALL/mobile/google-mobile-app/> #homepage
+Multitasking <http://de.wikipedia.org/wiki/Multitasking> #wikilink
+Remote <http://en.wikipedia.org/wiki/Apple_Remote> #wikilink
+Podcastsupport ist schlimm #spoiler
+iPod Click Wheel <http://en.wikipedia.org/wiki/Click_wheel> #wikilink
+Quick Time <http://de.wikipedia.org/wiki/Quick_Time> #wikilink
+Tim rantet #spoiler
+Lyrics <http://de.wikipedia.org/wiki/Liedtext> #wikilink
+Landscape Mode
+Videopodcasts nicht mehr Audioonly #spoiler
+Cydia Werbung <http://de.wikipedia.org/wiki/Cydia> #wikilink
+
+"kann man nur singen wenn es zentriert ist?" #spoiler
+
+
+01:22:00 Applikationen #chapter
+Click & Buy <http://de.wikipedia.org/wiki/Click_and_buy> #wikilink
+Flughafen Anzeige Tafeln <http://de.wikipedia.org/wiki/Flight_Information_Display_System> #wikilink
+Apps
+- Banner Free <https://itunes.apple.com/app/banner-free/id285522567?mt=8> #shopping
+- Things <https://itunes.apple.com/app/things/id284971781?mt=8> #shopping
+- Twitterific <http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8> #shopping
+- NetNewsWire <https://itunes.apple.com/app/netnewswire/id284881860?mt=8> #shopping
+- Remote <https://itunes.apple.com/app/remote/id284417350?mt=8> #shopping
+- DataCase <https://itunes.apple.com/app/datacase/id287464320?mt=8> #shopping
+- Shazam <https://itunes.apple.com/app/shazam/id284993459?mt=8> #shopping
+- Fahr-Info Berlin <https://itunes.apple.com/app/fahrinfo-berlin/id284971745?mt=8> #shopping
+- Circulator <https://itunes.apple.com/app/lendromat/id284181886?mt=8> #shopping
+- Evernote <https://itunes.apple.com/app/evernote/id281796108?mt=8> #shopping
+- Tuner Internet Radio <https://itunes.apple.com/app/tuner-internet-radio/id284205617?mt=8> #shopping
+- Newtonica <https://itunes.apple.com/app/newtonica/id288799326?mt=8> #shopping
+-Galcon <https://itunes.apple.com/app/galcon/id285820845?mt=8> #shopping
+Palringo <https://www.palringo.com/de/de/> #homepage
+Google Maps <http://maps.google.de>
+App Fresh <http://metaquark.de/appfresh/mac> #homepage
+
+01:52:00 Google Chrome Browser #chapter
+Google Chrome <http://www.google.com/intl/de/chrome/browser/> #homepage
+AddBlocker <http://de.wikipedia.org/wiki/Werbeblocker> #wikilink
+MobileMacs Folge 007 <http://mobilemacs.de/2008/06/mm007-halbfinale.html> #podcast
+Symbian <http://de.wikipedia.org/wiki/Symbian-Plattform> #wikilink
+Android <http://de.wikipedia.org/wiki/Android_%28Betriebssystem%29> #wikilink
+Wii <http://de.wikipedia.org/wiki/Wii> #wikilink
+Opera <http://de.wikipedia.org/wiki/Opera> #wikilink
+Webkit <http://de.wikipedia.org/wiki/Webkit> #wikilink
+Goldstandard <http://de.wikipedia.org/wiki/Goldstandard_%28Verfahren%29> #wikilink
+X 86 <http://de.wikipedia.org/wiki/X86-Prozessor> #wikilink
+Tab <http://de.wikipedia.org/wiki/Registerkarte> #wikilink
+Flash <http://de.wikipedia.org/wiki/Adobe_Flash> #wikilink
+Youtube <http://www.youtube.com> #homepage
+JavaScript <http://de.wikipedia.org/wiki/JavaScript> #wikilink
+Mozilla <http://de.wikipedia.org/wiki/Mozilla> #wikilink
+TraceMonkey <http://de.wikipedia.org/wiki/TraceMonkey#TraceMonkey> #wikilink
+Safari <http://de.wikipedia.org/wiki/Safari_%28Browser%29> #wikilink
+Google Toolbar <http://de.wikipedia.org/wiki/Google_Toolbar> #wikilink
+Omniweb <http://de.wikipedia.org/wiki/Omniweb> #wikilink
+Netscape <http://de.wikipedia.org/wiki/Netscape_Navigator> #wikilink
+Phishing <http://de.wikipedia.org/wiki/Phishing> #wikilink
+Bootcamp <http://de.wikipedia.org/wiki/Boot_Camp_%28Software%29> #wikilink
+
+02:24:00 GoogleDocs #chapter
+Google Docs <http://de.wikipedia.org/wiki/Google_Docs> #wikilink
+Camino <http://caminobrowser.org/> #homepage
+
+gestoppt bei 2:30:00
+
+
+
+00:00:00 #chapter
+
+
+
+00:00:00 #chapter
+
+00:00:00 #chapter
+

@@ -1,0 +1,98 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 003 Das Schwert des Damokles
+Vom: 28.04.2008
+
+Download: <mobilemacs.de/> http://mobilemacs.de/2008/04/mm003-webapps-quartalszahlen-pa-semi-microsoft.html
+Timer: <http://epirat.de/timer/>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/3>
+
+Zusammengetragen von: @evitabley, @kaeffchen_heinz, @johannes_k, Melman (@MaestroBodo)
+
+00:00:00 Intro und Begrüßung #chapter
+Abstimmung um Tempelhof <http://de.wikipedia.org/wiki/Flughafen_Berlin-Tempelhof#Initiativen_aus_der_Bev.C3.B6lkerung> #wikilink
+1 2 3 Kinofilm <http://de.wikipedia.org/wiki/Eins%2C_zwei%2C_drei> #wikilink
+
+00:03:40 iPhone 2.0 #chapter
+
+00:06:50 SSL-Zertifikate auf dem Mac #chapter
+SSL-Zertifikate <http://de.wikipedia.org/wiki/Digitales_Zertifikat> #wikilink
+CAcert <http://de.wikipedia.org/wiki/CAcert> #wikilink
+Migrationsassistent <http://www.apfelwiki.de/Main/Migrations-Assistent> #link
+TimeMachine <http://de.wikipedia.org/wiki/Time_Machine_(Apple)> #wikilink
+AirPortExtreme <http://www.apple.com/de/airportextreme/> #link
+
+00:15:47 Browser und Passwörter #chapter
+Firefox <http://www.mozilla.org/de/firefox/fx/> #link
+Camino 1.6 <http://caminobrowser.org/releases/1.6/> #link
+1Password <https://agilebits.com/onepassword> #link
+MacHeiseBundle <http://macheist.com/> #link
+Firefox 3 <http://en.wikipedia.org/wiki/Firefox_3> #wikilink
+Gecko <http://de.wikipedia.org/wiki/Gecko_(Software)> #wikilink
+WebKit <http://de.wikipedia.org/wiki/WebKit> #wikilink
+
+00:22:00 Acid 3 #chapter
+Acid 3 Test <http://acid3.acidtests.org> #homepage
+Dave Hyatt <http://en.wikipedia.org/wiki/Dave_Hyatt> #wikilink
+W3C <http://www.w3c.de/> #homepage
+Opera <http://de.opera.com/> #homepage
+
+00:26:10 Google Apps und Browser 2 #chapter
+Google Apps <http://www.google.com/enterprise/apps/business/> #link
+Spreeblick <http://www.spreeblick.com/> #homepage
+Internet Explorer 6 <http://de.wikipedia.org/wiki/Internet_Explorer#Version_6> #wikilink
+ChaosComputerClub <http://ccc.de/> #homepage
+Internet Explorer 7 <http://de.wikipedia.org/wiki/Internet_Explorer#Version_7> #wikilink
+
+00:31:34 Widgets und Flash #chapter
+Adobe air <http://www.adobe.com/de/products/air.html> #homepage
+Dashboard <http://de.wikipedia.org/wiki/Dashboard_(Apple)> #wikilink
+Yahoo Widget engine <http://widgets.yahoo.com/> #homepage
+Adobe Flash  <http://www.adobe.com/de/products/flashplayer.html> #link
+Twitterific <http://twitterrific.com/> #homepage
+Twhirl <http://www.twhirl.org/> #homepage
+Pownce <http://pownce.com/> #homepage
+Growl <http://growl.info/> #homepage
+Google Talk <http://www.google.com/talk/intl/de/> #homepage
+iChat <http://de.wikipedia.org/wiki/IChat> #wikilink
+GoogleDocs <http://docs.google.com/?hl=de> #homepage
+Mac OS10 <http://de.wikipedia.org/wiki/Mac_OS_X> #wikilink
+
+00:48:00 Quartalszahlen von Apple #chapter
+Quartalszahlen von Apple <http://www.macnotes.de/2008/01/22/heute-abend-apples-quartalszahlen-12008/>
+<http://www.fscklog.com/2008/01/grafiken-und-de.html> #link
+MacBook Air <http://www.apple.com/de/macbookair/> #homepage
+Apple Retail Store <http://www.apple.com/de/retail/> #homepage
+Gravis in Berlin <http://www.gravis.de/filialen/berlin/berlin/> #link
+
+00:57:00 Podcaster #chapter
+Leo Laporte <http://en.wikipedia.org/wiki/Leo_Laporte> #wikilink
+John C. Dvorak <http://en.wikipedia.org/wiki/John_C._Dvorak> #wikilink
+Bits und So <http://www.bitsundso.de/> #homepage
+Applestore online <http://store.apple.com/de>
+
+01:01:35 Prozessorentwickler und PA Semi#chapter
+P.A Semi <http://en.wikipedia.org/wiki/P.A._Semi> #wikilink
+Texas Instruments <http://www.ti.com> #homepage
+ARM-Prozessoren <http://de.wikipedia.org/wiki/ARM-Architektur> #wikilink
+Intel Chips <http://de.wikipedia.org/wiki/Intel-Chips%C3%A4tze> #wikilink
+Intel Atom <http://de.wikipedia.org/wiki/Intel_Atom> #wikilink
+Newton <http://de.wikipedia.org/wiki/Newton_%28PDA%29> #wikilink
+GPS <http://de.wikipedia.org/wiki/Global_Positioning_System> #wikilink
+Steve Jobs <http://de.wikipedia.org/wiki/Steve_Jobs> #wikilink
+
+01:14:20 Microsoft und Yahoo #chapter
+Heise <http://heise.de/>
+Microsoft möchte Yahoo kaufen <http://www.apollis.de/microsoft-kauft-yahoo/>
+Analyse der Übernahme <http://blog.pmarca.com/2008/04/if-microsoft-go.html>
+Mircosoft ist das neue IBM <http://www.ibm.com/de/de/> #homepage
+Flickr <http://www.flickr.com/> #homepage
+Windows Vista <http://de.wikipedia.org/wiki/Microsoft_Windows_Vista>
+Zune Player <http://de.wikipedia.org/wiki/Zune> #wikilink
+Tablet PC <http://de.wikipedia.org/wiki/Tablet-Computer> #wikilink
+
+01:35:00 Ausklang und Verabschiedung #chapter
+

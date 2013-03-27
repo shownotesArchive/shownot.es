@@ -1,0 +1,116 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 007 Halbfinale
+Vom: 28.6.2008
+Download: <http://chaosradio.ccc.de/media/tim/mm/mm007-halbfinale.mp3> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-007&time=20%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/7
+
+Zusammengetragen von: @evitabley, @woLeonard, @kaeffchen_heinz, @mxmerz, @johannes_k
+
+00:00:00 Intro und Begrüßung #chapter
+Jingle von Stefan #music
+der JamesBondVergleich durfte nicht ausbleiben <http://de.wikipedia.org/wiki/James_Bond> #wikilink
+
+00:03:00 iPhone Tarife und Betriebssystem #chapter
+WWDC neues iPhone 3G <http://www.apple.com/pr/library/2008/06/09Apple-Introduces-the-New-iPhone-3G.html>
+Vertragsverwirrung <http://www.apple.com/pr/library/2008/06/09T-Mobile-and-Apple-to-Launch-iPhone-3G-in-Austria-Germany-the-Netherlands-on-July-11.html>
+Multisim <http://www.t-mobile.de/multisim/0,21479,23885-_,00.html>
+HSDPA <http://de.wikipedia.org/wiki/High_Speed_Downlink_Packet_Access> #wikilink
+Launch2net <http://novamedia.de/en/mac-launch2net-premium.html>
+Bluetooth-Modem <http://de.wikipedia.org/wiki/Bluetooth-Hotspot> #wikilink
+Edge <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #wikilink
+iPhone kommt nun mit Netlock <http://de.wikipedia.org/wiki/Netlock> #wikilink
+Browservergleich zwischen iPhone und iPhone 3G "twice as fast" <http://cellphones.about.com/od/applecellphonereviews/fr/iphone3greview.htm>
+CRE-Podcast zu Computerspielen <http://cre.fm/cre089> #podcast
+
+00:45:20 LLVM #chapter
+LLVM in Xcode 3.1 beta7 <http://appleinsider.com/articles/08/06/20/apples_other_open_secret_the_llvm_complier.html> #website
+GCC <http://de.wikipedia.org/wiki/GNU_Compiler_Collection> #wikilink
+Funktionsweise und Vorteile von LLVM  <http://de.wikipedia.org/wiki/Low_Level_Virtual_Machine> #wikilink
+Clang <http://de.wikipedia.org/wiki/Clang> #wikilink
+
+
+00:59:10 "Schneeleo" Snowleopard #chapter
+BBEdit <http://en.wikipedia.org/wiki/BBEdit> #wikilink
+64bit Support unter Mac OS X <http://de.wikipedia.org/wiki/64-Bit-Architektur> #wikilink
+"Sennheiser MM 50 iPhone" <http://de-de.sennheiser.com/mm-50-iphone> #shopping #website
+
+01:21:00 Laptoptasche #chapter
+Logitechtasche gebaut von Axio 
+- Logitechshop <http://www.logitechshop.com.au/logitech-kinetik-15-4-briefcase-delivered.html> #shopping
+- Kinetik Briefcase: <http://www.axioluggage.com/cobranding_2.html> 
+- Kinetik Backpack: <http://www.axioluggage.com/cobranding.html>
+
+01:25:15 Browser #chapter
+Firefox 3 Release Notes (offiziell, mit Download-Möglichkeit) <https://www.mozilla.org/en-US/firefox/3.0/releasenotes/>
+- aktueller Firefox <http://www.mozilla.org/en-US/firefox/new/> #download
+Safari <http://www.apple.com/de/safari/> #homepage
+OmniWeb <http://www.omnigroup.com/products/omniweb/> #homepage
+Camino (mit Flashblocker) <http://caminobrowser.org>
+"click_to_play" Flashblock in Firefox <http://www.chip.de/news/Firefox-Neue-Funktion-schuetzt-vor-Angriffen_55796728.html> #link
+iWork <http://www.apple.com/de/iwork/> #shopping 
+iLife <http://www.apple.com/de/ilife/> #lshopping
+
+01:34:45 SproutCore #chapter
+Sproutcore kommt zum Einsatz bei MobileMe
+- Homepage <http://sproutcore.com/> #homepage
+- Wikipedia <http://en.wikipedia.org/wiki/SproutCore> #wikilink
+JavaScript <http://de.wikipedia.org/wiki/JavaScript> #wikilink
+Objective-J <http://en.wikipedia.org/wiki/Objective-J> #wikilink
+WebKit <http://de.wikipedia.org/wiki/Webkit> #wikilink
+Gears (vorher Google Gears) <http://de.wikipedia.org/wiki/Gears> #wikilink
+
+01:51:30 iPhone und seine Konkurrenz #chapter
+Sidekick <http://en.wikipedia.org/wiki/Borland_Sidekick> #wikilink
+GoogleAndroid <http://de.wikipedia.org/wiki/Android_(Betriebssystem)> #wikilink
+Symbian <http://de.wikipedia.org/wiki/Symbian-Plattform> #wikilink
+Telcos und das iPhone <http://www.telco.de/download/iPhone_Enterprise_DE.pdf> #pdf
+Trolltechs QT <http://de.wikipedia.org/wiki/QT_(Bibliothek)> #wikilink
+Nokia bringt iPhone Konkurrenten auf den Markt
+- E71 <http://www.ultrakompakt.de/nokia-e71-vs-iphone/> #link
+- N96 <http://www.macnotes.de/2008/02/11/iphone-konkurrenz-nokia-kundigt-n96-an/> #link
+Eclipse Licence <http://de.wikipedia.org/wiki/Eclipse_Public_License>
+BSD-Lizenz <http://de.wikipedia.org/wiki/BSD-Lizenz> #wikilink
+GPL <http://de.wikipedia.org/wiki/GNU_General_Public_License> #wikilink
+Dell <http://dell.de/>
+Symbian Foundation <http://de.wikipedia.org/wiki/Symbian_Foundation> #wikilink
+LG <http://www.lg.com/de> #homepage
+Samsung <http://www.samsung.com/de/#latest-home> #homepage
+Motorola <http://de.wikipedia.org/wiki/Motorola> #wikilink
+Blackberry <http://de.wikipedia.org/wiki/BlackBerry> #wikilink
+iPhone SDK <http://en.wikipedia.org/wiki/IOS_SDK> #wikilink
+Objective C <http://de.wikipedia.org/wiki/Objective-C> #wikilink
+LiMo Foundation <http://de.wikipedia.org/wiki/LiMo_Foundation> #wikilink
+AppStore <https://de.wikipedia.org/wiki/App_Store> #wikilink
+
+02:17:00 Hörerwünsche/-fragen und Verabschiedung #chapter
+Airport Express in Reihe schalten. <http://www.apfeltalk.de/forum/showthread.php?t=352419>
+Frage an die Zuhörer: Login-Screen von OS X beeinflussen <http://www.macworld.com/article/1026836/macosxhints.html> #link
+Tinkertool <http://www.bresink.com/osx/TinkerTool-de.html> #link
+CRE126 Raumfahrt <http://cre.fm/cre126> #link
+CRE 60 Retrofuturismus <http://cre.fm/cre060> #link
+Tims interhemd <http://interhemd.de/> #link
+"Unter 140 Zeichen fand' ich dich besser" im Spreeblick Shop <http://spreeblick.spreadshirt.de/twitter-shirt-hellblau-A6670084> #shopping
+
+2:34:30 Apps die immer laufen #chapter
+OmniOutliner <http://www.omnigroup.com/products/omnioutliner/> #homepage
+TextMate <http://macromates.com> #homepage
+NetNewsWire <http://netnewswireapp.com> #homepage
+Mail <http://www.apple.com/de/support/mail/> #homepage
+Safari <http://www.apple.com/de/safari/> #homepage
+Terminal <http://de.wikipedia.org/wiki/Terminal_(Computer)> #wikilink
+Adium <http://adium.im> #homepage
+iTunes <http://www.apple.com/de/itunes/> #homepage
+iTerm <http://iterm.sourceforge.net> #hompage
+BBEdit <http://www.barebones.com/products/bbedit/> #hompage
+YummyFTP <http://www.yummysoftware.com> #homepage
+
+
+
+
+
+

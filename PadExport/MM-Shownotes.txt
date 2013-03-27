@@ -1,0 +1,401 @@
+Mobile Macs Shownotes
+Willkommen zu einer Übersicht der mobileMacs-Folgen, die noch keine Shownotes haben, aber mit der Zeit welche bekommen werden.
+
+https://shownotes.piratenpad.de/ProjektVorstellung
+
+Ziel: Shownotes zu den alten Episoden erstellen. [Counter: 11 von 80 Folgen]
+
+
+MM 001 "Der Pilot"
+Folge: http://mobilemacs.de/2008/04/mm001-der-pilot.html 
+Wird nicht beshownotet, da Tim schon einen schönen Text dazu geschrieben hat.
+
+MM 002 "Pwnage"
+Folge: http://mobilemacs.de/2008/04/mm002-pwnage-tarife-zfs-64-bit.html
+Pad: https://shownotes.piratenpad.de/MMrelive-002
+
+MM 003 "Das Schwert des Damokles"
+Folge: http://mobilemacs.de/2008/04/mm003-webapps-quartalszahlen-pa-semi-microsoft.html
+Pad: https://shownotes.piratenpad.de/MMrelive-003
+
+MM 004 "Again and Again"
+Folge: http://mobilemacs.de/2008/05/mm004-iphone-push-email-macports-twitter.html
+Pad: https://shownotes.piratenpad.de/MMrelive-004
+
+MM 005 "Ich seh’ in 3D"
+Folge: http://mobilemacs.de/2008/05/mm005-ich-seh-in-3d.html
+Pad: https://shownotes.piratenpad.de/MMrelive-005
+
+MM 006 "Active Stink"
+Folge: http://mobilemacs.de/2008/06/mm006-active-stink.html
+Pad: https://shownotes.piratenpad.de/MMrelive-006
+
+MM 007 "Halbfinale"
+Folge: http://mobilemacs.de/2008/06/mm007-halbfinale.html
+Pad: https://shownotes.piratenpad.de/MMrelive-007
+
+MM 008 "Runde Ecken"
+Folge: http://mobilemacs.de/2008/07/mm008-runde-ecken.html
+Pad: https://shownotes.piratenpad.de/MMrelive-008
+
+MM 009 "Reboot tut gut"
+Folge: http://mobilemacs.de/2008/07/mm009-reboot-tut-gut.html
+Pad: https://shownotes.piratenpad.de/MMrelive-009
+Chat: Link zum Chatlog
+
+MM 010 "Live und in Farbe"
+Folge: http://mobilemacs.de/2008/08/mm010-live-und-in-farbe.html
+Pad: https://shownotes.piratenpad.de/MMrelive-010
+Chat: Link zum Chatlog
+
+MM 011 "Potsdamer Podcaster"
+Folge: http://mobilemacs.de/2008/08/mm011-potsdamer-podcaster.html
+Pad: https://shownotes.piratenpad.de/MMrelive-011
+Chat: Link zum Chatlog
+
+MM 012 "Die Welt ist eine Scheibe"
+Folge: http://mobilemacs.de/2008/09/mm012-die-welt-ist-eine-scheibe.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 013 "Triple-Ender"
+Folge: http://mobilemacs.de/2008/09/mm013-triple-ender.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 014 "Behind the Scenes"
+Folge: http://mobilemacs.de/2008/10/mm014-behind-the-scenes.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 015 "Bag of Hurt"
+Folge: http://mobilemacs.de/2008/10/mm015-bag-of-hurt.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 016 "Mäuse und Moneten"
+Folge: http://mobilemacs.de/2008/10/mm016-maeuse-und-moneten.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 017 "Neunzehn Zoll"
+Folge: http://mobilemacs.de/2008/11/mm017-neunzehn-zoll.html
+
+MM 018 "LWMLAF"
+Folge: http://mobilemacs.de/2008/12/mm018-lwmlaf.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 019 "Ho Ho Ho"
+Folge: http://mobilemacs.de/2008/12/mm019-ho-ho-ho.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 020 "Philnote"
+Folge: http://mobilemacs.de/2009/01/mm020-philnote.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 021 "Hollywood"
+Folge: http://mobilemacs.de/2009/01/mm021-hollywood.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 022 "Clean Install"
+Folge: http://mobilemacs.de/2009/02/mm022-clean-install.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 023 "Unbefleckte Empfängnis"
+Folge: http://mobilemacs.de/2009/02/mm023-unbefleckte-empfaengnis.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 024 "Fürchte Dich nicht"
+Folge: http://mobilemacs.de/2009/03/mm024-furchte-dich-nicht.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 025 "Wer kauft wen?"
+Folge: http://mobilemacs.de/2009/04/mm025-wer-kauft-wen.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 026 "Zensursula"
+Folge: http://mobilemacs.de/2009/04/mm026-zensursula.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 027 "Konsumrausch"
+Folge: http://mobilemacs.de/2009/05/mm027-konsumrausch.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 028 "General Awesomeness"
+Folge: http://mobilemacs.de/2009/06/mm028-general-awesomeness.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 029 "Bumm Zack Return"
+Folge: http://mobilemacs.de/2009/06/mm029-bumm-zack-return.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 030 "Lob der Schweiz"
+Folge: http://mobilemacs.de/2009/06/mm030-lob-der-schweiz.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 031 "Push It"
+Folge: http://mobilemacs.de/2009/07/mm031-push-it-2.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 032 "La Ola"
+Folge: http://mobilemacs.de/2009/07/mm032-la-ola.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 033 "Alle Wege führen nach Rom"
+Folge: http://mobilemacs.de/2009/08/mm033-alle-wege-fuehren-nach-rom.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 034 "Schneegestöber"
+Folge: http://mobilemacs.de/2009/09/mm034-schneegestoeber.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 035 "Halbstarke Software"
+Folge: http://mobilemacs.de/2009/10/mm035-halbstarke-software.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 036 "Trust Me"
+Folge: http://mobilemacs.de/2009/10/mm036-trust-me.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 037 "Bullet Time"
+Folge: http://mobilemacs.de/2009/11/mm037-bullet-time.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 038 "Google für Eintausend"
+Folge: http://mobilemacs.de/2009/11/mm038-google-fuer-eintausend.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 039 "Home Alone"
+Folge: http://mobilemacs.de/2009/12/mm039-home-alone.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 040 "Das Tablett"
+Folge: http://mobilemacs.de/2010/01/mm040-das-tablett.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 041 "Jeder nur ein Kreuz"
+Folge: http://mobilemacs.de/2010/01/mm041-jeder-nur-ein-kreuz.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 042 "Bi-Ba-Buzzemann"
+Folge: http://mobilemacs.de/2010/02/mm042-bi-ba-buzzemann.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 043 "Patentkrieg"
+Folge: http://mobilemacs.de/2010/03/mm043-patentkrieg-fixed.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 044 "Schöner Buchen"
+Folge: http://mobilemacs.de/2010/03/mm044-schoener-buchen.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 045 "Ka-Ching"
+Folge: http://mobilemacs.de/2010/04/mm045-ka-ching.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 046 "Liebe ist..."
+Folge: http://mobilemacs.de/2010/05/mm046-liebe-ist-%e2%80%a6.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 047 "Haptischer Organismus"
+Folge: http://mobilemacs.de/2010/06/mm047-haptischer-orgasmus.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 048 "/usr/local"
+Folge: http://mobilemacs.de/2010/08/mm048-usr-local.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 049 "Finanzamt für Körperschaften II"
+Folge: http://mobilemacs.de/2010/09/mm049-finanzamt-fuer-koerperschaften-ii.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 050 "Fail Center"
+Folge: http://mobilemacs.de/2010/09/mm050-fail-center.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 051 "Up The Shut Fuck, You Must"
+Folge: http://mobilemacs.de/2010/10/mm051-up-the-shut-fuck-you-must.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 052 "Trololo Tralala"
+Folge: http://mobilemacs.de/2010/10/mm052-trololo-tralala.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 053 "Wir sind alle Chuck Norris"
+Folge: http://mobilemacs.de/2010/10/mm053-wir-sind-alle-chuck-norris.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 054 "Datenesoterik"
+Folge: http://mobilemacs.de/2010/11/mm054-datenesoterik.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 055 "Macintosh Not Included"
+Folge: http://mobilemacs.de/2010/12/mm055-macintosh-not-included.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 056 "Das Bild hängt schief"
+Folge: http://mobilemacs.de/2010/12/mm056-das-bild-hangt-schief.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 057 "The tip is broken when you need it"
+Folge: http://mobilemacs.de/2011/01/mm057-the-tip-is-broken-when-you-need-it.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 058 "MacBook Liberation Front"
+Folge: http://mobilemacs.de/2011/01/mm058-macbook-liberation-front.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 059 "Das Internet braucht mehr Sex"
+Folge: http://mobilemacs.de/2011/02/mm059-das-internet-braucht-mehr-sex.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 060 "Back to the Boots"
+Folge: http://mobilemacs.de/2011/02/mm060-back-to-the-boots.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 061 "Bolt Move"
+Folge: http://mobilemacs.de/2011/03/mm061-bolt-move.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 062 "Honey Rider"
+Folge: http://mobilemacs.de/2011/03/mm062-honey-rider.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 063 "Gesprächsthemenskat"
+Folge: http://mobilemacs.de/2011/04/mm063-gespraechsthemenskat.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 064 "Opa erzählt vom Krieg"
+Folge: http://mobilemacs.de/2011/05/mm064-opa-erzaehlt-vom-krieg.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 065 "Stimme der Jugend"
+Folge: http://mobilemacs.de/2011/05/mm065-stimme-der-jugend.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 066 "Control Shift Eject"
+Folge: http://mobilemacs.de/2011/06/mm066-control-shift-eject.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 067 "Mouse Pointer HD"
+Folge: http://mobilemacs.de/2011/06/mm067-mouse-pointer-hd.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM067_Mouse_Pointer_HD.log.html
+
+MM 068 "Zehn Meter Bremsspur"
+Folge: http://mobilemacs.de/2011/06/mm068-zehn-meter-bremsspur.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM068_Zehn_Meter_Bremsspur.log.html
+
+MM 069 "Mach den Affen weg"
+Folge: http://mobilemacs.de/2011/07/mm069-mach-den-affen-weg.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM069_Mach_den_Affen_weg.log.html
+
+MM 070 "Dieser Planet ist durchgespielt"
+Folge: http://mobilemacs.de/2011/08/mm070-dieser-planet-ist-durchgespielt.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM070_Dieser_Planet_ist_durchgespielt.log.html
+
+MM 071 "Sciheres Durchstöbern"
+Folge: http://mobilemacs.de/2011/09/mm071-sicheres-durchstoebern.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM071_Sicheres_Durchstoebern.log.html
+
+MM 072 "Anonyme Adobiker"
+Folge: http://mobilemacs.de/2011/09/mm072-anonyme-adobiker.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/Chatlog_MM072_Anonyme_Adobiker.log.html
+
+MM 073 "Creepy"
+Folge: http://mobilemacs.de/2011/10/mm073-creepy.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm073-creepy.log.html
+
+MM 074 "Tal der Tränen"
+Folge: http://mobilemacs.de/2011/10/mm074-tal-der-traenen.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm074-tal-der-traenen.log.html
+
+MM 075 "Meistens Immer"
+Folge: http://mobilemacs.de/2011/11/mm075-meistens-immer.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm075-meistens-immer.log.html
+
+MM 076 "Seepferdchensex"
+Folge: http://mobilemacs.de/2011/11/mm076-seepferdchensex.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm076-seepferdchensex.log.html
+
+MM 077 "Der Spiegel ruckelt"
+Folge: http://mobilemacs.de/2011/11/mm077-der-spiegel-ruckelt.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm077-der-spiegel-ruckelt.log.html
+
+MM 078 "Casual Minecraft Wannabees"
+Folge: http://mobilemacs.de/2011/12/mm078-casual-minecraft-wannabes.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm078-casual-minecraft-wannabes.log.html
+
+MM 079 "Folgen heißt Maul halten"
+Folge: http://mobilemacs.de/2012/01/mm079-folgen-heist-maul-halten.html
+Pad: Link zum Pad
+Chat: Link zum Chatlog
+
+MM 080 "Kalender für Einhundert"
+Folge: http://mobilemacs.de/2012/02/mm080-kalender-fuer-einhundert.html
+Pad: Link zum Pad
+Chat: http://blog.m3d1c5.org/chatlogs/chatlog-mm080-kalender-fuer-einhundert.log.html
+
+
+
+

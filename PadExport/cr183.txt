@@ -1,0 +1,172 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+ 
+
+Chaosradio 183
+mit Marcus Richter (@monoxyd), Andre Meister (@oeucotidiano, Netzpolitik), Kirsten Fiedler und Erdgeist (@erdgeist)
+Thema: CleanIT
+
+
+1. Allgemein:
+Sendungsseiten:
+- auf Fritz: <http://www.fritz.de/programm/sendungen/33/1209/120927_blue_moon_7554.html>
+- Chaosradio Blog <http://blog.chaosradio.ccc.de/index.php/2012/09/27/cr-183-cleanit/>
+- Chaosradio Seite <http://chaosradio.ccc.de/>
+Chat: <irc://irc.freenode.net/chaosradio> , <http://webchat.freenode.net/?channels=%23chaosradio>
+Stream: <http://www.fritz.de/live.m3u>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fcr183&time=22%3A05%3A00>
+ 
+Zusammengetragen von: Quimoniz, Melman (@MaestroBodo), Freetree (Nerobrain), Seismo, M4X1, Martin
+ 
+Zwischenzeitliches Anderes Pad (unvollständig): <http://piratepad.net/mRgEc3N3JS>
+
+2. Glossar:
+Artikel auf Netzpolitik.org <https://netzpolitik.org/2012/clean-it-ist-nur-ein-symptom-fur-die-irrefuhrende-politik-der-privaten-rechtsdurchsetzung-im-internet/>
+Private Public Partnership <http://de.wikipedia.org/wiki/Private_Public_Partnership>
+Loeschung von Nackbildern in der Microsoft Cloud. <http://www.chip.de/news/Skydrive-Microsoft-scannt-Dateien-sperrt-Accounts_56757512.html>
+Deep Packet Inspection <http://de.wikipedia.org/wiki/Deep_Packet_Inspection>
+Europaparlament <http://de.wikipedia.org/wiki/Europaparlament>
+AGB <http://de.wikipedia.org/wiki/Allgemeine_Gesch%C3%A4ftsbedingungen>
+Initiative Safer Internet For Children <http://ec.europa.eu/public_opinion/archives/quali/ql_safer_internet_summary.pdf> 
+Digitale Gesellschaft <http://de.wikipedia.org/wiki/Digitale_Gesellschaft>
+Open Rights Group <http://www.openrightsgroup.org/>
+"Internet der Dinge" <http://de.wikipedia.org/wiki/Internet_der_Dinge>
+"Notice of Take Down" <http://www.linksandlaw.de/news791-missbrauch-notice-take-down.htm>
+OpenData Projekt von Verkehrsdaten (u.a. Fahrpläne von Öffentlichen Verkehrsmitteln) <http://de.wikipedia.org/wiki/Open_Data>
+
+
+3. Themen:
+Vorschläge von der Regierung
+- Dokument 23 Seiten <http://www.edri.org/files/cleanIT_sept2012.pdf>
+- Verbot von "Terroristischen" Inhalten
+- Überwachung
+- Filterung (via Deep Packet Inspection)
+- AGB (Allgemeine Geschäftsbedingungen)
+- Die Firmen sollen die Strafverfolgung selbst übernehmen. 
+- - Inspizieren von Internet Paketen -> Inhalt, Empfänger, Sender
+        => Bsp.: http://www.microsoft.com/en-us/news/presskits/photodna/
+(http://de.wikipedia.org/wiki/Content_Delivery_Network ) -CDN siehe CR 182 (http://chaosradio.ccc.de/cr182.html )
+- Filter, Verantwortung für Filtern fuehrt zwangsläufig zu Whitelist <http://de.wikipedia.org/wiki/Whitelist>
+ 
+Probleme des Dokuments:
+- "Terrorismus" wurde im Dokument nie genau definiert.
+-   Anbieter  die Contentfilter vorschalten, können haftbar gemacht werden   wenn die  Filter versagen -> niemand würde Filter freiwillig  anbieten
+ 
+D-E-Mail: <http://de.wikipedia.org/wiki/De-Mail>
+- E-Mail
+- Mailadresse abholen mit Pass
+- Dokumente "verschlüsselt" versenden (es gibt keine 100% Verschlüsselung)
+- Du kannst Mail verifizieren
+- Dokumente mit Mail empfangen
+ 
+Probleme mit D-E-Mail:
+-  Du bist im Urlaub und bekommst ein Dokument. Dann hast du es  bekommen,   und die Zeit läuft, auch wenn du sie nicht gelesen hast.
+
+Bessere Lösungen für ein sauberes Internet:
+- Wenn illegale Inhalte auftauchen beschlagnahmt man den Server und bestraft die Uploader und forensisch analysieren.
+
+Gruende fuer die Nichtmitarbeit:
+- Was ist der Grund, dass man was machen muss?
+- Mit welchen Akteuren will man das Problem loesen
+- keine Grundrechtsverletzung hintenrum a la ACTA
+
+Sicherheit vs. Freiheit Politik
+- Versuche Freiheit einzuschränken für Sicherheitsgewinn.
+- Acta ist nicht gleich CleanIT <http://de.wikipedia.org/wiki/ACTA>
+- INDECT <http://de.wikipedia.org/wiki/INDECT>
+- Vorratsdatenspeicherung <http://de.wikipedia.org/wiki/Vorratsdatenspeicherung>
+- Initiativen stammen oft aus Brüssel, bspw. als EU Richtlinien, die in nationales Recht umgesetzt werden müssen
+- ICP, CEO coalition ??
+- Initiative von Ursula "Zensursula" von der Leyen
+- Three Strikes <http://de.wikipedia.org/wiki/Three_strikes>
+
+
+CleanIT: <http://www.edri.org/cleanIT>
+- Sanktionierung durch den ISP
+- Ein Projekt von Amateuren
+- Eingebracht durch Cecilia "Zensilia" Malmström <http://de.wikipedia.org/wiki/Cecilia_Malmstr%C3%B6m>
+- Erklaerungs Booklet "Activist Guide to the Brussels Maze" auf <http://www.edri.org/files/2012EDRiPapers/activist_guide_to_the_EU.pdf>
+- Statement der Piratenpartei <http://www.piratenpartei.ch/Statement_zum_Clean_IT_Project>
+- Durchsetzung des Rechtes im Internet durch ISP <http://de.wikipedia.org/wiki/Internetdienstanbieter> (Firmen), statt durch den Staat.
+- ist nur ein Symptom eines Trends
+
+EDRI <http://www.edri.org><http://de.wikipedia.org/wiki/Edri>
+- European Digital Rights defends civil rights in the information society.  32 privacy&civil rights organisations from 20 different countries  in Europe are members 
+- 3 Mitarbeiter
+- Geschäftsführer Joe
+- Sie reden u.a. mit Politikern
+
+Warum will die Politik immer solche Gesetze (die Freiheit einschränken):
+- Acta wurde mit grosser Öffentlichkeit wegdemonstriert. Wenn man einfach immer wieder und wieder mit anderen Gesetzesinitiativen Themen kommt sind es die Leute irgendwann überdrüssig und dann ist es da weil keiner mehr was sagt.
+
+Trend:
+- ISP gleichzeitig zu Polizei, Richter und Henker machen
+- Legislative, Judikative und Exekutive soll nicht mehr getrennt sein. (http://de.wikipedia.org/wiki/Gewaltenteilung)
+- Angst davor, dass sich im Internet nur Kinderschänder, Raubkopierer und Terroristen tummeln
+- Aufreger nächste Woche: Drohnen
+
+
+Automatisierte Rechtsdurchsetzung
+- Glaube, man koenne Sicherheit algorithmisch implementieren
+- Hinarbeiten auf Automatisierte Rechtsdurchsetzung "Policing"
+- Maschinen dürfen nicht über unser Verhalten entscheiden
+- Juristentag in Bayern <http://www.djt.de/>, "Fachidiotentum auf hoechstem Niveau"
+- Computer zur Rechtsdurchsetzungorte 
+
+Reden mit Politikern:
+- Guttenberg und Stephan Urbach redeten miteinander <http://stephanurbach.de/2012/02/guttenberg-das-gesprach/>
+(Herr Guttenberg ist uns noch gut bekannt Aufgrund seines Dissertationsremixes)
+- Torte in Guttenbergs Gesicht <http://www.spiegel.de/netzwelt/netzpolitik/protest-gegen-guttenberg-worte-und-torte-a-813051.html>
+- Man ist bereit mit den Politikern zu reden
+- kein "CCC approved politics"
+
+CEO Coalition:
+- "Bündnis für ein kindersicheres Internet" <https://www.unwatched.org/EDRigram_10.5_Buendnis_fuer_ein_kindersicheres_Internet>
+- Microsoft hat den Vorsitz der "Takedown"-Arbeitsgruppe
+- Microsofts Upload Filter "Photo-DNA" <http://www.microsoft.com/en-us/news/presskits/photodna/>
+- Facebook hat den Vorsitz in einer Arbeitsgruppe "Datenschutz"
+
+Termine:
+- Datenspuren in Dresden am 13&14. Oktober <http://datenspuren.de>
+- Datengarten <http://berlin.ccc.de> : Heute "Wikidata" - Wikipedia maschinenlesbar machen
+- CryptoParty, am 28. September <https://cryptoparty.org>
+
+Nachrichten:
+- Samsung Glalaxy 3 Kann Reset durchführen mit MMI auch über Remote über eine Webseite <http://www.heise.de/newsticker/meldung/Sicherheitsleck-Samsung-Smartphones-aus-der-Ferne-loeschbar-1716849.html>
+- Neue Luecke in Internet Explorer 6,7,8,9,10 hat eine sehr schlimme Sicherheislücke -> Computer übernehmen <http://www.heise.de/security/meldung/Microsoft-patcht-kritische-Internet-Explorer-Luecke-1715036.html>
+- Primiermenister von Neuseeland hat sich bei Megauplodgruender Kim Schmitz entschuldigt. Wegen dessen Verhaftung und Hausdurchsuchung etc..
+<http://www.heise.de/newsticker/meldung/Neuseelands-Premier-entschuldigt-sich-bei-Kim-Dotcom-1718814.html>
+- Filesharing Verfolgungsstop für Privatkopie in Portugal
+- Sendung zu Abmahnungswahn <http://chaosradio.ccc.de/cr175.html>
+- Open PlanB von Michael Kreiel  <http://openplanb.tumblr.com/> 
+- Google und Deutsche Bahn kooperieren <http://www.heise.de/newsticker/meldung/Google-und-Deutsche-Bahn-kooperieren-1709505.html>
+- Schreibmaschinen statt Laptops
+
+4. Anderes:
+
+Shownudes:
+- "Interessenskonflikt" ist ein Wortspiel
+- Politiker müssen aufhören ihre Gesetzesentwürfe nach dingen zu benennen die sich gut anhören. (Wie z.B. "Clean")
+- "Vielleicht sollte ich meinen Beruf wechseln und auch schlechte Politik machen, scheint sich zu lohnen"
+- "Wenn nur jeder selbst für seine Sicherheit sorgen könnte"
+- Andere finden Brüssel nicht so gut weils da ziemlich viel regnet
+- CleanIT ist eine Beschneidung des Internet-Pimmels
+- Zensursula mag keine Pornos
+- "Raubkopiermörderterroristenkinderschänder"
+- "Poli - Poli - argh Verzeihung"
+
+
+5. Ablauf
+
+Sendungsbeginn: ~22:05 Uhr (00:00:00)
+00:25:45 Fritz Info mit Nachrichten Wetter und Verkehr
+00:29:55 Song :Caldron - Totentanz vom Free Music Sampler <http://bandcamp.musikpiraten-ev.de/track/totentanz>
+00:56:01 Song: Binärpilot - Oral <http://binaerpilot.no/>
+01:24:00  Fritz Info mit Nachrichten Wetter und Verkehr
+01:37:28 Chaosradio Nachrichten
+01:47:58 Song: Mrs. Winterbottom - Der große Fisch <http://bandcamp.musikpiraten-ev.de/track/der-grosse-fisch>
+01:52:32 Song: Tracky Birthday - Websiiite <http://www.trackybirthday.com>
+Sendungsende: 00:01:10 (01:56:10)
+
+
+
+

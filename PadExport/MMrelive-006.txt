@@ -1,0 +1,114 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs "Active Stink"
+Vom: 27.05.2012
+Download: <mobilemacs.de/>  http://mobilemacs.de/2008/06/mm006-active-stink.html
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-006&time=20%3A30%3A00&Button=Create%21
+Mit: Tim @timpritlove, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/6
+
+Zusammengetragen von: @evitabley, @johannes_k, @woLeonard, @kaeffchen_heinz
+
+00:00:00 Intro und Begrüßung #chapter
+es sind nur Denis und Tim da weil Max im Urlaub ist in/auf Malle #spoiler
+Vom Urlaub twittern ist der neue Trend. #spoiler
+wwdc aftershow #spoiler
+
+
+00:02:30 WWDC: Nachbesprechung #chapter
+WWDC <http://www.youtube.com/watch?v=rrJtxGS5_Wc> #video
+<http://de.wikipedia.org/wiki/WWDC> #wikilink
+c´t  Mac-Ausgabe <http://www.heise.de/kiosk/special/ct/08/03/> #link
+ObjectiveC für iPhone <http://de.wikipedia.org/wiki/Objective-C> #wikilink
+Snowleopard <http://de.wikipedia.org/wiki/Mac_OS_X_10.6> #wikilink
+Steve Jobs Buch und Leben <http://www.amazon.com/Inside-Steves-Brain-Leander-Kahney/dp/1591841984> #shopping
+Versprecher von Phil Schiller Active Stink <http://www.youtube.com/watch?v=Oxp9IzTGVno> #video
+iPhone SDK <http://en.wikipedia.org/wiki/IOS_SDK> #wikilink
+
+ca 15 min ... noch nachhören und neues chapter
+Ankündigung des iPhone 3G <http://de.wikipedia.org/wiki/Apple_iPhone_3G> #wikilink
+Cisco <http://www.cisco.com/web/DE/index.html> #homepage
+Powerpointdokumente/iWork-Dokumente können jetzt angezeigt werden #spoiler
+iPhoneVideos über Fernseher oder Beamer <http://www.iphonehacks.com/2008/12/moto-chaser-tv.html> #link
+Jabber fehlt immer noch <http://de.wikipedia.org/wiki/Jabber_Instant_Messenger> #wikilink
+
+00:21:30 AppStore #chapter
+EbayApp <http://anywhere.ebay.de/mobile/iphone/ebay/> #link
+Spiele sind die Zukunft für das iPhone <http://www.tomshardware.de/iPhone-Firmware-2.0-UMTS,news-241117.html> #link
+Terminalprogramm für iPhone fehlt #spoiler
+Omnigroup <http://www.omnigroup.com> #homepage
+Omnifocus <http://itunes.apple.com/de/app/omnifocus-for-iphone/id284885288?mt=8> #link
+Typepad <http://itunes.apple.com/de/app/typepad/id281944480?mt=8> #link
+Twitterific <http://itunes.apple.com/de/app/twitterrific-for-twitter/id359914600?mt=8> #link
+TomTom für das iPhone <http://itunes.apple.com/de/app/tomtom-radarkameras-de-at/id505193902?mt=8> #link
+Firmen interne Apps auf dem iPhone <http://www.apple.com/iphone/business/integration/> #link
+
+00:39:00 mobileME #chapter
+MobileMe <http://de.wikipedia.org/wiki/MobileMe> #wikilink
+MobileMe mit neuen Features <http://www.macworld.com/article/1134025/mobileme.html> #link
+Push für Mail, Kalender und Adressbuch <http://de.wikipedia.org/wiki/MobileMe#Push-Dienste> #wikilink
+OSXServer <http://de.wikipedia.org/wiki/OS_X_Server> #wikilink
+.mac <http://de.wikipedia.org/wiki/.Mac> #wikilink
+
+00:49:57 iPhone 3G #chapter
+AGPS auf dem iPhone <http://de.wikipedia.org/wiki/Assisted_Global_Positioning_System> #wikilink
+TomTom Geräte mit GPS und SIM-Karten <http://www.tomtom.com/news/category.php?ID=4&NID=495&Lid=3> #link
+HSDPA <http://de.wikipedia.org/wiki/High_Speed_Downlink_Packet_Access> #wikilink
+HSUPA wird nicht unterstützt <http://de.wikipedia.org/wiki/High_Speed_Uplink_Packet_Access> #wikilink
+Remote Wipe <http://www.msxfaq.de/mobil/remotewipe.htm> #link
+Länderübersicht über den Verkauf des aktuellen iPhones<http://apple.com/iphone/countries>
+Pressreleases <http://apple.com/pr>
+
+01:20:00 Snowleopard #chapter
+Presseinfo zu Snowleopard <http://www.apple.com/pr/library/2008/06/09Apple-Previews-Mac-OS-X-Snow-Leopard-to-Developers.html>
+Multi-Core Optimization mit Grand Central <http://en.wikipedia.org/wiki/Grand_Central_Dispatch> #wikilink
+Parallel Computing <http://en.wikipedia.org/wiki/Parallel_computing> #wikilink
+- mit Open CL <http://de.wikipedia.org/wiki/OpenCL> #wikilink
+MacPro <http://store.apple.com/de/browse/home/shop_mac/family/mac_pro> #shopping
+
+01:31:00 Quick Time X #chapter
+Quick Time X <http://www.crafted.com.au/blog/2008/06/20/apple-quicktime-x-a-new-flashsilverlight-competitor/>
+Quick Look Server <http://en.wikipedia.org/wiki/Quick_Look> #wikilink
+VLC <http://www.videolan.org/vlc/> #homepage
+MPlayer 
+- Wikipedia <http://de.wikipedia.org/wiki/MPlayer> #wikilink
+- Homepage <http://www.mplayerhq.hu> #homepage
+
+00:00:00 Developer Zeug #chapter
+Carbon <http://en.wikipedia.org/wiki/Carbon_(API)> #wikilink
+Cocoa <http://de.wikipedia.org/wiki/Cocoa> #wikilink
+64-Bit <http://de.wikipedia.org/wiki/64-Bit> #wikilink
+Schneeleoparden (Tier) <http://de.wikipedia.org/wiki/Schneeleopard> #wikilink
+JAVAScript <http://de.wikipedia.org/wiki/Javascript> #wikilink
+LLVM <http://de.wikipedia.org/wiki/LLVM> #wikilink
+
+01:49:30 ZFS #chapter
+ZFS Mac <http://de.wikipedia.org/wiki/ZFS_(Dateisystem)> #wikilink
+Exchange <http://de.wikipedia.org/wiki/Microsoft_Exchange_Server>
+The Pirate Bay 
+- Wikipedia <http://de.wikipedia.org/wiki/The_Pirate_Bay> #wikilink
+- Homepage https://thepiratebay.se/ #homepage
+OS X 10.4 <http://de.wikipedia.org/wiki/Mac_OS_X_10.4> #wikilink
+Windows Vista <http://de.wikipedia.org/wiki/Microsoft_Windows_Vista> #wikilink
+
+02:00:00 Blogkommentare #chapter
+OpenAL <http://de.wikipedia.org/wiki/OpenAL> #wikilink
+OpenGL <http://de.wikipedia.org/wiki/Opengl> #wikilink
+Tom Tom <http://de.wikipedia.org/wiki/TomTom> #wikilink
+Orange Frankreich 
+- Homepage <http://www.orange.fr/> #homepage
+- Wikipedia<http://de.wikipedia.org/wiki/Orange_%28Unternehmen%29> #wikilink
+Bluetooth für die Appletastatur <http://www.apple.com/de/keyboard/> <http://imjustcreative.com/apples-new-wireless-stumpy-keyboard-delete-key-fix/2008/02/06/> #link
+
+02:18:00 1password und andere Programme #chapter
+1 password <https://agilebits.com/onepassword> #homepage
+Keychain bei Mac <http://en.wikipedia.org/wiki/Keychain_(Mac_OS)> #wikilink
+Transmition Bittorrentclient <http://www.transmissionbt.com> #homepage
+SRV Record <http://de.wikipedia.org/wiki/SRV_Resource_Record> #wikilink
+Adobe FrameMaker <http://www.adobe.com/de/products/framemaker.html> #homepage
+Merlin <http://www.projectwizards.net/de/merlin/> #homepage
+
+02:41:00 Ausklang und Verabschiedung #chapter
+

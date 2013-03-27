@@ -1,0 +1,157 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+ 
+
+Chaosradio 184
+mit Marcus Richter (@monoxyd), Frank Rieger (@frank_rieger), @erdgeist, Rob (@rop_g)
+Thema: Technik und Krieg
+Seite zur Sendung: <http://www.fritz.de/programm/sendungen/33/1210/121025_blue_moon_7852.html>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fcr184&time=22%3A01%3A35&Button=Create%21>
+Zusammengetragen von: @Quimoniz, @kaeffchen_heinz, M4X1, @hypergrip
+
+Sendungsbeginn: 22:01:35
+
+Drohnen <http://de.wikipedia.org/wiki/Unbemanntes_Luftfahrzeug> #wikilink
+CERN <http://de.wikipedia.org/wiki/Cern> #wikilink
+
+00:07:00 Geschichtliches #chapter
+Archimedes <http://de.wikipedia.org/wiki/Archimedes> #wikilink
+Griechisches Feuer (per Katapult) <http://de.wikipedia.org/wiki/Griechisches_Feuer> #wikilink
+Schwarzpulver (rauchte stark) <http://de.wikipedia.org/wiki/Schwarzpulver> #wikilink
+Rauchloses Schwarzpulver
+Vorderlader <http://de.wikipedia.org/wiki/Vorderlader> #wikilink
+Kugeln mit integriertem Schwarzpulver
+Industrialisierung/Massenproduktion
+Katapulte/Bliden <http://de.wikipedia.org/wiki/Blide>
+
+Mathe und Algorithmen und wissenschaftliche Forschung werden wichtig für die Kriegsführung
+Isaac Newton <http://de.wikipedia.org/wiki/Isaac_Newton> #wikilink
+Leonard Euler (Grundsätze der Artillerie) zu Ballistik
+Da Vinci <http://de.wikipedia.org/wiki/Leonardo_da_Vinci> #wikilink
+Atombombe, Manhatten Project
+Aggregatszustände von Plutonium
+Positionen der Wisschenschaftler
+-ja, wir rechnen auch aus, wie man den maximalen Schaden damit macht. Bspw. John von Neumann
+-ne, ist doof. Bspw. Albert Einstein
+Maschinengewehr <http://de.wikipedia.org/wiki/Maschinengewehr> #wikilink
+Alfred Nobel (erfinder des Dinamit) <http://de.wikipedia.org/wiki/Alfred_Nobel> #wikilink
+-TNT <http://de.wikipedia.org/wiki/TNT> #wikilink
+Archimedes baute fehler ein, die man nur korrigieren konnte, wenn man sich damit auskennt.
+Die gleiche Technik fand auch bei Exploits statt.
+
+00:22:00 Rainer #chapter
+Der größte Kanone sollte Konstantinopel kaputt machen <http://de.wikipedia.org/wiki/Konstantinopel> #wikilink
+- Dardanelles Kanone <http://en.wikipedia.org/wiki/Great_Turkish_Bombard> #wikilink
+Gotthard Günther <http://de.wikipedia.org/wiki/Gotthard_G%C3%BCnther> #wikilink
+
+Kein Krieg mehr, sondern Nichtfrieden (verdeckte Wuseloperationen)
+Genfer Konvention <http://de.wikipedia.org/wiki/Genfer_Konventionen> #wikilink
+Film War Games <http://de.wikipedia.org/wiki/WarGames_%E2%80%93_Kriegsspiele> #wikilink
+Schach <http://de.wikipedia.org/wiki/Schach> #wikilink
+Haager Landkriegsordnung <http://de.wikipedia.org/wiki/Haager_Landkriegsordnung> #wikilink
+Rotkreuz <http://de.wikipedia.org/wiki/Internationale_Rotkreuz-_und_Rothalbmond-Bewegung> #wikilink
+Schrapnell <http://de.wikipedia.org/wiki/Schrapnell> #wikilink
+Chemiewaffen <http://de.wikipedia.org/wiki/Chemische_Waffe> #wikilink
+Grabenkämpfe
+Vietnam- Krieg, Counter insurgency
+
+
+00:31:00 Fritz Info mit Nachrichten, Wetter und Verkehr
+
+00:36:00 Drohnen <http://de.wikipedia.org/wiki/Unbemanntes_Luftfahrzeug> #wikilink #chapter
+Quadrocopter <http://de.wikipedia.org/wiki/Quadrocopter> #wikilink
+Chaos Communication Congress <http://events.ccc.de/29c3/> 
+Global Hawk
+- Auf Wikipedia <http://de.wikipedia.org/wiki/Northrop_Grumman_RQ-4> #wikilink
+- Bei der Nasa <http://www.nasa.gov/externalflash/Glopac/>#homepage
+Gründe für die Entwicklung von Drohnen
+- Training für FLAK <http://de.wikipedia.org/wiki/Flugabwehrkanone> #wikilink
+- Einsparung von Piloten im Speziellen und Personal im Allgemeinen (Crew,etc.)
+
+Überschalldrohne
+Predatordrohnen <http://de.wikipedia.org/wiki/Predator_(Drohne)> wurden gegen ende der 90 entwickelt #wikilink
+Geostätionäre Positionierung der Sateliten <http://de.wikipedia.org/wiki/Geosynchrone_Umlaufbahn> #wikilink
+Wegpunktsteuerung wegen hoher Latenz bei Direktsteuerung
+Militär:
+Geheimdienst und Militär
+Osama Bin Laden <http://de.wikipedia.org/wiki/Osama_bin_Laden> #wikilink
+Special Forces, Agenda Joint Vision <http://de.wikipedia.org/wiki/Joint_Vision_2010> #wikilink
+Intelligence-driven war
+Rules of Engagement <http://de.wikipedia.org/wiki/Rules_of_Engagement_%28Milit%C3%A4r%29> #wikilink
+Roboterethik <http://de.wikipedia.org/wiki/Roboterethik> #wikilink
+Isaac Asimov, die drei Regeln der Robotik vs Roboter Regeln im Krieg <http://de.wikipedia.org/wiki/Robotergesetze> #wikilink
+Crew aus Operator und Missioncontroller kontrollieren je eine Drohne
+CIA hat eigene Drohnenflotte, die nach anderen Rules of Engagement eingesetzt werden
+Zielwahl durch Informanten vor Ort mit Infrarot abstrahlenden Steinen schlägt fehl
+Mörser <http://de.wikipedia.org/wiki/M%C3%B6rser_%28Gesch%C3%BCtz%29> #wikilink
+
+00:56:00 Situation in Deutschland #chapter
+Bundeswehr besitz derzeit keine bewaffneten Drohnen
+Verteidigungsminister Thomas de Maizière fordert Anschaffung bewaffneter Drohnen für die Bundeswehr <http://www.tagesschau.de/inland/demaiziere206.html>
+Drohneneinsatz im Inneren
+"Raketen sind keine zulässigen Polizeieinsatzmittel" #zitat
+Hubschraubereinsatz <https://www.youtube.com/watch?v=2pAr1IMiP6A> #youtube #video
+Lizenz zum Töten:Die Drohnen-Pläne der Bundesregierung <http://www.wdr.de/tv/monitor/sendungen/2012/0927/drohnen.php5> #youtube #video
+US-Studie: gravierende Probleme durch Drohnenangriffe <http://daserste.ndr.de/panorama/aktuell/drohnen121.html>
+
+00:59:00 Musik AXMusique - Hardline <http://www.brennnessel.pl/archive/> #chapter
+
+01:05:00 Fortsetzung Drohnen #chapter
+Warum heißen Drohnen Drohnen?
+Erste Drohne hieß "Bee", deren Nachfolger "Firebee"
+Offizielle militärische Bezeichnung lautet "Unmaned Aerial (Combat) Vehicle" <http://de.wikipedia.org/wiki/Unbemanntes_Luftfahrzeug> #wikilink
+DARPA <http://de.wikipedia.org/wiki/Defense_Advanced_Research_Projects_Agency> #wikilink
+DARPA schrieb Challenge aus, zweibeinige Roboter zu programmieren, einen bestimmte Hindernissparcour zu überwinden <http://de.wikipedia.org/wiki/DARPA_Grand_Challenge> #wikilink
+DARPA Challenge zu Autonomen Fahren
+Boston Dynamics
+- BigDog <http://www.bostondynamics.com/robot_bigdog.html> #homepage
+- Cheetah <http://www.bostondynamics.com/robot_cheetah.html>
+Terminator <http://de.wikipedia.org/wiki/Terminator_(Film)> #wikilink
+Roboterfussball
+Search & Rescue
+"Unterschied zwischen 'Search & Rescue' und 'Search & Destroy' ist marginal" #zitat
+"Hackerparagraph" <http://de.wikipedia.org/wiki/Hackerparagraf> #wikilink
+erdgeist sagt, die Wahrscheinlichkeit, dass Menschenerkennungsalgorithmen missbraucht werden durch das Militär ist bei nahezu 100%
+
+"Double Tap" <http://en.wikipedia.org/wiki/Double_tap> #wikilink
+Rule of Engagement: Wer männlich, über 14 ist, und sich an einem Angriffsziel befindet, ist Gegner.
+Pakistan, Waziristan <http://de.wikipedia.org/wiki/Waziristan> #wikilink
+
+01:21:00 Die Drohne - Anonymisierung einer Waffe? #chapter
+"Leasing-Drohnen"
+Frank geht davon aus, dass die zu erwartende Leistungssteigerung von kleinen Drohnen (Quadrocopter) erstmal nicht zu neuen Formen von Terrorismus führen wird.
+Drohnenarmee ist ein Machtmulitplikator
+
+01:29:30 Fritz Info mit Nachrichten, Wetter und Verkehr #chapter
+
+01:34:00 Konsequenzen #chapter
+Seltene Erden <http://de.wikipedia.org/wiki/Metalle_der_Seltenen_Erden>
+Mali <http://de.wikipedia.org/wiki/Mali> #wikilink
+Pläne für Mali <http://www.tagesschau.de/inland/mali222.html>
+Grenzsicherung
+Selbstschussanlage <http://de.wikipedia.org/wiki/Selbstschussanlage> #wikilink
+Gazastreifen <http://de.wikipedia.org/wiki/Gazastreifen> #wikilink
+Mobile, halbautomtische Grenzposten
+Diskussion über ethische Entscheidungen von autonomen Computern über den Tod.
+Angreifbarkeit von Drohnen, Drohnenhacking
+- Drohnenkontrollrechner der US-Armee mit Malware infiziert <http://www.wired.com/dangerroom/2011/10/virus-hits-drone-fleet/>
+- SkyGrabber (Funkverkerhr abfangen)
+Zukunft:
+- Drohnen kämpfen gegen Drohnen
+- Drohnen kontrollieren Menschen am Boden
+
+Stanislaw Lem: Der Flop <http://de.wikipedia.org/wiki/Stanisław_Lem> #wikilink
+
+Infoquellen:
+- Presse,
+- Global Security <http://global-security.org/en/>
+- Global Initiative Against Robotic Arms
+
+Werbung für den CCC in Hamburg (CCH) von 27. bis zum 30.12
+events.ccc.de <events.ccc.de>
+"Not My Department" (Wernher von Braun Zitat) <http://de.wikipedia.org/wiki/Wernher_von_Braun> #wikilink
+
+01:56:30 Ende #chapter
+Musik: Tracky Birthday - Websiiite <http://www.trackybirthday.com>
+
+Sendungsende: 00:01:53 Uhr
+

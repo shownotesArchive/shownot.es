@@ -1,0 +1,85 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs "Ich seh’ in 3D"
+Vom: 27.05.2008
+Download: <mobilemacs.de/> http://mobilemacs.de/2008/05/mm005-ich-seh-in-3d.html
+Timer: <http://epirat.de/timer/>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/5
+
+Zusammengetragen von: hanz @kaeffchen_heinz, Johannes @johannes_k
+
+00:00:00 Intro und Begrüßung #chapter
+
+00:01:00 Cinemizer Brille #chapter (?)
+Cinemizer Brille <http://cinemizer.zeiss.com/cinemizer-oled/en_de/home.html> #Homepage
+Extrabreit - 3-D <http://itunes.apple.com/de/album/zuruck-aus-der-zukunft/id79438362?i=79438396> #link
+Denis mit Cinemizer Brille <mobilemacs.de/files/2011/08/denis-150.jpg> #Photo
+DFU Modus für iPhone <http://iszene.com/thread-35137.html> #link
+Blade Runner <http://de.wikipedia.org/wiki/Blade_Runner> #wikilink
+Hermann Hesse <http://de.wikipedia.org/wiki/Hermann_Hesse> #wikilink
+Terminator <http://de.wikipedia.org/wiki/Terminator_(Film)> #wikilink
+C 64 <http://de.wikipedia.org/wiki/C_64> #wikilink
+Apple 2 <http://de.wikipedia.org/wiki/Apple_2> #wikilink
+
+00:20:37 Titelprobleme #chapter
+Polling Plugin <http://wordpress.org/extend/plugins/wp-polls/> #link
+
+00:22:30 OS X Server #chapter
+Macmini <http://www.apple.com/de/macmini/> #homepage
+Apple Display <http://store.apple.com/de/product/MC914ZM/B/apple-thunderbolt-display-%2827-flachbildschirm%29?fnode=53> #homepage
+Beamer <http://de.wikipedia.org/wiki/Beamer> #wikilink
+OS X Server <http://de.wikipedia.org/wiki/OS_X_Server> #wikilink
+iCalender <http://de.wikipedia.org/wiki/ICalendar> #wikilink
+Podcast Wissen macht Ah! <http://www.wdr.de/tv/wissenmachtah/> #podcast
+NAT <http://de.wikipedia.org/wiki/Network_Address_Translation> #wikilink
+TimeCapsule <http://www.apple.com/de/timecapsule/> #homepage
+
+00:36:14 IPv6 und IPsec auf dem Mac #chapter
+IPv6 <http://de.wikipedia.org/wiki/Ipv6> #wikilink
+IPsec <http://de.wikipedia.org/wiki/IPsec> #wikilink
+OS X unterstützt seit 10.2 IPv6 <http://de.wikipedia.org/wiki/IPv6#Betriebssysteme> #wikilink
+Kame.net <http://www.kame.net/> #link
+Google und IPv6 <http://www.google.com/intl/de/ipv6/> #link
+Google IPv6-Test <http://ipv6test.google.com/> #link
+Airport Extrem Firewall <http://store.apple.com/de/product/MD031/airport-extreme-basisstation> #homepage
+Ping <http://de.wikipedia.org/wiki/Ping_%28Daten%C3%BCbertragung%29> #wikilink
+Safari <http://de.wikipedia.org/wiki/Safari_%28Browser%29> #wikilink
+Bonjour <http://de.wikipedia.org/wiki/Bonjour_%28Apple%29> #wikilink
+
+00:56:25 Tims Wette und iPhone-Vorhersagen #chapter
+Verkaufszahlen vom iPhone 2008 <http://de.wikipedia.org/wiki/Apple_iPhone#Verkaufszahlen> #wikilink
+Nokia <http://de.wikipedia.org/wiki/Nokia> #wikilink
+Marimba <http://www.youtube.com/watch?v=C982MraCl9Q> #link
+Apple Maus <http://en.wikipedia.org/wiki/Apple_Pro_Mouse> #wikilink
+Eventuell GPS im iPhone und vielleicht kommt A-GPS zum Einsatz. 
+- GPS <http://de.wikipedia.org/wiki/Global_Positioning_System> #wikilink
+- A-GPS <http://de.wikipedia.org/wiki/Assisted_Global_Positioning_System> #wikilink
+OS 10.5.3 <http://de.wikipedia.org/wiki/Mac_OS_X_10.5> #wikilink
+Delicious Libary <http://de.wikipedia.org/wiki/Delicious_Library> #wikilink
+Darwin Streaming Server <http://wiki.ubuntuusers.de/Darwin_Streaming_Server> #link
+
+01:22:10 iChat, Adium, Jabber #chapter
+iChat <http://de.wikipedia.org/wiki/IChat> #wikilink
+Adium <http://de.wikipedia.org/wiki/Adium> #wikilink
+
+01:28:00 OpenSSL-Fuckup des Debian-Projektes #chapter
+Debian <http://de.wikipedia.org/wiki/Debian> #wikilink
+OpenSSL <http://de.wikipedia.org/wiki/OpenSSL> #wikilink
+SSH <http://de.wikipedia.org/wiki/Secure_Shell> #wikilink
+
+01:41:00 E-Mail und Zertifikate #chapter
+GPG <http://de.wikipedia.org/wiki/GNU_Privacy_Guard> #wikilink
+GPGMail <https://www.gpgtools.org/gpgmail/index.html> #link
+Sen:te <http://www.sente.ch/?p=346&lang=en> #homepage
+CACert <http://www.cacert.org/> #homepage
+Zertifikate in Mail und Mail.app <http://en.wikipedia.org/wiki/Mail_%28application%29> #wikilink
+OS 10.4 Tiger <http://de.wikipedia.org/wiki/Mac_OS_X_10.4> #wikilink
+OS 10.5 Leopard <http://de.wikipedia.org/wiki/Mac_OS_X_10.5> #wikilink
+
+01:57:18 Verabschiedung und Ausklang #chapter
+Flashspeicher <http://de.wikipedia.org/wiki/Flashspeicher> #wikilink
+SSD <http://de.wikipedia.org/wiki/Solid-State-Drive> #wikilink
+

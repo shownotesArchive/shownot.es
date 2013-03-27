@@ -1,0 +1,83 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 002 Pwnage
+Vom: 17.04.2008
+Download: <http://mobilemacs.de/2008/04/mm002-pwnage-tarife-zfs-64-bit.html>
+Timer: <http://epirat.de/timer/>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/2>
+
+
+Zusammengetragen von: @johannes_k, @evitabley
+
+00:00:00 Intro und Begrüßung
+Jingle von Max Passion
+SpiderPig Simpsons <https://www.youtube.com/watch?v=714-Ioa4XQw> #youtube
+
+00:03:30 Pwnage #chapter
+Jailbreak für iPhone mit ZiPhone <http://download.ziphone.org/> #homepage
+für Version 2.0 des iPhone 2G #zeitorientierung
+Pwnage ist vom Defiphoneteam <http://blog.iphone-dev.org/> #link
+
+00:12:00 iPhone 2G und Stores (aus Amerika) #chapter
+Preis 270€ aus Amerika #orientierung
+Gravisstores bieten kleine T-Punkt-Stände im Laden <http://www.gravis.de/> #link
+1. Applestore Deutschlands eröffnet in München <http://www.apple.com/de/retail/rosenstrasse/> #link
+"Apple holt sich UMTS-Lizenz"-Gerücht <http://appleinsider.com/articles/07/09/08/apple_inks_iphone_licensing_deal_covering_3g_technologies.html> #link
+
+00:30:00 Macbook Air #chapter
+Voraussage 15" MacBook Air #glaskugel
+USB-Hub schaltet gegebenenfalls auf die niedrigere Version (von 2.0 auf 1.1) <http://en.wikipedia.org/wiki/USB_hub#Speed> #wikilink
+
+00:35:50 iTunes #chapter
+iTunes 7.6.2 benötigt eine Überarbeitung. <http://en.wikipedia.org/wiki/ITunes_version_history> #wikilink
+DRM <http://de.wikipedia.org/wiki/Digitale_Rechteverwaltung> #wikilink
+Vergleich iTunes vs. Amazon #unterchapter
+AppleTV startet <http://www.apple.com/de/appletv/> #link
+Fernsehserien im deutschen iTunes <http://www.apple.com/de/itunes/whats-on/#tvshows>
+Mario Kart für die Wii <http://www.gamesundso.de/2008-04-04/games-und-so-39-mario-kart/> #link
+
+00:45:00 Republica und Asus Eee PC #chapter
+Republica 2008 Blog Tim
+- Teil 1 <http://tim.geekheim.de/2008/04/06/republica-08/> #link
+- Teil 2 <http://tim.geekheim.de/2008/04/06/republica-08-ii/> #link
+Asus Eee PC 300€ <http://de.wikipedia.org/wiki/ASUS_Eee_PC> #wikilink
+Alternative: Xubuntu <http://xubuntu.org/> #homepage
+
+00:57:20 ZFS #chapter
+CRE 049 ZFS mit Denis <http://cre.fm/cre049> #link
+Das neue Filesystem. <http://de.wikipedia.org/wiki/ZFS_(Dateisystem)> #wikilink
+ZFS in Mac OS X 10.5 Leopard <http://arstechnica.com/apple/2007/10/mac-os-x-10-5/7/> #link
+ZFS Snapshots im Vergleich mit Time Machine #unterchapter
+Time Machine bei Ars Technica <http://arstechnica.com/apple/2007/10/mac-os-x-10-5/7/> #link
+aktuell ist Mac Os X 10.5 Leopard #zeitorientierung
+FreeBSD 7 <http://www.freebsd.org/releases/7.0R/announce.html> #link
+fseventer <http://www.fernlightning.com/doku.php?id=software:fseventer:start> #link
+
+01:26:00 MacFuse und Amazon S3#chapter
+MacFuse Engine <http://code.google.com/p/macfuse/> #link
+MacFusion Programm <http://macfusionapp.org/> #link
+Amazon S3 Fuse <http://code.google.com/p/s3fs/wiki/FuseOverAmazon> #link
+
+01:32:30 64-Bit #chapter
+Adobe Ankündigung Creative Suite Nummer 4 in 64-Bit <http://www.adobe.com/de/products/creativesuite.html> #link
+Carbon <http://de.wikipedia.org/wiki/Carbon_(Apple)> #wikilink
+Cocoa <http://de.wikipedia.org/wiki/Cocoa> #wikilink
+Quickdraw stirbt <http://de.wikipedia.org/wiki/QuickDraw> #wikilink
+Photoshop <http://www.adobe.com/de/products/photoshop.html> #link
+FinalCutPro <http://www.apple.com/de/finalcutpro/> #link
+
+01:42:31 Ausklang und Verabschiedung #chapter
+Kritik an der c't <http://www.heise.de/ct/> #link
+Objective C <http://de.wikipedia.org/wiki/Objective-C> #wikilink
+
+
+
+
+
+
+
+
+

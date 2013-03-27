@@ -1,0 +1,203 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Shownotes zu MobileMacs 97
+Vom 03.10.2012
+Stream:<http://streams.xenim.de/mobile_macs.mp3>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fmm097&time=18%3A10%3A25>
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Roddi @roddi, Denis @denis2342 und Clemens @csch42, Dom @monkeydom
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/96>
+
+Sendungsbeginn: 18:10:25 Uhr
+
+Zusammengetragen von: evita @evitabley, johannes_k @johannes_k , hanz @kaeffchen_heinz , Quimoniz @quimoniz , @Eragos , 
+
+
+00:00:00 Previously on Mobile Macs <http://soundcloud.com/david1701/previously-on-mobilemacs-096> #chapter
+Tim ist IT-Experte
+Tuscheln ist ab heute verboten #Spoiler
+Alles ist spannender als Kalender
+
+00:03:48 Begrüßung #chapter
+Tim hat sein iPhone früher bekommen #Spoiler
+Gastvorstellung Coding Monkey Dom @monkeydom #twitter
+
+
+00:05:00 Blitzgeräte #chapter
+Micro-USB zu Lightning <http://store.apple.com/de/product/MD820ZM/A/lightning-auf-micro-usb-adapter?fnode=48> #shopping
+19€ Strafgebühr
+Der Lightningadapter ist gut #Spoiler
+Dom war einer der ersten der ein iPhone bekam #Spoiler
+Bekam aber keine Sim-Karte #Spoiler
+Telefone müssen immer mit SIM-Karte freigeschaltet werden #Spoiler
+Alle iOS Geräte müssen bei Apple ebenfalls freigeschaltet werden
+
+00:00:00 iPhone 5 <http://www.apple.com/de/iphone/> #chapter
+Tim ist mit dem iPhone 5 sehr zufrieden. #Spoiler
+Es ist signifikant leichter und liegt angenehm in der Hand. #Spoiler
+Die Farben sind "irre" im Vergleich zum iPhone 4. #Spoiler
+Tim vergleicht mit dem iPhone 4
+Die Automatische Helligkeit taugt nichts #Spoiler
+Tim hätte es gerne noch dunkler
+Größerer Bildschirm ist ein Gewinn, man muss weniger scrollen.
+Filme lassen sich, wegen 16:9 besser gucken.
+Bilder lassen sich leichter machen, weil die Kamera wesentlich schneller reagiert #Spoiler
+Gefühlt hält der Akku länger #Spoiler
+
+
+00:22:45 Apple Maps #chapter
+Maps-Gate <http://www.macrumors.com/2012/10/03/apple-turning-to-select-retail-store-employees-to-help-improve-maps-for-ios-6/> #article
+Keine dynamische Routenänderung #Spoiler
+Auf dem iPad 2 funktioniert Apple Maps besser #Spoiler
+Fly-Over schlägt GoogleEarth #Spoiler
+Google Maps hat auch eine Fly-Over-Ansicht 
+Es gibt noch viele Probleme mit Fly-Over #Spoiler
+Die Bedienung der Routing GUI könnte noch intuitiver sein #Spoiler
+Nachts wird häufig der Tiergartentunnel geschlossen Apple Maps zeigt das nicht an #Spoiler
+Vollwertige Navigations-Apps haben noch einige Vorteile (Turn-By-Turn, Geschwindigkeitsanzeiten,...) #Spoiler
+Navigon App updaten ist katastrophal #Spoiler
+Die Navigon App kennt kein ß aber Umlaute #Spoiler
+Handschriftenerkennung vom Newton #Spoiler
+Benutzer können beim Verbessern helfen. 
+In Amerika gibt es keinen richtigen öffentlichen Personen-Nahverkehr
+Das Kartenmaterial von Openstreetmap <http://www.openstreetmap.de/> ist für Bahnlinien besser #homepage
+Fazit: Die App ist ok, hat aber noch einige Probleme
+Yelp <http://www.y!elp.de/> #homepage
+Qype <http://www.qype.co.uk/> #homepage
+Fly-Over ist ähnlich wie Streetview aber nicht so nervig #Spoiler
+
+01:05:00 Vermischtes #chapter
+Hukl berichtet über T-Mobile Support <http://twitter.com/arnaudfeld> #twitter
+News zum Applestore in Berlin #Spoiler
+Applestore soll relativ diskretes Aussehen erhalten. #Spoiler
+Kamera Lowlightmodus #Spoiler
+Panoramafeature #Spoiler
+Kickstarter: 3D-Printer <http://www.kickstarter.com/projects/formlabs/form-1-an-affordable-professional-3d-printer> #shopping
+AppleTV-Update, noch Raum nach oben #Spoiler
+Tim möchte AppleTV als Präsentationsgerät verwenden. #Spoiler
+
+01:22:40 Mac OS Server #chapter
+Hukl testete Mac OS X.8 Server #Spoiler
+Eine App, die hübscher ist, als die vorherigen Server-Tools und dennoch so ist wie zuvor. #Spoiler
+Fazit: Kein gutes Server-OS. #Spoiler
+
+01:30:30 iOS6 #chapter
+App-Store in iOS6 Verbesserungen/Veränderungen
+Updatefunktion ist schöner, die Suche ist furchtbar #Spoiler
+Neuerung: 3 Sicherheitsfragen und alternative E-Mailadresse
+"Wie heisst deine Lieblingsfarbe?" - "Blau.. Nein Gelb!" Zitat aus Monty Pythons Ritter der Kokosnuss #quote
+Tim hatte heute einen Kernelpanic #spoiler
+iOS 6 hat jetzt auf dem iPad eine Uhr aber noch keinen Taschenrechner
+
+01:41:30 Androidbashing #chapter
+Bug: Geräte lassen sich über eine URL zurücksetzen
+- <https://play.google.com/store/apps/details?id=com.voss.notelurl>
+- <http://stadt-bremerhaven.de/samsung-smartphones-komplettloeschung-aus-der-ferne-fuer-jedermann/>
+Android stolpert über die Update-Politik
+Apps können SMS lesen
+Vor dem iPhone gab es keine richtigen Software-Updates
+Probleme bei Updaten unter Windows
+Tim fordert Updates als Standard für Geräte
+Vielen Menschen ist es egal/unbekannt, was sie für ein Betriebsystem haben
+Menschen, die QR-Codes abfotografieren <http://picturesofpeoplescanningqrcodes.tumblr.com>
+
+02:00:00 Glaskugeling iPad mini #chapter
+Hukls Chef hatte als erster ein iPhone5 #Spoiler
+Jemand wollte Apple verklagen weil sein Display kaputt war #Spoiler <http://appleinsider.com/articles/12/09/07/court_says_iphone_4_owners_cant_sue_apple_over_broken_glass>
+Apple hat keine Geheimnisse mehr <http://appleinsider.com/articles/12/10/02/purported-ipad-mini-parts-show-front-back-panels-lcd-nano-sim-tray>
+iPad mini 
+- <http://www.imore.com/regarding-ipad-25-and-ipad-26>
+- <http://www.chip.de/news/iPad-mini-Produktion-angeblich-schon-gestartet_54874707.html> 
+Wann wird das iPad mini kommen? #spoiler
+Apple Geräte werden das ganze Jahr über gekauft #spoiler
+Das kleine iPad könnte für den education-Markt sein
+
+02:16:13 App.net <http://www.app.net> #chapter
+Benutzerzuwachs ist beständig aber auch nicht explosionsartig #Spoiler
+App.net ist noch nicht tod #Spoiler
+Developerinsentiveprogram: Ein gewisser Betrag wird für third-party-apps ausgeschüttet?
+Benutzer können den Verteilungsschlüssel der Investitionen beeinflussen #spoiler
+Jahresbeiträge wurden gesenkt #spoiler
+Spamer gehen nicht zu App.net #spoiler
+IFTTT 
+- <https://ifttt.com/> #homepage
+Netbot 
+- <http://tapbots.com/software/netbot/>
+Tweetbot für App.net #homepage
+clients: 
+- felix <http://tigerbears.com/felix/> #homepage
+- river <http://www.appriver.com/> #homepage
+- app.net-Apps <http://blog.app.net/blog/2012/10/03/app-net-app-update/> #homepage
+- appbot <https://alpha.app.net/hashtags/AppBot>
+App.net muss sich noch features überlegen um überleben zu können #spoiler
+App.net Apps kosten zwischen 1-4$
+
+02:43:00 Mumble #chapter
+Mumble ist das neue Teamspeak
+<http://de.wikipedia.org/wiki/Mumble> #wikipedia
+Schon in der beta gibt es Opus #spoiler
+Opus
+- <http://de.wikipedia.org/wiki/Opus_(Audioformat)> #wikipedia
+Skype und Auphonic wollen auf Opus wechseln/integrieren #spoiler
+- Auphonic <https://auphonic.com/> #homepage
+Apple wird Opus nicht so schnell unterstützen #spoiler
+Denis streamt versehentlich per Mumble #spoiler
+Tim würde sich über einen Zip-client mit Opus-Support freuen #spoiler
+
+02:55:00 Apps #chapter
+- Tiny Wings <http://itunes.apple.com/de/app/tiny-wings/id417817520?mt=8> #shopping
+- Skisafari  <http://itunes.apple.com/de/app/ski-safari/id503092422?mt=8> #shopping
+- Angry Birds <http://itunes.apple.com/de/app/angry-birds/id343200656?mt=8> #shopping
+- BadPiggies <http://itunes.apple.com/de/app/bad-piggies/id533451786?mt=8> #shopping
+- Workflowy <http://itunes.apple.com/us/app/workflowy/id551139514?ls=1&mt=8> #shopping
+- Things <http://itunes.apple.com/de/app/things/id284971781?mt=8> #shopping
+- Trello <http://itunes.apple.com/us/app/trello/id461504587> #shopping
+
+(Dom verabschiedet sich)
+
+03:10:00  Temperaturregelungen und Bier #chapter
+- Roddis Blog <http://winkenschürfel.de>
+Roddi hat auch mal "Bier gebraut" #spoiler
+Das Dosieren des Zuckers und der Temperatur ist schwierig #spoiler
+- CRE194 Bier <http://cre.fm/cre194> #Podcast
+Roddi erzählt vom Bier brauen
+
+GuildWars2 <https://buy.guildwars2.com/de/>
+Portal 2 <http://www.thinkwithportals.com/>
+- i wish i had a portal gun <http://www.youtube.com/watch?v=NggUSbgRUhc>
+- fanvideo <http://www.moviepilot.de/news/portal-vom-spiel-zum-fanvideo-112034>
+- Mit der Portal-Wumme durch Haus und Garten <http://de.engadget.com/2012/06/13/video-mit-der-portal-wumme-durch-haus-und-garten/>
+Youtube App
+Tims iPhone war fast kaputt #spoiler
+
+03:32:00 Gitarrennews #chapter
+Buchempfehlung: Electronics for Guitarists 
+- <http://www.amazon.de/Electronics-Guitarists-Denton-J-Dailey/dp/1461440866/ref=dp_ob_title_bk> #shopping
+Tunertip von Roddi: 
+- Polytune <http://www.tcelectronic.com/polytune.asp> #homepage
+- App <http://itunes.apple.com/de/app/polytune/id364009203?mt=8> #shopping
+Gibson Robot
+- <http://www.gibson.com/RobotGuitar/>
+
+
+
+03:39:00 outro #chapter
+Christan Ehring <http://www.ndr.de/fernsehen/sendungen/extra_3/videos/extra4463.html> #video
+
+
+
+
+
+Titelvorschläge:
+Ich mach mir die Welt, wie sie mir gefällt!
+Der IT-Experte
+Antenna-Denis
+Die Wolke braucht Pause
+Mein Gefühl täuscht mich selten
+Ich hatte ein Nokia-Telefon
+mach den Affen weg
+Zieht Fäden bis in den 4. Stock
+
+
+

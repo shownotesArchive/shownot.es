@@ -1,0 +1,226 @@
+Jobscast #010 zur Rettung des Weltkulturerbes
+Jobscast mit Daniel Autenrieth (@dautenrieth) und Ralf Stockmann (@rstockm)
+Thema: Ralf Stockmann ist stellvertretender Abteilungsleiter in der Forschung & Entwicklung an der Niedersächsischen Staats- und Universitätsbibliothek (SUB) Götingen. <http://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/ralf-stockmann/>
+Seite zur Sendung:
+http://www.jobscast.de/akademische-berufe/%20jc010weltkulturerbe
+Zusammengeschrieben von: insider, Quimoniz
+
+Stream:
+<http://stream2.alexbrueckel.de:8000/jobscast.mp3>
+
+Zusammengetragen von: insider
+
+Shownotes
+
+ * Persönlicher Werdegang
+   * Abitur 1992 (LK Erdkunde, Mathematik)
+   * Studium in Göttingen
+     * <http://de.wikipedia.org/wiki/Sozialwissenschaften>
+     * Diplom-Sozialwirt
+       * http://de.wikipedia.org/wiki/Diplom-Sozialwirt
+         * 1. Fach: Politikwissenschaft (alternativ Soziologie)
+         * 2. Fach: Medienkommunikationswissenschaft (früher Publizistik und Kommunkationswissenschaft)
+         * 3. Fach: Volkswirtschaftslehre (alternativ Betriebswirtschaftslehre)
+         * 4. Fach: Öffentliches Recht mit Spezialisierung auf Völkerrecht
+     * Erläuterung der Medien- und Kommuniaktionswissenschaft
+       * http://de.wikipedia.org/wiki/Medienwissenschaft
+     * "Anleitung zum Unglücklichsein" von Paul Watzlawick
+       * http://de.wikipedia.org/wiki/Anleitung_zum_Ungl%C3%BCcklichsein
+     * Erfindung der e-learning Plattform Stud.IP (2002)
+       * http://www.studip.de/
+       * http://de.slideshare.net/rstockm/keynote-studip-zukunftsworkshop
+         * Anm.: in einer anderen Welt hätte es facebook werden können ;-)
+     * Zwischenprüfung
+     * Studentische Hilfskraft
+       * http://de.wikipedia.org/wiki/Studentische_Hilfskraft#Studentische_Hilfskr.C3.A4fte
+     * Nebenjobs (während des Studiums)
+       * Comtech <http://de.wikipedia.org/wiki/Comtech_Computersysteme>
+       * Uni-Kino
+   * Examen 1997
+     * Wissenschaftlicher Mitarbeiter
+       * http://de.wikipedia.org/wiki/Wissenschaftlicher_Mitarbeiter
+     * Zentrum für Interdisziplinäre Medienwissenschaft (ZiM)
+     * SUB Göttingen
+       * <http://www.sub.uni-goettingen.de/>
+ * 00:25 - Leben in Göttingen
+   * Autonome Szene
+     * http://de.wikipedia.org/wiki/Antifa
+ * 00:28 - Wieso Retter des Weltkulturerbes?
+   * ZiM
+   * GDZ Göttinger Digitalisierungszentrum
+       * http://gdz.sub.uni-goettingen.de/
+     * Hauptaufgaben des GDZ
+       * Digitalisierung gemeinfreier Inhalte
+         * http://de.wikipedia.org/wiki/Freie_Inhalte#Gemeinfreie_Inhalte
+     * Vergleich mit dem anfänglichen opt-out Modell der Google Book Search
+       * http://de.wikipedia.org/wiki/Google_Book_Search
+     * Problemlösungen bieten für
+       * Büchersterben in bestimmten Disziplinen (daher Retter des Weltkulturerbes)
+         * bspw. eines mathematischen Beweises von Carl Friedrich Gauß
+           * http://de.wikipedia.org/wiki/Carl_Friedrich_Gau%C3%9F
+         * Erstbeschreibungen und -nennung in der Zoologie (taxonomische Bezeichnung)
+           * http://de.wikipedia.org/wiki/Taxonomie_der_Lebewesen
+         * Germanistik
+           * http://de.wikipedia.org/wiki/Germanistik
+       * Schonung der Buchsubstanz durch Digitalisierung
+       * Aufbau einer Weltbibliothek mit weltweitem Zugriff übers Internet
+     * Finanzierung
+       * Drittmittel, der Deutschen Forschungsgemeinschaft
+         * http://de.wikipedia.org/wiki/Drittmittel
+       * Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS) 
+         * http://www.dfg.de/foerderung/programme/infrastruktur/lis/
+         * http://www.dfg.de/foerderung/antragstellung/index.html
+     * Bücher-Scanstation und Roboter
+       * http://gdz.sub.uni-goettingen.de/gdz/scantechnik/
+       * http://www.youtube.com/watch?v=Dx8NJE96Tuc
+ * 00:44 - Aufgabenbereich während der Leitung des GDZ (bis 2010)
+   * Workflow-Entwicklung in der Buchdigitalisierung
+     * http://de.wikipedia.org/wiki/Workflow-Management
+     * http://de.slideshare.net/rstockm/workfloworchestrierung-massendigitalisierung
+   * Ausheben der Bücher (Bestimmung der Reihenfolge)
+   * Auswahl der Erfassung von Metadaten
+     * http://de.wikipedia.org/wiki/Metadaten
+   * Volltexterkennung
+     * http://de.wikipedia.org/wiki/Texterkennung
+   * Entwicklung der Open-Source Software Goobi zur Workflow-Modellierung bei der Digitalisierung
+     *  http://www.goobi.org/goobi/
+   * Programmiererfahrung
+     * Basic am C64 <http://www.c64-wiki.com/index.php/BASIC>
+     * 680x0er Assembler am Amiga <http://de.wikipedia.org/wiki/Assemblersprache#Hello_World_in_Assemblersprache_.28MIPS-Architektur.29>
+     * Turbo Pascal am 286er <http://en.wikipedia.org/wiki/Turbo_Pascal>
+     * später PAP, MySQL <http://en.wikipedia.org/wiki/MySQL>
+     * Objektorientierte Programmierung <http://de.wikipedia.org/wiki/Objektorientierte_Programmierung>
+ * 00:48 - aktueller Aufgabenbereich nach Strukturreform der Bibliothek (seit 2010)
+   * Weg von der Hardware (Buchscanner), hin in den Bereich Forschung & Entwicklung
+   * Verantwortlich für 35 Mitarbeiter
+   * Konkurrenz zu Google
+     * http://www.spiegel.de/netzwelt/tech/buecher-digitalisierung-was-google-falsch-macht-a-416922.html
+   * Sicherung des zeitgemäßen Fortbestehens (Prozessbegleitung) der Bibliothek für die nächsten Jahrzehnte
+     * Langzeitarchivierung <http://de.wikipedia.org/wiki/Langzeitarchivierung>
+       * Erhaltung der Bitstreams auf unterschiedlichsten Datenträgern
+         * http://de.wikipedia.org/wiki/Bitstrom
+       * Dateiformate und deren Iterationen
+         * http://de.wikipedia.org/wiki/JPEG
+         * http://de.wikipedia.org/wiki/PDF
+         * http://de.wikipedia.org/wiki/Docx
+       * Erwähnenswert, jedoch unerwähnt im Gespräch: Wikigeeks WG034: Party mit BackUp-Katze; Bücher zu DNA [1:29:33]
+         * http://wikigeeks.de/201208/wg034-party-mit-backup-katze/
+       * Einheitliche Archivierung von Forschungsdaten
+         * http://de.wikipedia.org/wiki/Linked_Open_Data
+       * Datenvisualisierung
+         * http://de.wikipedia.org/wiki/Visualisierung
+   * Größte F&E Abteilung Deutschlands; andere Bibliotheken die auf selbem Level operieren
+     * Königsbibliothek Holland <http://www.kb.nl/index-en.html>
+     * ÖNB Wien <http://www.onb.ac.at/>
+     * British Library <http://www.bl.uk/>
+     * uvm.
+   * Ausbildung der Mitarbeiter
+     * Informatiker
+     * Geisteswissenschaftler
+     * Digital Humanities <http://de.wikipedia.org/wiki/Digital_Humanities>
+       * DH2012 Conference <http://www.dh2012.uni-hamburg.de>
+       * Datamining in gesammelten Schriften Göthes oder Schillers im Volltext
+         * <http://de.wikipedia.org/wiki/Datamining>
+         * http://de.slideshare.net/rstockm/impact-cb4-stockmann
+       * Zusammenarbeit mit Projekten wie
+         * <http://de.wikipedia.org/wiki/Wikisource>
+         * <http://de.wikipedia.org/wiki/Project_Gutenberg>
+         * Anm.: Es wäre Zeit ein historisches GuttenPlag zur Zitationsanalyse bekannter Geistesgrößen aufzusetzen, um festzustellen, wer von wem abgeschrieben hat (gibt es schließlich nicht erst seit Guttenberg)
+           *  http://de.guttenplag.wikia.com/wiki/GuttenPlag_Wiki
+ * 01:02 - Anwendung auf aktuelle Forschungsdaten
+   * Bildähnlichkeitsverfahren für die Biologie
+   * 29/35 Drittmittelfinanzierung von 
+     * EU-Forschungsaufträge
+     * DFG <http://de.wikipedia.org/wiki/Deutsche_Forschungsgemeinschaft>
+     * BMBF <http://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Bildung_und_Forschung>
+     * Akademie der Wissenschaften <http://de.wikipedia.org/wiki/Akademie_der_Wissenschaften>
+ * 01:10 - Tagesablauf des RS
+   * Schriftliches/Verwaltung
+   * Personal Administration
+   * Projekt Laufzeitberechnung
+   * Verzicht auf Ausschreibung formulieren
+   * Ausschreibung formulieren und durchführen
+   * Konzeption
+   * GUI
+     * http://de.slideshare.net/rstockm/guimockups-in-der-softwareentwicklung
+     * http://de.slideshare.net/rstockm/grundlagen-digitaler-mediengestaltung
+   * Usability Evaluierung <http://de.wikipedia.org/wiki/Heuristische_Evaluierung>
+   * "Feuerlöschen"
+   * Personaler <http://de.wikipedia.org/wiki/Personalwesen>
+     * Testen von Spontanität mit bspw. Rollenspiel
+     * Assessement-Center <http://de.wikipedia.org/wiki/Assessment-Center>
+   * Service-Dienstleistung <http://www.handelswissen.de/data/themen/Marktpositionierung/Sortiment/Service_Dienstleistung/index.php>
+ * 01:23 Digitalisierungs-Hürden
+   * Digi-Zeitschriften
+     * http://www.digizeitschriften.de/
+   * Elsevier
+     * http://www.elsevier.com/
+   * Das dunkle 20te Jahrhundert (nicht digitalisierte Werke)
+     * http://de.wikipedia.org/wiki/Dunkle_Jahrhunderte
+   * Körbe des Urheberechtsgesetz
+     * http://de.wikipedia.org/wiki/Urheberrechtsgesetz_%28Deutschland%29#Urheberrechtsreform
+   * Betamax (analoge Audio- und Videoaufzeichnung auf Magnetband)
+     * http://de.wikipedia.org/wiki/Betamax
+   * Depublikation nach 7 Tagen bei den ÖR
+     * http://de.wikipedia.org/wiki/Depublizieren
+   * Deutsche Digitale Bibliothek
+     * http://www.deutsche-digitale-bibliothek.de/
+     * http://de.slideshare.net/rstockm/die-ddb-als-offene-plattform-weiterentwicklungen-und-anknpfungspunkte
+   * Fair-Use
+     * http://de.wikipedia.org/wiki/Fair_Use
+   * Europeana 4D
+     * http://wp1187670.wp212.webpack.hosteurope.de/e4d/
+     * http://www.europeana.eu/portal/
+   * XML
+     * http://de.wikipedia.org/wiki/Extensible_Markup_Language
+   * DBpedia
+     * http://de.wikipedia.org/wiki/DBpedia
+   * Usability-Test
+     * http://de.wikipedia.org/wiki/Usability-Test
+ * 01:36 - Quo vadis, User-Interface?
+   * Komplexitäts-Hypothese von RS
+     * =)
+   * Augmented-Reality 
+     * http://de.wikipedia.org/wiki/Augmented_Reality
+   * Google Glass
+     * http://de.wikipedia.org/wiki/Google_Project_Glass
+   * Brain-Computer-Interface
+     * http://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
+   * Head-up-Display
+     * http://de.wikipedia.org/wiki/Head-up-Display
+   * Weiterentwicklte DLP-Projektoren
+     * http://en.wikipedia.org/wiki/Digital_Light_Processing
+     * http://en.wikipedia.org/wiki/Micro_Projector
+   * Fraunhofer
+     * http://de.wikipedia.org/wiki/Fraunhofer-Gesellschaft
+   * Eurocats - Surfen Multimedia - Deutsche Vorentscheidung Eurovision
+     * http://www.youtube.com/watch?v=yFPQbnraeVg
+   * Readmill
+     * http://readmill.com/
+   * EPUB-Format
+     * http://de.wikipedia.org/wiki/EPUB
+   * iPad3 Retina-Display
+     * http://en.wikipedia.org/wiki/IPad3
+     * http://en.wikipedia.org/wiki/Retina_display
+ * 01:46 - Netzleben
+   * Wikigeeks - Gesellschaftliche Netzthemen
+     * http://wikigeeks.de/
+   * PodPerlen bei PodPott
+     * http://www.podpott.de/
+   * Flattr
+     * http://flattr.com/
+   * GEMA
+     * http://de.wikipedia.org/wiki/Gesellschaft_f%C3%BCr_musikalische_Auff%C3%BChrungs-_und_mechanische_Vervielf%C3%A4ltigungsrechte
+   * Piratenpartei
+     * http://de.wikipedia.org/wiki/Piratenpartei
+ * 01:58 - "One more thing": Was macht gute Wissenschaft aus?
+   * Reliabilität
+     * http://de.wikipedia.org/wiki/Reliabilit%C3%A4t
+   * Validität
+     * http://de.wikipedia.org/wiki/Validit%C3%A4t
+   * Soziopod, Folge zu Karl Popper
+     * http://soziopod.de/2012/06/soziopod-015-karl-popper-jager-der-falschen-propheten/
+   * Transparenz
+     * http://de.wikipedia.org/wiki/Linked_Open_Data
+02:02 - Outro
+

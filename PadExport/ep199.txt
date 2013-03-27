@@ -1,0 +1,47 @@
+Einschlafen Podcast 199
+mit Toby Baier (@tobybaier, @schlafein)
+<http://einschlafen-podcast.de/>
+(<http://streams.xenim.de>,  <http://streams.xenim.de/einschlafen.mp3> ,
+Shownotes: <https://shownotes.piratenpad.de/ep199> )
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fep199&time=21%3A23%3A15&Button=Create%21>
+Zusammengetragen von: Melman (@MaestroBodo), @Quimoniz
+
+
+Sendungsbeginn: 21:23:15 Uhr
+
+1994 hatte Toby den ersten Kontakt mit dem Internet, bei Beginn seines Informatikstudiums
+C64 <http://de.wikipedia.org/wiki/C64> #wikilink
+Open Source <http://opensource.org/> #homepage
+Linux <http://de.wikipedia.org/wiki/Linux> #wikilink
+Compiler <http://de.wikipedia.org/wiki/Compiler> #wikilink
+ArgoUML <http://de.wikipedia.org/wiki/ArgoUML> #wikilink
+iTunes <http://de.wikipedia.org/wiki/ITunes> #wikilink
+Sourcecode <http://de.wikipedia.org/wiki/Quelltext> #wikilink #chapter
+
+
+00:05:40 Thema: Flattr-Bombe#10 <https://flattr.com/thing/874771/Die-Shownotes> #flattr #chapter
+- Shownot.es <http://www.shownot.es/> #homepage
+- Twitter <https://twitter.com/DieShownotes> #twitter
+- Sind noch verrückter als Tobybaier #winning
+Toby bedankt sich bei allen Shownotesschreibern für ihre Arbeit.
+
+Als Podcaster mag man sich nicht viel mit Technik beschäftigen, oder Kapitelmarken machen.
+Auphonic <https://auphonic.com/> #homepage
+- Metadaten <http://de.wikipedia.org/wiki/Metadaten> #wikilink
+- Mp3 <http://de.wikipedia.org/wiki/Mp3> #wikilink
+- AAC <http://de.wikipedia.org/wiki/Advanced_Audio_Coding> #wikilink
+MMRelive Projekt <http://shownotes.piratenpad.de/ProjektVorstellung> #shownotes
+- MobileMacs <http://mobilemacs.de/> #podcast
+Joscha Sauer Folge <http://einschlafen-podcast.de/2012/10/ep-197-joscha-sauer-nichtlustig-und-der-schutzengel-mit-segelohren/> #podcast
+Idee zur Initiative "Podcaster für heiles Internet"
+Toby findet Flattr geil, weil man damit seine Wertschätzung besser ausdrücken kann.  <http://Flattr.com> #homepage
+
+00:17:20 Toby liest Gudrun Mebs Schutzengel mit Segelohren, Kapitel 20 #chapter
+- Gudrun Mebs <http://de.wikipedia.org/wiki/Gudrun_Mebs>
+- Amazon <http://www.amazon.de/Schutzengel-mit-Segelohren-Isabel-Pin/dp/3794161467>
+
+Toby hätte gerne eine Flattrbombe auf Gudrun Mebs gemacht, aber leider hat sie nicht reagiert, und somit kauft ihre Bücher um sie zu unterstützen. <http://www.amazon.de/s/field-keywords=Gudrun+Mebs> #shopping
+
+Sendungsende: 21:57:18 Uhr
+

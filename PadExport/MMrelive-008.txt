@@ -1,0 +1,84 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 008 Runde Ecken
+Vom: 11.7.2008
+Download: <http://mobilemacs.de/2008/07/mm008-runde-ecken.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-008&time=11%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/8
+
+Zusammengetragen von: @evitabley, @woLeonard, @kaeffchen_heinz
+
+00:00:00 Intro und Begrüßung #chapter
+
+00:01:50 iPhone 3G #chapter
+iPhoneDevTeam  <http://blog.iphone-dev.org> #homepage
+Gizmodo <http://www.gizmodo.de> #homepage
+ZiPhonehack von Zibri <http://www.ziphone.org> #homepage
+N95 von Nokia <http://www.nokia.com/de-de/support/smartphones-und-handys/n95/> #homepage
+Mobistar <http://de.wikipedia.org/wiki/Mobistar> #wikilink
+Teltarif <http://www.teltarif.de> #homepage
+
+
+00:15:00 Kopfhörer, Appstore #chapter
+Apple Remote <https://itunes.apple.com/de/app/remote/id284417350?mt=8> #shopping
+Appstore <http://de.wikipedia.org/wiki/AppStore> #wikilink
+NetNewsWire <https://itunes.apple.com/de/app/netnewswire/id284881860?mt=8> #shopping
+Twitterrific <https://itunes.apple.com/de/app/twitterrific-for-twitter/id359914600?mt=8> #shopping
+
+Programme:
+Super Monkey Ball für 8€ <https://itunes.apple.com/de/app/super-monkey-ball/id281966695?mt=8> #shopping
+Shoppinglist <https://itunes.apple.com/de/app/shoppinglist-einkaufsliste/id282758413?mt=8>
+Band <https://itunes.apple.com/de/app/touch-band/id435032236?mt=8>#shopping
+Texas Holdem Poker <https://itunes.apple.com/de/app/texas-holdem-poker/id445305390?mt=8> #shopping
+Omnifocus von der Omnigroup <https://itunes.apple.com/de/app/omnifocus-for-iphone/id284885288?mt=8> #shopping
+iBier <https://itunes.apple.com/de/app/ibier-gratis/id475905823?mt=8> #shopping
+Last.fm <http://de.wikipedia.org/wiki/Last_FM> #wikilink
+Circulator <http://www.codingmonkeys.de/circulator/> #shopping
+
+00:33:00 Safari iOS #chapter
+SquirrelFish <http://trac.webkit.org/wiki/SquirrelFish> #homepage
+das iPhone als Fernbedingung für 
+- Apple Tv <http://www.apple.com/de/appletv/> #shoppinghttp://www.fritz.de/programm/sendungen/33/1210/121012_blue_moon_7714.html
+- iTunes <http://www.apple.com/de/itunes/> #shopping
+Max´ Twitterclient Webbasiert <http://a.edween.net> #link
+.mac account Umstellung auf MobileMe <http://de.wikipedia.org/wiki/Mobile_Me> #wikilink
+IE6 wird nicht mehr unterstützt <http://www.eidac.de/?p=36> #homepage
+WebKit <http://www.webkit.org> #homepage
+SafariAdBlock <http://safariadblock.com> #homepage
+Folklore.org <http://www.folklore.org/index.py> #homepage
+
+00:59:00 Firmenumstellung auf Apple und Services #chapter
+Axel Springer Verlag stellt komplett um auf Apple <http://www.youtube.com/watch?v=j2oGlC9aXB4> #video
+Axel Springer AG <http://de.wikipedia.org/wiki/Axel_Springer_AG> #wikilink
+OmniOutliner <http://www.omnigroup.com/products/omnioutliner/> #homepage
+Service Scrubber <http://www.macupdate.com/app/mac/20192/service-scrubber> #download
+KeyChain <http://en.wikipedia.org/wiki/Keychain_(Mac_OS)> #wikilink
+Witch Programm <http://manytricks.com/witch/> #homepage
+Code Sign <https://developer.apple.com/documentation/Security/Conceptual/CodeSigningGuide/> #homepage
+Skype <http://de.wikipedia.org/wiki/Skype> #wikilink
+Launchbar <http://www.obdev.at/products/launchbar/index-de.html> #homepage
+Quicksilver <http://qsapp.com> #homepage
+
+01:30:00 SSD und GoogleStreetViewCars #chapter
+SSD Flashfestplatten
+- Wikipedia <http://de.wikipedia.org/wiki/Solid-State-Drive> #wikilink
+- Bericht <http://mags.acm.org/communications/200807/?searchterm=adam+leventhal&pg=49#pg49> #link
+Harddisks <http://de.wikipedia.org/wiki/Harddisk> #wikilink
+GoogleStreetView 
+- Bericht <http://frank.geekheim.de/?p=406> #link
+- Wikipedia <http://de.wikipedia.org/wiki/Google_Street_View> #wikilink
+GRAVIS am Ernst-Reuter-Platz (Berlin) <http://www.gravis.de/filialen/berlin/berlin/> #homepage
+Infrarot Lasersensor<http://de.wikipedia.org/wiki/Infrarot> #wikilink
+TED <http://www.ted.com> #homepage
+Ted-Talk: "Blaise Aguera y Arcas demos Photosynth" <http://www.ted.com/talks/blaise_aguera_y_arcas_demos_photosynth.html> #video
+Windows 3.11 <http://de.wikipedia.org/wiki/Windows_3.11#Windows_3.11> #wikilink
+
+01:46:00 Programme und Verabschiedung #chapter
+Cornerstone <http://www.zennaware.com/cornerstone/> #homepage
+Subversion Nachfolger von CVS <http://de.wikipedia.org/wiki/Apache_Subversion> #wikilink
+
+02:03:14 Sendungsende
+

@@ -1,0 +1,42 @@
+Ihr wollt mitmachen? Kein Problem.  
+Im Moment sind @johannes_k @kaeffchen_heinz und ich (@evitabley) noch in der Ausprobierphase. Aber wenn alles so klappt wie wir es uns vorstellen könnt ihr genau so mit helfen.
+
+Wie haben wir es uns vorgestellt?
+Es ist immer einfacher und auch lustiger Shownotes gemeinsam zu schreiben. Während der eine noch das Thema benennt sucht der andere schon den Link dazu heraus und der Dritte prüft die Rechtschreibung oder korrigiert. Das fädelt sich dann im Laufe des Schreibens ein.  
+So bleibt die Arbeit nicht an einem allein hängen und man darf auch mal eine Minute nicht aufpassen und es geht trotzdem weiter.
+
+Was müsst ihr tun?
+Einen Termin festlegen an dem mindestens 3 von euch Zeit haben. Eventuell wird es noch einen Kalender geben.
+Ladet euch bitte die Folge die ihr mitschreiben wollt von der MobileMacs-Seite herunter ->
+http://www.mobilemacs.de
+Öffnet das Pad was zu eurer Folge gehört. Die Pads sollten mit der Vorlage https://shownotes.piratenpad.de/mmrl-vorlage dann erstellt werden (name: Mmrelive-xx)
+Der Timer wird von der Person eingestellt die das Pad öffnet.
+
+Kurze Erklärung epirat timer:
+klickt auf den Link bei Timer:  
+dort gebt ihr die URL des Pads ein, welches ihr grad erstellt habt und die Uhrzeit (z.B. 16:00:00) dann wird der Countdown runter gezählt und startet die Sendung in eurem Player bei 0:00:00  
+setzt die URL die dann das Pad mit Timer hat bitte bei der Vorlage bei Timer ein.
+
+Chat:
+Im IRC könnt ihr euch im Channel #mmrelive oder #shownotes vorher treffen und natürlich auch besprechen wann ihr euch wieder treffen wollt etc.  
+Bitte sagt mir Bescheid, wenn eine Sendung fertig ist, dann kann ich nochmal drüber schauen und gegebenenfalls Korrekturen vornehmen (Formatierung etc).  
+
+Bitte beachtet die Wünsche von Tim. https://shownotes.piratenpad.de/podlove-shownotes-format Er möchte kein Transkript der Sendung.  
+Es geht darum die Themen zu filtern und Links dazu bereit zu stellen. Viele wollen in den Shownotes nicht die Sendung gespoilert bekommen, sondern Informationen zum Thema erhalten.  
+Ohne spoilers ist es also spannender und am Ende auch übersichtlicher und was die Jungs dann für eine Meinung haben kann ja im Podcast nachgehört werden.
+
+Ergebnis:
+Einen guten Einblick wie es werden soll könnt ihr bei der aktuellen Folge 97 bekommen.
+Wir haben erst einmal „alles“ aufgeschrieben und hinter jede Zeile einen #Tag gesetzt.  
+Viele Zeilen hatten dann #spoiler da stehen. Am Ende haben wir geschaut ob es dazu Verlinkungen gab, wenn nicht wurde die Zeile einfach gelöscht. Klingt hart, aber manchmal ist weniger mehr. Sätze wie "Tim meint..." und "Max findet..." sind nicht gewünscht.
+Den Vergleich könnt ihr hier sehen:
+
+https://shownotes.piratenpad.de/mm097 ungekürzt wie es während der Sendung geschrieben wurde.
+https://shownotes.piratenpad.de/mm097-gekuerzt gekürzt wie es am Ende auf der Seite erscheint.
+
+Also ich freue mich darauf viele Helferlein zu finden und Tims Traum von vollständigen MM-Shownotes zu erfüllen.
+Wenn ihr irgendwelche Fragen habt, dann könnt ihr mir jederzeit über Twitter schreiben @evitabley oder auch per mail an theater.evita@gmx.de und ich werde versuchen alles zu klären.
+
+Habt viel Spaß!
+Evita :o)
+

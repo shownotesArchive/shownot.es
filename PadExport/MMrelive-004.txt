@@ -1,0 +1,93 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 004 Again and Again
+Vom: 13.05.2008
+Download: <mobilemacs.de/> http://mobilemacs.de/2008/05/mm004-iphone-push-email-macports-twitter.html
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-004&time=21%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/4
+
+Zusammengetragen von: @evitabley, @johannes_k, @kaeffchen_heinz
+
+00:00:00 Intro und Begrüßung #chapter
+Again and Again - The Bird and the Bee <http://www.collegehumor.com/video/3420600/mac-music-video-again-and-again> #link
+Fakestevejobs <http://fakesteve.blogspot.de/> #homepage
+Nerdcore <http://www.crackajack.de/> #homepage
+NetNewsWire <http://de.wikipedia.org/wiki/NetNewsWire> #wikilink
+Gizmodo <http://www.gizmodo.de/> #homepage
+
+00:08:20 iPhone bald in zahlreichen neuen Ländern verfügbar #chapter
+UMTS in Südafrika ausgebreitet oder nicht? <http://de.wikipedia.org/wiki/Universal_Mobile_Telecommunications_System> #wikilink
+iPhone 3G schon im Mai2008? <http://document-dot-write.blogspot.de/2007/11/3g-iphone-schon-im-mai-2008.html> #link
+iPhoneblack soll kommen <http://www.macrumors.com/2008/04/04/3g-iphone-with-glossy-black-back/> #link
+neueste Version = 5a274d developer update #zeitorientierung
+
+00:22:50 push Email und Server #chapter
+Push Email <http://en.wikipedia.org/wiki/Push_email> #wikilink
+IDLE Feature <http://en.wikipedia.org/wiki/IMAP_IDLE> #wikilink
+IMAP Pushverfahren in Mail.app <http://en.wikipedia.org/wiki/Push_email#Apple_iPhone_and_iPod_Touch> #wikilink
+Courier IMAP Server 
+- Wikipedia <http://de.wikipedia.org/wiki/Courier_Mail_Server> #wikilink
+- Homepage <http://www.courier-mta.org/imap/> #homepage
+cyrus <http://de.wikipedia.org/wiki/Cyrus_(Server)> #wikilink
+MacOSX Server <http://www.apple.com/de/osx/server/> #homepage
+CALDAV <http://de.wikipedia.org/wiki/CalDAV> #wikilink
+Apache <http://www.apache.org/> #homepage
+VPN-Verbindungen <http://de.wikipedia.org/wiki/Virtual_Private_Network> #wikilink
+
+00:38:10 OpenDarwin R.I.P. und Ports #chapter
+MacPorts waren früher Darwin Ports <http://www.macports.org/> #homepage
+OpenDarwin <http://de.wikipedia.org/wiki/OpenDarwin> #wikilink
+Open Darwin schließt die Pforten <http://www.heise.de/open/meldung/OpenDarwin-schliesst-die-Pforten-145327.html> #link
+OpenSourceProjekte <http://de.wikipedia.org/wiki/Open_Source> #wikilink
+UNIX <http://de.wikipedia.org/wiki/Unix> #wikilink
+Maintainer <http://de.wikipedia.org/wiki/Maintainer> #wikilink
+OpenSource-Skriptsprache Tcl <http://de.wikipedia.org/wiki/Tcl> #wikilink
+FreeBSD <http://www.freebsd.org/de/> #homepage
+Debian <http://www.debian.org/> #homepage
+Jordan Hubbard <http://en.wikipedia.org/wiki/Jordan_Hubbard> #wikilink
+Perl <http://de.wikipedia.org/wiki/Perl_(Programmiersprache)> #wikilink
+Wget <http://de.wikipedia.org/wiki/Wget> #wikilink
+Gnu PG <http://www.gnupg.org/> #homepage
+nmap <http://nmap.org/> #homepage
+Analog Modem <http://de.wikipedia.org/wiki/Modem> #wikilink
+USR = Unix System Resources <http://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard> #wikilink
+p7zip <http://de.wikipedia.org/wiki/P7zip> #wikilink
+Multiprozessor-ZIP: pbzip2 <http://compression.ca/pbzip2/> #homepage
+UnArchiver <http://wakaba.c3.cx/s/apps/unarchiver.html> #homepage
+
+01:03:00 c´t-bashing #chapter
+c't Mac-Sonderheft muss nachgedruckt werden <http://www.heise.de/kiosk/special/ct/08/03/> #link
+Heise <http://de.wikipedia.org/wiki/Heise_online> #wikilink
+
+01:10:00 Lieblings Software und Microsoft/Yahoo-Nachlese #chapter
+appfresh.app <http://metaquark.de/appfresh/mac> #homepage
+MacHeistBundle <http://macheist.com/> #homepage
+Steve Ballmer <http://de.wikipedia.org/wiki/Steve_Ballmer> #wikilink
+PC World <http://www.pcworld.com/> #homepage
+WindowsXP <http://de.wikipedia.org/wiki/Microsoft_Windows_XP> und nicht Windows Vista <http://de.wikipedia.org/wiki/Windows_Vista> für kleine Computer #link
+MSN blockte Youtube Links <http://de.wikipedia.org/wiki/MSN> #wikilink
+
+01:20:10 TimeCapsule und Twitter #chapter
+Time Capsule <http://www.apple.com/de/timecapsule/> #homepage
+Airport Express <https://www.apple.com/de/airportexpress/> #homepage
+Geek and Poke 
+- Homepage <http://geekandpoke.typepad.com/> #homepage
+- Erwähnter Comic <http://geekandpoke.typepad.com/geekandpoke/2008/05/internet-celebr.html> #link
+Twitter-Erklärung <http://de.wikipedia.org/wiki/Twitter> #wikilink
+Jabber <http://de.wikipedia.org/wiki/Jabber_Instant_Messenger> #wikilink
+Thwirl <http://www.twhirl.org/> #homepage
+Open ID <http://de.wikipedia.org/wiki/Open_ID> #wikilink
+
+01:34:00 Ausklang, Verabschiedung und Laptoptaschen #chapter 
+John Gruber <http://daringfireball.net/> #homepage
+Cinemizer Brille <http://cinemizer.zeiss.com/cinemizer-oled/en_de/home.html> #homepage
+Laptoptaschen
+Crumpler <http://www.crumpler.eu/index.cfm?seite=laptop&sprache=DE> #homepage
+Built <http://www.builtny.com/> #homepage
+Die Marke, die Tim nicht erinnert bekommt, ist Axio <http://axioluggage.com/> #homepage
+IFA <http://de.wikipedia.org/wiki/Internationale_Funkausstellung_Berlin> #wikilink
+Spaces <http://de.wikipedia.org/wiki/Spaces> #wikilink
+

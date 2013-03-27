@@ -1,0 +1,124 @@
+(zum Mitmachen ist eine Anmeldung auf https://shownotes.piratenpad.de erforderlich)
+
+Shownotes zu Chaosradio  182
+Vom: 30.8.2012
+Thema: Netzökonomie(/oder wie Geschäfte im Netz gemacht werden)
+Sendungsseite:
+ * Fritz: <http://www.fritz.de/programm/sendungen/33/1208/120830_blue_moon_7262.html>
+ * Blog: http://blog.chaosradio.ccc.de/index.php/2012/08/30/cr182-klempner-des-internets/
+Telefonnummer: 0331/7097110
+Mit: @monoxyd, @erdgeist, Kay (@frappz0r)
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FBM-30-08-12&time=22%3A01%3A00>
+
+Sendungsbeginn: 22:01
+
+Zusammengetragen von: hanz, Quimoniz, M4X1, Pyromaniac
+
+Durchtrennung des Überseekabels zwischen Europa und Amerika
+
+Viele Menschen gehen nur für Facebook ins Internet Café
+
+Internet Backbones <http://de.wikipedia.org/wiki/Internet-Backbone>
+Denic <http://www.denic.de>
+Domains kosten unterschiedlich viel Geld, das Betreiben einer solchen jedoch nur ein paar Cent 
+Toplevel Domains <http://de.wikipedia.org/wiki/Top-Level-Domain>
+
+
+Netcologne verlegte Glasfaser in ganz Köln <http://de.wikipedia.org/wiki/NetCologne#Eigene_Netzinfrastruktur>
+Das Internet wurden früher von Steuergeldern ausgebaut.
+
+Aufbau der letzten Meile
+Dsl-Kabel: 2adrig Kupfer-Kabel in einer Palstikhülle. Pro Kabel sind mehrere hundert bis tausend "Menschen"/Verbindungen mehr oder weniger parallel möglich.
+ <http://de.wikipedia.org/wiki/Letzte_Meile>
+
+00:21 Projekt Opal - Glasfasernetz in Ostdeutschland.
+http://de.wikipedia.org/wiki/Optische_Anschlussleitung
+
+00:22 Anschlüsse für den Haushalt in der Pampa
+UMTS 
+ISDN + Satelit
+Häufig unverschlüsselter Downstream
+
+Warum der Download immer Größer ist als der Upstream(weiter nach den Nachrichten)
+
+00:27 Sven
+Kann man tote Knotenpunkte nutzen um schneller zu surfen?
+Unter ISDN war das noch möglich jetzt mit DSL geht das nicht mehr
+
+00:31: Fritzinfo mit Nachrichten, Wetter und Verkehr
+
+
+00:35 Nachrichten rants des CCC
+Campus Party <http://www.campus-party.eu/2012/index.html>
+Chaosradio.de und chaosradio.ccc.de waren Down <https://twitter.com/chaosradio/status/232850036264951808>
+
+00:39 Asymmetrischer Down-/Upstream
+Künstliche Verknappung durch ISPs
+Videotelefonie (VoIP; z.B. Skype)
+QoS (Anbieter schauen in den Netz-Stream rein und behandeln besondesre Packete gesondert)
+
+00:43: Patrick
+Sein Telefon steigt alle 2 Tage aus er kann nur noch die Telekom-Hotline anrufen.Eine Stunde später funktioniert das aber wieder.
+erdgeists Billiganbieter war auch in Süd(afrika|amerika) günstig, es stellte sich raus, dass dieser intern Skype benutzte. <http://de.wikipedia.org/wiki/Skype>
+
+00:46 Internet Exchanges (Is nichts anderes als so n Ding in dem viele Lan_Kabel miteinander verbunden sind)
+In allen größeren Städten gibt es solche, die ganz großen in London, Amsterdam und Frankfurt.
+
+Abrechnung in Rechenzentren für Servernutzung
+Inklusivtraffic, zusätzlicher Traffic kostet überproportional viel
+Abrechnung via quasi monatlicher Mittelung
+
+Abrechnung für monatliche Netznutzung durch Endkunden
+Mischkalkulation von ISPs, die an bspw. Omas (Wenig-Surfern) verdienen
+
+01:02 Server Hardware, Software
+Linux,Windows, div. BSD,sonder Systeme => Software
+Prozessor,Ram,Lüfter,etc(eigentlich ein ganz normaler Desktop Pc, nur eben mit Redundanz und anderen Annehmlichkeiten :) ) Hersteller: Juniper, Cisco, Supermicro, Intel...
+
+01:04:  Musik: TAPETE: Von Freiheit nicht genug, aus dem Sampler Free! Music! Contest(CC_Lizenz=>Bald auch für freie CC Musik zahlen?
+ 
+ ||--> <http://www.heise.de/tp/artikel/37/37514/1.html>)
+ 
+ Musik zu finden unter: <http://bandcamp.musikpiraten-ev.de/album/free-music-sampler-freedom-free-beer>
+
+01:10 Überseekabel
+Karte zur Übersicht:<http://cablemap.info/>
+Artikel bei Wired <http://www.wired.com/wired/archive/4.12/ffglass.html>
+Geschwindigkeit des Anschlusses als Kalkulationsparameter des ISP, siehe auch Ping
+
+01:18 CDN
+CDN <http://de.wikipedia.org/wiki/Content_Delivery_Network>
+Akamai <http://de.wikipedia.org/wiki/Akamai>
+Einsatz u.a. bei Windows Updates, den Veröffentlichungen von Un*x artigen Betriebssystemen und/oder Live-Streams
+ISPs die Geld von der BBC wollten für das Verteilen von Livestreams
+Payed Pearing bei der Telekom
+
+Musik: Caldron - Totentanz
+ Musik zu finden unter: <http://bandcamp.musikpiraten-ev.de/album/free-music-sampler-freedom-free-beer>
+
+01:38 Java Lücke in dessen Sandboxing
+heise Artikel <http://www.heise.de/security/meldung/Oracle-und-Microsoft-blamieren-sich-bei-Reaktion-auf-Java-Luecke-1695480.html>
+Die Sicherheitslücke ist seit einem halben Jahr bekannt, aber Oracle hat nichts gemacht.
+Sicherheitshinweis: Java Plugin im Browser deaktivieren.
+Tipp: Linuxdistribution einschieben und gleich installieren
+
+01:42 RIPE <http://www.ripe.net/ripe>
+Vergibt IP Addressen
+RIPE Treffen: <https://ripe65.ripe.net/>
+Die Stromkosten von erdgeists Server beziffern sich auf knapp 30 Euro pro Monat
+LIR <https://www.arin.net/policy/nrpm.html#two4>
+RIPE NCC <http://www.ripe.net/lir-services/ncc>
+-Cisco Router
+Dank des Routings, können Bagger die ein Glasfaserkabel kaputt machen,aber nicht das Internet kaputt machen.
+Redundanzanforderungen von Banken
+
+01:54 Peter, arbeitet in einem Rechenzentrum
+Der Strom der Verteilerstationen kostet je 10.000 Euro pro Monat.
+
+
+Sendungsende: 23:59
+
+Outro: Tracky Birthday - Websiiite (with Dragan Espenschied) <http://www.trackybirthday.com/> <http://www.last.fm/music/Tracky%2520Birthday/Animal%2520Audition?ac=Tracky%20B>
+
+Log des Chats: http://pastebin.com/iDWLEEDd
+

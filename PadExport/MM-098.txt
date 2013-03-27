@@ -1,0 +1,137 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+
+Shownotes zu MobileMacs 098
+Vom: 22.10.2012
+Stream: http://streams.xenim.de/mobile_macs.mp3
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM-098&time=19%3A50%3A48>
+Mit: Tim @timpritlove, Hukl @hukl, Max @343max, Denis @denis2342, roddi 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: shownot.es/mm/98
+
+Zusammengetragen von: evita (@evitabley), @anthrazit101 (alpha.app.net/dark), hanz (@kaeffchen_heinz) , Johannes (@johannes_k)
+
+Sendungsbeginn: 19:50:48 Uhr
+
+00:00:00 Intro und Begrüßung #chapter
+Previously on mobileMacs von David1701 <http://soundcloud.com/david1701/previously-on-mobilemacs-097> #link
+Granderwasser <http://de.wikipedia.org/wiki/Granderwasser>
+Skeptikerpreis: »Das goldene Brett«-Verleihung <http://www.goldenesbrett.at/>
+Tims neues Studio <h ttp://metaebene.me/wp-content/uploads/2012/10/Metaebene-New-Studio.jpg> #image
+Gitarrenstimmgerät (name) <https://itunes.apple.com/de/app/polytune/id364009203?mt=8> #link
+
+00:11:00 Metatalk #chapter
+iPhone iOS 6 Freunde orten 
+- find-my-friends app <https://itunes.apple.com/de/app/meine-freunde-suchen/id466122094?mt=8> #shopping #appstore
+- Glassboard <http://glassboard.com/> #homepage
+iMessage <http://de.wikipedia.org/wiki/IMessage> #wikilink
+Whats App <http://de.wikipedia.org/wiki/WhatsApp> #wikilink
+
+00:23:30 iPhone 5 #chapter
+Maps und Turn-by-Turn Navigation bei iOS 6 (inkl. Spracheinstellung) 
+Opus: Live is Life <http://youtu.be/L-u3oNk49W0> #youtube
+LTE und Datentarife (Telekom, Congstar etc.) <http://de.wikipedia.org/wiki/Long_Term_Evolution> #wikilink
+"Mein O2"-App <https://itunes.apple.com/de/app/mein-o2/id371338349?mt=8> #shopping
+Home Button kalibrieren <http://apfelblog.ch/probleme-mit-dem-home-button-so-kann-der-button-neu-kalibriert-werden/> #homepage
+Lightning-Kabel <http://store.apple.com/de/product/MD818ZM/A/lightning-auf-usb-kabel?fnode=45> #shopping
+1Password <https://agilebits.com/onepassword> #shopping
+
+00:52:00 Nexus 7 #chapter
+Nexus 7 <http://www.google.com/nexus/#/7> #homepage
+Wanderkarten von openstreetmap <http://openstreetmap.de> #homepage
+
+01:12:00 Apple #chapter
+Software-Geräteaktualisierung <http://support.apple.com/de_DE/downloads/> #link
+iPhone-Vertrieb und iOS-Updates im Kontext der Service-Provider #info
+
+01:23:00 Gerüchteküche/Glaskugeling #chapter 
+iBooks und das ePub-Format <https://ssl.apple.com/de/apps/ibooks/> #shopping
+iBooksAuthor (2.0) <http://www.apple.com/de/ibooks-author/> #shopping
+iPad mini im Bildungsbereich <http://www.macerkopf.de/2012/10/22/ipad-mini-keynote-soll-fokus-auf-den-bildungssektor-legen/> #link
+Preisgestaltung des iPad mini <http://www.macrumors.com/2012/10/20/ipad-mini-pricing-to-begin-at-approximately-329/> #link
+Bildschirmauflösungen auf Apple-Geräten #info
+MacBookPro rumors <http://www.macrumors.com/2012/10/19/new-photos-of-13-inch-retina-macbook-pro-show-battery-layout-ports-and-more/> #link
+E-Book-Dateiformate <http://de.wikipedia.org/wiki/E-Book#Dateiformate> #wikilink
+- EPUB <http://de.wikipedia.org/wiki/EPUB> #wikilink
+- Mobi <http://de.wikipedia.org/wiki/Mobipocket> #wikilink
+- PDF <http://de.wikipedia.org/wiki/Portable_Document_Format> #wikilink
+- Daisy <http://de.wikipedia.org/wiki/DAISY-H%C3%B6rbuch> #wikilink
+
+01:55:00 Musik #chapter
+Musikstreaming von Apple <http://www.gottabemobile.com/2012/09/10/apple-readying-itunes-music-streaming-service-to-challenge-pandora/> #link
+Hulu (Fernsehstreaming) <http://www.hulu.com/> #homepage
+Spotify (Musikstreaming) <http://www.spotify.com/de/> #homepage
+
+02:03:34 iOSX #chapter
+Emojis <http://lifehacker.com/5944961/top-10-secret-features-of-ios-6> #link
+Rant: iWork
+- Homepage <http://www.apple.com/de/iwork/> #homepage
+- Retina-Updates <http://support.apple.com/kb/HT5248> #link
+- Performance <http://de.wikipedia.org/wiki/Graue_Haare#Grau> #link 
+Office:mac <http://www.microsoft.com/germany/mac> #homepage
+Openoffice <http://www.openoffice.org/de/> #homepage
+Thunderbolt <http://de.wikipedia.org/wiki/Thunderbolt_(Schnittstelle)> #wikilink
+
+02:22:00 App.net #chapter
+App.net <https://join.app.net/> #homepage
+Anhänge sind möglich <http://thenextweb.com/apps/2012/09/01/app-net-gets-annotation-support-allowing-developers-attach-sweet-metadata/> #link
+ADN Clients
+- Netbot <http://tapbots.com/software/netbot/> #homepage
+- Alpha.app.net <http://alpha.app.net>
+- Buffer <http://bufferapp.com/> #homepage
+- Felix <http://tigerbears.com/felix/> #homepage
+- Rivr <https://itunes.apple.com/de/app/rivr/id561088843?mt=8> #shopping
+
+02:49:15 Fritzbox #chapter
+Fritzbox <http://www.avm.de/de/Produkte/FRITZBox/index.php> #homepage
+Unterstützung von IPv6 #info
+01lx tisch <http://www.art-phone.de/a_1406_-01-lx-tisch.html>
+Fernsprechtischapparat <http://de.wikipedia.org/wiki/Fernsprechtischapparat>#wikilink
+
+03:04:00 E-Book-Reader und andere Nerd-Themen  #chapter
+Beagle <http://int.txtr.com/beagle/> #homepage
+Reddit <http://de.wikipedia.org/wiki/Reddit> #wikilink
+Kindle Paper White <http://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0> #link
+Wandtelefone und andere Anekdoten #info
+Blinkenligths <http://blinkenlights.net/home>
+DECT Stromschalter <http://www.avm.de/de/News/artikel/2012/newsletter/ifa_dect_200E.html> #link
+Batphone <h ttp://experian.com/blogs/marketing-forward/wp-content/uploads/2012/08/deliverability-experts-bid-adieu-to-the-bat-phone.jpg> #image
+
+03:19:50 Bier #chapter
+Winkenschürfelbier <http://winkenschuerfel.de> #homepage
+200 Liter Bier dürfen im Jahr steuerfrei gebraut werden <http://de.wikipedia.org/wiki/Hobbybrauer> #wikilink
+Bier-Petition <https://epetitionen.bundestag.de/petitionen/_2012/_09/_14/Petition_36029.html> #link
+
+03:34:40 Apple-Store und Zubehör #chapter
+Zalando <http://www.zalando.de/> #shopping
+Etsy <http://www.etsy.com/> #shopping
+Apple Stores Deutschland <http://www.apple.com/de/retail/storelist/> #link
+- Apple Store Frankfurt http://www.apple.com/de/retail/grossebockenheimerstrasse/ #link
+iPod Nano <http://de.wikipedia.org/wiki/IPod#Siebte_Generation> #wikilink
+iPod Touch <http://de.wikipedia.org/wiki/IPod#Vierte_Generation_4> #wikilink
+
+03:47:00 Ausklang und Verabschiedung #chapter
+Folding Text App <http://www.foldingtext.com/> #shopping
+MaKey MaKey - An Invention Kit for Everyone
+- Homepage <http://www.makeymakey.com/> #homepage
+- Video <http://www.youtube.com/watch?v=rfQqh7iCcOU> #youtube
+Windows 8 <http://de.wikipedia.org/wiki/Microsoft_Windows_8> #wikilink
+Paul Thurrott <http://www.windowsitpro.com/author/5203812/PaulThurrott>
+Metrogroup <http://de.wikipedia.org/wiki/Metro_AG> #wikilink
+Die nächste Folge erscheint erst in 3 Wochen. #spoiler
+Evita (@EvitaBley) muss zum Anstoßen. #spoiler :p das lassen wir drin 
+
+Sendungsende: 23:59:10 Uhr
+
+
+Titelvorschläge:
+- Ich bin Apple-User, ich bin pingelig!
+- Dann lad' mich doch mal ein
+- die Webseite huklt
+- die Developer treten sich tot
+- Der Hörer sitzt!
+- rechts die Rolle, links das Telefon
+
+
+
+

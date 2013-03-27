@@ -1,0 +1,175 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs 011 Potsdamer Podcaster
+Vom: 21.08.2008
+Download: <http://mobilemacs.de/2008/08/mm011-potsdamer-podcaster.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-011&time=17%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: http://shownot.es/mm/11
+
+Zusammengetragen von: @mxmerz, @kaeffchen_heinz, @evitabley, @johannes_k
+
+00:00:00 Intro und Begrüßung #chapter
+Denis twittert (290 Follower) <http://twitter.com/denis2342> #link
+IRC <http://de.wikipedia.org/wiki/Internet_Relay_Chat> #wikilink
+Colloquy <http://colloquy.info/> #link
+Xchat <http://xchat.org/> #link
+
+00:08:00 Programmierung #chapter
+XSLT Programmierung <http://de.wikipedia.org/wiki/XSL_Transformation> #wikilink
+XSL <http://de.wikipedia.org/wiki/Extensible_Stylesheet_Language> #wikilink
+XML <http://de.wikipedia.org/wiki/Extensible_Markup_Language> #wikilink
+Cocoa <http://de.wikipedia.org/wiki/Cocoa> #wikilink
+Cocoa Touch <http://en.wikipedia.org/wiki/Cocoa_Touch> #wikilink
+Erica Sadun <http://ericasadun.com/> #homepage
+TUAW <http://TUAW.com> #homepage
+NDA <http://en.wikipedia.org/wiki/Non-disclosure_agreement> #wikilink
+
+00:15:50 iPhone #chapter
+Push Notification und seine Auswirkungen <http://www.macwelt.de/news/Wie-Apples-Push-Notification-Dienst-fuer-das-iPhone-funktioniert-3077300.html> #link
+BossPrefs <http://www.ifoneapps.de/bossprefs/146> #link
+iPhone 3G Empfangsprobleme <http://www.fscklog.com/2008/08/antennentest-be.html> #link
+
+00:27:00 Social Networks Microblogging #chapter
+Identica <http://identi.ca/> #homepage
+Twitter <https://twitter.com/> #homepage
+Sascha Lobo 
+- Homepage <http://saschalobo.com/> #homepage
+- Twitter <https://twitter.com/saschalobo> #Twitter
+
+00:35:00 Programmieren die 2. #chapter
+OS 7 <http://de.wikipedia.org/wiki/System_7> #wikilink
+Windows NT <http://de.wikipedia.org/wiki/Microsoft_Windows_NT> #wikilink
+Objective C <http://de.wikipedia.org/wiki/Objective-C> #wikilink
+Python <http://www.python.org/> #homepage
+Bit-Torrent <http://de.wikipedia.org/wiki/Bit_Torrent> #wikilink
+
+00:42:00 iTunes Podcastverzeichnis und Bittorrent #chapter
+iTunes Podcasts 
+- Homepage <http://www.apple.com/itunes/podcasts/> #homepage
+- Wikipedia <http://de.wikipedia.org/wiki/ITunes#Podcasting> #wikilink
+Kalkhofes Mattscheibe <http://podster.de/view/8890> #link
+BitTorrent für Podcasts <http://tim.geekheim.de/2005/11/14/itunes-should-support-bittorrent/> #link
+BitTorrent Tracker <http://en.wikipedia.org/wiki/BitTorrent_tracker> #wikilink
+Miro <http://www.getmiro.com/> #homepage
+
+01:02:00 Android #chapter
+Android <http://de.wikipedia.org/wiki/Android_%28Betriebssystem%29> #wikilink
+HTC  <http://de.wikipedia.org/wiki/HTC_Corporation> #wikilink
+Widgets <http://de.wikipedia.org/wiki/Widgets> #wikilink
+HTC Touch Diamond <http://de.wikipedia.org/wiki/HTC_Touch_Diamond#Touch_Diamond> #wikilink
+
+01:11:16 Denis´ Profilbild #chapter
+Denis erklärt sein Profilbild <http://twitter.com/account/profile_image/denis2342> #twitter
+21c3 <http://events.ccc.de/congress/2004/> #homepage
+Apple Werbung <http://www.spiegel.de/netzwelt/tech/grossbild-318333-350621.html>
+Mit Schirm, Charme und Melone <http://de.wikipedia.org/wiki/Mit_Schirm,_Charme_und_Melone> #wikilink
+Emma Peel <http://de.wikipedia.org/wiki/Mit_Schirm,_Charme_und_Melone#Emma_Peel> #wikilink
+IRC <http://de.wikipedia.org/wiki/Internet_Relay_Chat> #wikilink
+freenode.net <http://freenode.net/> #homepage
+
+01:15:00 Hörerfragen #chapter
+Refurbished Macs 
+Appfresh <http://metaquark.de/appfresh/mac>
+Sparkle-tool-kit
+Diebstahlversicherung
+Kensington Schloss <http://de.wikipedia.org/wiki/Kensington-Schloss> #wikilink
+Lock Picking auf dem Camp  <http://chaosradio.ccc.de/ctv029.html> #link
+Unterschiede zwischen Cocoa und Cocoa Touch
+- Foundation Framework <http://de.wikipedia.org/wiki/Foundation_Kit#Foundation> #wikilink
+- AppKit auf dem Mac <http://de.wikipedia.org/wiki/Cocoa#AppKit> #wikilink
+- Garbage Collection <http://de.wikipedia.org/wiki/Garbage_Collection> #wikilink
+Server-Side Includes <http://de.wikipedia.org/wiki/Server_Side_Includes> #wikilink
+ESI <http://de.wikipedia.org/wiki/Edge_Side_Includes> #wikilink
+CGI <http://de.wikipedia.org/wiki/Common_Gateway_Interface> #wikilink
+Content Management System <http://de.wikipedia.org/wiki/Content-Management-System> #wikilink
+PHP <http://de.wikipedia.org/wiki/PHP> #wikilink
+Twitter client Edween <http://edween.net> #homepage
+Varnish <http://de.wikipedia.org/wiki/Varnish> #wikilink
+Reverse Proxy <http://en.wikipedia.org/wiki/Reverse_proxy> #wikilink
+Der normale Haus-, Wald und Wiesen-Proxy <http://de.wikipedia.org/wiki/Proxy_(Rechnernetz)> #wikilink
+Remote App <https://itunes.apple.com/de/app/remote/id284417350?mt=8> #link
+Airport Express <https://www.apple.com/de/airportexpress/> #link
+Front Row <http://de.wikipedia.org/wiki/Front_Row> #wikilink
+Apple TV <http://de.wikipedia.org/wiki/Apple_TV> #wikilink
+AirFoil <http://www.rogueamoeba.com/airfoil/> #homepage
+NTP <http://de.wikipedia.org/wiki/Network_Time_Protocol> #wikilink
+Chaosradio <http://chaosradio.ccc.de/> #homepage
+WMV <http://de.wikipedia.org/wiki/WMV> #wikilink
+OGG <http://de.wikipedia.org/wiki/Ogg> #wikilink
+
+01:43:00 Multi-Core-Prozessoren #chapter
+Grand Central im Snow Leopard <http://de.wikipedia.org/wiki/Grand_Central_Dispatch> #wikilink
+Intel <http://intel.com> #homepage
+MacPro <http://www.apple.com/de/macpro/> #link
+Grand Central Terminal (New York) <http://de.wikipedia.org/wiki/Grand_Central_Terminal> #wikilink
+OpenMP <http://de.wikipedia.org/wiki/OpenMP> #wikilink
+Photoshop <http://de.wikipedia.org/wiki/Photoshop>  #wikilink
+Adobe <http://de.wikipedia.org/wiki/Adobe_Systems> #wikilink
+Adobe Flash <http://de.wikipedia.org/wiki/Adobe_Flash> #wikilink
+PS3 <http://de.wikipedia.org/wiki/PlayStation_3> #wikilink 
+CRE 089 Computerspiele: <http://cre.fm/cre089> #podcast
+Apple 9600 <http://en.wikipedia.org/wiki/Power_Macintosh_9600> wikilink
+604e <http://en.wikipedia.org/wiki/PowerPC_604e#PowerPC_604e> #wikilink
+Liste der Macs mit 604-Prozessoren <http://en.wikipedia.org/wiki/List_of_Macintosh_models_grouped_by_CPU_type#PowerPC_604> #wikilink
+Erlang <http://de.wikipedia.org/wiki/Erlang_(Programmiersprache)> #wikilink
+
+01:55:00 Hörerfragen die 2. #chapter
+MobileMe <http://de.wikipedia.org/wiki/Mobile_Me> #wikilink
+Mac OS X Server <http://de.wikipedia.org/wiki/OS_X_Server> #wikilink
+Mac mini <http://www.apple.com/de/macmini/> #link
+GPU <http://de.wikipedia.org/wiki/Grafikprozessor> #wikilink
+Time Machine <http://de.wikipedia.org/wiki/Time_Machine_%28Apple%29> #wikilink
+Nehalem Architektur <http://de.wikipedia.org/wiki/Intel-Nehalem-Mikroarchitektur> #wikilink
+Mac unter Windows
+- VMware <http://de.wikipedia.org/wiki/VMware> #wikilink
+- Hackintosh <http://de.wikipedia.org/wiki/Hackintosh#Mac_OS_X_auf_anderen_Computern> #wikilink
+CRE 092: Virtualisierung <http://cre.fm/cre092> #podcast
+Xen <http://de.wikipedia.org/wiki/Xen> #wikilink
+FreeBSD <http://de.wikipedia.org/wiki/FreeBSD> #wikilink
+
+02:03:00 ZFS #chapter
+ZFS Dateisystem <http://de.wikipedia.org/wiki/ZFS_(Dateisystem)> #wikilink
+Versionsgeschichte <http://en.wikipedia.org/wiki/ZFS#Release_history> #wikilink
+CRE 049: ZFS <http://cre.fm/cre049> #podcast
+CRE 048: FreeBSD <http://cre.fm/cre048> #podcast
+OpenSolaris <http://de.wikipedia.org/wiki/OpenSolaris> #wikilink
+ACL <http://de.wikipedia.org/wiki/Access_Control_List> #wikilink
+RAID <http://de.wikipedia.org/wiki/RAID> #wikilink
+- RAID 5 <http://de.wikipedia.org/wiki/RAID#RAID_5:_Leistung_.2B_Parit.C3.A4t.2C_Block-Level_Striping_mit_verteilter_Parit.C3.A4tsinformation> #wikilink
+- RAID Z <http://de.wikipedia.org/wiki/RAID#RAID-Z_im_Dateisystem_ZFS> #wikilink
+SSD <http://de.wikipedia.org/wiki/Solid-State-Drive> #wikilink
+
+02:10:00 Hörerfragen #chapter
+Fake Steve Jobs <http://www.fakesteve.net/> #homepage
+- Daniel Lyons: <http://en.wikipedia.org/wiki/Daniel_Lyons> #wikilink
+- Real Dan Lyons <http://www.realdanlyons.com/> #homepage
+
+02:15:00 Telefon auf dem Mac #chapter
+Modem Script
+Dial up <http://de.wikipedia.org/wiki/W%C3%A4hlleitung> #wikilink
+GSM <http://de.wikipedia.org/wiki/GSM> #wikilink
+UMTS <http://de.wikipedia.org/wiki/UMTS> #wikilink
+GPRS <http://de.wikipedia.org/wiki/GPRS> #wikilink
+EDGE <http://de.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution> #wikilink
+HSDPA <http://de.wikipedia.org/wiki/HSDPA> #wikilink
+APN <http://de.wikipedia.org/wiki/Access_Point_Name> #wikilink
+Modem <http://de.wikipedia.org/wiki/Modem> #wikilink
+PPP <http://de.wikipedia.org/wiki/Point-to-Point_Protocol> #wikilink
+DSL <http://de.wikipedia.org/wiki/DSL> #wikilink
+PPPoE <http://de.wikipedia.org/wiki/PPPoE> #wikilink
+DNS <http://de.wikipedia.org/wiki/Domain_Name_System> #wikilink
+DHCP <http://de.wikipedia.org/wiki/DHCP> #wikilink
+Virtuelle Serielle Schnittstelle <http://en.wikipedia.org/wiki/Virtual_serial_port> #wikilink
+AT Kommando <http://de.wikipedia.org/wiki/AT-Befehlssatz> #wikilink
+PAN <http://de.wikipedia.org/wiki/Personal_Area_Network> #wikilink
+Ethernet <http://de.wikipedia.org/wiki/Ethernet> #wikilink
+Bluetooth <http://de.wikipedia.org/wiki/Bluetooth> #wikilink
+IP <http://de.wikipedia.org/wiki/Internet_Protocol> #wikilink
+TCP Header Compression <http://en.wikipedia.org/wiki/Van_Jacobson_TCP/IP_Header_Compression> #wikilink
+
+02:32:00 Ausklang und Verabschiedung #chapter
+SOCKS 5 <http://de.wikipedia.org/wiki/SOCKS#Das_SOCKS-5-Protokoll> #wikilink
+

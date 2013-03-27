@@ -1,0 +1,119 @@
+Was ist das?: <https://shownotes.piratenpad.de/ProjektVorstellung>
+
+
+Shownotes zu MobileMacs Live und in Farbe
+Vom: 08.08.2012
+Download: <http://mobilemacs.de/2008/08/mm010-live-und-in-farbe.html> 
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMMrelive-010&time=12%3A00%3A00&Button=Create%21>
+Mit: Tim @timpritlove, Max @343max, Denis @denis2342 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/10>
+
+Zusammengetragen von: @mxmerz, @evitabley
+
+00:00:00 Intro und Begrüßung #chapter
+Die drei von der Tankstelle <http://de.wikipedia.org/wiki/Die_Drei_von_der_Tankstelle> #wikilink
+
+00:02:10 iPhone OS 2.0 #chapter
+Squirrelfish <http://trac.webkit.org/wiki/SquirrelFish> #homepage
+iVPN <http://macserve.org.uk/projects/ivpn/> #homepage 
+Die 799€-App "I am Rich" <http://en.wikipedia.org/wiki/I_Am_Rich> #wikilink
+aktualisiertes BaseBand <http://en.wikipedia.org/wiki/IOS_version_history#iOS_2.x:_second_major_OS_release> #wikilink
+TechCrunch <http://techcrunch.com> #homepage
+Cydia arbeitet mit APT <http://de.wikipedia.org/wiki/Cydia> #wikilink
+LDID Tool zum signieren <http://www.saurik.com/id/8> #homepage
+NetShare App <http://www.iphoneblog.de/2008/08/01/app-netshare-das-iphone-als-modem/> #link
+MultiSIM <http://www.t-mobile.de/multisim> #homepage
+Apple kauft sich ARM-Lizenzen
+- ARM-Lizenz <http://www.macrumors.com/2008/07/30/arm-announces-major-new-licensee-is-it-apple/> #artikel
+- ARM-Architektur <http://de.wikipedia.org/wiki/ARM-Architektur> #wikilink
+- ARM Limited <http://de.wikipedia.org/wiki/ARM_Limited> #wikilink
+- PA Semi <http://en.wikipedia.org/wiki/P.A._Semi> #wikilink
+PayPal <http://de.wikipedia.org/wiki/Paypal> #wikilink
+Pirate Bay <http://de.wikipedia.org/wiki/The_Pirate_Bay> #wikilink
+iPhone Entwicklung
+- FuckingNDA
+- Free Software Foundation <http://www.fsf.org/> #homepage
+- iPhone Developer Chat <irc://irc.freenode.net/iphonedev> #chat
+Colloquy für IRC <http://colloquy.info/> #homepage
+
+00:35:10 Transmission #chapter
+Transmission Update <http://www.transmissionbt.com/> #homepage
+BitTorrent <http://de.wikipedia.org/wiki/BitTorrent> #wikilink
+JSON <http://de.wikipedia.org/wiki/JSON> #wikilink
+XML <http://de.wikipedia.org/wiki/XML> #wikilink
+CRE: BitTorrent <http://cre.fm/cre057> #podcast
+SSL-Verschlüsselung <http://de.wikipedia.org/wiki/Transport_Layer_Security> #wikilink
+
+00:43:57 LLVM #chapter
+LLVM <http://de.wikipedia.org/wiki/LLVM> #wikilink
+Chris Lattner (LLVM-Entwickler) <http://en.wikipedia.org/wiki/Chris_Lattner> #wikilink
+Clang <http://de.wikipedia.org/wiki/Clang> #wikilink
+Xcode <http://developer.apple.com/xcode> #homepage
+
+00:46:10 MacBooks und Festplatten #chapter
+DDR2 <http://de.wikipedia.org/wiki/DDR-SDRAM#DDR2-SDRAM> #wikilink
+SODIMM <http://de.wikipedia.org/wiki/SODIMM> #wikilink
+Flash <http://de.wikipedia.org/wiki/Flash-Speicher> #wikilink
+
+01:01:30 Drucken und Faxen #chapter
+HP Drucker Laserjet 3055 <http://h10010.www1.hp.com/wwpc/us/en/sm/WF05a/18972-18972-3328064-12004-3328082-1161389.html?dnr=1> #shopping
+MacNews.de <http://www.giga.de/macnews/> #homepage
+MacBay <https://www.macbay.de/> #homepage
+
+01:10:10 Terminal #chapter
+Terminal.app
+iTerm <http://iterm.sourceforge.net/> #homepage
+SSH <http://de.wikipedia.org/wiki/Secure_Shell> #wikilink
+
+01:15:00 OGG #chapter
+OGG <http://de.wikipedia.org/wiki/Ogg> #wikilink
+MP3 <http://de.wikipedia.org/wiki/MP3> #wikilink
+Kompression von Musik <http://de.wikipedia.org/wiki/Audiodatenkompression> #wikilink
+Apple Lossless <http://de.wikipedia.org/wiki/Apple_Lossless> #wikilink
+FLAC <http://de.wikipedia.org/wiki/FLAC> #wikilink
+CRE <http://cre.fm> #podcast
+
+01:22:00 Apple und MobileMe(ss) #chapter
+Black hat Vortrag über FileVault <http://www.blackhat.com> #homepage
+CCC <http://de.wikipedia.org/wiki/Chaos_Communication_Congress> #wikilink
+Heise Meldung <http://www.heise.de/newsticker/meldung/Analyst-Apple-besitzt-bald-mehr-Bargeld-als-Microsoft-192045.html> #wikilink
+Fail Whale
+- Geschichte <http://www.readwriteweb.com/archives/the_story_of_the_fail_whale.php> #artikel
+- Fanclub <http://failwhale.com/> #homepage
+- Fan Art <http://www.flickr.com/photos/spiritsdancing/2619299461/> #homepage
+MobileMe und iTunes
+CalDAV <http://de.wikipedia.org/wiki/CalDAV> #wikilink
+NetNewsWire <http://netnewswireapp.com/> #wikilink
+Twitter <http://twitter.com> #homepage
+Calvin and Jobs <http://gizmodo.com/5033627/calvin-and-jobs-kick-steves-nuts> #homepage
+Tricorder <http://en.wikipedia.org/wiki/Tricorder> #wikilink
+
+01:49:00 Kalender und Twitter #chapter
+BusySync <http://www.busymac.com/index.html> #homepage
+Denis bei Twitter <http://twitter.com/denis2342> #twitter
+Twitterrific 
+- Homepage 1 <http://twitterrific.com/> #homepage
+- Homepage 2<http://iconfactory.com> #homepage
+Tim bei Twitter <http://twitter.com/timpritlove> #twitter
+Max bei Twitter <http://twitter.com/343max> #twitter
+Max wird vom @pech verfolgt <http://twitter.com/pech> #twitter
+
+01:58:00 FireWire #chapter
+FireWire <http://de.wikipedia.org/wiki/FireWire> #wikilink
+FireWire 3200 <http://de.wikipedia.org/wiki/FireWire#IEEE_1394-2008_.28.E2.80.9EFireWire_S3200.E2.80.9C.29> #wikilink
+SATA2 <http://de.wikipedia.org/wiki/Serial_ATA> #wikilink
+IEEE <http://de.wikipedia.org/wiki/IEEE> #wikilink
+USB <http://de.wikipedia.org/wiki/USB> #wikililnk
+USB 3.0 <http://de.wikipedia.org/wiki/USB#USB_3.0> #wikilink
+Drobo <http://drobo.com> #homepage
+ESATA <http://de.wikipedia.org/wiki/ESATA> #wikilink
+
+02:04:30 Live Hörerfragen und Verabschiedung #chapter
+Radio
+- soma.fm <http://somafm.com/> #homepage
+- funkwelle.fm <http://www.radiopiloten.de/funkwelle-fm> #homepage
+- mikro.fm <http://mikro.fm/> #homepage
+MobileMacs bei Twitter <http://twitter.com/mobilemacs> #twitter
+Twirl <http://www.twhirl.org/> #homepage
+

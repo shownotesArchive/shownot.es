@@ -1,0 +1,168 @@
+Kurze Version unter: https://shownotes.piratenpad.de/mm094gekuerzt
+
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+Sonderzeichen für Listen: –
+
+mobileMacs 94
+mit @timpritlove (IRC timpritlove, metaebene), @343max (IRC max343), @roddi (IRC roddi), @hukl (IRC hukl), @denis2342 (IRC denisx), @map
+Veröffentlichung: http://mobilemacs.de/2012/08/mm094-mit-einer-leichten-haselnuss-im-abgang.htm
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fmm094&time=19%3A40%3A00>
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Stream: http://streams.xenim.de/mobile_macs.mp3.m3u
+
+Zusammengetragen von: @mrmoe, @konfluenzpunkt, @Anthrazit101, @Eragos, @kaeffchen_heinz, @AlphonsPho
+
+Sendungsbeginn: 19:40:55
+
+00:00:01 Previously on Mobile Macs <http://soundcloud.com/david1701/previously-on-mobilemacs-093> von David_1701 (Flattr: https://flattr.com/profile/david1701) 
+00:02:30 Hukl schlägt vor, zur Sendung 100 in den Heide Park oder Tropical Island zu fahren.
+Roddi hat in dem Gebäude gearbeitet (Cargolifter AG, <http://de.wikipedia.org/wiki/Cargolifter_AG>)
+00:05:00 Stream-Unterbrechung
+...
+00:11:00 Stream wieder da
+
+Heute zu Gast: Martin Pittenauer
+00:11:01 Martin Pittenauer (@map) von den CodingMonkeys erzählt von seinen bisherigen Projekten
+00:11:30 SubEthaEdit <http://www.codingmonkeys.de/subethaedit/>
+00:12:00 Carcassonne für iOS <http://itunes.apple.com/de/app/carcassonne/id375295479>
+00:15:45 Lost Cities wurde in Asien bereits released <http://lostcitiesapp.com> 
+00:17:00 Die App Preise umgerechnet
+00:18:30 Martin erklärt: Nutzungsmöglichkeit von Promo-Codes für Vorabtest von iOS-Apps
+00:20:20 Wie man Lost Cities spielt und warum das Spiel so heißt
+00:22:00 Das Spiel macht sehr schnell süchtig
+00:23:00 CRE162 Thema Brettspiele <http://cre.fm/cre162> mit (@zeitweise)
+
+Vermischtes
+00:24:55 Stachelbeerkuchen Mem aus Mobile Macs 93 <http://mobilemacs.de/2012/08/mm093-massiv-hohl.html> 
+00:27:00 Das Team hätte gerne einen Stachelbeerkuchen zur nächsten Sendung
+00:27:40 Denis hat einen kleinen Garten in Berlin-Mitte
+00:29:00 MM100-Planungsüberlegungen
+00:31:50 Die Mobile Macs-Bauleitung informiert über den Baufortschritt des Apple-Store in Berlin
+00:33:45 Aktuelle Geek-Veranstaltung in Berlin (Tempelhof) mit angeblich 10.000 Teilnehmern: Campus Party™ Europe in Berlin <http://www.campus-party.eu/2012/index.html>
+00:39:00 Tempelhof als Location ungeeignet <http://www.tempelhoferfreiheit.de/veranstalten-mieten-investieren/eventlocation/> <http://www.flickr.com/photos/campuspartyeurope/7341279486/in/photostream> <http://360.io/A9r65q>
+00:43:00 Schlechte Akustik im Flughafen
+00:45:00 O'Raily Camp
+00:47:10 Weitere Ausführungen zum Organisationschaos auf der Campus Party™ in Berlin
+00:51:00 Es gibt kein WLAN
+00:54:00 Alkohol, Misstrauen und andere Unzulänglichkeiten
+00:56:00 Alkohol in Wasserflasche füllen ohne das Plastiksiegel zu beschädigen <https://www.youtube.com/watch?v=FmY5uN18SaU>
+00:59:40 Tim erzählt von seinem Gespräch mit dem O2-Guru auf der Campus Party™ sowie seiner O2-Datennutzung im Ausland. Datendrosselung liegt bei 2 kbit/s (GPRS 55,6 kbit/s)
+01:05:00 Mobilfunknetze in Zügen
+01:07:50 Vodafone und Die Bahn
+01:11:00 Max ist jetzt bei der Telekom-Tochter Congstar <http://de.wikipedia.org/wiki/Congstar> <http://www.congstar.de> und berichtet
+01:14:00 Prepaid Aufladung und Nutzung von Datentarifen ist wegen der verzögerten Guthabenbuchung verbesserungswürdig
+01:15:00 Hukl hat von der Telekom eine SMS, betreffend Premium-Ticket für's neue iPhone,  bekommen
+01:16:00 Es sollte farbige iPhones geben, ähnlich dem iPod-Angebot
+01:18:30 Gute und schlechte Bitcoins ‒ Bitcoin-Kreditkarte <http://codinginmysleep.com/6-8-weeks-until-bitcoin-debitcredit-card-says-bitinstant>
+01:19:50 FPGA ist bald nicht mehr "das angesagte Ding" in Bitcoin-Land 
+01:20:30 FPGA vs. ASIC <http://www.xilinx.com/fpga/asic.htm> 
+01:22:00 Das ZFS Drama von Apple und Greenbyte <http://de.wikipedia.org/wiki/ZFS_(Dateisystem)> 
+01:27:00 hukl’s Fragestunde zum zukünftigen Apple-Dateisystem
+01:28:00 Solaris, Oracle kaufte Sun 
+– Interessanter Talk zur Solaris-History "Fork Yeah! The Rise and Development of illumos" von Bryan M. Cantrill <https://www.youtube.com/watch?v=-zRN7XLCRhc> 
+01:32:00 Illumos - open source fork of OpenSolaris <http://wiki.illumos.org> 
+01:33:00 "Wiederholen heißt lernen" sagte @Holgi in NSFW055 <http://not-safe-for-work.de/nsfw055-troll-comfort/> 
+01:34:25 @map gibt Hintergrundinformationen zum gemeinsamen Editieren in SubEthaEdit <http://www.codingmonkeys.de/subethaedit/> <http://www.codingmonkeys.de/subethaengine>
+– Altes Paper zu Operational Transformationen in Realtime Group Editors  <http://www.slideshare.net/garyedwards/operational-transformation-in-realtime-group-editors-issues-algorithms-and-achievements> 
+01:42:30 Syncing: Techniken von Google Docs, Google Wave und Etherpad
+01:46:00 Lob an das Etherpad und die Shownotes-Verfasser
+01:47:10 Tim spricht über Syncingprobleme von SimpleNote und Justnotes
+01:48:30 TextMate ist jetzt Open Source (GPL3) auf GitHub <http://blog.macromates.com/2012/textmate-2-at-github> <https://github.com/textmate>
+01:52:00 Unzulänglichkeiten von Chocolat <http://chocolatapp.com>
+01:53:30 @hukl benutzt Textmate 1 (der allerdings recht langsam ist) und Sublime (der recht schnell ist) <http://www.sublimetext.com/2>
+01:55:40 Stream down
+...
+01:58:45 Stream wieder da
+01:58:10 Max' Kollege stigi hat MountainGrowl (Growl Plugin für das Nottification Center) geschrieben <https://github.com/stigi/MountainGrowl>
+02:00:45 Stream down
+...
+02:03:45 Stream wieder da
+02:04:00 Mögliche Ursachen der Stream-Unterbrechungen
+02:05:15 Tim wundert sich nicht, dass Curiosity mit VxWorks läuft <http://de.wikipedia.org/wiki/VxWorks>
+02:07:50 Bayreuther-Hell ist geschmeidiger am Gaumen <http://winkenschuerfel.de/bayreuther-brauhaus-bayreuther-hell/>
+02:10:25 Dass die AirPort Extreme derzeit mit VxWorks laufen soll ist zweifelhaft
+Internet
+02:14:00 Amazon Glacier <http://aws.amazon.com/de/glacier/>
+‒ Preis: $0,011 pro GB in Europa schreibend
+‒ Datentransfer wird recht kompliziert und untransparent berechnet
+‒ Mögliche Anwendung: Write-Only Komplettbackups
+02:25:30 Macht Arq Power NAP? <http://www.haystacksoftware.com/arq/> 
+02:28:45 Flattr hat Subscriptions von verschieden Laufzeiten zu Dauersubscriptions geändert
+02:31:30 Tim ist verified Twitter-Nutzer
+‒ Verifizierungsprozess per Mail und Fragenspielchen in drei Schritten
+‒ 1. Schritt: 2 Tweets bewerten:
+‒ 2. Schritt: "Ich war gestern bei der Oskar-Nacht", "Ich bin bei den #Oscars"
+‒ 3. Schritt: Telefonische Verifikation mit 4-stelliger PIN
+‒ Link zum Verifikationsprozess aus Chat: <https://twitter.com/codinghorror/status/238174208918687744/photo/1> 
+‒ In keinem der Schritte wird die Identität wirklich geprüft
+‒ Der Account "@verified" (34.000 Follower) folgt Tim und warscheinlich jedem Verified-Nutzer.
+02:40:20 Änderungen in der Twitter-Programierschnittstelle (API) <https://dev.twitter.com/blog/changes-coming-to-twitter-api> 
+02:41:40 Auswirkungen der API-Änderungen auf Screenfeeder <http://screenfeeder.com> 
+02:42:00 Auswirkungen im Allgemeinen
+02:45:00 Traditionelle Twitter-Clients werden offensichtlich nicht mehr gewollt
+02:48:15 App.net
+‒ App.net <https://join.app.net/>
+‒ 50-$-Elite-Plattform <https://alpha.app.net/>
+‒ App.net möchte eine userfinanzierte und werbefreie Socialmedia-Plattform werden
+‒ Anstoßfinanzierung läuft aktuell über CrowdFunding (min. $50/User bzw. $100/Entwickler)
+‒ aktuell 2.606 unique User heute (22.08.2012) <http://appnetstats.com>
+‒ @timpritlove, @metaebene, @map, @hukl und @roddi haben Accounts
+– Client-Software ist noch sehr alpha 
+‒ moApp for AppDotNet (Alpha-Version) <http://myownapp.com/apps/> Download: <http://createlivelove.com/downloads/moApp.zip>
+03:04:00 Das Geschäftsmodell von App.net. Risiken und Nebenwirkungen.
+03:10:00 Infrastruktur sozialer Netzwerke. Vorteile einer dezentralen Infrastruktur
+03:14:00 Schwarmfinanzierung und Speiseeis
+03:20:45 Medium (@Medium) möchte das Blogging neu erfinden <https://medium.com> 
+03:26:10 The Windows 8 User Experience (ehemals Metro)
+03:31:10 @hukl: "Von der BVG lernen heißt siegen lernen"
+03:32:30 Microsoft research <http://research.microsoft.com>
+03:34:00 Die Podcast-Runde glaubt nicht das Windows 8 fliegen wird
+03:34:45 Nokia hat Qt verkauft <http://www.golem.de/1103/81941.html> 
+03:36:45 @hukl hat sich einen IOLITE Vaporizer gekauft <http://www.iolite.com/index.php/euro/iolite.html>  <http://www.vaporizer-markt.de>  
+03:45:25 OpenType-Schriftart FF Chartwell <https://www.fontfont.com/how-to-use-ff-chartwell>
+‒ die Schriftart interpoliert nativ Charts aus Nutzer-Eingabe mithilfe von OpenType-Styles
+‒ via FontShop Berlin <http://www.fontshop.de/>
+03:48:25 Stream weg
+...
+03:51:30 Stream wieder da
+03:51:30 @hukl berichtet über seinen neuen Gitarren-Verstärker
+‒ E-Gitarren Tonabnehmer (Pick) <http://de.wikipedia.org/wiki/E-Gitarre#Elektrik>
+03:56:25 Stream weg
+...
+04:03:00 Stream wieder da
+04:04:00 Video Codecs
+‒ Batman in IMAX Format <http://www.batmannews.de/gotham_city_central/gotham_globe/special/TDK_Special/tdk_special_imax.html>
+04:09:40 Nochmal MM100
+‒ Tim denkt sich eine Umfrage zu MM100 aus und Twittert diese über @mobilemacs
+04:11:45 @hukl Pro-Tipp: Bäcker die noch selbst backen, "Gute Bäcker Berlin"
+<https://maps.google.com/maps/ms?msid=209047120561350687342.0004c6bc5a4d315fcc24f&msa=0&ll=52.517631,13.454304&spn=0.021649,0.03974>
+‒ Erweiterung für Deutschland möglich und wünschenswert
+‒ Vegane Croissants
+04:15:12 Ende
+
+
+
+
+
+*****
+Titelvorschläge (oder aus Chat entnehmen):
+"Sie nennen es Party"
+"Alien Geburtspods"
+"Alkohol"
+"Kann Spuren von Daten enthalten"
+"Sie riechen an Flaschen"
+"Der O-Saft ist schimmlig"
+"Selbstdesintegriert"
+"Cloudverbot"
+"Gut abgehangen"
+"Haselnuss im Abgang"
+"MobileBeers"
+"Drobo zum Mars schießen"
+"Worst Business Bullshit Ever"
+"Twitter ist das neue AOL"
+"Fliegen im Bier"
+"Mehrteilige Kiffersets"
+"Magneteinstreuung"
+"Kauft euch die scheiß Blu-Ray"
+"Wir wollen mehr Pixel"
+
