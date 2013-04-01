@@ -12,13 +12,12 @@ Name                  | Anwesenheitswahrscheinlichkeit (Podlove Workshop)
 Evita                   | 99% (99%)
 Simon                 | 95 % (99%)
 Quimoniz           |
-luto                     | 99% (99%)  [Freitag Nacht bis Dienstag Abend, wg. Schulfreistellung]
+luto                     | 99% (99%)  [Freitag Nacht bis Dienstag Abend]
 Gurkitier             | 0%
 Melman              |
 Dr4k3                 | 0% (0%)
 
    * Vorher
-
      * Vorträge Shownotes schreiben
        * Pads vorbereiten
        * Recherchieren wann welcher Vortrag läuft
@@ -29,7 +28,6 @@ Dr4k3                 | 0% (0%)
        *  
        *  
        *  
-
      * Kurzen Vortrag zum Thema: Shownot.es während des Podcastertreffens
        * wer kennt sich mit welchem Thema gut aus
          * Unsere Software

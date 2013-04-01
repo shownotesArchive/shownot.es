@@ -1,0 +1,300 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich)
+
+HEADER
+Wikigeeks 039
+Podcaster: Claudia Krell (@wortkomplex), Ralf Stockmann (@rstockm)
+Stream: http://moepmoep.com:8600/moep6.mp3
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fwg040&time=20%3A26%3A10&Button=Create%21
+Chat: http://www.moepmoep.com/fwork/index.php?page=MibbitChat
+Shownoter: @Quimoniz, @SimonWaldherr, @EvitaBley, gglnx
+
+/HEADER
+
+Preshow: 20:16:15
+Sendungsbeginn: 20:26:10
+
+-00:10:00 Preshow #chapter
+Gigalinux wird zum Geburtstag gratuliert
+ePirat nimmt heute nicht auf
+Conrad Adventskalender <http://www.youtube.com/watch?feature=player_detailpage&v=cI54wO2LQ_o#t=23s> #youtube
+Nun ist das LED Licht schon dimmbar
+Elektrik (was ist Spannung, Stromstärke und Wiederstand)
+CMOS IC4007 <http://www.cmos4000.de/cmos/4007.html>
+MOSFET <http://de.wikipedia.org/wiki/MOSFET> #wikilink
+PFETs und MFETs <http://de.wikipedia.org/wiki/Feldeffekttransistor> #wikilink
+GetDigital <http://www.getdigital.de/>
+Claudia? nimmt etwas "aus dem Kalender"
+LED Schnürsenkel <http://www.getdigital.de/products/LED_Schnuersenkel> #shopping
+29C3 in Hamburg <https://events.ccc.de/congress/2012/wiki/Main_Page> #wikilink
+Lötworkshops auf dem Congress
+
+00:00:00 Intro und Nachtrag zu WG037 #chapter
+gesprochen von Siri #spoiler
+Siri ist schlecht gelaunt (manisch depressiv)
+Nachtrag zu "Panzertape statt FKK" Sendung 037 
+15 Thesen <http://t3n.de/news/15-thesen-diese-techniktrends-430130/>
+3-D Drucker von Staples <http://www.wired.com/design/2012/11/staples-goes-3-d/>
+Waffen aus dem 3D Drucker <http://de.engadget.com/2012/12/05/video-halbes-sturmgewehr-aus-dem-3d-drucker-halt-sechs-schuss-a/>
+Open-Source Gewehr kann jetzt schon 6 Schüsse abgeben
+nochmal LED Schnürsenkel <http://www.heise.de/tr/artikel/Produkte-Leuchtende-Schnuersenkel-1670759.html> #heise
+Vertretung bei anyca.st <http://anyca.st/2012/any025-reziproke-schwangerschaftsvertretung> #podcast
+00:10:50 Die Piraten sollten mehr Acht auf ihre Öffentlichkeitsarbeit geben
+
+00:11:40 News #chapter
+(K)eine Überleitung
+Weltuntergangs-Postshow am 22.12.2012 um 20:15
+Weltuntergangsgala am 21.12. u.a. mit Hoaxmaster und Holgi
+00:13:55 Einspieler "Die News" #jingle #spoiler
+Es gibt ein neues Appportal, gestartet beim IT Gipfel NRW GovApps.de <http://www.govapps.de/>
+- Vorbild apps.usa.gov <http://apps.usa.gov/>
+00:16:35 auch für Leute, die sich nicht für heißen Social Media Scheiß interessieren
+00:16:58 iRente
+00:18:10 Verwirrende Startseite
+Sortierung nach Region (NDS: 0, BY: 8, NRW: 24)
+00:19:45 Kafkas Der Prozess <http://de.wikipedia.org/wiki/Der_Process> #wikilink
+AlleenFinder <https://play.google.com/store/apps/details?id=de.geomobile.alleen#?t=W251bGwsMSwxLDIxMiwiZGUuZ2VvbW9iaWxlLmFsbGVlbiJd>
+XFinder - Diverse Finder Apps
+00:24:50 Gute Idee, schlecht umgesetzt und wahrscheinlich zu teuer #spoiler
+00:25:10 Kosten von IT-Großprojekten
+00:25:50 Code ist weder offen noch frei #spoiler
+00:26:00 Projekteckdaten <http://www.govapps.de/projekt>
+- 262.877,60€ hat das ganze gekostet #spoiler
+00:28:40 Design, Realisierung und Hosting von/durch Fraunhofer Institut FOKUS
+
+00:29:00 Die Deutsche Digitale Bibliothek #chapter
+00:29:00 Einspieler "Die News" #jingle #spoiler
+Die Deutsche Digitale Bibliothek <http://www.deutsche-digitale-bibliothek.de/>
+00:30:05 Eröffnet mit nem großen rotem Knopf
+- Buzzer war für die Presse #spoiler
+Livestream hat überraschenderweise funktioniert #spoiler
+00:31:25 Wikimedia: Betaversion war auf <beta.deutsche-digitale-bibliothek.de>
+Europeana <http://www.europeana.eu/portal/>
+"Mein Kampf" war unter den beliebtesten Dokumenten #spoiler
+00:36:05 Deutsche Nationalbibliothek in Frankfurt <http://www.dnb.de/>
+Vergleich von DDB zu Google ist Sinnlos #spoiler
+00:37:00 Sehr aufwendiger Indexierungsablauf bei DDB #spoiler
+69 von 1068 Institutionen haben Daten im Index, die anderen müssen noch warten
+(Meta-)Daten Standards #spoiler
+Kutlurerbe Niedersachsen <http://kulturerbe.niedersachsen.de/viewer/start/>
+00:40:25 Converterscripte #spoiler
+00:40:50 Semantische Ebene bei DDB #spoiler
+Datenbestand muss bei neuen Features neu geindexd werden
+Digitalisierung und Semantisierung #spoiler
+00:43:25 Lizenzen
+Artikel von Mathias Schindler <http://blog.wikimedia.de/2012/11/28/deutsche-digitale-bibliothek-beta-ddb/>
+Keine offenen/freien APIs, kein cc0 #spoiler
+APIs werden freigegeben werden (nächstes Jahr) #spoiler
+00:47:00 Der Aufwand der Prüfung, was wie freigegeben werden kann, ist hoch #spoiler
+Mehr Besucher für Museen bei offener guter Onlinepresänz #spoiler
+"Für die Aura des Originals" #Zitat
+Feedback war gut, aber die Vorschaubilder wurden sehr klein gehalten, aufgrund von Rechtsproblemen. #spoiler
+Ein Klick führt zu den hochauflösenden Versionen bei den jeweiligen Ausstellern. #spoiler
+00:50:10 Gekickte Features
+Staatstragende Inhalte bei den Wikigeeks #spoiler
+00:51:00 Arte Plus 7 vierteilige Serie "Amerika im Wohnzimmer" <http://programm.ard.de/TV/arte/amerika-im-wohnzimmer-/eid_287249020165294?list=now>
+00:53:45 Einspieler "Die News" #jingle #spoiler
+
+00:54:00 10 Jahre Creative Commons #chapter
+Definition Jubiläen, "alles was aus 25 teilbar ist" <http://de.wikipedia.org/wiki/Jubil%C3%A4um> #wikilink
+Geschichte und Herkunft des Urheberrechts
+- Völkerrecht <http://de.wikipedia.org/wiki/V%C3%B6lkerrecht> #wikilink
+- Vereinfachung durch Creativ Commons <http://creativecommons.org/>
+es gibt 4 Modi mit 6 verschiedenen Lizenzen
+by (Namensnennung), nd (nicht Veränderbar), sa (Weiterverbreitung unter gleicher Lizenz), nc (Nicht kommerzielle Nutzung)
+00:59:25 Wikicommons <http://commons.wikimedia.org/wiki/Main_Page>
+Berner Abkommen <http://de.wikipedia.org/wiki/Berner_Übereinkunft_zum_Schutz_von_Werken_der_Literatur_und_Kunst> #wikilink
+01:00:10 Unterschied zwischen offen und frei
+Open-Source Lizenzen: Apache, BSD, GPL, MIT
+01:02:02 Podpott <http://podpott.de/>
+01:02:15 Artikelserien auf ZEIT ONLINE
+Blogger Michael Seemann (@mspro) kritisiert die CC als komplizierte, elitäre Wichtigtuerei: <http://www.zeit.de/digital/internet/2012-12/creative-commons-kritik>
+ John Hendrik Weitzmann, zuständig  für rechtliche Fragen bei Creative Commons 
+Deutschland, gibt einen  Ausblick auf die Entwicklung des Lizenzmodells: <http://www.zeit.de/digital/internet/2012-12/creative-commons-ausblick>
+ Wissenschaftler  Leonard Dobusch hält  die Creative Commons für den Schlüssel zur  Versöhnung des Urheberrechts  mit der digitalen Revolution. <http://www.zeit.de/digital/internet/2012-12/creative-commons-reform>
+01:04:45 WTFPL <http://de.wikipedia.org/wiki/WTFPL> #wikilink
+Redesign  #spoiler
+Public Domain <http://de.wikipedia.org/wiki/Gemeinfreiheit#Public_Domain> #wikilink
+
+01:13:45 Geselschaftliche Netzthemen #chapter
+01:13:46 Einspieler "Geselschaftliche Netzthemen" #jingle #spoiler
+01:13:50 Heißer SM-Shyce #spoiler
+eyeQuest <http://eyequest.de/>
+netzwertig.com: eyeQuest ermöglicht Blick durch fremde Smartphone-Kameras <http://netzwertig.com/2012/05/04/crowdsourcing-eyequest-ermoeglicht-blick-durch-fremde-smartphone-kameras/>
+Adoro #spoiler
+01:17:45 Wikigeeks tritt gegen "Wetten dass..." an <http://www.zdf.de/ZDFmediathek/#/kanaluebersicht/482/sendung/Wetten,-dass.?> #spoiler
+eyeQuest und Soziologie, Spieltheorie <http://de.wikipedia.org/wiki/Spieltheorie> #wikilink
+Google Glasses <http://en.wikipedia.org/wiki/Project_Glass> #wikilink
+Bild der Creative Commons Party <https://twitter.com/moltke/status/277510751277699072>
+Gamification in eyeQuest
+Monetarisierung #spoiler
+Verwendung von eyeQuest im Journalismus
+01:29:40 rstockm: "Die große dicke mit dem A drauf" (zum Räusperknopf)  #zitat #spoiler
+01:31:00 Reden mit dem Chat #spoiler
+getdigital Adventskalender <http://www.getdigital.de/>
+Umgang mit Timecodes nach Schneidvorgängen
+Qualität des Podcasts bei Verwendung von Listen/BulletPoints #spoiler
+Wiimote <http://de.wikipedia.org/wiki/Wii-Fernbedienung> #wikiink
+01:41:10 Einspieler "Die Themen" #jingle #spoiler
+Entropie <http://de.wikipedia.org/wiki/Entropie> #wikilink
+Tweet, Stromkonzerne sollten zum Weltuntergang die Kunden trollen, durch 10 Minuten Stromausschalten. #spoiler
+FTD ist tot <http://de.wikipedia.org/wiki/Financial_Times_Deutschland> #wikilink
+- letzte Worte der Chefredaktion <http://www.ftd.de/it-medien/medien-internet/:letzte-worte-der-chefredaktion-ihr-koennt-euch-wieder-hinlegen/70126325.html>
+
+01:44:00 E-Science #chapter
+Thema: E-Science (Ralfs Vorlesung an der Hochschule Hannover)
+01:44:05 Paradigmenwechsel in der Wissenschaftsgeschichte
+01:46:50 Vor Tausenden von Jahren  - Experimental Science: Beobachtungen und Beschreibungen natürlicher Phänomene
+- Schwerkraft
+- Wasserverdrengung
+- Hebelwirkung
+01:47:20 In den letzten Jahrhunderten - Theoretical Science mit z.B. den Newton’s Gesetzen, Maxwell’s Gleichungen etc.
+01:47:50 In den letzten Jahrzehnten - Computational Science: Simulationen komplexer Phänomene
+Bisherige drei Phasen
+Tony Hey von Microsoft <http://research.microsoft.com/en-us/people/tonyhey/>
+01:48:35 Heute – E-Science or Data-centric  Science: Zusammenführung von Theorie, Experiment und Simulation,  Stichworte hier: data exploration, data mining, text mining
+Tony Hey et al. (2010), The Fourth paradigm. Data-Intensive Scientific Discovery
+Beispiel DDB #spoiler
+01:50:00 neue Phasen/Paradigmen dabei lösen alte nicht ab
+01:50:50 The fourth Paradigm http://research.microsoft.com/en-us/collaboration/fourthparadigm/
+- Buch als PDF <http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_complete_lr.pdf>
+01:51:25 William Gibson: “The Future is already there, it is just unevenly distributed.”
+Die Zukunft ist bereits da, wir wissen es nur nicht
+01:52:20 CERN <http://public.web.cern.ch/public/>
+- eScience in Reinkultur
+Very Large Telescope <http://en.wikipedia.org/wiki/Very_Large_Telescope> #wikilink
+Europäische Südsternwarte <http://www.eso.org/public/teles-instr/vlt.html>
+- Wikipedia <http://de.wikipedia.org/wiki/Europ%C3%A4ische_S%C3%BCdsternwarte> #wikilink
+- Timelapse Video <http://www.youtube.com/watch?v=wFpeM3fxJoQ>
+Definition E-Science in der Wikipedia: <http://de.wikipedia.org/wiki/E-Science> #wikilink
+es gibt viel Geld zu holen #spoiler
+Barack Obama Wahlkampf
+01:57:30 Die Visiualisierungen der Bibel <http://www.chrisharrison.net/index.php/Visualizations/BibleViz>
+Medienwissenschaften in Göttingen #spoiler
+02:00:00 Berufsfeld: E-Science Architekt
+Als Vermittler zwischen  Wissenschaftlern, Informatikern, Archivaren Rechenzentrumsbetreibern, Förderern,  Politikern, Gedächtnisinstitutionen <http://de.wikipedia.org/wiki/Gedächtnisinstitution> #wikilink
+
+02:01:25 Forschungsdaten #chapter
+"Der Datenfetisch wird hier ausgelebt" #zitat
+Wikileaks sei der zukünftige Grundzustand der Gesellschaft #spoiler
+Wir wissen nicht, was in der Zukunft Daten sein werden #spoiler
+Daten wollen frei sein (cc0) <http://wiki.creativecommons.org/CC0>
+Open Access <http://www.open-access.net/>
+Übermorgen werden Daten vernetzter sein als Morgen
+Digital Humanities <http://de.wikipedia.org/wiki/Digital_Humanities> #wikilink
+Semantisierung von Daten, Normzustandsverknüpfung
+Dies sind die drei Gesetze des Kontrollverlustes #spoiler
+02:06:10 Das was heute vorliegt it nur ein Bruchteil dessen, was in fünf Jahren vorliegt
+02:06:30 Beispiel: die Arbeitslosen von Marienthal
+Kriegt man Wissenschaftler irgendwann dazu, ihre eigenen Texte zu semantisieren? Wahrscheinlich nicht.#spoiler
+"ich glaube ja, dass wir immer mehr probleme damit bekommen korrelationen von kausalitäten zu unterscheiden." #zitat
+Normdaten <http://de.wikipedia.org/wiki/Normdatei> #wikilink #spoiler
+02:10:15 Langzeitarchivierung, Forschungsdaten seien unbegrenzt aufzuheben
+<http://www.langzeitarchivierung.de>
+02:12:50 Ralfs Kunstwerk im Arbeitszimmer aka Rumpelkammer #spoiler
+02:13:00 "ist das Weltwissenschaft oder kann das weg?" #zitat
+02:15:10 Bitstream Preservation
+1/3 Festplattendefekt bei 15 Jahre alten Festplatten
+"Festplatten beim Sterben zugucken" #zitat
+Festplatten sind nur mittelgut für Langzeitarchivierung wenn man kein RAID-Array darüber hat. #spoiler
+Speicherverhalten von Katzen-DNA <http://www.wired.com/wiredscience/2012/08/dna-data-storage/>
+02:16:45 technische Nachnutzbarkeit
+Dateienformate (Grafiken, Textdateien, etc.)
+keine Verschlüsselte Datenträger und keine Komprimierung #spoiler
+02:19:15 intellektuelle Nachnutzbarkeit 
+Zusammenhang und Metadaten von Daten vergessen (unzureichende Dokumentation)
+02:21:25 "Archivierung ist komplett Alternativlos" #zitat
+Die NASA kann nicht mehr zum Mond fliegen, weil sie nicht mehr wissen was die Daten bedeuten. #spoiler
+02:22:45 Emulation vs. Migration von Daten
+- am Beispiel historischer Computerspiele #spoiler
+Ansatz, die Laufzeitumgebung zu erhalten ist ein Irrweg
+SourceCode der Apollo 11 Mission ist verfügbar <http://googlecode.blogspot.de/2009/07/apollo-11-missions-40th-anniversary-one.html>
+Messdaten fehlen aber #spoiler
+02:26:30 Gorleben #spoiler
+TEI <http://en.wikipedia.org/wiki/Text_Encoding_Initiative> #wikilink
+XML <http://de.wikipedia.org/wiki/Extensible_Markup_Language> #wikilink
+Plaintext <http://de.wikipedia.org/wiki/Plain_text> #wikilink
+"Tut euren Kindern einen gefallen, macht auch Plaintext" #zitat
+
+02:27:40 Forschungsinfrastruktur #chapter
+CLOUD & GRID
+SETI Projekt <http://de.wikipedia.org/wiki/SETI-Institut> #wikilink
+SETI@home <http://setiathome.ssl.berkeley.edu/>
+- Wikipedia <http://de.wikipedia.org/wiki/SETI@home> #wikilink
+BitCoin <http://de.wikipedia.org/wiki/Bitcoin> #wikilink
+Moores Law in korrelation gesetzt mit Speicher und Internetgeschwindigkeit <http://www.farces.com/index.php/hasten/comments/google_may_disrupt_internet_connectivity_incumbents>
+- Internetgeschwindigkeit steigt zu langsam (im Vergleich zu Speicher und Rechenkapazität)
+Desolate DSL/VDSL Leitungen, Bsp. Mobile Macs <http://mobilemacs.de> #podcast
+Datenbusse sind zu langsam #spoiler
+Breitbandgesellschaft <http://www.breitbandnetzgesellschaft.de/>
+02:32:25 "LTE ist eine pseudo Alternative" #zitat
+02:33:40 CRE191 - Internet im Festnetz <http://cre.fm/cre191> #podcast
+02:34:30 Festplatten/USB-Sticks verschicken als Alternative zu schnellem Internet #spoiler
+02:35:40 Kollaboration in der Wissenschaft
+die Weisheit der Massen: Francis Galton <http://de.wikipedia.org/wiki/Francis_Galton> #wikilink
+Wette auf einer Viehmesse #spoiler
+Die Wette hat er verloren, der Durchschnitt der Masse ist näher an der Lösung als der beste Experte
+Eugenik <http://de.wikipedia.org/wiki/Eugenik> #wikilink
+Universalgenie mit problematischen Hintergrund #spoiler
+02:38:50 Kollaboratives Arbeiten <http://de.wikipedia.org/wiki/Kollaboration> #wikilink
+The Wisdom Crowds <http://www.amazon.de/dp/0385721706/> #amazon #shopping
+Tipping Point #spoiler
+Probleme: Abstimmung/Verantwortlichkeiten, Paralleler Zugriff, unterschiedliche Sichtweisen
+Etherpad <http://en.wikipedia.org/wiki/Etherpad> #wikilink
+Kollabartion benötigt Kommunikation
+Automatisierung ist besser als Crowdsourcing (wenn möglich)
+Sony produziert keine Kassettenrekorder mehr #spoiler
+Beziehungsprobleme aufgrund Mixtaps #joke #spoiler
+Benjamin von Stuckrad Bares Kapitel zu Mixtapes #spoiler
+
+02:47:00 Datenjournalismus und Visualisierung #chapter
+Wettkönig bei "Wetten, dass..." #spoiler
+02:49:00 Google Books NGram Viewer <http://books.google.com/ngrams>
+02:49:50 Big Data - Gregory Crane: „What do you do with a million books?“ <http://www.dlib.org/dlib/march06/crane/03crane.html>
+Apple vs. Microsoft kann man nicht vergleichen (da Apple nicht eindeutig ist)
+Korrelation ungleich Kausaler Zusammenhang
+Korrelation Kirchtürme und Anzahl Morde, (siehe Hoaxmaster) #spoiler
+Google Chart Toolkit <https://developers.google.com/chart/>
+02:53:30 Voyant Tools (Linguistische Textanalyse) <http://voyant-tools.org/>
+europeana4D <http://dev2.dariah.eu/e4d/>
+- Eurovision Song Contest / Grand Prix <http://dev2.dariah.eu/e4d/?source1=3&kml1=http%3A%2F%2Fref.dariah.eu%2Fstorage%2F111701>
+- Bekannte Störfälle in AKWs <http://dev2.dariah.eu/e4d/?source1=3&kml1=http%3A%2F%2Fref.dariah.eu%2Fstorage%2F112251>
+- Einführung des Frauenwahlrechts <http://dev2.dariah.eu/e4d/?source1=3&kml1=http%3A%2F%2Fref.dariah.eu%2Fstorage%2F112852>
+- Der Wikileaks Datensatz aus Afghanistan <http://dev2.dariah.eu/e4d/?kml1=Guardian%20Afghanistan%20IED%20attacks&source1=0>
+02:57:45 Virtuelle Forschungsumgebungen VRE
+derzeit zu viel Klandestinität <http://de.wiktionary.org/wiki/klandestin> #wikilink
+Was mit öffentlichen Geldern finanziert wird, muss auch öffentlich sein
+
+03:00:30 Wissenschaftskommunikation #chapter
+- Wikipedia <http://de.wikipedia.org/wiki/Wissenschaftskommunikation> #wikilink
+03:01:00 Viel Narzismus, Angst dass Zwischenschritte noch nicht perfekt sind
+LZMA <http://de.wikipedia.org/wiki/Lempel-Ziv-Markow-Algorithmus> #wikilink
+Web 1.0 Das statische Web, Web 2.0 Das mitmach Web, Web 3.0 Das Web der Dinge
+Etsy in Folge 14 <http://wikigeeks.de/201108/wg014-zickerei-um-den-socialmedia-burnout/> #podcast
+03:05:25 "Unverschämtheit, der Pöbel hat andächtig zu lauschen" #zitat
+SPARQL Sprache <http://de.wikipedia.org/wiki/SPARQL> #wikilink
+SQL <http://de.wikipedia.org/wiki/SQL> #wikilink
+phpMyAdmin <http://www.phpmyadmin.net/home_page/index.php>
+- wikipedia <http://de.wikipedia.org/wiki/PhpMyAdmin> #wikilink
+DBpedia #spoiler
+99% des Contents sind nicht semantisch verknüpft #spoiler
+03:11:50 Was unterscheidet wikidata von DBpedia (DBpedia geht davon aus, dass es eine Wahrheit gibt)
+- es gibt allerdings keine Wahrheit #spoiler
+03:14:00 Multiperspektivität
+03:14:40 Algorithmen <http://de.wikipedia.org/wiki/Algorithmus> #wikilink #spoiler
+03:14:50 Portugiesen haben einen Algorithmus zur Analyse von Texten #spoiler
+03:16:00 Relationale Datenbanken <http://de.wikipedia.org/wiki/Relationale_Datenbank> #wikilink
+Europeana ist auch RDF basiert #spoiler
+Die 4 Seiten der Wahrheit vom 24C3 <http://media.ccc.de/browse/congress/2007/24c3-2334-de-die_wahrheit_und_was_wirklich_passierte.html> #video
+- bei YouTube <http://www.youtube.com/watch?v=AyoZm6RiJW8> #youtube #video
+Alternativlos 23, Verschwörungstheorien, die sich später als wahr herausstellten.  <http://alternativlos.org/23/> #podcast
+Major Consensus Narrative <http://en.wikipedia.org/wiki/Major_consensus_narrative> #wikilink #spoiler
+Socially Constructed Reality <http://en.wikipedia.org/wiki/Socially_constructed_reality> #wikilink #spoiler
+
+03:20:30 Videos #chapter
+03:20:35 Einspieler "Das Video" #jingle #spoiler
+Video bei dem eine Kamera rückwärtig auf ein Fahrrad gebaut wird #spoiler
+Was würde passieren, wenn Chemische Elemente auf eine Party gehen würden <http://vimeo.com/1041071> #video
+Marie Curie <http://de.wikipedia.org/wiki/Marie_Curie> #wikilink
+"Muss man wissen" Meme <https://www.youtube.com/watch?v=Hj8O7x_Qfrc> #youtube #video
+03:27:19 Sendungsende: 23:53:57 Uhr #spoiler
+

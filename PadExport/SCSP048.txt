@@ -1,0 +1,109 @@
+HEADER
+(Zum Mitschreiben bitte auf https://shownotes.piratenpad.de/ einloggen/registrieren.)
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link #imdblink
+
+
+Shownotes zur 48ten Schmalsprech
+Am 31. März 2013 mit @peterknapp und @tierkritiker 
+Schmalsprech <http://schmalsprech.de>
+Chat: http://goo.gl/oXDmK
+Stream: http://xsn.io/schmalsprech.mp3
+
+Zusammengetragen von:  @bibale_, Melman (@Maestro_Bodo), @shbitt
+
+/HEADER
+
+
+1364729855 Sendungsbeginn #c
+1364729942 Peter hat was von Loriot vorbereitet, zu Attiks Geburtstag. <http://www.youtube.com/watch?v=ySOZghuyCBs> #video #youtube
+1364730065 Peter ist schon wieder krank
+1364730076 Alle rufen an und gratulieren Attik zum 44. Geburtstag
+1364730215 Beide rätseln über Attiks Alter (44)
+1364730469 Peter schickt Besucher in das Zimmer seiner Tochter.
+1364730639 Begrüßung und Anmerkung zur Standheizung <http://de.wikipedia.org/wiki/Standheizung> #g
+1364730715 Attik denk er hat das erste mal an Ostern Geburtstag. (1991 und 2002 hatte er auch an Ostern Geburtstag) <http://www.maa.mhn.de/StarDate/feiertage.html> #link
+1364730796 Ostern richtet sich nach dem Mond <http://de.wikipedia.org/wiki/Osterdatum> #g
+1364730899 Attik hat die Zeitumstellung nicht mitbekommen <http://de.wikipedia.org/wiki/Zeitumstellung> #g
+1364730962 Attiks Glühbirnen haben einen hohen Verschleiß.
+1364731055 Attik muss die Hörerschaft allein bespaßen, Peter muss sich die Nase putzen.
+1364731096 Peter muss die Hörerschaft allein bespaßen. 
+1364731144 Peter macht einen live Soundcheck im Chat <http://goo.gl/oXDmK> #link
+1364731203 Attik bekommt als Comedyautor nur "witzrotze" geschenkt
+1364731372 Attik hat Damenbesuch.
+1364731384 Attik hat richtigen Hasenbraten bekommen 
+1364731476 Bei Peter gibt es Lammlachse. <http://www.chefkoch.de/rs/s0/lammlachse/Rezepte.html> #link
+1364731572 Peter will mehr Dynamik in die Sendung bringen.
+1364731619 Für Attik sind Pinienkerne Studentenrotz <http://de.wikipedia.org/wiki/Pinienkerne> #g
+1364731692 Peter will über das Wetter reden
+1364731747 Attik hat keine warmen Klamotten nur einen Designermantel ohne Innenfutter.
+1364731846 Peter war 2 Wochen nicht draussen und hat sich das Schneetreiben nur angeschaut.
+1364731976 Peter hört keine Wetterberichte mehr, da es ihn zermürbt.
+
+1364732000 Gesundheit und Krankheit #c
+1364732007 Attik hatte letzten Monat 2 mal Magen-Darm Grippe <http://de.wikipedia.org/wiki/Magen-Darm-Grippe> #g
+1364732042 Wenn man Kinder hat, dann hat man schnell Krankheiten.
+1364732085 Attik raucht nicht mehr, und seit dem riecht er viel mehr. „Ganz Köln riecht nach Scheiße“
+1364732160 Das schlimmste, als Peter aufgehört hatte, war dass er sich selbst gerochen hat.
+1364732359 Peter war zwei Wochen wegen Masern krank, und wurde unter Quarantäne gestellt. <http://de.wikipedia.org/wiki/Masern> #g
+<http://de.wikipedia.org/wiki/Quarant%C3%A4ne> #g
+1364732487 Attik siniert über die anfänge der Impfung in den 70'ern <http://de.wikipedia.org/wiki/Impfung> #g
+1364732652 Attik will gerne verdrängen, damit man weiterarbeiten kann.
+1364732803 Attik ist in Berlin Wedding aufgewachsen, er wurde in Mülltonnen gesteckt, ihm wurde die Unterhose runtergezogen und er wurde auf viele andere Arten gequält. 
+1364732855 Attik hatte schon als Kind immer Alpträume, vor denen er schon Nachmittags Angst hatte, bis er angefangen hat diese zu Zeichnen und es ging ihm besser.
+1364733097 Die Masern waren bis 2006 fast verschwunden <http://de.wikipedia.org/wiki/Masern> #g
+1364733157 Attik gibt der Pharmaindustrie die Schuld daran. <http://de.wikipedia.org/wiki/Pharmaindustrie> #g
+1364733251 Peter erwähnt die Esoterik <http://de.wikipedia.org/wiki/Esoterik> #g
+
+1364733277 Fragen #chapter
+1364733286 Nina aus München will Lehrerin werden, und hört dabei Schmalsprech.
+1364733321 Nina fragt: Würdet ihr aus reiner Höflichkeit etwas essen was ihr ekelhaft findet?
+1364733376 Attik hat das früher gemacht (mit 12), und hat ein ungebratenes Schnitzel gegessen, weil er es sich nicht getraut hat das vor den Mädchen zu sagen.
+1364733393 Peter hatte Gitarrenunterricht und hat beim Herrn Klink zum Geburtstag ein Stück Käsekuchen gegessen wo Rosinen drinne waren, die er nicht mag.
+1364733527 Attik traut sich mittlerweile zu sagen, wenn ihm was nicht schmeckt.
+1364733551 Peter war 3 Jahre lang Vegetarier und sehr pingelig. <http://de.wikipedia.org/wiki/Vegetarismus> #g
+1364733613 Peter hat mal eine Montignac-Diät gemacht. <http://de.wikipedia.org/wiki/Montignac-Methode> #g
+1364733735 Attik war mit Kollegen in einem XXL-Restaurant und konnte nur ein halbes Schnitzel essen.
+1364733862 Bei Peter geht es eher um das Trinken da er z.B. keinen Alkohol trinkt.
+1364733888 Attik kann Essen verschwinden lassen (im Blumenbeet)
+1364733988 Attik: „Die Weißweinschorle ist das Zeichen eines Alkoholikers.“
+
+1364734098 Frage: Was ist die wichtigste kleine elektronische Revolution, für euch?
+1364734148 Attik: bugs <http://www.hexbug.com/> #link
+1364734198 Peter: Schlüsselfinder <http://de.wikipedia.org/wiki/Schlüsselfinder> #g
+1364734232 Peter wartet auf eine Pebble-Uhr <http://getpebble.com> #link
+1364734287 Attik hat alle Filme gesehen. Django hat er drei mal gesehen. <http://de.wikipedia.org/wiki/Django_Unchained> #g
+1364734330 Attik Findet es gut das die Leute in Django wenigstens schreien wenn sie Angeschossen werden.
+1364734462 Peter hat gestern "Life of Pi" gesehen. <http://de.wikipedia.org/wiki/Life_of_Pi:_Schiffbruch_mit_Tiger> #g
+1364734613 Attik fand "Movie 43" super. <http://de.wikipedia.org/wiki/Movie_43> #g
+- IMDB <http://www.imdb.com/title/tt1333125> #imdb
+1364734757 Attik fand den neuen „Stirb Langsam 5“ blöd. <http://de.wikipedia.org/wiki/Stirb_langsam_5> #g
+- IMDB <http://www.imdb.com/title/tt1606378> #imdb
+1364734793 Peter und Attik hassen Verfolgungsjagden.
+1364734827 Attiks Telefon klingelt schon wieder.
+1364734890 Peter hat mit Bindehautentzündung die Star Wars Triologie geschaut. <http://de.wikipedia.org/wiki/Star_Wars> #g
+<http://de.wikipedia.org/wiki/Bindehautentz%C3%BCndung> #g
+1364734946 Attik findet „10-Die Traumfrau“ lustig. <https://de.wikipedia.org/wiki/Zehn_%E2%80%93_Die_Traumfrau> #g
+- Trailer <http://www.moviepilot.de/movies/zehn-die-traumfrau/trailer/6779> #video
+- Amazon <http://www.amazon.de/10-Die-Traumfrau-Dudley-Moore/dp/B00004RYPE> #amazon #shopping
+1364734984 Attik mag Bo Derek Filme <http://de.wikipedia.org/wiki/Bo_Derek> #g
+1364735038 Attik ist kein Cdr_Taggart der alles gleichzeitig kann (Chat)
+1364735055 Peter hat Sherlock geschaut. <http://de.wikipedia.org/wiki/Sherlock_(Fernsehserie)> #g
+1364735111 Peter freut sich das Game of Thrones morgen wieder los geht <http://de.wikipedia.org/wiki/Game_of_Thrones> #g
+
+1364735145 Verabschiedung #chapter
+1364735237 Attik versteht nicht wie man schreiben und lesen zugleich kann.
+1364735273 Attik ist ganz alleine an seinem Geburtstag zuhause.
+
+1364735319 Sendungsende #chapter
+
