@@ -1,0 +1,150 @@
+ihr könnt hier mitschreiben
+
+Shownotes Raummaschine 10
+http://raummaschine.de
+mit @sofakissen, @madmalik, @farthen (Gast)
+Stream: http://farthen.de:8000/raummaschine
+
+Anfang:
+Juhey, es gibt einen Stream!
+Hörerzahlenfeststellung, Verwunderung über das ungewohnte Sendungsformat
+
+<verpasste Themen>
+Erste Reihe im Kino
+Verwackelte Kameraführung PENIS
+kaputte Playstation Laufwerke
+UMD für Playstation Portable ist scheisse http://de.wikipedia.org/wiki/Universal_Media_Disc
+4K Standard http://en.wikipedia.org/wiki/4K_resolution
+Veraltete Analystenartikel lesen zur Erheiterung
+Nächste Konsolengeneration x86? http://arstechnica.com/gaming/2012/04/the-x86-playstation-4-signals-a-sea-change-in-the-console-industry/
+Casual Gamer sind weg (die sind bei Apple gelandet, aus versehen)
+Plattform vs Hardware
+Nächste Playstation mit Netflix, allerdings ohne iTunes.
+NDA http://de.wikipedia.org/wiki/Geheimhaltungsvertrag
+These "Apple kauft Bitlove und vertreibt HD Content per torrent"
+Nintendo Wii http://de.wikipedia.org/wiki/Wii
+Nintendo zu Entwicklerscharen. Gute Spiele, zu vernachlässigende Hardware.
+Professor Layton http://www.gameone.de/search?q=layton
+Apple soll Nintendo mit Restbeständen aus der Portokasse zu kaufen (kost' ja nix)
+Sofakissen schwärmt von Mario Golf
+
+Musik mit dem Gameboy Color (über Nanoloop: http://www.nanoloop.de/ )
+Pornophonique http://www.pornophonique.de
+Joysticks http://de.wikipedia.org/wiki/Joystick
+Giana Sisters http://de.wikipedia.org/wiki/The_Great_Giana_Sisters
+Für C-64 zu jung http://de.wikipedia.org/wiki/Commodore_64
+"C64, das iPad seiner Generation"
+Sofakissen ist entsetzt: Farthen ist Jahrgang 1992
+Sich selbst das erste mal alt vorkommen.
+Dieter Rams, (Industrie-)Design http://de.wikipedia.org/wiki/Dieter_Rams
+Elektrogeräte Braun http://de.wikipedia.org/wiki/Braun_(Elektrogeräte)
+Zusammenhang der Designs bei Braun & Apple 
+Die Zehn Regeln guten Designs http://www.vitsoe.com/en/gb/about/dieterrams/gooddesign
+Thinkpad versucht nicht nach etwas auszusehen was es nicht ist (ehrliches Design) http://de.wikipedia.org/wiki/ThinkPad
+Open Source Software versucht leider oft zu viele Features nur halb zu können.
+Schlichtheit, Inkonografigkeit: IKEA, Lego
+Lego ist Inbegriff des einfachen Desings und das Spielzeug schlechthin http://de.wikipedia.org/wiki/Lego
+Braun http://de.wikipedia.org/wiki/Braun_(Elektrogeräte)
+Nest Thermostat: http://www.nest.com/
+Schlechtes Design: Nokia http://en.wikipedia.org/wiki/Nokia, Alienware (Dell) http://alienware.com/, http://www.gameswelt.at/articles/news/88915-Alienware/index.html, 
+RIM liefert auch gute Beispiele für schlechtes Design: http://de.blackberry.com/devices/p9981/features.jsp
+Rants über Grafikkarten, Namenskonventionen, Kundenverwirrung durch selbige
+Apple ist gleichzeitig Mainstream und Hipster
+
+Musikpause (Echte Podcaster müssen auch mspros pullen)
+
+Urheberrecht: http://de.wikipedia.org/wiki/Urheberrecht
+
+Blogkram, Farthen und Madmalik arbeiten dran. Siehe auch: Letzte Raummaschine™:
+http://podcast.raummaschine.de/archives/04-26-12/009-its-better-to-fade-out-than-to-burn-away.html
+Ansatz: Bloggen für Normalos, weg von Wordpress, Skripten
+Hin zu guten altem statischem HTML
+Siehe auch: Octopress http://octopress.org (generiert statisches HTML, ist aber nur bedingt benutzerfreundlich)
+PHP CMS scheisse
+These: Linux hat auf PS3 Raubkopien eingeschränkt
+WYSIWYG: http://de.wikipedia.org/wiki/WYSIWYG
+Markdown http://en.wikipedia.org/wiki/Markdown
+(als Ausgangspunkt, aber mehr Semantik als HTML-Beschreibung)
+<---Und dann begab es sich, dass der Stream starb--->
+Wollen Ihr Markdown semantisch, statt Typografisch coden
+Hässlichkeit unmöglich machen
+Kein Shitload von Plugins
+http://Uberspace.de Webhost mit flexiblem Bezahlsystem (mind 1€/Monat, beliebig mehr) und sehr vielen Features + gutem Support)
+https://github.com/Poapfel/Yasbf Yet another static blogging framework
+Ponytime: http://ponytime.net/
+re:publica 2012 http://re-publica.de/12/
+Videos http://www.spiegel.de/video/re-publica-2012-copyriots-kampf-der-kulturen-2-video-1195162.html
+Vortrag von @zeitweise über Gamification, Brettspiele, Staaten.
+http://Sigint.ccc.de mit Ponytime-Podcast-Vortrag
+Operation Blogdings
+http://sadtrombonejazzclub.net/
+Der perfekte Tschunk
+@Nienor86
+Sigint in Köln: http://sigint.ccc.de/Main_Page
+Filterbubble
+"ponywar", #fefepony
+Sofakissens Rant über Fefe http://raummaschine.de/blog/2012/02/22/die-bild-der-netzgemeinde/
+Fefe: http://blog.fefe.de/
+Berlin hat weder funktionierenden Nahverkehr noch Fernverkehr
+Windowmanager i3wm http://i3wm.org/
+Über Desktop- und Ordnermetaphorik
+Desktop: http://de.wikipedia.org/wiki/Desktop_(Computer)
+Hierarchische Dateisysteme http://de.wikipedia.org/wiki/Dateisystem#Hierarchische_Dateisysteme
+Perfekt funktionierende Dinge verschwinden aus der Wahrnehmung
+Entwicklungsumgebungen:
+http://www.kickstarter.com/projects/306316578/light-table
+http://channel9.msdn.com/achievements/visualstudio
+http://de.wikipedia.org/wiki/Xcode
+http://eclipse.org
+Twitter for Mac vs Tweetbot 
+Sofakissens Desktop http://cl.ly/GXY9
+Tweetbot sieht schlecht aus
+<--Streamtod, die Zweite--> Ich bin wieder mal Schuld \o/ Schlechter Mensch *kopfschüttel*
+Themenkomplex "Dinge, die ganz schlimm sind": Digitale Musik
+Spotify: http://de.wikipedia.org/wiki/Spotify
+iTunes ist die Hölle: http://de.wikipedia.org/wiki/ITunes
+Gibt's überhaupt performante Java Spiele?
+Java ist auch die Hölle, Nullpointer Exception, der "Crash"-Button
+Skype ist ebenfalls die Hölle
+(Notiere: Das meiste™ ist die Hölle)
+Der Skype Chat ist die Hölle
+Microsoft ist auch die Hölle und kauft schlechte Software ein.
+Windows 8 als OEM
+<---Streamtod, die dritte-->
+Font bauen für's Programmieren
+Hinting bei kleinen Auflösungen (ist schmerzhaft)
+Kerning http://en.wikipedia.org/wiki/Kerning
+Courier http://en.wikipedia.org/wiki/Courier_(typeface)
+Adobe ist die Hölle: http://de.wikipedia.org/wiki/Adobe_Systems
+Lego Cuusoo: http://lego.cuusoo.com/
+Ponies: http://lego.cuusoo.com/ideas/view/11176
+Labyrinth: http://lego.cuusoo.com/ideas/view/14605
+Siedler von Catan: http://lego.cuusoo.com/ideas/view/693
+Brettspiele als Videospiele
+Caracassone auf dem iPad 
+Catan auf dem iPad ist die Hölle
+Gutes Postproductiontool für Podcasts: http://auphonic.com/
+Wir sind die Urheber: http://www.wir-sind-die-urheber.de/
+Wir sind Filesharer http://wirsindfilesharer.wordpress.com/
+Wir sind die Bürger: http://wir-sind-die-buerger.de/
+mspro: http://mspr0.de/
+Musikindustrie soll sterben gehen.
+Begriff "Geistiges Eigentum" vermittel flasche Vorstellung, eigentlich geht es um das Recht an einem Informationsfluss
+Das von den Verwertern betriebene http://wir-sind-die-urheber.de
+Die Forderungen der Piratenpartei sind zu lasch
+Verlage sind in Berichterstattung, bezüglich Urherberrecht, nicht neutral
+Missbrauch des Liedes "holiday in cambodia" von Dead Kennedys für Jeanswerbung
+Kein Urheberrecht in der Mode http://de.wikipedia.org/wiki/Haute_Couture
+TED Talk http://www.ted.com/talks/lang/en/johanna_blakley_lessons_from_fashion_s_free_culture.html
+Markenrecht ist sinnvoll: http://de.wikipedia.org/wiki/Markenrecht_(Deutschland)
+Beastie Boys wurden ob eines Samples aus den 80'er Jahren verklagt.
+The White Stripes (Jack White) Seven Nation Army
+Der Typische Tatort in 123 Sekunden: http://www.youtube.com/watch?v=9QENcN-srE0
+Diskussion darüber wie extrem die Positionen der Piraten sein sollen
+DVD abspielen ist wichtig
+Windows 8 spielt keine DVDs mehr ab: http://www.golem.de/news/sparmassnahmen-windows-8-spielt-keine-dvds-mehr-ab-1205-91564.html
+Apple ist der einzige Hersteller der was gescheites Zustande kriegt
+Alles, außer Apple, ist die Hölle.
+Aber Apple ist auch manchmal doof.
+Applefanboys aus Zwang (Bitte, bau doch mal jemand 'nen gescheiten Computer)
+

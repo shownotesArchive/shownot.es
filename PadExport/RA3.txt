@@ -1,0 +1,150 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.)
+
+Realitätsabgleich III - <http://wrint.de>
+Am 6. Juni 2012 mit @holgi und @tobybaier vom <http://einschlafen-podcast.de/>
+Chat: <http://webchat.freenode.net/?channels=#kleitung>
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fwr064&time=17%3A02%3A00>
+
+Zusammengetragen von:  Gurkitier, saibot, @docretro, frakturfreak, Oli, Abkueko
+
+Sendungsbeginn: 17:02 Uhr
+
+00:02:00
+Podcasts mit Skype aufnehmen
+Kreuzschienen <http://de.wikipedia.org/wiki/Kreuzschiene>
+
+00:06:00
+Kritik von der Hörsuppe <http://hoersuppe.de/>
+Kritik vom Arbeitskollegen wegen fehlender Struktur
+
+00:08:00
+Sendungsvorbereitungstaktiken
+Holgi vergisst schnell was er die letzte Woche getan hat, wenn er nichts aufschreibt
+Softwarentwicklung mit Scrum <http://de.wikipedia.org/wiki/Scrum>
+Geschlossene Beta für neues XING-Produkt
+
+00:10:00
+Holgi macht die EM fertig
+Holgi ist die Putzfrau des ARD-Videotext-CMS („Klickarbeit“)
+
+00:11:30
+Live-Wrintheit am 13. Juni, Niederlande – Deutschland bei der EM.
+Tobys Tochter kommt vom Schwimmen
+
+00:12:30
+Toby hat bereits ein Bier offen (Dithmarscher), Holgi holt sich eines (Becks,gestern von der Tanke).
+
+00:13:00
+Oberschenkel von Dicken reiben Hosenbeine schneller durch, führt zu durchgeschwitzten und kaputten Hosen nach längeren Motorradfahrten.
+
+00:15:00
+Toby: Radiokommentatoren besser als Fernsehkommentatoren
+Fantonspur für Sehbehinderte
+AFM-Webradio <http://www.afm-radio.org/radio/>
+
+00:17:10
+Radio 90elf – Kanaltrennung für einzelne Spiele <http://www.90elf.de/>
+Apps: <http://www.90elf.de/apps>
+Stadionatmo aus der Dose zugespielt.
+
+00:19:00
+angebliche Wasserpiloten als Staumelder (Soundbett Flugzeug und schlechtes Mikro)
+
+00:20:00
+Paninibildchen, Ferrerobildchen
+Holgi und Tobi mögen Paninibildchen.
+Stecktabellen im Kicker
+Tobi steckt zusammen mit seiner Tochter zur Bundesliga die Bilder an die Stecktabellen.
+Millerntor-Stadion <http://de.wikipedia.org/wiki/Millerntor-Stadion>
+Weser-Stadion <http://de.wikipedia.org/wiki/Weserstadion>
+Köln-fans sind assi.
+Holgi hat mal neben dem Olympiastadion gewohnt. Der Stern von seinem damaligen Mercedes verschwand immer nach den Spielen. Friedrichshain war netter zu Mercedessternen. Den Stern gabs nicht einzeln sondern nur als Gesamtkonstruktion.
+
+00:25:00
+Fanfreundschaft Union Berlin  St. Pauli 
+Holgi ist zufällig St.-Pauli-Fan
+Kernkompetenzen beim Videotext: Kürze, Geschwindigkeit, Sport
+In der Videotextredaktion arbeiten nur Sportfans.
+Holgi fängt an taktische Fehler bei Fußballspielen zu bemerken.
+Holgi erzählt wie er dazu kam St. Pauli zu mögen.
+
+00:28:00
+Kaderverkleinerungen bei St. Pauli
+Toby: Es ist leicht St.-Pauli-Fan zu sein. Gegen-Nazis-Sein genügt. Holgi auch Fan aus Beschäftigung mit der Thematik Fußball
+
+00:31:00
+Spiel gegen Portugal bei der EM
+Ausscheiden Deutschlands bei der EM 2004 in der Vorrunde
+
+00:32:20
+Holgi wird gehänselt: <https://twitter.com/Joccck/status/210392866843922432>
+Core Assets und Kernkompetenzen
+Tobi hat an der Uni programmiert Opensource UML-Tool: Argo UML <http://argouml.tigris.org/>
+nach der Uni Core Media CMS mitentwickelt (Kunden: T-Online, Winterolympiade 2010)
+<http://www.coremedia.com>
+
+00:35:00
+Milliarden von Pageimpressions
+Bei der Ard gibt es einen neuen Standard zur ein Einbindung von Internetinhalten im Fernsehbild, HBBTV: <http://de.wikipedia.org/wiki/Hybrid_Broadcast_Broadband_TV>
+Videotext über HBBTV, Messung von Zuschauerzahlen über Zählpixel.
+
+00:36:00
+Venustransit <http://de.wikipedia.org/wiki/Venustransit>
+Holgi hätte gerne Sendung mit Florian Freistetter <http://de.wikipedia.org/wiki/Florian_Freistetter> <http://www.scienceblogs.de/astrodicticum-simplex/> dazu gemacht
+Toby im Gespräch mit Österreichern und Sachsen entspannt.
+Holgi: Schwaben sind immer laut.
+Toby hat ein Teleskop
+
+00:39:00
+Einfluss von Sterngucken auf die Realität
+Sonnenfilter <http://de.wikipedia.org/wiki/Sonnenfilter> von Tobys Teleskop fehlt. Projektion auf weißes Blatt Papier.
+Bei Toby kann man viele Sterne sehen, außerhalb der Hamburger Dunstglocke, von ihm aus erkennbar (Hafen, heller Schimmer am Horizont) Lichtverschmutzung <http://de.wikipedia.org/wiki/Lichtverschmutzung>
+Holgi kennt das auch aus seiner Kindheit. Industriegebiet Wesseling
+
+00:42:00
+Holgi: Wohnen am Tegernsee – Kein Dreck, nur Oberschicht. Selbst Hiphopkids sagen „Grüß Gott!“
+Toby: In Hamburg kommt Dreck von der Oberschicht (Hunde etc.).
+
+00:44:00
+Aussage von Holgis Bekannten aus berliner Verwaltung: "Je mehr Leute ihren Lebensunterhalt von der Allgemeinheit abhängig machen, desto mehr Dreck machen sie."
+
+00:45:00
+Betreuungsgeld („Herdprämie“)
+Holgi: Absurd, Belohnung dafür, Kinder nicht außer Haus zu schicken.
+Es fühlt sich falsch an Kinder zu hause zu lassen und dafür Geld zu bekommen.
+Holgi: Geld dafür, eine Leistung nicht in Anspruch zu nehmen, die einem zusteht.
+Toby: Betreuungsgeld hilft nicht Familie zu fördern, hält Kinder nur aus sozialem Leben raus.
+Holgi: Twitter: Demnächst Bildungsgeld für Eltern, die Kinder nicht zur Schule schicken.
+Toby: Familienwert in Bayern höher angesiedelt
+Holgi: Folkoristiche Familientradition
+
+00:49:00
+Zu Kohl: „Wir sind die Kinder, die keinen anderen Kanzler kannten.“ Geistig-Moralische Wende 1982.
+„Eigentlich war da immer nur Kohl.“
+Der Lotse muss an Board bleiben, weil Schmitt mal was mit Schiffen zu tun hatte. (Zusammenhang: http://de.wikipedia.org/wiki/Der_Lotse_geht_von_Bord#Der_Lotse_geht_von_Bord )
+Tobys Vater war SPD-Lokalpolitiker
+Herdprämie war 2007 noch Unwort des Jahres. http://de.wikipedia.org/wiki/Unwort_des_Jahres_%28Deutschland%29
+Vorratsdatenspeicherung als Produkt eines politischen Interessenaustauschs für Holgi nicht nachvollziehbar.
+
+00:52:00
+Wasserpreis muss in Berlin um ⅙ gesenkt werden. <http://www.zdf.de/ZDF/zdfportal/web/heute-Nachrichten/4672/22920638/9de278/Berlin-muss-Wasserpreise-senken.html>
+Merkel hatte Sicherheitskriterien für Atomkraftwerke gesenkt, nach Fukushima wieder auf alten Wert gesetzt und sich feiern lassen.
+
+00:53:00
+Holgi hat ein Solarpenel zum zusammenklappen. Modell für iPad ca. 500 €
+Auf Holgis Wunschliste: <http://www.amazon.de/gp/registry/26TSNWF0QLGQ4/ref=wl_s_3/277-0278054-9840879>
+Holgi hat alle Tim-und-Struppi-Hefte über seine Amazon-Wunschliste geschenkt bekommen.
+The Big Lebowski
+Mini-Boom-Box
+Aktiv-Lautsprecher fürs Handy zum mitnehmen via Bluetooth.
+
+00:57:00
+Tobys Bruder arbeitet beim Verlach (Zeit online)
+Shownoteschreiber machen Redakteure arbeitslos.
+Shownotes und Nachrecherche zur Tagesschau als Communityprojekt.
+
+
+
+
+
+

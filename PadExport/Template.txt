@@ -1,0 +1,45 @@
+In diesem Pad wird die Struktur der Shownote-Pads definiert.
+Durch diese Standardisierung wird ermöglicht, dass automatisiert Informationen exportiert werden können (z.B.: Kapitelmarken).
+
+---
+
+Pad-Name: PodcastkürzelNummer
+Beispiel: MM1337
+
+---
+
+Titel: Podcastname Episodennr. Shownotes
+Bsp.: Mobile Macs 1337 Shownotes
+
+Author: Zusammengetragen von: @username, @username, @username
+Bsp.: Zusammengetragen von: @mrmoe, @konfluenzpunkt, @Anthrazit101, @Eragos, @kaeffchen_heinz, @AlphonsPho (lieber die internen Namen von der Software)
+
+Startzeit: Sendungsbeginn: hh:mm:ss
+Bsp.: Sendungsbeginn: 23:42:00
+
+Kapitel: Kapitelname
+Bsp.: Syncender Kalender mit Outline-Funktion
+
+Sub-Kapitel: hh:mm:ss Sub-Kapiteltext
+    Bsp.: 00:00:00.000 Jupiter Realtime Sync Protokoll
+
+/*
+Links innerhalb der Kapiteltexte Markdown-Kompatibel schreiben:
+<protocol://example.tld/> oder [linktext](protocol://example.tld/)
+
+Personennamen wenn möglich mit Twitter-Account angeben:
+@username
+
+Stichwörter mit Hashtag angeben:
+#Stichwort
+
+Zeitangaben immer relativ zum Sendebeginn in diesem Format: hh:mm:ss
+01:23:42
+
+Zeitangaben ausserhalb der Sendung (z.B. Hörertreffen Ankündigung) in folgendem Format (dd.mm.yyyy[ - hh:mm[:ss]])
+(01.01.1970 - 01:23:42)
+
+Bilder im Format ![Alternativtext](example.tld/pic.png) einbinden:
+![mobilemacs logo](metaebene.me/mobilemacs/files/2012/01/mobileMacs-header-1000x288.png)
+*/
+

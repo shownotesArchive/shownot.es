@@ -1,0 +1,191 @@
+(Zum Mitmachen ist die Anmeldung auf https://shownotes.piratenpad.de erforderlich!)
+
+Bluemoon / LateLine Shownotes 12.06.2012 22:00 (Tel: 0331 70 97 110 und 0800 80 55555)
+Thema: Abschweifen
+Seite zur Sendung: http://www.fritz.de/programm/sendungen/33/1206/120612_blue_moon_6426.html
+Bluemoon: http://www.fritz.de/programm/sendungen/33/1206/120612_blue_moon_6426.html
+Lateline: http://blogs.hr-online.de/lateline/2012/06/12/12-juni-2012-abschweifen/
+Livestream: http://fritz.de/live.m3u
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FBM-12-06-2012&time=22%3A06%3A00
+Chat: http://Geheimch.at
+
+Noch 191 Tage bis zum Weltuntergang: <http://zombocalyp.se/>
+
+Zusammengetragen von: Abkueko, Alex, Gurkitier, hanz, Quimoniz
+
+
+Sendungsbeginn: 22:06 Uhr
+
+Fußball EM Spiel: Polen – Russland (Stand: 1:1)
+
+22:07 Intromusik: Entertainment For The Braindead – run! (Das Kraftfuttermischwerk Remix) - <http://www.kraftfuttermischwerk.de/blogg/?p=6389>
+
+00:05 Robert und Jan 
+Holger wird Strom erklärt:
+Nerdfolter bei WRINT: <http://www.wrint.de/2012/06/09/wr073-holger-ruft-an-bei-eric-wg-solarstrom/>
+Wie Strom funktioniert:
+Stromstärke – Formelzeichen I  - Einheit Ampere <http://de.wikipedia.org/wiki/Ampere>
+Spannung    – Formelzeichen U - Einheit Volt <http://de.wikipedia.org/wiki/Volt>
+Leistung      – Formelzeichen P - Einheit Watt <http://de.wikipedia.org/wiki/Watt_(Einheit)>
+Widerstand  – Formelzeichen R - Einheit Ohm <http://de.wikipedia.org/wiki/Elektrischer_Widerstand>
+Hogwarts an der Oder <http://esowatch.com/ge/index.php?title=Europa-Universit%C3%A4t_Viadrina> <http://www.scienceblogs.de/kritisch-gedacht/2012/06/hogwarts-an-der-oder-hochschulstrukturkommission-stuft-intrag-viadrina-auf-ramschniveau-herab.php>
+
+U=I·R   – Spannung    = Stromstärke · Widerstand
+I=U/R   – Stromstärke = Spannung    / Widerstand
+R=U/I   – Widerstand  = Spannung    / Stromstärke
+P=U*I   – Leistung      = Spannung · Stromstärke
+
+00:16 Christian kommt dazu
+Holgis Akku, das Schleusenbild:
+5V Spannung benötigt um den nötigen Pegel zu erreichen. höchstens 5V!
+1A Stromstärke, die Menge an Wasser die dann fließt
+die 5V Spannung, die Nennspannung, muss erreicht werden, darf aber nicht wesentlich überschritten werden.
+bei weniger Ampere, also bei weniger als 1 Ampere, lädt das Ladegerät langsamer
+bei mehr kann der Akku Schaden nehmen
+
+00:25 Jingles, Nachrichten, Wetter
+
+00:30 Weiterführung des vorherigen Gesprächs
+
+00:33 Tobias kommt auch noch dazu
+
+Holgis tolles 12 V Solarpanel.
+Kickstarter Tönnchen: http://www.kickstarter.com/projects/tpod1/tpod1-thermoelectric-power-on-demand
+Nicht zu viel Ampere, weil der Akku sonst Schaden nehmen kann.
+Je leerer der Akku ist, desto weniger Spannung (Volt) hat er, desto größer ist beim Laden mit Ladegerät die Differenz und der Akku lädt schneller.
+
+00:40 Charlotte (13)
+Besucht morgen die "Gärten der Welt" mit dem Projekt »Entspannen & Forschen in den 'Gärten der Welt'«: <http://www.gruen-berlin.de/parks-gaerten/gaerten-der-welt/>
+Spricht über ihre Ferienplanung
+Holger gibt Antwort:
+Moderieren macht Spaß, der alte Chef hat ihn angestellt.
+Charlotte würde gerne Moderatorin bei Fritz werden.
+Er rät ihr davon ab, da sie nichts von sich erzählt, da sie nicht erzählwillig ist.
+Holgi macht ein Rollenspiel: Vorstellungsgespräch. Charlotte schneidet nicht gerade blendend ab
+Empfehlung von Holgi: http://www.schulradio-network.de
+Bewerbung für ein Praktikum bei Fritz: http://www.fritz.de/inside/jobs_praktika/praktika.html
+
+0:55 Übergang zur Lateline
+Halbzeitmusik: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - <http://www.kraftfuttermischwerk.de/blogg/?p=153>
+
+00:59 Christian
+Spiegel Online: Sascha Lobos Kolumne <http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-die-schufa-und-der-krieg-a-838324.html>
+Datenschutz
+Bundesdatenschutzgesetz http://www.gesetze-im-internet.de/bdsg_1990/index.html
+Holgi hatte LK "Volkswirtschaftslehre", Spaß an Daten und fand die Volkszählung gut
+Die Leute haben keine Angst mehr vor Datensammlung:
+"Kopfgeldprämie", Volkszählung in den 80ern: http://de.wikipedia.org/wiki/Volkszählung_in_Deutschland#Die_Volksz.C3.A4hlung_von_1987
+Tims und Holgers Podcast: http://not-safe-for-work.de/
+Nuklearkatastrophe von Fukushima: http://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Fukushima
+Schufa wollte Daten auf Facebook sammeln: http://www.dradio.de/nachrichten/201206070600/8
+Holgi: Die Gefahr, die von Alkohol und Zigaretten ausgeht, ist weit größer als die Gefahr, die von Islamisten ausgeht.
+Christian: seinen Kindern Medienkompetenz beibringen ist schwer.
+Medienkompetenz beibringen: Ein Lehrer hat alle Fotos von Schülern, die er per Facebook schnorcheln konnte, per Beamer in der Schulklasse gezeigt.
+Vergesslichkeit der Leute bei Wahlversprechen, konkret bei der FDP und SPD.
+Ignoranz und Welt-AIDS-Tag http://de.wikipedia.org/wiki/Welt-AIDS-Tag
+Christian bedankt sich für 50 Folgen NSFW
+
+01:20 Eric 
+MSA: http://de.wikipedia.org/wiki/Mittlerer_Schulabschluss
+Eric hat den MSA bestanden.
+Muss aber noch eine Nachprüfung machen.
+Holgi ist wegen Physik und Mathe sitzen geblieben.
+Er ist in der Chemie Nachprüfung durchgefallen.
+Kern-physik: http://de.wikipedia.org/wiki/Kernphysik
+Streuung von Gerüchten seitens der Schule, dass die Dokumentenrausgabe nicht möglich sei.
+Eric soll herausfinden wie er an der Klassenbuch kommt.
+Er hat am 18.6. seine Nachprüfung.
+Lernkartei: http://de.wikipedia.org/wiki/Lernkartei
+Sieben Stunden am Stück Ackern hilft nicht. In den Pausen sport machen, auf keinen Fall sonstwas machen (Surfen, Fernsehen, Spiel spielen etc.).
+Lateline mit Swantje Goldbach zum Thema lernen: http://mp3.podcast.hr-online.de/mp3/podcast/lateline/lateline_20120530.mp3
+Shownotes: https://shownotes.piratenpad.de/BM-29-05-12
+
+01:39 Michael aus dem LKW in Norddeutschland
+Will über Kontaktbörsen sprechen.
+Hat seine Partnerin über eine Kontaktbörse kennengelernt und ist mit ihr seit 5 Jahren verheiratet.
+Es gab zwar viele Nieten aber nach 2 Jahren war er erfolgreich.
+Er ist bei seiner Frau auf das Profil gestoßen, weil sie auch aus Hannover kam.
+Ohne Fotos
+Nach drei Monaten zogen sie zusammen und nach einem Jahr haben sie geheiratet.
+Michael: "Was hilft die schönste Frau wenn sie nicht kochen kann?"
+"Vom schönen Teller kann man nicht essen"
+Auch sein Bruder war erfolgreich.
+Zu jedem Topf gibt es einen Deckel.
+
+
+01:49 Mirko
+Mirko ist seit der 5. Klasse Klassenbuchführer.
+Auf das Klassenbuch hat jeder Schüler Zugriff.
+In Holgis Nachbarklasse wurde das Klassenbuch verbrannt, es gab aber eine Kopie davon.
+Verantwortung das Klassenbuch zu jeder Unterrichtsstunde zu tragen.
+"Indenmülleimergestecktwerden Dienst"
+Denken mit Power Point: http://www.swr.de/swr2/programm/sendungen/wissen/wissen-2-0-denken-mit-powerpoint/-/id=660374/nid=660374/did=7530958/1epa28j/index.html
+
+02:00 Ferenz
+Der Name kommt aus Ungarn.
+Thema: Übermäßiger Alkoholkonsum
+Immer mehr Jungendliche trinken und das immer früher.
+In Bayern werden die Biere immer kleiner.
+Vor 20 Jahren hatten wir nur 3 Programme und es gab einen Sendeschluss.
+Von Streetworkern verspricht man sich keinen Nutzen.
+Laut Statistik Trend eher rückläufig <http://www.drogennotdienst.org/aktuelles/statistik-und-zahlen/>
+Es wird weniger getrunken, dafür aber härter.
+Zigaretten: Man nimmt eine teure Droge, die noch nichtmal dreht.
+Bier Werbung ist Popkultur.
+Thank you for smoking: http://www.imdb.de/title/tt0427944/
+Tabakindustrie, die schwört, dass sie nicht davon wüsste, dass Rauchen süchtig mache:
+http://www.dkfz.de/de/tabakkontrolle/download/Deutsche_Konferenzen_fuer_Tabakkontrolle/2_Deutsche_Konferenz_fuer_Tabakkontrolle/Alexander_Schulze_04.pdf
+Dkms: http://de.wikipedia.org/wiki/Deutsche_Knochenmarkspenderdatei
+Dkfz: http://de.wikipedia.org/wiki/Dkfz
+Tobacco Documents: http://tobaccodocuments.org/
+Buch "Schwarzbuch der Zigarette" http://www.amazon.com/Schwarzbuch-Zigarette-Keyvan-Davani/dp/3800072084/
+Buch "Das Geschäft mit dem Tod"
+Holgi ist über die Spielotheken besorgt.
+
+02:19 Jana (14) aus Reutlingen
+Fliegt im Oktober nach Afrika für ein Theaterprojekt.
+Musste diverse Impfungen machen lassen.
+Holgi empfiehlt ihr darüber zu bloggen.
+Sie müssen Französisch können.
+
+02:28 Melanie aus dem Garten
+Ist Sonderpädagogin.
+Beendigung des Gesprächs aufgrund mangelhafter Klangqualität.
+
+02:31 Martin aus Kaiserslautern
+War vor einigen Jahren auf Studienfahrt mit der Schule in Italien.
+Abgrenzung durch Nichtkonsumieren von generischem Essen, Werbefernsehen.
+Schreibt seit dem 13. August 2001 alle Ausgaben auf.
+Wertet seine Aufzeichnungen nicht aus.
+Spardisziplin durch Aufwandsvermeidung beim Aufschreiben.
+Kapitalismus will immer wachsen, deswegen müssen die Systemgastronomen/Fast Food Ketten mehr Burger verkaufen.
+Der zusätzliche Zucker steigert die Insulinproduktion, man hat schneller wieder Hunger.
+Zusätzliche Säure lässt das Wasser im Mund zusammenlaufen, man denkt, es würde einem gut schmecken.
+Holger holt sich Burger ohne Sauce, denn da schmeckt's eher mal.
+Wird immer frisch zubereitet: Royal Käse
+Supersize Me http://de.wikipedia.org/wiki/Supersize_Me
+"Döner macht Schöner"
+Abends kann man auch mal ein Brot essen, statt zwei mal pro Tag warm zu essen.
+Man muss Notrationen haben bpsw.: Tomaten mit Basilikum
+Kantinenessen: breiige schmierige Kantinennudeln.
+Holgi hat früher über 200€ im Monat für Zigaretten ausgegeben.
+
+Während dieser Sendung sind ca. 3000 Menschen an Hunger gestorben.
+
+Sendungsende: 00:57:15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

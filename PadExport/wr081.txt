@@ -1,0 +1,120 @@
+Shownotes zu
+
+WR081 Holger ruft an: Bei Daniel dem Fondsmanager
+
+Keine Vollständigkeit und Richtigkeit garantiert! 
+Zusammengetragen von: stormi
+
+Holgi: Bitte nicht nachmachen, was wir hier erzählen!!!
+
+Daniel ist Informatiker, hat sich schon früh für Aktien interessiert.
+Hat 2000 einen Börsenbrief herausgegeben und sich so neben dem Studium Geld dazu verdient. Weitere Kontakte folgten ...
+
+Ist es sinnvoll was mathematisches zu Machen dafür?
+Eigentlich braucht man ja VWL und so. Aber “ Es ist leichter einem Informatiker VWL zu erklären als andersrum.
+Börsenbrief hat er als Service für Freunde angefangen und dann einfach online gestellt. Alles kostenlos. Durch den Hype gabs dann schnell viele neue Leser. Dann kommerziell gemacht und damit ganz gut verdient.
+
+Telefonservice von Markus Frick. Mittels Tipps eigene Aktien gepuscht.
+Marktenge Titel: Geringe Auflage am Markt, daher einfach selbst zu puschen.
+Aktienhülle: Normale Aktie hat zBsp eine Firma dahinter. Wenn Firma weg, aber Aktie noch besteht, dann ist das eine Aktenhülle. Kommen aus einer Insolvenz zBsp. Man kauft dabei evtl. Auch den Namen, der ja noch einen Wert am Markt hat.
+Hinter dieser Hülle kann man dann eine neue Firma aufziehen, bzw eine Story aufbauen. Goldsuchermärchen.  
+Erkennungsmerkmale für solche Sachen? Am besten Finger davon lassen “von heissen Tipps”  
+Daniel hat sowas nicht empfohlen, nur Sachen vom neuen Markt ...
+Daniel hat mal für 1,15 Amazon Aktien und dann bei 400% Gewinn verkauft ...
+Sind Aktien teuer, haben also einen hohen Preis, dann kann es zu einem Aktiensplit kommen, bei dem die Einzelaktie billiger wird. Man hat dann eben einfach mehr ...
+
+Wann ist eine Aktie billig, wann ist sie teuer?
+Aktien werden durch Kennzahlen bewertet und dann in Relation zu ihrem Preis gesetzt.
+Buchwert ist der echte Wert, über den die Firma verfügt. Maschinen, Immobilien, ...
+Wenn der Kurswert größer dem Buchwert, dann hat man wohl viel “Fantasie”, was den Unternhemenswert angeht.
+Preis zu Buch = Verhätnis aus Preis und Buchwert
+KGV = Kurs-Gewinn-Verhältnis = Kurs/Gewinn 
+KGV<10 ist billig. Vergleich nur in der Branche.
+Man braucht also 10 Jahre um mit dem Gewinn des Unternehmens mit deren Aktien zu bezahlen.
+
+Ist die “Fantasie” gerechtfertigt?
+Beispiel: Apple. Beim Preis/Gewinn kommt man zum Schluss das sie teuer sind, was jedoch durch die Doppelte Umsatzberechnung zu stande kommt.
+Apple hat ein einmaliges Verhältnis aus dem “echten” Unternehmenswert und dem “arbeitenden Geld” von 11% (11 zu 100), normal wären 7%  
+
+Was sind Aktien, bei denen man sioch entspannt zurück lehnen kann?
+Energieversorger? Lebensmittelunternehmen -> bleibender Bedarf
+hohe Marktmacht, gute Kundenbindung, diese gehen eine Preissteigerung mit
+Mode: hohen Bindungsfaktor zu den Abnehmern
+Beispiel: Daniel verwendet Persil ohne zu Hinterfragen
+In der Krise stellen diese Werte stabile Größen dar.
+Diese Werte werden gerne gekauft, sind jedoch sehr teuer.  
+
+Beispiel: Nestle
+Wertsteigerung durch Eigenkapitalsteigerung und Dividende 11% /Jahr
+Staatsanleihen haben Negativrendite, weil Rendite kleiner Inflation
+Abschaffung von Garantierendite hätte fatale Folgen für die ganze Branche.
+Gerade ist ein Tiefpunkt und man müsste Qualitätsaktien, wie oben, kaufen!
+
+Wie verdienen Fondgesellschaften Geld?
+Über Publikumsfonds, bzw deren Aufschlag, in die man Investieren kann ..
+Durch Erfolgsabhängige Gebühren, die von den Großkunden gezahlt werden ...
+F.Gesellschaften, zumindest Daniels, bilden Rücklagen, falls dieser Erfolg ausbleibt.
+Macht ihr auch komische Sachen, CreditDefaultSwaps? Es wird zwar überlegt, aber eher nicht ...
+Andere Gewinnbringende Geschäfte werden natürlich gemacht.
+
+Beispiel: Future
+Wetten auf die Entwicklung des Marktes ... Man brauch Leute, die die Volativität (Wankmütigkeit des Marktes) in ein Zertifikat koppeln. Substanzloses Gewette. 
+Warum geht das? Von aussen sieht das absurd aus? Wie sehen das Insider?
+Es stehen ja mathematische Berechnungen dahinter, die einem Sicherheit geben. Die Ausgeber verdienen an den Gebüren. Wenn die Bank, die die Zertifikate ausgibt, pleite geht, dann hat man ein Problem (-> Risiko)
+Was mal ein Krisenabsicherungsinstrument war, ist heute ein Spielzeug.
+Die Stimmung unter den Kollegen wird zunehmend kritischer.  
+Futur sind Werte, die einen Preis für eine Ware x in die Zukunft sichern. Wenn der echte Preis fällt, dann gut, wenn der echte Preis steigt, schlecht. Fällt die Ware aus, muss man abgesichert sein.  
+
+Beispiel: Optionen sind handelbare Rechte an einer Aktie. Diese sind entweder immer, oder gewinnabhängig, einlösbar. Für die Privatperson eher ungeeignet, weil hohe Sicherheiten erforderlich, also sehr teuer.
+Die Opion ist an einen Wert gebunden. Wenn der Kurs unter diesen Wert fällt, dann ist die Kohle weg.  
+
+Wie lange braucht man, um eine Kaufentscheidung zu treffen?
+Haben ein Tool, das 15.000 Aktien scannt. Diese werden weiter beobachtet. Mitte des Monats dann 20 Kandidaten -> Bilanzen checken, Rechnen, etc -> Bewerten
+Besucht man das Unternehmen? Bei großen Unternehmen kein Mehrwert, weil schon alles an Daten ermittelt ist. Eher sinnig bei kleinen Unternehmen, die nicht so stark beobachtet werden. Da bekommt man dann evtl. Insiderinformationen.
+Unternehmen machen "Stangentanz" vor Investoren, auf Konferenzen etc ... um diese anzulocken.
+Banken haben keine Ahnung, was in ihrem Laden passiert, weil sie zu groß sind.
+Würdest du da rein investieren? - Nein, weil einfach undurchschaubar.
+
+Gibt es Sachen, in die du nie investieren würdest?
+Es lohnt sich scheinbar gesammelt in "böse Geschäfte" zu investieren. Waffenhändler, Tabak etc
+Daniels Firma hat da Hemmungen, große Unternehmen wohl eher nicht ...
+Sind Fonds für Kleinanleger gut? Nur 20% der Fonds erwirtschaften über 10 Jahren mehr, als der Markt selbst. Also einen Anteil des Dax. Über längere zeit sieht das vereinzelt anders aus.
+
+Lieber Fonds oder Aktien?
+Beides. Auch Sichere Werte und einen winzigen spekulativen Bereich (5-10%)
+
+Holgi hat Solarworld-Aktien und verloren. Verkaufen und Verlust realsieren oder liegen lassen?
+Warum ist der Verlust überhaupt so hoch? Holgi dachte das sei sicher. Er wurde Opfer einer Branchenbereinigung.  
+Daniels Unternehmen hat Aktien von einer Firma gekauft, die unfassbar billig ist. Scheinbar glauben noch alle, dass die nur Solarzeug machen, sind aber auch in der LED Produktion beheimatet. Entweder Müll oder Glück.  
+
+Wenn die Märke unruhig sind, dann ist Daniel unruhig ... Leute haben Angst und wissen nicht wohin mit dem Geld. 
+Wer ist “die Märkte”? Eine Schafsherde aus Großanlegern
+Bestimmen die die Politik? Wie kann man die Politik wieder handlungsfähig machen?
+Daniel: Die Politik könnte Forderungen stellen und die Märkte würden das schlucken. Das realisiert die Politik aber nicht. In seiner Branche herrscht vereinzelt ein echtes Problembewusstsein. Man sollte mehr mit der Politik reden und umgekehrt.
+
+Wo gehts hin?
+Was soll den passieren, dass zBsp Nestle kaputt geht?  
+Ist die Krise noch zu überblicken? Naja wohl für Experten
+Es scheint insgesamt sehr weit auseinander zu gehen, was die Einschätzung der Krise angeht.
+
+Empfehlung für die Politik:
+Fiskalunion ist richtig, früher wäre besser.
+Italien ist das reichste Land in Europa. Deutschland hat sich das Geld der Bürger geholt und hat darum kaum Schulden. Bei Italien liegt das Geld noch bei den Bürgern, weshalb das Land eigentlich auch nicht so verschuldet ist.
+Das Problem sind die drohenden Kettenreaktionen. Europa bietet uns auch Frieden, weshalb das auseinanderbrechen eigentlich sehr unwahrscheinlich ist.
+Ziel: Fiskalunion, in der stärkere Schwächere stützen, jedoch dann dort politischen Einfluss bekommen.
+In Griechenland muss erstmal der Strukturunsinn beendet werden.  
+Deutschlands Vorteil ist, das wir unsere Krise in Form der Wiedervereinigung bereits hinter uns haben.
+Jetzige Politiker arbeiten nur nach Mehrheitsmeinung, um gewählt zu werden.
+Holgi meint, dass man doch einfach nur das deutsche System bereinigen und kopieren müsse
+(Unterbindung von Leiharbeit und Förderung prärkerer Beschäftigung)
+
+Buchempfehlung: 5000 Jahre lang Schulden;  
+
+Ohne Schulden geht es wohl nicht. Idee: vielen Ländern einfach die Schulden erlassen.
+Englands Zentralbank beruht auf Schuldscheinen an seinen Untertanen. Geld ist nichts anderes als eine Schulverschreibung.
+
+Ich habe 5000 Euro und will ihre Kaufkraft erhalten. Dauerhaft.
+Aufteilen: Sichere Währung Dänische Krone, Qualitätsunternehmen Nestle etc, Immobillien (Fonts), Rohstoffe
+Sichere Schweiz: Der Ruf bröckelt. Stattdessen Shanghai, weil langfristige Boomregion.
+Langfristig ist das geringste Risiko am ertragreichsten!
+

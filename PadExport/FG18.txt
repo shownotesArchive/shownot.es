@@ -1,0 +1,197 @@
+Ferngespräche XVIII
+mit Holger Klein (@holgi)
+http://www.wrint.de
+Donnerstag, 12. April 2012 - Noch 252 Tage bis zum Weltuntergang (http://zombocalyp.se/ )
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2F17&time=19%3A37%3A00
+
+Zusammengetragen von: Gurkitier, malefue, Franz, mrjerk, pcmaka, Quimoniz
+
+Shownotes/Sendungsnotizen
+
+Sendungsbeginn: 19:37 Uhr
+
+19:39 Uhr: Luis (@dondonsen) aus Bamberg, Thema: Polizeiberuf in Deutschland
+Luis war auf einer Polizeivereidigung.
+Seine Freundin ist Polizeibeamtin.
+Neulinge müssen erstmal zur Hundertschaft: http://de.wikipedia.org/wiki/Einsatzhundertschaft
+Das trägt zur Durchmischung bei und soll der Cliquenbildung vorbeugen.
+Nach einiger Zeit in der Hunderschaft muss man sich für einen Karriereweg entscheiden.
+Problem: "Prügelpolizisten" können in Hundertschaft bleiben.
+Polizisten verlieren Realitätsbezug zur Effektivität von Wasserwerfern, etc.
+Hannelore Kraft spricht bei Vereidigung, verwechselt Partei und Polizei.
+NRW-Minister für Inneres (https://de.wikipedia.org/wiki/Ralf_J%C3%A4ger ) war auch da, betreibt KiPo-Angstmache und wirbt für VDS.
+Die Veranstaltung fand in der Lanxess-Arena (Köln) statt. 
+Behörden können große Projekte nicht managen, die die es können, gehen in die Wirtschaft.
+Vereidigungsveranstaltung: http://www.express.de/koeln/in-der-arena-hier-werden-1400-neue-polizisten-vereidigt,2856,11996670.html
+Es gibt eine standardisierte Warnung, bevor Pfefferspray eingesetzt werden darf.
+Frauen haben regulierendes Element, stecken keine Schwänze in afghanische Totenschädel.
+Holgi wurde mal eine Mängelkarte in Berlin ausgestellt, wegen kaputtem Scheinwerfer.
+Auf der Wache wurde die dann zerrissen; "Das waren Polizeischüler, die müssen das machen."
+Luis hat mal ein Knöllchen für einen "Flachwitz" bekommen: http://pic.twitter.com/WFb3sXcr
+Die Truppe als "National befreite Zone".
+Nach der Vereidigung wurden Gerät und Demonstrantenüberwältigung vorgeführt.
+Für die Hundertschaft bewerben sich fast nur Leute, die prügeln wollen. Und die, die schon drin sind, decken sich gegenseitig.
+"Kundus-Affäre": Angriff auf afghanische Zivilisten, befohlen von einem Oberst vor zwei Jahren: http://www.dradio.de/dlf/sendungen/dasfeature/1549275/. Luis hat einen Bekannten, dessen gesamte Verwandtschaft dort dadurch getötet wurde.
+Günter-Grass-Geschichte: http://www.sueddeutsche.de/kultur/gedicht-zum-konflikt-zwischen-israel-und-iran-was-gesagt-werden-muss-1.1325809
+Seine Freundin ist interessiert an Ermittlungen der Kripo, geht deswegen zur Polizei.
+Moschee/Synagoge
+Luis isst kein Schweinefleisch und hatte deswegen keine Pickel in der Pubertät.
+Twitter vs. Facebook (Luis testet Twitter).
+ * Holgi findet Twitter einfach zu bedienen, kommuniziert damit seinen Stream of Consciousness
+ * Suchen in Twitter und Facebook
+ * Facebook will immer Input
+ * Twitter ist Nachrichtenverbreitung
+ * Problem Twitter-Diskussionen: Tweetbot auf dem iPhone (http://itunes.apple.com/de/app/tweetbot-der-twitter-client/id428851691?mt=8)
+ * Twitter DM (DirectMessages)
+ * Was bei Facebook das Problem ist: Keiner hat eine Ahnung, wer was sieht
+ * Facebook-Gruppen und Twitter-Listen
+ * Väter die Facebook/WhatsApp benutzen
+Telefonnummern auswendig lernen war früher einfacher.
+
+Zwischenmelodie, Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - http://www.kraftfuttermischwerk.de/blogg/?p=153 
+
+20:40 Uhr: Peter aus Eichgraben/Niederösterreich, Thema: Solarzellen, Smart Homes
+Smarter-Home: http://www.smarter-home.at/
+Podcast: http://podcast.smarter-home.at/
+Holgis erster Besuch von St. Pölten.
+Lage von St. Pölten an der A1
+Energieeffizienz
+Unterschied von Solarzellen und Solarkollektoren
+Wirkungsgrad von Solarzellen ist bei niedrigen Temperaturen höher.
+Überangebot von Strom an bestimmten Orten.
+Stromlieferer haben keinen Rückkanal (Grund: Umspannwerke können nicht ins Fernnetz einspeisen)
+Fehlende Speichermöglichkeiten des Stromes.
+Smart Grid: http://de.wikipedia.org/wiki/Intelligentes_Stromnetz
+Stromverbraucher werden je nach Strombedarf an/ausgeschaltet (Hausbussystem)
+Holgi hat in alter Wrintheit (http://www.wrint.de/2011/11/04/wr025-die-sechste-wrintheit-gleisdurchsagen-und-duschen/)  gesagt, dass Smarthome keiner brauche. Er hatte aber wohl ein falsches Bild.
+Hausbussystem steuert alles im Haus. http://hausbus.sourceforge.net/
+Bussysteme: http://de.wikipedia.org/wiki/Bus_(Datenverarbeitung)
+Peter erzählt von seinem eigenen Hausbussystem, Haus, und Aufstehprozess
+Alles wird von einem Industrierechner gesteuert.
+Meinung Peter: Man wird nicht darum kommen so etwas zu bauen.
+In Italien verpflichtet zu intelligenten Stromzählern, da Stromnetz auf Durchschnitt statt Maximumverbrauch (Deutschland/Österreich) ausgelegt ist
+Stromverbrauch in Deutschland steigt.
+Elektrische Autos werden sich nicht durchsetzen:
+ * zu wenig Lademöglichkeiten
+ * teure Akkus/Autos
+ * Ressourcen für Akkus sind begrenzt
+Holgi findet Elektroautos geil aber zu teuer.
+Problem Wechselakkus: Man weiß nicht wie gut der Tauschakku noch ist (http://de.wikipedia.org/wiki/Memory-Effekt_%28Akkumulator%29).
+Neue Geschäftsmodelle im Zusammenhang mit den Wechselakkus.
+Peter hat nur noch Internetradios mit zentralem Audioserver.
+Peter möchte seine Heizung optimieren (spart 1/3 Heizkosten):
+ * Kamin erzeugt zu viel Wärme
+ * Pelletskessel heizt unnötig, nicht regelbar
+ * niedrige Vorlauftemperaturen
+Bluemoon: http://www.fritz.de/media/podcasts/sendungen/blue_moon.html
+Ambient Assisted Living: Unterstützung alter Menschen durch Technik.
+Notrufknopf für ältere Menschen
+Podcast-Folge von Peter zum Thema: http://podcast.smarter-home.at/index.php?id=8
+Flusshof: http://flusshof.de/
+Semantikproblem mit dem Begriff "Energiesparen" und "Energiesparlampe"
+Anwendungsbereiche von Energiesparlampen
+Holgi besitzt LED-Glühbirnen und ist begeistert
+http://www.leds-go-home.de/
+LED wird Zukunft der Beleuchtung,
+Lichtkegel und Beleuchtungswinkel (früher max. 30°) von LED-Lampen.
+Die Themen/Gesprächspartner Peters Podcasts.
+Problem mit übermäßigem Verbauch von Silikon bei Fliesenlegern.
+Netzwerkdosen in Peters Haus (sind wichtig).
+
+Zwischenmelodie: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - http://www.kraftfuttermischwerk.de/blogg/?p=153 
+
+21:25 Uhr: Sebastian aus Überlingen am Bodensee 21, Jahre alt, Thema:Fortsetzung Goldenhar-Syndrom (vgl. "Ferngespräche XV", http://www.wrint.de/2012/01/06/wr035-ferngesprache-15-wellington/ ) , Leben als behinderter Mensch
+http://de.wikipedia.org/wiki/Goldenhar-Syndrom
+Operationen haben Gaumenspalte nicht komplett geschlossen.
+Irisspalte kann nicht korrigiert werden und Nasenspalte ist noch nicht korrigiert, da man dazu ausgewachsen sein muss.
+Krumme Wirbelsäule (4 Bögen)
+Verkümmerte rechte Herzkammer.
+Sebastian macht eine Ausbildung zum technischen Zeichner in einem Berufsbildungswerk.
+Verschiedene Reaktionen der Außenwelt.
+Besonders Kinder schauen "wie ein Auto".
+Die linke obere Hohlvene wurde bei Sebastian direkt an die Lunge "angeschlossen".
+Häufige Krankenhausbesuche (ca. 11 längere Aufenthalte)
+Situation behinderter Menschen in Deutschland ("schweigende Minderheit")
+Bei einem Berufseignungstest kam bei Sebastian "Technischer Zeichner" raus.
+Sein Wunschjob wäre aber etwas im Filmbereich, dazu benötigt er aber ein Abi.
+Sebastian möchte Reisereportagen aus aller Welt machen.
+Bezug zum Gedicht von Günther Grass.
+Wozu braucht man in heutiger Zeit noch Technische Zeichner?
+http://de.wikipedia.org/wiki/Technischer_Zeichner
+Sebastian kann aufgrund seiner Konzentrationsschwäche nur halbtags arbeiten.
+Die Zukunft Sebastians scheint auf Hartz IV hinauszulaufen.
+Er hat aber keine Angst vor der Zukunft, Holgi schon.
+An die meisten Krankenhausaufenthalte kann sich Sebastian nicht mehr erinnern.
+Er will den Führerschein machen, braucht aber Umbauten am Auto um fahren zu können.
+Kann keine schweren Lasten heben, kommt aber sonst im Alltag gut zurecht.
+Sebastian hat das Gedicht von Günther Grass gelesen.
+ * Stilistische Mittel des Gedichtes
+ * Antisemitismus-Vorwurf und Waffen-SS-Vergangenheit von Grass
+ * Holgi: Unnötige Wendungen ("Erstschlag") und Vernachlässigung vieler wichtiger Fragestellungen
+These von Holgi: Die Sache mit Grass geht gut aus (schafft Öffentlichkeit für die Thematik). Vielleicht wird das Gedicht in ein paar Jahren im Schulunterricht verwendet.
+In der Schule kommt der Nahostkonflikt nicht oder nur wenig dran.
+Zwischenmelodie: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - http://www.kraftfuttermischwerk.de/blogg/?p=153 
+
+22:09 Uhr: Toby aus Kakenstorf, Thema: Einschlafen-Podcast (http://einschlafen-podcast.de/ )
+Toby will seinen Podcast bei Holgi pluggen.
+Er liest Dinge vor, um seinen Zuhörern das Einschlafen zu erleichtern.
+Gemeinfreie Bücher zum Vorlesen:
+ * Nils Holgersson http://de.wikipedia.org/wiki/Die_wunderbare_Reise_des_kleinen_Nils_Holgersson_mit_den_Wildg%C3%A4nsen
+ * Kant: Kritik an der reinen Vernunft http://de.wikipedia.org/wiki/Kritik_der_reinen_Vernunft
+Toby macht auch noch den Pubkameraden-Podcast (http://www.pubkameraden.de/ ).
+Leben vom Podcasten in Deutschland.
+Holgi verdient mit dem Podcasten 1/4 bis 1/3 seines Lebensunterhalts.
+Toby ist seit einem Jahr Produktmanager bei Xing.
+Aussprache von Xing.
+Xing ist seit einigen Jahren an der Börse.
+Fakeaccounts und Profilbilder in Xing
+Chat beklagt sich: "Langweilig".
+Toby ist Klarnamenfetischist (z. B. @tobybaier auf Twitter)
+Toby nutzt als Mikrofon fürs Podcasten das AKG Perception 220: http://www.amazon.de/gp/product/B003DSI62U/
+Zum Aufnehmen nutzt er den Handheld-Rekorder Tascam DR-07: http://tascam.com/product/dr-07/
+Toby spielt in der Rockband "Horst Blank": http://www.horstblank.de/
+Holgi verwendet ein Olympus LS-11: http://www.olympus.de/diktiergeraete/digitaler_rekorder_ls-11_7743.htm ; http://www.amazon.de/dp/B002P5V5HU/
+Und ein Tascam DR-100: http://tascam.com/product/dr-100mkii/
+WRINT wird in 64 kbyte/s encodet.
+Toby möchte bei xenim.de live senden.
+Hobby/Geschäftsmodell beim Podcasten.
+Holgi ist auf Geld aus.
+Leute werden durch Holgis Podcasts wieder zum Radio geführt. 
+"Es wird noch gesprochen im Radio?"
+Die Hörerzahlen von Radiosendern werden durch Telefonumfragen ermittelt.
+Holgi empfiehlt http://detektor.fm ,ein Webradio aus Leipzig, von Holgis Prof.
+Toby misst seine Downloadzahlen mit Feedburner: http://feedburner.google.com/
+Nur Hits und Downloads sind wirklich gemessene Werte.
+Holgi surft im Internet. Chat meint das bedeutet pritloven.
+Please Rob Me: http://pleaserobme.com/
+Facebook und Privatheit/Öffentlichkeit (private Fotos, Markierungen, Foursquare, Risiken u. ä.)
+"Einschlaf-Quote" beim Einschlaf-Podcast
+Toby ist Christ, glaubt aber an nichts.
+Ursprung des Vatikans/der Kirche
+Glaubensfreiheit innerhalb der evangelischen Kirche
+Holgi kritisiert u. a. Tanzverbot am Karfreitag, weil es von der Institution Kirche durch jahrhundertelange Machtausübung durchgesetzt wurde.
+Holgi kann sich keine höhere unbekannte Macht erklären, ist Atheist.
+Holgi will niemandem seinen Glauben absprechen, jedoch den Institutionen, die Glauben und Religiösität für sich vereinnahmen, um sich dadurch zu legitimieren
+Warum gibt es freitags kein Fleisch?
+Holgi hört Hintergrund Radio Mitschnitte zum Einschlafen.
+Fussballfanverspanntheit
+Toby war in seiner Jugend Torwart.
+Holgi war ein guter Schwimmer, sonst war er eher schlecht im Schulsport.
+Toby kann nicht langsam schwimmen, Holgi nicht langsam Fahrradfahren.
+Toby hat langsam fahren geübt, Holgi möchte sich jetzt aber ein Herrenrad kaufen.
+Toby ist von Segways http://de.wikipedia.org/wiki/Segway_Personal_Transporter (3600€) begeistert.
+Holgi möchte wieder ein Vélosolex: http://de.wikipedia.org/wiki/V%C3%A9losolex
+Holgi kann sich nicht erinnern, was er tat als die Mauer fiel.
+Where were you when the WTC Towers fell down? (Meme)
+ * Holgi war zuhause beim frühstücken.
+ * Toby saß im Auto mit seinem Kumpel
+ * Tim Pritlove bastelte am ersten Blinkenlights http://blinkenlights.net/
+2003 wurde der Irak von der USA überfallen, während einer Sendung von Holgi mit dem Deutschlandreporter von Al Jazeera.
+Skandinavien
+Glaube <-> Aberglaube
+Toby: "Alter, eineinhalb Stunden!"
+Schlusswort: Glaube kann konstruktiv wirken, Aberglaube nur destruktiv.
+
+23:36 Uhr: Schluss der Sendung
+Outromusik: Das Kraftfuttermischwerk – Am Wolkenberg (Instrumental) - http://www.kraftfuttermischwerk.de/blogg/?p=153 
+

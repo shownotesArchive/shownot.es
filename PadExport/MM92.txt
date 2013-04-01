@@ -1,0 +1,210 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ nötig)
+
+
+Mobile Macs 92
+mit @timpritlove (IRC timpritlove, metaebene), @343max (IRC max343), @roddi (IRC roddi), @hukl (IRC hukl), @denis2342 (IRC denisx)
+
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM92&time=19%3A48%3A25>
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Stream: http://xsn.io/mobile_macs.mp3
+
+Zusammengetragen von: Pyroblast, Quimoniz, @Anthrazit101, @mrmoe, hanz
+
+
+Sendungsbeginn: 19:48:25
+
+00:00:00 Previously on Mobile Macs 91 <http://soundcloud.com/david1701/previously-on-mobilemacs-091>
+00:01:10 Bumm.Zack.Return
+00:02:00 Baldrian Tee, das Team ist gedoped
+00:02:55 Begrüßung
+00:06:20 Hörermeter <https://github.com/343max/XenimMeter>
+
+Apple und Umweltschutz
+00:08:30 Macs und die EPEAT-Zertifizierung <http://www.heise.de/mac-and-i/meldung/Apple-180-Grad-Wende-bei-Umweltsiegel-EPEAT-1641181.html>
+00:17:00 Greenpeace vs. Apple <http://www.giga.de/webapps/icloud/news/greenpeace-bemangelt-cloud-dienste-von-apple-amazon-und-microsoft/>
+00:18:00 Stromversorgung von Server-Farmen
+00:20:20 DesertTec
+00:21:15 Raumzeit 33 ‒ Energie der Zukunft <http://raumzeit-podcast.de/2012/03/09/rz033-energie-der-zukunft/>
+00:22:35 Datacenter und Stromverbrauch, bei Hetzner stieg der Stromverbrauch um 1 Megawatt als bei der Schaltsekunde(31.6.'12) alle Linuxe auf 100% CPU-Auslatung fuhren. <http://www.heise.de/open/meldung/Schaltsekunden-Bug-in-Linux-verschwendet-Strom-1631325.html>
+00:23:40 Greenpeace beschwert sich über die Cloud <http://www.greenpeace.de/themen/klima/nachrichten/artikel/apples_emicloudem_immer_noch_zu_dreckig/>
+00:26:00 Die Cloud verbraucht Ressourcen
+00:29:00 Ressourcenverbrauch bei der Herstellung von Kraftfahrzeugen
+
+Retina
+00:30:20 Protina, Roddi hat schon eins angefasst ‒ Exklusivbericht
+00:35:00 Bildschirmauflösungen auf Apple-Geräten im Allgemeinen, Apps und wie sie unter Retina aussehen
+00:40:00 Relaunch Apple-Online-Store in Retina-Auflösung
+00:41:50 Noch mehr über verschiedene Bildschirmauflösungen
+00:43:00 Flash(-content) sollte leichter retinisiert werden können, da vektorbasiert
+
+Twitter, Apps vs. Browser
+00:44:00 Tweetbot für MacOS <http://tapbots.com/tweetbot_mac/>
+‒ Spaltenansicht
+‒ dynamische Anzeige von Inhalten
+‒ Vergleich mit anderen Tweet-Clients (Echofon <http://www.echofon.com/twitter/mac/>)
+00:49:00 Dabei stellt sich heraus: Tim hat mehr als 6 Twitter-Accounts (15 Aktive)
+00:51:45 Weitere Diskussion zu Tweetbot für MacOS <http://tapbots.com/tweetbot_mac/>
+00:53:50 Twitter <http://twitter.com/>
+‒ Die meisten Tweets kommen über die Twitter-Website
+00:55:00 App-Welle vs. Browser vs. Internet
+‒ OSI-Layer <http://de.wikipedia.org/wiki/OSI-Layer>
+‒ Layer 8, »Der User«
+– Tim (sinng.): "Ohne Browserschicht lassen sich Internetdienste besser nutzen"
+01:01:00 Tim meint, der Trend geht zu Apps, es gibt Widerspruch
+‒ Apps programmieren ist einfacher geworden
+‒ Denis behauptet: "Niemand gibt heute noch URLs von Hand ein."
+01:05:15 Max' Schwiegermutter kommt mit ihrem iPhone nicht zurecht, liebt es aber.
+01:07:00 Wischen und andere Gesten sind nicht jedermans Sache
+01:07:40 Tim: "App-artiges Design"
+01:08:00 If-This-Then-That <http://ifttt.com/> und weiter in der Diskussion um Apps
+01:11:00 Apps haben den Vorteil, dass sie mit weniger Bandbreite auskommen.
+01:13:00 App vs. Browser oder Wer hat Recht?
+01:14:00 Denis kennt nur wenige, die ein Mailprogramm nutzen.
+01:16:30 Tim bekräftigt: Apps sind die Zukunft und haben viele Vorteile
+01:17:40 Instagram hat keine Website für die Inhalte <http://instagram.com/>
+01:18:35 Tim wirft die Frage auf: Wie will Twitter Geld verdienen?
+01:19:00 Nur Power-User wollen Apps
+01:20:00 Max findet, dass Twitter keine Strategie hat
+– Laut Max nimmt Twitter viel Geld mit Firehose ein <https://dev.twitter.com/discussions/2752>
+– Einnahmemodelle für Twitter werden gesucht
+01:25:15 Was würden die Diskutanten für Twitter bezahlen?
+– Roddi 2–3 €, 5€ wird schwer, 10€ nein
+– Max erhebt Anspruch auf Ehrenmitgliedschaft und will nichts bezahlen, ist am Ende der Timeline angekommen
+– Dennis will auch nichts bezahlen
+01:26:50 Hukl hatte einen magischen Twittermoment
+01:29:50 Pulp-Fiction-Moment
+01:31:00 Nochmal zum Thema Twitter-Monatsbeitrag
+– Tim würde gerne 5 €/Monat zahlen als Pro-User ohne Werbung, 10€ inklusive Verification und Statistiken, persönliches vollständiges Archiv und vieler Einstellmöglichkeiten
+01:36:30 Die Runde versucht anhand verschiedener Annahmen auszurechnen, was Twitter einnehmen würde, wenn es Paid-Accounts gäbe (á la "1% von 500.000.000 würden zahlen, das wären x € im Monat")
+– Twitter hat 500.000.000 Nutzer
+01:38:45 Wer stieg wann bei Twitter ein!?
+
+Hardware: Nexus, iPad mini, iPhone
+01:41:45 Google Nexus 7
+– Unboxing Video <http://www.youtube.com/watch?v=32DD4DF7Qpo>
+– Google I/O 2012 <https://developers.google.com/events/io/>
+– Review-Berichte (kein schnieke-schnackes-bummes)
+01:47:25 Apple iPad mini 
+– Cooles Gerät (möglicherweise)
+– Bildschirm-Auflösung, Button-Größe, physikalische Größe, DPI, PPI
+– Tim hält den angenommenen Formfaktor für sehr durchdacht
+– Tim erwartet $250 als Verkaufspreis für das Einstiegsmodell
+– Zielgruppe: Schüler und Schulen
+– leichte Euphorie in der Runde weil alles so gut passen würde, bei 7,85 Zoll Bildschirmgröße
+– Stromverbrauch und Akku
+01:58:10 iPhone 5 (The new iPhone (Anm.d.R.)
+– hukl hat bei der Telekom ein "neues Smartphones von Apple" reserviert <http://www.t-mobile.de/iphone>
+– Display-Formfaktor
+– Spekulationen über den zu erwarteten zusätzlichen Platz
+– die Podcast-Runde ist »heiß« auf's neue iPhone
+02:05:00 zur angeblichen neuen Displaytechnologie <http://www.appdated.de/2012/07/wall-street-journal-das-iphone-5-wird-eine-verbesserte-und-dunnere-display-technologie-verwenden-2/>
+
+Software: Games, In-App-Purchase-Bug
+02:05:50 Spiel: CubeMen iOS<http://itunes.apple.com/de/app/cubemen/id466248661> MacOSX <http://cubementd.com/> Let's Play: <http://www.youtube.com/watch?v=4ewMxrIeGfs>
+02:08:55 Tiny Wings 2 (HD) <http://itunes.apple.com/de/app/tiny-wings/id417817520>
+– Max hat's Spass gemacht
+– hukl mag es auch (Top3 Spiel)
+02:12:00 Meistgespielte Spiele
+– Hukl: Kingdom Rush <http://itunes.apple.com/de/app/kingdom-rush-hd/id489265199>, Color Bind <http://itunes.apple.com/de/app/colorbind/id356126423>
+– Denis: Flight Control <http://itunes.apple.com/de/app/flight-control/id306220440>
+– Roddi: Angry Birds <http://itunes.apple.com/de/app/angry-birds/id343200656> und Amazing Alex (s.u.)
+02:12:45  Amazing Alex <http://teaser.amazingalex.com/> <http://itunes.apple.com/de/app/amazing-alex/id524333886>
+– wie Incredible Machines
+02:14:55 Dragon Box <http://dragonboxapp.com/>
+– Kleine Viecher und Mathe
+02:16:50 hukl weist auf eine bereits erwähnte Honda-Werbung hin, deren Link er jetzt hat <http://www.youtube.com/watch?v=_ve4M4UsJQo>
+02:18:00 Apple-Store-Berlin
+– Flughafen BER <http://ber.berlin-airport.de/>
+02:19:45 InApp-Purchase-Hack <http://www.iphone-ticker.de/video-in-app-proxy-russische-hacker-umgehen-apples-in-app-kauf-35924/>
+– Max warnt eindringlich davor, sich darauf einzulassen: die "Russenmafia" liest die Passwörter mit
+– Zertifikate im Mac-App-Store und deren Umgehung
+02:27:00 Mini-CRE zu InApp-Purchase
+– Nerdkram: man diskutiert technische Schwachstellen im System
+02:40:10 Defekter Server bei Apple lieferte defekte Apps aus <http://www.iphone-ticker.de/apple-liefert-fehlerhafte-apps-aus-absturz-beim-erststart-und-mogliche-fehlerbehebungen-35608/> <http://allthingsd.com/20120705/apple-says-it-has-fixed-server-bug-that-led-to-crashing-apps/>
+– »Sicherheit ist schon scheiße komplex«
+02:42:35 hukl empfiehlt "Memtester" um defektes RAM zu finden <http://pyropus.ca/software/memtester/>
+
+Bitcoin, Crowdfunding
+02:43:35 BitCoin <http://bitcoin.org/> <http://de.wikipedia.org/wiki/Bitcoin>
+– CRE182 Elektronisches Geld <http://cre.fm/cre182>
+– Nerd-Universum (ist so 2010)
+– Burger mit Bitcoins bezahlen im "Room 77" in der Gräfestrasse 77, Berlin <http://www.room77.de/> <http://www.berlin.de/restaurants/1641376-1622830-room-77.html>
+– dezentral gebrautes Bier aus Berlin <http://cre.fm/cre194>
+– Strafzettel können nicht in BitCoins bezahlt werden
+– Hardware-Tipps für's Bitcoin-Mining
+– Denis: Bitcoins produzieren lohnt sich wieder
+– Denis: Trend: FPGAs statt Grafikkarten lohnen sich <http://de.wikipedia.org/wiki/Field_Programmable_Gate_Array> ZTEX <http://www.ztex.de/>
+<https://en.bitcoin.it/wiki/Trade>
+02:52:45 Schein-Anonymität bei Bitcoin
+– Denis: Frittenfett gegen Bitcoins
+02:57:30 Die Runde vergleicht (nicht), wieviele Bitcoins man hat
+– Tim hat 20 Bitcoins; Denis, Hukl, Max und Roddi wollen davon Burger essen gehen
+– hukls Bitcoin-Adresse: 1PcuTtgeoeqCAw4ys1krihUmFWqfSsThjJ
+– denis' Bitcoin-Adresse: 19c4bA6qHLjnWgYQmS9VuqwHuNT6jR5Atz
+
+Nerdkram: Software-Development, Vulnerabilities
+02:59:40 Max erzählt von seinem Projekt Tabula Tabs <http://tabulatabs.com/>
+03:02:00 Max empfiehlt Node.js <http://nodejs.org/>
+– Erlang <http://www.erlang.org/> <http://de.wikipedia.org/wiki/Erlang_(Programmiersprache)>
+– Xen <http://de.wikipedia.org/wiki/Xen> <http://erlangonxen.org/>
+– Virtuelle Maschine <http://de.wikipedia.org/wiki/Virtuelle_Maschine>
+03:11:15 Roddi erklärt die Intel SYSRET Privilege Escalation Vulnerability <http://www.kb.cert.org/vuls/id/649219> <http://blog.xen.org/index.php/2012/06/13/the-intel-sysret-privilege-escalation/>
+03:16:50 hukl: OAuth2 Vulnerability <http://homakov.blogspot.de/2012/07/saferweb-most-common-oauth2.html>
+– SoundCloud <http://www.soundcloud.com>
+03:18:00 Infiltrate the Vault <http://eprint.iacr.org/2012/374.pdf>
+03:20:00 Full Disk encryption unter OS 10.7 <http://de.wikipedia.org/wiki/Full_Disk_Encryption>
+
+Nerdkram: Massenspeichertechnik
+03:23:40 Netatalk3.0 <http://netatalk.sourceforge.net/3.0/ReleaseNotes-3.0.html>
+– Backup-Fetischisten unterhalten sich über Verschlüsselung
+03:26:30 Denis: Festplatten
+– Western Digital Red Series <http://wdc.com/de/products/products.aspx?id=810> <http://www.hardwareluxx.de/index.php/news/hardware/festplatten/23051-wd-red-festplatten-speziell-fuer-den-nas-ein.html>
+03:27:00 Es regnet, was die Rauschunterdrückung beeinträchtigt
+03:29:10 Mac ZFS via ZEVO <http://tenscomplement.com/our-products>
+
+Vermischtes
+03:33:10 iPhone-live.net <http://iphone-live.net/>
+03:36:38 RaspberryPi <http://www.raspberrypi.org/> <http://de.wikipedia.org/wiki/Raspberry_Pi>
+– Max bekommt kein Raspberry Pi, obwohl bestellt
+– Max berichtet von Leidensgenossen: Ein Follower hat eine leere Box bekommen
+03:39:25 Es regnet weiter und lautstark, aber Tim hat einen Expander <http://de.wikipedia.org/wiki/Expander_(Audio)>
+03:41:00 Tiobe Index <http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html>
+03:42:00 Cocoa Pods <http://cocoapods.org/> <https://github.com/CocoaPods/CocoaPods/>
+    DCIntrospect <https://github.com/domesticcatsoftware/DCIntrospect/>
+
+Bogkbier
+03:45:55 Berliner Weiße – Rettung eines Bieres <http://www.inkubato.com/de/projekte/bogkbier> CRE194 <http://cre.fm/cre194> <http://de.wikipedia.org/wiki/Berliner_Weiße>
+– Berliner Weiße hält ewig
+– Tim beschreibt die Geschichte in Kürze
+– »Krasser Scheiß«, die Podcast-Runde ist begeistert vom Projekt
+
+Apps (Einkaufen, Taxis finden)
+03:52:25 CheckMark <http://itunes.apple.com/de/app/checkmark/id524873453>
+03:55:20 MyTaxi-App <http://www.mytaxi.net/> <http://itunes.apple.com/de/app/mytaxi-fahrgast-taxi-app/id357852748>
+03:58:00 Andere Taxi-Apps
+04:00:00 Taxis nur mit Funk
+04:02:00 Hukl fährt nicht gerne ÖPNV
+04:04:00 Tims Taxi-Erfahrungen
+
+Car-Sharing
+04:05:00 Car2Go & DriveNow <http://www.car2go.com/> <http://itunes.apple.com/de/app/car2go/id514921710>, <https://www.drive-now.com/> <http://itunes.apple.com/de/app/drivenow-car-sharing/id435719709>
+04:06:55 Flinkster <http://www.flinkster.de/> <http://itunes.apple.com/de/app/flinkster/id421390893>
+04:09:40 Moovel <https://www.moovel.com/>
+04:11:00 Max: Tarifbesonderheiten und Probleme bei car2go
+04:14:30 Parkplatzsuche und Preisvorteile bei Carsharing-Fahrzeugen
+
+Ausblick:
+04:17:10 Ankündigung der nächsten Sendung in drei Wochen
+–Roddi <http://www.flickr.com/photos/danhon/7499791150/>
+–Mountain-Lion-Kurzvorschau
+–Tim könnte perfekt Bitcoins mit seiner Grafikkarte rechnen
+04:21:00 Verabschiedung
+
+Titelvorschlag: <http://176.9.139.230:5000/>  App-artiges Design
+
+
+Sendungsende: 00:11 Uhr
+
+
+
+

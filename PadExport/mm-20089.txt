@@ -1,0 +1,116 @@
+Shownotes: mobileMacs 089
+Bei Mobile Macs freuen wir uns über jeden neuen Mitschreiber bei den Live Shownotes!
+(    wenn nicht genug da sind bei den nächsten beiden Mobile Macs Folgen,    werden wir leider das Live Shownoten bei Mobile Macs einstellen  müssen.   MfG Quimoniz, Shownote Admin)
+ 
+MobileMacs 089
+Mittwoch, 06.06.12 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max), hukl (@hukl) und Robb (@ceterum_censeo)
+ 
+<http://mobilemacs.de>
+Timer: 
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+
+Zusammen getragen von: hanz, schoeM, boeggsli
+
+Beginn: 19:48
+
+00:01:00
+Robb wird vorgestellt.
+Robb ist ein Kollege von Max
+Es gibt Brownies aus NSFW (hat Tim selber gemacht!)
+Apple hat Probleme mit Umlauten im Nachnamen.
+
+00:13:00
+erste Apple rants
+00:15:45 
+WWDC-glaskugel
+00:18:00
+Google Maps auf dem iPhone und Apple Probleme
+00:29:00
+WWDC Solgans der letzten Jahre und in diesem Jahr
+00:30:00
+Apple Uhr und neue Mac Pros
+00:32:00
+Tims Mac Pro macht faxen und sein Bluetooth stürzt ab.
+00:35:00
+hukl hat sich eine neue Maus gekauft.
+<http://steelseries.com/de/products/mice/steelseries-sensei-raw>
+00:40:00
+Tim ist mit seinem 2009 Mac Pro sehr zufrieden und hat 3 Bildschirme angeschlossen.
+00:42:00
+Gerüchte um neue Macs 
+00:45:00
+Neuer Apple Store
+00:47:00
+Gerüchte um das neue iPhone
+   * Gesichtserkennung
+   * dauerhaftes Dock
+   * neue Größen
+00:51:00
+Robb war im letzten Jahr auf der WWDC und hat mit Mitarbeitern getrunken.
+00:53:00
+Mountain Lion
+00:54:00
+Apple TV und Apps
+Wie wird das neue Apple TV
+Apple sollte die Rechte an der Fussball-WM für das Apple TV kaufen
+01:15:30
+Tim will lieber über die EM als über das Apple TV reden
+01:17:20
+Flattr und der AppStore
+01:26:50
+Heute ist IPv6-Tag
+01:39:40
+Max hat sich einen TiltPod von gomite gekauft
+<http://gomite.com/>
+<http://www.amazon.com/tiltpod-always-ready-compact-digital-cameras/dp/B004NMNHVK>
+01:45:00
+Max hat sich zudem ein iRig Mic gekauft
+<http://www.ikmultimedia.com/products/irigmic/>
+<http://www.amazon.de/iRigMic-Handheld-Mikrofon-Apple-iPhone-iPad/dp/B004IA8F50>
+01:xx:xx
+Max hat sich den JotPro gekauft
+<http://adonit.net/product/jot-pro/>
+<http://www.amazon.de/Adonit-Jot-Stylus-Metal-Grey/dp/B005GSNLBQ/>
+01:58:45
+Tim hat sich den Belkin RockStar gekauft
+<http://www.belkin.com/IWCatProductPage.process?Product_Id=420074>
+<http://www.amazon.de/Belkin-F8Z274ea-RockStar-5-Fach-Klinkenverteiler/dp/B0017VKV2I>
+Man kann auch mehrere Soundquellen mixen
+02:03:00
+Tim hat sich außerdem ein Sharkoon SATA angeschaut
+Ein Dock, um nackte Festplatten anzuschließen
+<http://www.sharkoon.com/?q=de/overview/15>
+02:08:30
+Max stellt den Twig vor
+<http://www.heise.de/mac-and-i/meldung/iPhone-Adapter-mit-eingebautem-Mini-Schwanenhals-1587154.html>
+Ein iPhone-Adapterkabel, dass auch als Stativ taugt
+Könnte auch für Developer taugen
+02:11:00
+Robb stellt underscore.m vor
+<http://underscorem.org/>
+02:18:30
+The Desing of LLVM und random Programiergelaber
+<http://www.drdobbs.com/architecture-and-design/240001128>
+02:28.00
+Cocoa Pods und random Programiergelaber
+<http://cocoapods.org/>
+02:33:00
+Tim hat kein Thema mehr
+02:34:45
+Hier gehts um die Wurst ums Bier
+02:36:00
+WWDC: Hörertreffen und Berichterstattung von Max
+02:37:30
+Soundcloud und Podcasting
+02:45:00
+Peak Mobilemacs
+02:47:00
+Tim Cooks D10Interview-Kritik
+02:48:40
+Ping is dead
+02:50:40
+Tim prangert hart. APPLE!
+02:54:30
+Stream is tot.
+

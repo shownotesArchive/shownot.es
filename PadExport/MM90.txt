@@ -1,0 +1,116 @@
+Bei Mobile Macs freuen wir uns über jeden neuen Mitschreiber bei den Live Shownotes!
+Zum Mitschreiben ist die Anmeldung auf http://shownotes.piratenpad.de/ erforderlich
+
+MobileMacs 090
+Mittwoch, 20.06.12 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max), hukl (@hukl)
+
+<http://mobilemacs.de>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM90&time=19%3A37%3A00
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Stream: http://xsn.io/mobile_macs.mp3
+
+Zusammen getragen von: @cwennrich, Pyroblast, hanz, Quimoniz
+
+Sendungsbeginn: 19:37:00
+
+Previously on Mobile Macs <http://soundcloud.com/david1701/previously-on-mobilemacs-089>
+00:02:30 Tim ist ein unverbesserlicher Optimist
+00:07:00 Begrüßung
+00:08:00 Max' erste(!) eigene iPhone App: Tabula Tabs <http://tabulatabs.com/>
+00:15:40 WorldWideDeveloperConference
+00:16:55 Wie man Jet Lag verhindert <http://www.sueddeutsche.de/reise/tipps-gegen-jetlag-augen-auf-und-durch-1.936738>
+00:19:00 Max versucht von der Keynote zu berichten
+00:20:00 Max' Eindrücke von San Francisco
+00:21:40 Github Party, im Ferry Building mit Rauswurf um Mitternacht <http://en.wikipedia.org/wiki/San_Francisco_Ferry_Building>
+00:25:15 Heroku Party von 18:30 bis 21:00
+00:26:35 Bei Foursquare
+00:28:00 Denis will mehr von der WWDC hören
+00:28:30 BeerBash ist die Saufparty von Apple
+00:29:30 Das Team schaut sich das Moscone Center auf Google Streetview an
+00:31:45 Es gab eine Badge mit korrekten Umlauten
+00:32:00 Max berichtet von der Keynote
+00:36:30 Tim lobt die Vortragekunst der Developer bei Apple
+00:39:30 WWDC Videos sind da <https://developer.apple.com/videos/wwdc/2012/>
+00:41:30 Max schockte Apple Developer wegen Memory Warnings, auf die seine App erst den Cache leert
+00:44:30 Max erzält vom Flug nach SF mit dem A380
+00:45:30 Max hat das MacBookPro mit retina Display im Apple Store gesehen
+00:46:55 Abhandeln der Keynote
+00:49:00 MacBookAir wurde überarbeitet, 2 mal schnellere SSDs <http://www.cultofmac.com/174560/the-ssd-in-the-new-macbook-air-is-217-faster-than-before/>
+00:50:00 MagSafe 2
+00:52:00 Der Pritloveadapter <http://store.apple.com/de/product/MD504>
+00:53:00 Kein 3G beim MacBookAir
+00:55:35 Das 17" MacBookPro ist tot
+00:56:30 Hukl vermisst sein 17" nicht
+00:57:00 Retina Display
+00:59:00 Max findet das Air gut.
+01:02:00 Gewichte der MacBooks
+ * Air 11": 1,8kg
+ * Air 13" 1,35kg
+ * Pro TNG: 2,02kg
+01:05:00 horizontale Auflösung der Bildschirme, je nach Skalierung: 1680, 1920
+Portal 2 & Diablo 3 kriegen mit OpenGL die Maximalauflösung: 2880
+01:07:00 Screenshot vom neuen Screen Control panel <http://www.anandtech.com/show/5998/macbook-pro-retina-display-analysis>
+01:09:00 Macbook Lüfter
+01:10:00 Power Nap
+01:11:00 Hardwareabspeckung: DVD-Laufwerk ist raus
+01:13:00 Repairability von 1.0
+01:16:00 USB3 on board, Thunderbolt http://de.wikipedia.org/wiki/Thunderbolt_(Schnittstelle)
+01:18:00 Thunderbolt to Gigabit Ethernet: <http://store.apple.com/de/product/MD463ZM/A?fnode=MTY1NDA3Ng>
+01:22:00 VGA und HDMI: <http://de.wikipedia.org/wiki/Video_Graphics_Array> <http://de.wikipedia.org/wiki/Hdmi>
+01:25:00 Kein Audio-In mehr
+01:27:00 Kein Infra-Rot mehr
+01:30:00  Thunderbolt Displayport 1.1a <http://de.wikipedia.org/wiki/DisplayPort#Daten.C3.BCbertragungsraten>
+01:33:10 neue AirPortExpress <http://www.apple.com/de/airportexpress/>
+01:34:00 Apple TV <http://www.apple.com/de/appletv/>
+01:36:25 SIM Karte in Amerika AT&T Netz vs. T-Mobile USA
+01:39:00 Latenz bei Air Foil und Air Port Express
+01:41:30 iPad-Smart-Case <http://store.apple.com/de/product/MD455>
+01:42:50 Mountain Lion <http://www.apple.com/de/osx/> Featurelist <http://www.apple.com/osx/whats-new/features.html>
+01:46:00 iCloud <http://www.icloud.com/>
+01:47:50 Mac OS 10 mit SideCalendar ist schon viel runder
+01:50:15 PowerNap - Nap mit Time Machine laufend
+01:55:35 Gamecenter, Ingame Voice Chat <http://www.apple.com/osx/whats-new/features.html#gamecenter>
+02:00:30 Dictionary Funktion <http://lipflip.org/articles/dictcc-dictionary-plugin>, Thesauren
+02:03:00 Multi Monitor Fullscreen mit Mountain Lion im Gegensatz zu Lion
+02:07:00 iOS 6
+02:08:00 ViP für Mail
+02:09:00 Tim unterhält sich mit dem Chat, foobar23
+02:12:00 Messages
+02:13:10 Kaputte Scrollbars
+02:18:15 iOS6 <http://www.apple.com/de/ios/ios6/>,
+ * Podcasts wurden aus iTunes rausgeschmissen
+ * Zugriffsrechte auf das Addressbuch
+ * Siri kann jetzt Sport
+02:23:00 Collection Views, wie Table Views
+02:26:00 Apple Maps <cdn1.mobilemag.com/wp-content/uploads/2012/06/120614-applemaps2.jpg>
+02:34:00 Google Earth <http://earth.google.com/>
+02:36:00 Turn By Turn Navigation API, von Apple
+02:37:00 Do not Disturb
+02:39:00 Facetime über 3G
+02:40:00 Mail und Spam
+02:44:00 Updates auf Android, Windows Phone und iPhone
+Android Tablet: <https://twitter.com/hukl/status/215540492870488064>
+02:49:10 PassBook
+02:58:00 Ab morgen ist Sommer
+02:59:00 Max hat sich einen Usb stick für den Schlüsselbund gekauft "PNY16G". <https://twitter.com/343max/status/215543524920266753>
+03:00:00 Denis hat sich auch einen gekauft aber sofort verloren.
+03:01:20 Eigenständige Podcast App
+03:06:00 Blinkenlights 10hours: <http://www.youtube.com/watch?v=kMAIqZatptY>
+03:09:50 Microsoft Keynote - Surface Tablet <http://www.youtube.com/watch?v=92DpSkrZa9E>
+03:18:00 Surface auf den Punkt gebracht <http://propic.com/24ew>
+03:25:00 Grobe Tech Specs: <https://www.microsoft.com/global/surface/en/us/renderingassets/surfacespecsheet.pdf>
+03:30:00 Diskussion ueber Anschaffung neuer Hardware
+03:39:00 Retina Displays, Apple macht nurnoch glossy
+03:47:00 iPad Cases
+03:48:00 Neues Nokia mit Symbian und 41MP Kamera
+03:52:00 Gigabit Adapter über Thunderbolt Port: Brauchte Update, und geht mit 100 MB/s
+03:53:00 Lightning IO am 21.7. in Polen <http://lightning.io/>
+03:55:00 Autobahnen in Polen
+03:57:00 Roddi hat sein iPad fast im bulgarischen Bus vergessen.
+03:58:00 iOS 6 neues Feature "Lost Modus"
+04:00:00 In Bulgarien ist offenes WLAN üblich
+
+Outro: <http://www.youtube.com/watch?v=EBOPoPQMBps>
+Sendungsende: 23:45:25
+

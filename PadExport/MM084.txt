@@ -1,0 +1,60 @@
+#Mobile Macs 084
+http://mobilemacs.de/ - Chat zur Sendung: irc://freenode.net/mobilemacs (Direktlink: http://l3viathan.com/r/?u=irc://irc.freenode.net/mobilemacs ) - ReLive: http://epirat.basedrive.net/MM/
+
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM084&time=20%3A03%3A06
+Geschrieben von: ePirat, widder, Pyroblast_MM
+
+Sendungsstart: 20:03:06
+
+Intro: Previously on Mobile Macs
+Überarbeitung des Intros
+
+00:04:00 iPad 3
+Cinch http://itunes.apple.com/de/app/cinch/id412529613?mt=12
+BetterSnapTool http://itunes.apple.com/de/app/bettersnaptool/id417375580?mt=12
+00:27:00 Adblock ausgehebelt
+00:29:50 Max mag Windows 8 nicht
+Fazit: Bedienung auf Tablets vermutlich ok, unbedienbar auf Desktops
+Consumer Preview: http://windows.microsoft.com/de-DE/windows-8/iso
+00:45:45 Airport Extreme Review von Dennis
+00:55:50 FritzBox-Update wg. Sommerzeit-Fehler
+http://www.heise.de/netze/meldung/Fritz-Boxen-verschlafen-Zeitumstellung-1479870.html
+00:59:30 Dennis Selbstbau-Uhr und die Schaltsekunde
+01:02:50 Heim-/ Hausautomation mit MAX! von ELV incl. iOS-App
+http://www.elv.de/MAX!-Funk-Heizungsregler-System/x.aspx/cid_74/detail_1/detail2_1872
+MAX ELV App http://itunes.apple.com/de/app/max!-elv/id481997727?mt=8
+http://www.marco.org/2011/12/17/nest-incompatibility-without-c-wire
+01:16:40 Zeppelin http://www.bowers-wilkins.de/iPod_and_Computer_Speakers/iPod_and_Computer_Speakers/Zeppelin_Air/overview.html01
+Amazon hat Regale
+1:20:00 Logitech Squeezebox, http://www.logitech.com/de-de/speakers-audio/wireless-music-systems/devices/5847, Squeezebox-Server in Perl (läuft überall), Erweiterungen in LUA http://www.lua.org/ (wie bei WoW-Addons). Spotify- und Facebook-App vorhanden.
+Radiozubehörkit (Akku und Fernbedienung) muss dazugekauft werden.
+App für iPhone und Mac vorhanden (per LUA-Script kann die Squeezebox gesteuert werden)
+01:29:30 NanoSIM
+01:41:30 Instacast
+Apple Review Fail http://www.iphoneblog.de/2012/03/16/app-store-prufung-fehlgeschlagen/
+01:46:30 Tim ruft an
+Apple lässt keine Apps mehr zu die die UDID (Unique Device ID) abfragen
+Apple soll Pay Updates unterstützen http://blog.wilshipley.com/2012/03/mac-app-store-needs-paid-upgrades.html
+Paintcode
+01:59:00 MacUpdate Bundle, heute letzter Tag (VMware Fusion,...) https://www.mupromo.com/
+02:01:00 Kleine Updates: Adium (v1.5, jetzt 64bit), Colloquy (jetzt 10.7 only), SD-Karte gewaschen, Angry Birds Space http://space.angrybirds.com/launch/
+Tim: Skype ist ein echtes Problem beim Umgang mit Audiointerfaces
+02:07:20 Tim hat Podcaster zusammengetrommelt - PodLove Meeting in Berlin
+Auphonic ( http://auphonic.com/ ): Adaptives Leveling, Musik und Sprache unterscheiden, Kapitelmarken für alle Formate (MP3, AAC, OGG), Metadaten
+02:30:30 Macboook Pro Air oder Macbook Air Pro? Thunderbolt-Firewire-Adapter für Macbook Air, Thunderbolt-Markt für PC?, U SB 3, 
+02:37:00 Chain of Fools: Upgrading through every version of windows, http://www.youtube.com/watch?v=vPnehDhGa14
+02:28:00 Mike Daisey And The Apple Factory größtenteils erfunden
+
+02:43:30 Starke Wärmeentwicklung von Tablet PC's im vergleich  http://www.wired.com/gadgetlab/2012/03/new-ipad-versus-5-tablet-competitors-which-runs-hottest
+iPad als Penis-Heizung?
+Tim: Android-Tablet-Welt unnützer, überflüssiger Dreck, furchtbar!
+Android 4 auf Tablets: Motorola, Asus
+Kindle Fire
+02:45:00 Updateproblematik bei Android (Fragmentierung)
+http://socialbarrel.com/statistics-show-quick-adoption-rate-of-apple-ios-5-1/34429/
+Android füllt Lücke, die RIM, Microsoft/Nokia offen ließen.
+iPhone-Käufer bleiben mit hoher Wahrscheinlichkeit dabei
+02:55:00 iPhoto für iOS nicht toll, "Aktualisiere Mediathek" / "Updating Photo Library"
+02:57:00 Tim gehen die Firmen, die er niedermachen kann aus
+02:58:00 ENDE
+

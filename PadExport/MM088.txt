@@ -1,0 +1,91 @@
+Bei Mobile Macs freuen wir uns über jeden neuen Mitschreiber bei den Live Shownotes!
+( wenn nicht genug da sind bei den nächsten beiden Mobile Macs Folgen, werden wir leider das Live Shownoten bei Mobile Macs einstellen müssen. MfG Quimoniz, Shownote Admin)
+ Pad ist Public-Readonly
+Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de erforderlich
+ 
+MobileMacs 088
+Mittwoch, 23.05.12 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max) und hukl (@hukl)
+ 
+<http://mobilemacs.de>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM088&time=18%3A44%3A30
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Zusammengetragen von: hanz, Gurkitier, Quimoniz
+ 
+ 
+Sendungsbeginn: 18:44:30
+
+Die mimimi Sendung.
+00:04:00 Sachen ohne Anleitung an Nerds schicken.
+Tim hat vor längerer Zeit Bier bekommen, welches jetzt abgelaufen ist.
+Frustbier
+00:04:30 Tim war auf der SIGINT, und redete sich heiser
+00:05:35 Die Metaebene fordert Bier
+00:06:15 iOS 6, Neue Karten <http://openstreetmap.org/>
+00:08:00 Etwas älterer April-scherz, <http://www.heise.de/newsticker/meldung/OSM-Lizenzwechsel-reisst-Loecher-in-die-Hauptstadt-1486457.html>
+00:12:20 Toskana Karten sind unvollständig
+00:14:10 3D Maps
+00:15:00 Microsoft macht Bing Streetside in Deutschland zu. <http://www.heise.de/newsticker/meldung/Microsoft-schaltet-Streetside-aufgrund-von-Beschwerden-ab-1581854.html>
+00:19:00 Google Earth <http://www.google.com/earth/index.html>
+00:20:00 Jeopardy Think, 15 minutes <http://www.youtube.com/watch?v=HuABhumm6fY>
+00:23:00 Denis iPhone findet Köln nicht.
+00:25:00 Max fährt zur WWDC im Juni.
+00:26:00 Karl Koch ist vor 23 Jahren gestorben <http://de.wikipedia.org/wiki/Karl_Koch_%28Hacker%29>
+00:30:00 Neues iPhone - neue Größe? <p.twimg.com/AtgJGlhCAAEi9O8.jpg>
+00:37:00 Was passiert mit den Apps im alten Format?
+00:43:00 Keynote soll spannend werden
+00:45:00 Windows NT vs. Mac 7.5
+00:47:00 Apple braucht einen besseren CEO für die Keynotes.
+00:49:00 Tim will einen anderen Namen.
+00:50:00 iTunes Podcast-Extensions
+00:52:00 Pixel und Icons
+00:54:00 Raspberry Pi <https://de.wikipedia.org/wiki/Raspberry_Pi>
+00:57:00 Panda Board <http://pandaboard.org/>
+00:57:40 Carambola <http://shop.8devices.com/carambola>
+01:03:00 Große E-Ink-Displays mit Beleuchtung <http://en.wikipedia.org/wiki/E_Ink>
+01:06:00 Classic Shell Scripting von O'Reilly <http://shop.oreilly.com/product/9780596005955.do>
+01:08:00 10.7.4 ist besser als 10.7.3 stürzt aber trotzdem gelegentlich ab.
+01:10:00 Prenzlauerberg ist nicht der Kinderreichste Bezirk Berlins
+01:11:00 Siri
+01:11:00 Erlang Blogpost <http://smyck.net/2012/04/22/why-erlang/> und Flattr
+01:12:00 Apple ist gegen Flattr
+01:16:00 Apps reviewer und review Prozess
+01:18:00 Spenden und Apple
+01:27:00 Dropbox SDK <https://www.dropbox.com/developers/reference/sdk>
+01:29:20 Am 7. Juni um 18 Uhr gibt's ein Flattr Meetup in Berlin
+01:34:00 Umbennung wo Donate vorschläge.
+01:38:00 Deutsches Kartellrecht <http://de.wikipedia.org/wiki/Marktbeherrschende_Stellung>
+01:42:00 Erste Android App für Podcasts und Flattr 
+01:47:00 Online-Payment-Möglichkeiten
+01:50:00 Online-Banking (Copy & Paste und Datenexport mit OutBank <http://www.outbank.de/>)
+01:54:00 Vergleich OutBank und MoneyMoney <http://moneymoney-app.com/>
+01:58:00 Forklift <http://www.binarynights.com/>
+02:03:00 Norton Commander <http://de.wikipedia.org/wiki/Norton_Commander>
+02:06:00 Cyberduck <http://cyberduck.ch/>
+02:11:00 Netatalk <http://netatalk.sourceforge.net/>
+02:15:00 Fangesänge
+02:17:00 Das Google-Doodle und der Moog <http://de.wikipedia.org/wiki/Moog-Synthesizer>
+02:22:00 Justnotes <http://selfcoded.com/justnotes/>
+02:23:00 Metanota <http://itunes.apple.com/de/app/metanota/id511648940>
+02:25:00 FlattrPod <http://itunes.apple.com/de/app/flattrpod/id500600890>
+02:26:30 Editoren, Xcode <https://developer.apple.com/xcode/>, Chocolat <http://chocolatapp.com/>
+02:28:30 Eclipse <http://www.eclipse.org/> und Webstorm <http://www.jetbrains.com/webstorm/>
+02:31:00 Textmate <http://macromates.com/>
+02:33:00 Sublime Text 2 <http://www.sublimetext.com/>
+02:35:30 vim <http://www.vim.org/> und Emacs <http://www.gnu.org/software/emacs/>
+02:42:00 NetHack <http://nethack.org/>, NetHack Server <http://alt.org/nethack/>
+02:46:30 Telnet <http://de.wikipedia.org/wiki/Telnet>
+02:49:00 Linux-Rant
+02:55:00 5 by 5 podcast <http://5by5.tv/> Problem
+03:15:00? Facebook
+03:23:00 Apple Ping
+03:24:00 Google plus
+03:28:00 Windows 8
+
+03:34:00 Ende. 22.19 Uhr
+
+
+
+
+
+

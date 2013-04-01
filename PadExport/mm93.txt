@@ -1,0 +1,208 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ nötig)
+
+Mobile Macs 93
+mit @timpritlove (IRC timpritlove, metaebene), @343max (IRC max343), @roddi (IRC roddi), @hukl (IRC hukl), @denis2342 (IRC denisx)
+
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fmm93&time=19%3A43%3A15>
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Stream: http://streams.xenim.de/mobile_macs.mp3.m3u
+
+Zusammengetragen von: @Quimoniz, @kaeffchen_heinz, Pyroblast, @scarrson, @Anthrazit101, @AlphonsPho
+Sendungsbeginn: 19:43:15
+
+00:00:00 Previously on Mobile Macs <http://soundcloud.com/david1701/previously-on-mobilemacs-092> von David_1701 (Flattr: https://flattr.com/profile/david1701) 
+00:02:06 Sendungsbeginn
+00:02:20 Kein pünktlicher Anfang, ist in Berlin immer so, siehe Flughafen BER
+00:02:50 Neuigkeiten zum Apple Store in Berlin
+00:04:00 Es gibt noch Probleme mit den Tischen 
+<http://www.oobject.com/category/items-to-build-an-apple-store/>
+00:05:23 Begrüßung
+00:06:00 Tim hat endlich seinen Firewire800-ThunderBolt-Adapter <http://store.apple.com/de/product/MD464ZM/A>
+00:06:50 Tims Tisch ist nicht aufgeräumt und er hat keinen Platz
+
+Root Server Aufsetzerei
+00:07:18 Der Downloadserver der Metaebene ist Montagnacht abgeschmiert <http://bitlove.org/>
+00:08:40 Tim ist auf einen 1-Click-Hoster (Inter.NET) umgestiegen, auf den er mit VNC auf die Konsole kommt <http://www.de.inter.net/>
+00:12:40 FreeBSD 9.0 Installer Redesign
+00:13:20 Hetzner <http://www.hetzner.de/>
+00:14:50 FreeBSD-Installer-Image <http://mfsbsd.vx.sk/>
+00:16:25 Cloudhosting und weitere Anbieter
+00:17:00 Tim hat mit einem Core angefangen und ist dann auf vier umgestiegen.
+<http://www.linux-kvm.org/> <http://llvm.org/>
+00:18:30 Clang <https://en.wikipedia.org/wiki/Clang>
+00:19:48 Amazon Tipps von Hukl – ZFS Datensicherung mit GZIP auf  <http://aws.amazon.com/de/s3/>
+00:23:30 How to mount Amazon S3 bucket to a directory on FreeBSD <http://superuser.com/questions/327661/how-to-mount-amazon-s3-bucket-to-a-directory-on-freebsd>
+
+ZFS und Co.
+00:24:38 ZFS vs. BtrFS <http://rudd-o.com/linux-and-free-software/ways-in-which-zfs-is-better-than-btrfs>
+– Viele Funktionen von BtrFS sind "not implemented yet" 
+00:26:51 HFS+ <http://de.wikipedia.org/wiki/HFS_plus>
+00:27:00 GPL & Richard Stallmann <http://de.wikipedia.org/wiki/GNU_General_Public_License>
+00:28:26 ZFS Firma aufgekauft <http://www.getgreenbytes.com/blog/bid/80758/GreenBytes-Welcomes-ZEVO-and-Don-Brady> 
+ZFS als kostenlose Version für den Mac im September  <http://www.getgreenbytes.com/blog/bid/80923/GreenBytes-and-the-Future-of-ZEVO> 
+00:33:00 Oracle
+00:34:00 Alles was man nicht sieht ist von Oracle (u.a WoW Datenbanken) 
+<http://de.wikipedia.org/wiki/Larry_Ellison> 
+
+iCloud-Security
+00:36:58 iCloud Ausfall
+00:38:00 Apple-Werbespots für die Genius Bar <http://www.youtube.com/user/apple> 
+– Werbespot – Mayday: <http://www.youtube.com/watch?v=0LyIwJgQlsc> 
+– Werbespot – Basically : <http://www.youtube.com/watch?v=oRveuk_4Or0> 
+– Werbespot – Labor Day: <http://www.youtube.com/watch?v=2qd-Oc6FFDA> 
+00:41:49 iCloud Account eines Gizmodo Mitarbeiters geknackt <http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard>  <http://www.heise.de/newsticker/meldung/Bericht-Apple-Support-ermoeglichte-iCloud-Account-Uebernahme-1660767.html>
+00:46:10 weitere Sicherheitsmaßnahmen zur Sicherung des Accounts
+00:51:00 Backups
+00:51:39 Google Reader API, 2-Wege-Authentifizierung
+Apples iCloud Ausfallstatusseite <http://www.apple.com/de/support/icloud/systemstatus/>
+
+Peak Apple
+00:54:50 Auf BlackHat veröffentlicht: EFI-Rootkit über Thunderbolt 
+<http://www.heise.de/newsticker/meldung/EFI-Rootkit-fuer-Macs-demonstriert-1654997.html>
+Tims ehemaliges Apple Vögelchen
+00:57:50 Code-Signing über Gatekeeper
+00:58:10 Denis' Ausblick auf Mac OS 11
+01:00:00 Apple "Die Hard"-Admins
+01:03:00 Wird Apple sein System dicht machen?
+01:05:30 iCloud lässt sich nur noch mittels AppStore benutzen
+01:06:24 Bitcoin App wird wegen Payout Button gelöscht 
+<http://www.btcmp.com/> 
+01:07:24 CoreData funktioniert nicht, iCloud aus Entwicklersicht
+01:09:04 GarageBuy Funktionsweise 
+<http://itunes.apple.com/de/app/garagebuy/id402415186?mt=12> 
+01:11:19 Paid Updates und In-App Purchases 
+<http://www.pixelmator.com/> 
+01:14:45 Dropbox sollte ein OS machen, Cloud-Architektur wäre passend vorhanden
+
+Der Berglöwe
+01:15:39 Software Updates (u.a. Safari 6 unter Lion) <http://www.apple.com/de/safari/> 
+<http://support.apple.com/kb/HT5275> 
+01:17:20 Windows und Snow Leopard noch immer ohne Safari 6
+01:18:00 Tim hat unter 10.8 Probleme auf seinem 2006 iMac
+01:20:15 Nach Installation des Berglöwen 30 GB mehr Speicher frei, vorerst
+01:21:05 AirPlay unter 10.8, verschiedene Eindrücke
+01:23:00 Nachrichtenzentrale
+01:23:45 Geschwindigkeits-Gewinn, Diktieren
+01:25:15 Mountain Lion ist eigentlich wie Lion, nur mit weniger Bugs
+01:25:35 Killer Feature: Man kann Sachen in den Papierkorb schmeissen während er entleert wird
+01:26:00 Probleme beim Scrolling und weiteres Fehlverhalten
+Backspace im Safari wieder aktivieren <http://twitter.com/denis2342/status/232367224097222657> 
+Logo der Nachrichtenzentrale entfernen
+<http://osxdaily.com/2012/08/06/disable-notification-center-remove-menu-bar-icon-os-x/>
+01:31:45 Unwahrscheinlich viele Kernel-Panics beim Aufwachen unter Mountain Lion
+01:34:40 PowerNap und nochmal die neue Nachrichtenzentrale
+01:36:00 Growl hat seinen Zenit überschritten
+01:36:55 Unter OS 9 gab es schon mal eine Nachrichtenzentrale, als OS-Feature - großes Staunen <http://support.apple.com/kb/TA44403?viewlocale=en_US> 
+01:39:40 Gesten unter OSX <http://www.apple.com/de/osx/what-is/gestures.html> 
+01:41:30 Dashboard – Anwendungsfälle
+01:42:10 Neuinstallationen
+01:43:00 Anzeigen von Nicht-Retina-Grafiken in der Retina-Auflösung
+<http://osxdaily.com/2012/06/26/highlight-non-retina-image-assets-in-red-to-insure-high-resolution-images-load/> 
+01:45:35 Xcode unterstützt in der Grundinstallation kein OS 10.6 mehr
+01:46:45 Tims Meinung zu Mountain Lion  <https://twitter.com/timpritlove/status/232850588419911680>
+– Prozesserauslastung aufgrund von Dante Virtual Soundcard vermutlich extrem hoch 
+<http://www.audinate.com/index.php?option=com_content&view=article&id=235> 
+01:49:28 Kalender und das Scrolling (Wochenkalenderanzeige jetzt möglich, unter "Advanced")
+– Tim ist ob der »Kalendersituation« immer noch unglücklich und erklärt (mal wieder (Anm.d.Red.)) seinen Anwendungsfall
+–  das Team reagiert verständnisvoll (rät aber zum Kickstarter-Projekt)
+01:56:41 Messages und die Weiterentwicklungen seit der Beta
+
+Hard- und Software
+01:59:40 Protina und Filme ansehen <http://www.videolan.org/vlc/> 
+02:00:00 Xcode Bug in den Bildeinstellungen
+02:01:30 Tims Update-Befürchtung für seinen Mac Pro
+02:03:10 Dennis kann nicht mehr von Snow Leopard auf Lion updaten, da es nicht mehr im Store angeboten wird
+02:05:45 Mobile Me wurde eingestellt, man muß auf Lion+ gehen
+02:07:40 Peak Bogk-Bier 
+– Blog: <http://www.bogk-bier.de/>
+– Projekt: http://www.inkubato.com/de/projekte/bogkbier
+02:10:00 Apple Gutschein-GAU für Mountain-Lion-Download 
+<http://www.heise.de/mac-and-i/meldung/Up-to-Date-Programm-Probleme-mit-Mountain-Lion-Gutscheincodes-1652997.html> 
+02:10:49 Mac OS 10.8 Server <http://www.apple.com/de/osx/server/> 
+<http://itunes.apple.com/de/app/os-x-server/id537441259?mt=12>
+
+Blick über den Apple-Tellerrand und zurück
+02:12:15 Der Raspberry Pi von Max ist da <http://www.raspberrypi.org/> 
+– Preis €35 
+– ARM-Prozessor 
+– GPIO Port <http://en.wikipedia.org/wiki/General_Purpose_Input/Output> 
+– Videos in 1080p ohne Problem 
+– OpenELEC <http://openelec.tv/component/k2/item/235-openelec-on-raspberry-pi-our-first-arm-device-supported/> 
+– Idee: Nutzung als AirPlay-Konverter mit Shairport <https://github.com/bbhoss/shairport>
+02:21:05 Google Nexus 7 <http://www.google.com/nexus/#/7>
+– €210
+– ist kein iPad
+– Verarbeitungsqualität ist in Ordnung
+– Scrollen ist besser geworden (Überraschung)
+– Empfehlung für alternative Tastatur: Swiftkey <http://www.swiftkey.net/>
+– die Back-Taste ist bekloppt, oder?
+– Anpassung der Apps an das Tablet-Format ist schlecht!
+– Android ist überhaupt an vielen Stellen inkonsequent
+– Es ist gut, um auf der Couch zu surfen
+– Die Schaltflächen nerven 
+– Es ist eigentlich nicht schlecht, die Begeisterung in der Podcast-Runde hält sich in Grenzen
+– Die Apps sind für Jelly Bean (Android 4.1) noch nicht angepasst, vor allem bei den Widgets erkennbar
+– Google Now und Spracherkennung
+02:36:00 Russische Raumfahrt und diverse Themen die die Shownote-Schreiber in den Wahnsinn treiben
+02:40:30 App-Launcher Alfred <http://www.alfredapp.com/> vs. LaunchBar <http://www.obdev.at/products/launchbar/index-de.html>
+02:46:13 hukl empfiehlt Prismatic <http://getprismatic.com/>
+02:48:23 Die Youtube-App wird aus iOS6 geworfen
+02:50:00 Apple vs. Samsung –  Patentstreit <http://9to5mac.com/2012/08/07/samsungs-132-page-internal-report-on-why-the-galaxy-should-be-more-like-the-iphone/> 
+http://www.appleinsider.com/articles/12/08/07/internal_samsung_report_comparing_galaxy_s_with_iphone_admitted_into_evidence.html
+02:53:35 Microsofts' Windows Metro heisst jetzt "Windows 8-style UI"
+02:55:00 Google Fiber in Kansas City <https://fiber.google.com/about/>
+02:57:00 RIM will Blackberry10 lizensieren
+02:57:20 Bundestagsgesetze auf Github <https://github.com/bundestag/gesetze>
+02:58:30 iPhone-Prototypen <http://www.cultofmac.com/181782/every-iphone-prototype-apple-ever-made-before-released-the-first-iphone-gallery/>
+03:03:10 Giraffe und Eagle <http://www.cocoanetics.com/2012/08/a-taller-iphone-is-a-giraffe/>
+
+Der Anfang vom Ende
+03:05:20 Stream down
+
+03:13:30 Bitcoins
+– erkennbar
+– FPGA Boards bei <http://www.ztex.de/usb-fpga-1/usb-fpga-1.15y.e.html> (fast 90% Gewinn wenn Anschaffungskosten wieder reinbekommen, weil wenig Stromverbrauch)
+03:17:50 Das Netz ist nicht stabil, liegts an IP-v4/v6? Es liegt an der Fritzbox
+03:19:40 Tim möchte die Fritzbox treten, und ein Speedport 221 per eBay erwerben
+03:20:30 Durcheinandergerede
+
+02:22:50 Stream down, die Nutzer im IRC-Chat reagieren zum Teil hysterisch auf den neuerlichen Ausfall, Suizidrate steigt dramatisch.
+
+03:26:30 E-Mailprogramme <http://dotmailapp.com/>
+
+03:28:00 Stream wieder down
+– Anarchie
+<roddi> http://winkenschuerfel.de/mountain-lion-keychain-erstellt-kaputte-passworte/
+
+03:35:00 Die Redaktion: Wir haben kaum noch Hoffnung, das dieser Podcast fortgesetzt wird!
+
+03:35 25 10MB Bandbreitenlimit/Tag, Opera Mini
+
+03:37:00 Die Podcast-Runde ist unbeeindruckt, ob der stotternden Übertragung. 
+
+03:40:00 Live-Streaming ist mehr oder weniger zusammengebrochen. Es dringen nur noch selten Signale zu uns. Wir bemühen uns, die Berichterstattung aufrecht zu erhalten.
+
+03:42:00 Italien Mobilfunkland mit Prepaid
+– 15€ für die SIM-Karte
+
+03:48:00 Die Situation spitzt sich zu, Berichte aus der MetaEbene sind nun kaum noch möglich.
+
+03:51:10 »Schaint« wird zum dümmsten Wort des begleitenden Chats gewählt (Schaint wohl der Tag der abbrennenden Server zu sein)
+
+
+App-Tipps
+03:54:30 Partly Cloudy <http://itunes.apple.com/de/app/partly-cloudy/id545627378> vs App Weather Pro <http://itunes.apple.com/de/app/weatherpro/id294631159> 
+03:59:00 Dark Sky <http://itunes.apple.com/us/app/dark-sky/id517329357>, leider nicht für Deutschland
+04:00:50 eWeatherHD <http://itunes.apple.com/us/app/eweather-hd-weather-forecast/id401533966>
+04:02:00 Downcast <http://itunes.apple.com/de/app/downcast/id393858566>
+
+04:03:33 PreView Mac OS X 10.9 Nyan Cat <http://9gag.com/gag/4891719>
+04:03:45 Tim wünscht sich ein neues File-System für 10.9, man vermutet die Ersetzung durch die Cloud
+04:05:00 Apple: Depression und Zuversicht
+04:06:45 Auto-Lock ist aus Time-Machine weg, wie geht Tim um mit auto-saving-stuff
+04:08:45 "Apple ist nicht das das was ich will", meint Tim
+04:10:25 Abschied & Stachelbeerkuchen
+04:11:45 ENDE
+
+Sendungsende: 23:55:00
+

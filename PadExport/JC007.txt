@@ -1,0 +1,258 @@
+(Zum Mitmachen ist die Anmeldung auf https://shownotes.piratenpad.de erforderlich!)
+
+Jobcast mit Daniel Autenrieth und Tobias Baier am 6. Juli 2012 ab 21:00
+Thema: Produktmanager eines Online Unternehmens
+Seite zur Sendung: <http://www.jobscast.de/akademische-berufe/%20jc007-produktmanager>
+Stream: <http://xsn.io/jobscast.mp3>
+Timer: <>
+
+Zusammengetragen von: Scarlett
+
+Sendungsbeginn: 21:01 Uhr
+
+Shownotes
+
+00:22
+ * Truthähne frittieren
+   * schon einmal erwähnt bei
+     * WRINT
+       * <http://www.wrint.de/>
+     * Einschlafen Podcast
+       * <http://einschlafen-podcast.de/>
+   * Truthahn frittieren - Blogspot
+     * http://frittieren.blogspot.de/
+ * Tobias war bei den Pfadfindern
+
+06:22
+ * Schulzeit inklusive Gymnasium
+   * mündliche Nachprüfungen
+     * Musik
+     * Erdkunde
+     * Mathematik
+ * keinen Zivil- oder Wehrdienst durch die "dritter Sohn Regel"
+   * Gemäß § 11 WPflG
+     * <http://de.wikipedia.org/wiki/Wehrpflicht_in_Deutschland#Wehrpflichtigkeit>
+   * Querverweis auf "Hamburger Journal" private agentur für schulabgänger
+
+13:35
+ * Vier Wochen in Irland nach dem Abitur
+   * um die englischen Sprachfertigkeiten zu verbessern
+   * Studium Mathematik/ Informatik angestrebt
+   * C64
+     * <http://de.wikipedia.org/wiki/Commodore_64>
+   * Schneider PC
+     * <http://de.wikipedia.org/wiki/Schneider_Euro_PC>
+16:30
+ * Informatik Studium (13 Semester)
+   * Inhalte des Studiums
+     * Funktionale Programmierung
+       * http://de.wikipedia.org/wiki/Funktionale_Programmierung
+     * Miranda
+       * http://de.wikipedia.org/wiki/Miranda_(Programmiersprache)
+     * Pascal
+       * http://de.wikipedia.org/wiki/Pascal_(Programmiersprache)
+     * JavaScript
+       * http://de.wikipedia.org/wiki/JavaScript
+     * Java
+       * http://de.wikipedia.org/wiki/Java_(Programmiersprache)
+     * Objektorientierte Programmierung
+       * http://de.wikipedia.org/wiki/Objektorientierte_Programmierung
+     * Objective-C
+       * http://de.wikipedia.org/wiki/Objective-C
+     * Model View Controller Konzept
+       * http://de.wikipedia.org/wiki/Model_View_Controller
+     * Oberon
+       * http://de.wikipedia.org/wiki/Oberon_(Programmiersprache)
+     * Petri-Netz
+       * http://de.wikipedia.org/wiki/Petri-Netz
+       * Carl Adam Petri
+         * http://de.wikipedia.org/wiki/Carl_Adam_Petri
+     * Prozedurale Programmierung
+       * http://de.wikipedia.org/wiki/Prozedurale_Programmierung
+     * Theoretische Informatik
+       * http://de.wikipedia.org/wiki/Theoretische_Informatik
+     * Turingmaschine
+       * http://de.wikipedia.org/wiki/Turingmaschine
+     * Universität Hamburg
+       * http://www.uni-hamburg.de/
+     * Ergänzungsfach war Pflicht aber frei zu entscheiden
+       * Systematische Musikwissenschaft
+         * http://de.wikipedia.org/wiki/Musikwissenschaft
+       * Philosophie
+         * http://de.wikipedia.org/wiki/Philosophie
+
+28:25
+ * Einschlafen Podcast
+   * http://einschlafen-podcast.de/
+   * gelesen wurden
+     * Immanuel Kant
+       * http://de.wikipedia.org/wiki/Kritik_der_reinen_Vernunft
+     * Johann Wolfgang von Goethe
+     * Die wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen
+     * David Jum (?)
+
+29:20
+ * Promovieren und die Diplom-Arbeit
+   * Lahmersdorf
+     * verteilte Systeme
+   * Metamodelle für UMl-Tools
+     * http://de.wikipedia.org/wiki/Unified_Modeling_Language
+     * ARGO-UML
+       * http://argouml.tigris.org/
+
+30:45
+ * Freie Stelle an der Universität für 4 Jahre
+   * Softwareentwicklung in verteilten Teams
+   * CVS
+     * http://de.wikipedia.org/wiki/Concurrent_Versions_System
+     * Netbeans
+       * http://netbeans.org/
+     * Eclipse
+       * http://www.eclipse.org/
+
+33:50
+ * Arbeiten bei XING
+   * Büro in Barcelona und Hamburg
+   * Git
+     * http://de.wikipedia.org/wiki/Git
+
+34:55
+ * neues Thema der Diplomarbeit
+   * Identitätsmanagement durch Online Rollenspiele
+     * Everquest
+       * http://de.wikipedia.org/wiki/EverQuest
+   * Reputation des Nutzers
+   * OpenBC (XING Vorgänger)
+   * Lightweight Directory Access Protocol (LDAP)
+     * http://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
+   * Single Sign-on
+     * http://de.wikipedia.org/wiki/Single_Sign-on
+
+39:45
+ * Arbeiten nach der Uni (Commedia)
+   * Commedia
+     * http://www.commedia.de/
+   * New Economy
+     * http://de.wikipedia.org/wiki/New_Economy
+   * Dotcom-Blase
+     * http://de.wikipedia.org/wiki/Dotcom-Blase
+   * CMS
+     * http://de.wikipedia.org/wiki/Content-Management-System
+   * Ruby on Rails
+     * http://de.wikipedia.org/wiki/Ruby_on_Rails
+
+44:50
+ * Arbeiten bei XING und Commedia
+   * Community Manager
+     * http://de.wikipedia.org/wiki/Community_Management
+   * Produktmanager
+     * http://de.wikipedia.org/wiki/Produktmanagement
+   * Scrum und Product Owner
+     * http://de.wikipedia.org/wiki/Scrum
+   * Social Networks
+     * XING
+     * Facebook
+     * LinkedIn
+
+51:20
+ * Was macht ein Produktmanager?
+   * Scrum
+     * http://de.wikipedia.org/wiki/Scrum
+   * Kanban
+     * http://de.wikipedia.org/wiki/Kanban_in_der_IT
+   * XING neues Feature
+   * HTML
+     * http://de.wikipedia.org/wiki/Hypertext_Markup_Language
+   * CSS
+     * http://de.wikipedia.org/wiki/Cascading_Style_Sheets
+   * Ruby
+     * http://de.wikipedia.org/wiki/Ruby_(Programmiersprache)
+   * Interaction Designer
+     * http://de.wikipedia.org/wiki/Interaction_Design
+   * Quality Manager
+     * http://de.wikipedia.org/wiki/Qualit%C3%A4tsmanagement
+   * User Story
+     * http://de.wikipedia.org/wiki/User_Story
+
+62:00
+ * Unternehmensstrukturen bei XING
+
+66:00
+ * Wie erlennt man den Beruf?
+   * Stakeholder
+     * http://de.wikipedia.org/wiki/Stakeholder
+   * Buchempfehlung
+     * Ash Maurya (?)
+
+68:00
+ * Geschäftsmodelle
+
+71:00
+ * Arbeitsablauf und Arbeiten im Team
+
+75:00
+ * die XING Erfahrung
+
+79:30
+ * Vorstellungsgespräche
+
+81:20
+ * Podcastvergangenheit
+   * AKG Perception 120
+     * http://www.thomann.de/de/akg_perception_120.htm
+   * Tascam Field Recorder
+
+83:00
+ * Arbeitssituation (Arbeitszeiten)
+   * Vertrauensarbeitszeit
+     * http://de.wikipedia.org/wiki/Vertrauensarbeitszeit
+   * Cyber-Grooming
+     * http://de.wikipedia.org/wiki/Cyber-Grooming
+
+88:45
+ * Arbeitserfahrungen von Daniel
+
+92:35
+ * Vorlesen und Podcasten
+   * Kinderbücher
+     * Der kleine Ritter Trenk und das Schwein der Weisen
+       * http://www.amazon.de/kleine-Ritter-Trenk-Schwein-Weisen/dp/3789131903
+     * Weißt du eigentlich, wie lieb ich dich hab?
+       * http://www.amazon.de/Wei%C3%9Ft-eigentlich-wie-lieb-dich/dp/3794142179
+     * Der Grüffelo
+       * http://de.wikipedia.org/wiki/Der_Gr%C3%BCffelo
+     * Das Regenbogenbuch
+   * Tobis Band
+   * Themenauswahl für den Einschlafen Podcast
+   * Feedback der Hörer
+   * Raumzeit Podcast mit Tim Pritlove
+     * http://raumzeit-podcast.de/
+   * Not Safe For Work mit Tim Pritlove und Holger Klein
+     * http://not-safe-for-work.de/
+   * Realitätabgleich und Ferngespräche
+     * http://www.wrint.de/
+       * http://www.wrint.de/2012/06/27/wr082-realitatsabgleich-status-quo-ante/
+   * Flattr Spenden
+     * Tobias flattrn
+       * http://flattr.com/thing/122762/Einschlafen-Podcast
+     * Daniel flattrn
+       * http://flattr.com/thing/449177/Jobscast
+107:00
+ * Religion
+   * Tanzverbot
+     * http://de.wikipedia.org/wiki/Tanzverbot
+   * Joachim Gauck
+     * http://de.wikipedia.org/wiki/Joachim_Gauck
+   * Die Kunst des Liebens von Erich Fromm
+     * http://de.wikipedia.org/wiki/Die_Kunst_des_Liebens
+   * Religion im Bildungssystem
+
+116:00
+ * Wer sollte den Beruf des Produktmangers wählen?
+   * verschiendene Aufgabenbereiche
+   * CSPO
+     * Certified Scrum Product Owner
+
+120:00
+ * Die Zukunft
+

@@ -1,0 +1,402 @@
+Shownotes, Sendungsnotizen bei NSFW & Wrint.
+
+Dieser Text wird synchronisiert während du tippst, sodass alle die die Seite offen haben den gleichen Text sehen.
+Dies erlaubt es ohne großen Aufwand zusammen an Dokumenten zu Arbeiten.
+////////////////
+This pad text is synchronized as you type, so that everyone viewing this page sees the same text.
+This allows you to collaborate seamlessly on documents!
+
+Konfiguriert als Public-read-only, wird umgeschaltet bei Sendungsbeginn zu Public-editable 
+(bis die Trolle kommen, zum Mitschreiben ist dann die Anmeldung auf https://shownotes.piratenpad.de noetig)
+
+Stil:  
+Aufgeschrieben werden Primaer nur Links und Themenstichpunkte, Beispiel: „11:23 Neutrik-Stecker: http://www.neutrik.de“, „15:10 Interessengemeinschaft Deutsche Content- Allianz“
+Kürzer ist besser, jedoch im Streitfall ist die inkludierende Variante besser
+Realzeit- Zeitmarken fuer Kapitelmarken notieren
+
+Not Safe For Work 48: »Der Fnord im Keksglas«
+Mit Holger Klein und Tim Pritlove
+Sendungsbeginn: 16.04.2012, 12:44
+Erstellt von: mrmoe, felesdelyx, lolieguy, pooky, das-pearl, DerPraktikant, Quimoniz
+
+Intro:
+Maik Beta - Ich inkarniere im Sekundentakt
+http://www.youtube.com/watch?v=MceJvI7RSPs
+ 
+New World Order
+https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)
+http://de.wikipedia.org/wiki/Neue_Weltordnung_(Verschw%C3%B6rungstheorie)
+
+Struktureller Antisemitismus
+http://de.wikipedia.org/wiki/Struktureller_Antisemitismus#Struktureller_Antisemitismus
+
+Neuschwabenland
+http://de.wikipedia.org/wiki/Neuschwabenland
+
+Neuschwabenland-Stammtisch
+http://www.youtube.com/user/NSLForumBerlin
+
+Frühstycksradio
+http://de.wikipedia.org/wiki/Fr%C3%BChstyxradio
+
+Fritz (Hörfunksender)
+http://de.wikipedia.org/wiki/Fritz_(H%C3%B6rfunksender)
+
+Outbank
+http://www.outbank.de/
+
+Palim-Palim
+https://de.wikipedia.org/wiki/Palim-Palim
+
+Dietmar Wischmeyer
+http://de.wikipedia.org/wiki/Dietmar_Wischmeyer
+
+Günter Grass: Was gesagt werden muss:
+http://www.sueddeutsche.de/kultur/gedicht-zum-konflikt-zwischen-israel-und-iran-was-gesagt-werden-muss-1.1325809
+https://de.wikipedia.org/wiki/Was_gesagt_werden_muss
+
+12:54 Philosemitismus
+http://de.wikipedia.org/wiki/Philosemitismus
+
+WRINT Ferngespräche
+http://www.wrint.de/
+
+Erstschlag
+https://de.wikipedia.org/wiki/Erstschlag
+
+Balance of Power
+http://de.wikipedia.org/wiki/M%C3%A4chtegleichgewicht
+
+Jakob Augstein
+http://www.spiegel.de/politik/deutschland/0,1518,826163,00.html
+
+12:59 Mahmud Ahmadinedschad
+https://de.wikipedia.org/wiki/Mahmud_Ahmadinedschad
+
+Office Space (1999) Zitat: „Didn't you get the memo?“
+http://www.imdb.com/title/tt0151804/quotes
+http://www.amazon.de/Alles-Routine-David-Herman/dp/B0000C4LZC
+
+13:02 Stefan Kaminski
+http://de.wikipedia.org/wiki/Stefan_Kaminski
+http://www.kaminski-on-air.de/stefan.html
+
+Kaminski On Air: Es kam von oben (Deutsches Theater Berlin)
+http://www.deutschestheater.de/ensemble/regie/stefan_kaminski/kaminski_on_air_es_kam_von_oben/
+
+Chaos Communication Congress
+http://events.ccc.de/congress/?language=de
+
+13:12 22C3 - The Realtime Podcast
+http://chaosradio.ccc.de/22c3_m4v_1147.html
+
+Diskordische Bibelstunde
+http://vimeo.com/6423793
+http://berlin.ccc.de/~tim/bibelstunde/
+http://tim.geekheim.de/diskordische-bibelstunde/
+
+13:14 Sven Dohse
+http://www.svendohse.de
+http://www.bar25.de/booking/djs/sven-dohse
+
+13:16 Geschenke: Kekse in Form von Nullen und Einsen
+http://twitpic.com/9ahxas
+
+P.R. Kantate - Görli Görli
+http://de.wikipedia.org/wiki/P.R._Kantate
+http://www.youtube.com/watch?v=U2juaQU_vYE
+
+13:19 Tim erklärt Holgi Zahlensysteme: Unärsystem, Binärsystem
+http://de.wikipedia.org/wiki/Un%C3%A4rsystem
+https://de.wikipedia.org/wiki/Dualsystem
+http://de.wikipedia.org/wiki/Zahlensystem
+https://twitter.com/holgi/status/191850300515160064
+
+13:27 "Zambo Cristall"-Werbung
+https://www.youtube.com/watch?v=_M1w89JJsiw
+
+13:33 Geschenke von Rebekka und Moritz: Ein Buch „Die vollkommene Ehe - Eine Studie über Physiologie und Technik“ van de Velde
+http://www.amazon.de/Die-vollkommene-Ehe-Physiologie-Technik/dp/3850032213
+http://de.wikipedia.org/wiki/Theodoor_Hendrik_van_de_Velde
+
+Schtonk! (1992)
+http://www.imdb.com/title/tt0105328/
+http://de.wikipedia.org/wiki/Schtonk!
+http://www.amazon.de/Schtonk-G%C3%B6tz-George/dp/B00004S5RO
+
+13:41 Fnord
+https://de.wikipedia.org/wiki/Fnord
+http://tim.geekheim.de/fnord/
+
+13:42 „Möchten Sie noch Tietze, Frau Kekse?“ aus Ödipussi
+http://www.youtube.com/watch?v=G8nsEpgVQo8
+http://www.imdb.com/title/tt0094407/
+http://www.amazon.de/Loriot-Ödipussi/dp/B002H2WR4G
+
+13:43 Jana Pallaske
+http://de.wikipedia.org/wiki/Jana_Pallaske
+http://www.malte-welding.com/2012/04/15/jana-freebird-pallaske-sitzt-in-einem-baum-und-erklart-die-weltwirtschaft/
+
+Malte Welding
+http://de.wikipedia.org/wiki/Malte_Welding
+
+13:47 Yogische Flieger
+http://de.wikipedia.org/wiki/Yogische_Flieger#TM-Sidhis_und_Yogisches_Fliegen
+
+Die Naturgesetzpartei
+http://de.wikipedia.org/wiki/Naturgesetz_Partei
+
+Barbara Rütting
+http://de.wikipedia.org/wiki/Barbara_Rütting
+
+13:49 Ulknudel und Busenwunder
+
+13:50 Monty Python's "Nudge Nudge"
+(englisch) http://www.youtube.com/watch?v=jT3_UCm1A5I
+(deutsch) http://www.youtube.com/watch?v=WpnlkYC7MWU
+
+Maybrit Illner
+https://de.wikipedia.org/wiki/Maybrit_Illner
+
+13:51 Geschenke: Heiße Schokolade mit Marshmallowgeschmack, Chilischoten, Oberschale für iPhone 3Gs und iPod touch, Otternasen (würzige Entenzungen), Tofusnacks, Chinesische Bademäntel mit Gürtel (Tim in Rot und Holgi in Blau, Holgi passt er leider nicht) - der Chat fordert Fotos!
+
+13:55 "Otternasen"-Zitat aus Life of Brian (1979)
+http://www.imdb.com/title/tt0079470/
+http://de.wikipedia.org/wiki/Das_Leben_des_Brian
+http://www.amazon.de/Monty-Python-Das-Leben-Brian/dp/B00008POJ8
+
+13:58 Ankündigung NSFW50 - Made in China
+
+Winkekatze "Maneki Neko"
+http://de.wikipedia.org/wiki/Winkekatze
+
+Killepitsch
+http://www.killepitsch.de/
+https://de.wikipedia.org/wiki/Killepitsch
+
+14:03 Geschenke von letzter Sendung: Rochus Wein
+http://www.amazon.de/dp/B0069SJIT6
+
+14:05 The Blob
+https://en.wikipedia.org/wiki/The_Blob
+https://de.wikipedia.org/wiki/Blob,_Schrecken_ohne_Namen
+
+14:07 „Käffchen Klein? - Für mich Tee!“ und „Isch kann so ned arbeite!“ Zitate aus Kein Pardon (1993)
+http://www.imdb.com/title/tt0104602/
+http://de.wikipedia.org/wiki/Kein_Pardon
+http://www.amazon.de/Kein-Pardon-Heinz-Schenk/dp/B0002YLA4Y
+
+Die Brummschleife
+http://brummschleife.net/
+
+Holgis Wunschliste bei Amazon:
+http://www.amazon.de/registry/wishlist/26TSNWF0QLGQ4
+
+Blömboom 
+http://www.bloemboom.com/ (Webseite mit Klangschleifen)
+
+14:12 Tim war im Urlaub in Tirol 
+http://www.tirol.de/ zum Wintersport
+Holgi auch, in Italien
+
+Der Begriff „Downloading“ in freier Wildbahn für Talfahrt
+https://en.wikipedia.org/wiki/Uploading_and_downloading
+
+14:18 NSL Forum - die wichtigsten Fakten
+http://www.youtube.com/watch?v=NYiZR6-_37I
+
+14:18 Iron Sky
+http://de.wikipedia.org/wiki/Iron_Sky
+
+14:21 MobileMacs
+http://mobilemacs.de/
+
+Jack Tramiel 
+http://de.wikipedia.org/wiki/Jack_Tramiel
+
+Holgis Tweet: RIP,8,1
+https://twitter.com/holgi/status/189672545308512260
+
+WIRED Magazine
+http://de.wikipedia.org/wiki/Wired_Magazine
+
+Commodore
+http://de.wikipedia.org/wiki/Commodore_International
+https://de.wikipedia.org/wiki/Commodore_64
+
+14:25 CeBIT
+http://www.cebit.de/ 
+
+14:29 Roche & Böhmermann Talkshow
+http://kultur.zdf.de/ZDFde/inhalt/13/0,1872,8483949,00.html
+http://www.rocheundboehmermann.de/
+
+Sabine Christiansen
+https://de.wikipedia.org/wiki/Sabine_Christiansen
+https://de.wikipedia.org/wiki/Sabine_Christiansen_(Fernsehsendung)
+http://de.wikipedia.org/wiki/G%C3%BCnther_Jauch_(Fernsehsendung)
+
+14:35 Tim, Schöne Ecken und nrrrdz bei D-Radio Wissen über Podcasts in Deutschland
+http://tim.geekheim.de/2012/04/08/podcasts-in-deutschland/
+http://hoersuppe.de/2012/04/08/netzreport-xl-herabgestiegen-von-der-metaebene/
+http://www.schoene-ecken.de/
+http://www.iheartdigitallife.de/category/nrrrdz/
+
+14:37 Goethe Institut
+http://www.goethe.de/
+
+Tim: Podcasting ist erfolgreich weil es persönlich ist.
+Holgi bei Markus Anger von http://detektor.fm über Flattr zur Finanzierung von Podcast und ähnlichem
+
+14:39 SOMA FM
+http://somafm.com/
+
+Flux FM
+http://www.fluxfm.de/
+
+14:43 5by5 Internet Broadcasting Network
+http://5by5.tv
+
+14:44 detektor.fm - UKW abschalten:
+http://detektor.fm/souvenirs/
+
+14:46 Sonnenfinsternis 1999
+https://de.wikipedia.org/wiki/Sonnenfinsternis_vom_11._August_1999
+
+14:47 Train Spotter "I DID IT! I FINALLY CAUGHT A HERITAGE UNIT! (UP 1989)"
+https://www.youtube.com/watch?v=RhYXNwvcl6A
+htps://en.wikipedia.org/wik/Railfan
+https://en.wikipedia.org/wiki/Heritage_railway
+https://en.wikipedia.org/wiki/Aircraft_spotting
+
+14:52 Holgi über Planespotter
+https://de.wikipedia.org/wiki/Spotter
+
+Regel 34
+http://www.urbandictionary.com/define.php?term=Rule+34
+
+Riding the Booster with enhanced sound
+http://www.youtube.com/watch?v=2aCOyOvOw5c
+
+15:03 2001: Odyssee im Weltraum (OT: „2001: A Space Odyssey“ (1968))
+http://www.imdb.com/title/tt0062622/
+http://de.wikipedia.org/wiki/2001:_Odyssee_im_Weltraum
+http://www.amazon.de/2001-Odyssee-im-Weltraum-Blu-ray/dp/B000X9WWUO
+
+Europäische Weltraumorganisation(ESA)
+http://www.esa.int/esaCP/Germany.html
+https://de.wikipedia.org/wiki/Europ%C3%A4ische_Weltraumorganisation
+
+Holgi will zum Mars fliegen nur um auf den Mars zu fliegen.
+http://de.wikipedia.org/wiki/Bemannter_Marsflug
+
+15:06 Holgi war über Ostern im Italienurlaub
+Carbon Rennräder als Schnäppchen in Italien
+Holgi: "Rennradfahren is nix für mich", verursacht fürchterliche Schmerzen
+
+15:10 auf Arte: Sechsteilige Doku über Monty Python: Almost the truth
+https://en.wikipedia.org/wiki/Monty_Python:_Almost_the_Truth_(Lawyers_Cut)
+http://www.arte.tv/de/Monty-Python---Fast-die-ganze-Wahrheit_21/3851654.html
+http://www.imdb.com/title/tt1422182/
+http://www.amazon.de/Monty-Python-Almost-Lawyers-Blu-ray/dp/B002LYC1UU
+http://www.amazon.de/Monty-Python-Almost-Truth-Lawyers/dp/B002LYC1TQ
+
+Monty Python: The Holy Book of Days (iOS-App)
+http://itunes.apple.com/us/app/monty-python-holy-book-days/id503975422?mt=8
+
+Monty Python
+http://en.wikipedia.org/wiki/Terry_Jones
+http://en.wikipedia.org/wiki/John_Cleese
+http://en.wikipedia.org/wiki/Eric_Idle
+http://en.wikipedia.org/wiki/Terry_Gilliam
+sowie (unerwähnt):
+http://en.wikipedia.org/wiki/Graham_Chapman
+http://en.wikipedia.org/wiki/Michael_Palin
+
+15:16 John Cleese 
+http://de.wikipedia.org/wiki/John_Cleese
+http://en.wikipedia.org/wiki/A_Fish_Called_Wanda
+
+15:17 Lost in La Mancha (über das Scheitern von Terry Gilliams Don Quijote „The Man Who Killed Don Quixote“)
+http://de.wikipedia.org/wiki/Lost_in_La_Mancha
+
+Tim: 5 Filme, die man gesehen haben muss:
+- Das Leben des Brian http://www.imdb.de/title/tt0079470/
+- 12 Monkeys http://www.imdb.de/title/tt0114746/
+- Brazil http://www.imdb.de/title/tt0088846/
+- The Fisher King http://www.imdb.com/title/tt0101889/
+- Fear and Loathing in Las Vegas http://www.imdb.com/title/tt0120669/
+
+Nicht genannt:
+- Tideland http://de.wikipedia.org/wiki/Tideland
+
+15:22 Monty Python: Llama-Sketch 
+http://www.youtube.com/watch?v=hBaUmx5s6iE
+Monty Python - Confuse-A-Cat
+http://www.youtube.com/watch?v=B2Je1CEPkUM
+
+15:26 Die Cloud (BigBrotherAward 2012)
+http://www.bigbrotherawards.de/2012/.comm
+https://de.wikipedia.org/wiki/Cloud-Computing
+CRE 176 „Cloud Computing“: http://cre.fm/cre176
+
+Wunderlist Task Manager
+http://www.wunderlist.com
+
+15:29 Workflowy
+https://workflowy.com
+
+Dropbox
+https://www.dropbox.com/
+
+Pages (App)
+http://www.apple.com/de/iwork/pages/
+
+Die Wahrheit 011 – Onlinefestplatten
+http://monoxyd.de/20120213-die-wahrheit-011-onlinefestplatten
+
+15:37 Omnioutliner:
+https://www.omnigroup.com/products/omnioutliner/
+Tim: "Version 2: gut > Version 3: Stylingkrankheit"
+
+15:42 Buchtipp von Holgi: Holger Witzel: Schnauze Wessi - Pöbeleien aus einem besetzten Land
+http://www.amazon.de/Schnauze-Wessi-P%C3%B6beleien-einem-besetzten/dp/3579066862 (gebundene Ausgabe)
+http://www.stern.de/politik/deutschland/schnauze-wessi-nachrichten-aus-einem-besetzten-land-1520575.html
+Lernen von den Ossis
+
+15:51 Buchtipp 2 von Holgi:
+Krimi von Berni Mayer: Mandels Büro
+http://www.amazon.de/Mandels-B%C3%BCro-Roman-Berni-Mayer/dp/345340873X
+
+15:53 Porn for the Blind
+http://pornfortheblind.org/
+http://en.wikipedia.org/wiki/Porn_for_the_Blind
+Die Ausschnitte "college fuck fest" und "2girls1cup" werden gespielt.
+
+Bitch Hunter
+http://www.youtube.com/watch?v=cLPm_IUx-Kc
+
+2 Girls 1 Cup
+http://en.wikipedia.org/wiki/2_Girls_1_Cup
+
+Reaktionen auf 2 Girls 1 Cup: 
+11 People Watch 2 girls 1 cup at the same time
+http://www.youtube.com/watch?v=-zayL9pT-Nc
+
+Tim: "Wer weiß, wie die Leute aussehen, wenn sie NSFW hören."
+Aufruf sich mit einer GoPro o. ä. Kamera selber zu Filmen beim NSFW-hören
+
+Dresden wurde abgesagt und ein neuer Termin wird verkündet: 21.05.2012 Grillen in Dresden am Wasser mit Philosophie über Waldschlösschenbrücke.
+
+Kampf-Fahrradfahrerkennzeichnung: 
+http://www.tagesspiegel.de/politik/verkehrsdelikte-polizeigewerkschaft-droht-kampfradlern/6511970.html
+
+Sendungsende: 16.04.2012, 16:12
+
+Termin der nächsten Sendung: 30.4.12
+
+Outro: Praktikum bei EDEKA
+http://www.youtube.com/watch?v=qj-QpdjvHWY
+
+
+

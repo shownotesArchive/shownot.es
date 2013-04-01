@@ -1,0 +1,147 @@
+ !! Bitte nicht die Ownership Colors entfernen !!
+
+Shownotes und Sendungsnotizen für MobileMacs 81
+
+diese Shownotes mit Timer: http://epirat.de/BZR/timer.html
+
+Shownotes zusammengetragen von @janzwitschert (Jan Gießmann), @ePirat, @brototyp, @gmthor85, WorkGroup,@andi357, @derherrf
+
+Mobile Macs 081
+Start: 19:58  Hier gibts die Zeit http://epirat.de/BZR/timer.html
+
+- Previously von @David1701 http://soundcloud.com/david1701
+
+00:02:54 Anfang
+
+00:05:57 Tims Lion Probleme
+                - Tim berichtet über den Lion-Recovery-Mode
+                - Backup Wiederherstellung (von Timecapsule nicht möglich)
+
+00:17:08 Denis über Netatalk: http://netatalk.sourceforge.net/
+                - FreeBSD http://www.freebsd.org/de/
+                - Sendfile: Denis berichtet über seinen Patch http://netatalk.git.sourceforge.net/git/gitweb.cgi?p=netatalk/netatalk;a=commit;h=d24a954821229e8835acb6d629ef1f09a4441e8b
+                - .DS_Store Dateien http://en.wikipedia.org/wiki/.DS_Store
+                - AppleSingle und AppleDouble http://en.wikipedia.org/wiki/AppleSingle_and_AppleDouble_formats
+
+00:25:00 ZFS, Zevo
+                - Torrents unter ZFS
+                - (keine) nullen schreiben und daher 10x schneller
+                - Zevo: cmdln tools komplett da, nur nicht ins GUI exportiert
+                - ZFS Performance mit deduplication
+                - Probleme mit ZFS und Timemachine (deduplication, snapshots)
+                - ZFS auf iOS http://www.imore.com/2012/02/03/zfs-references-latest-ios-51-beta/
+                - Prüfsummen 
+
+00:45:14 neues aus dem Applestore Berlin http://www.berlin.de/special/shopping/neueroeffnung/1980080-1965219-apple-flagship-store-berlin.html
+                - keine Rolltreppen
+                - mobilemacs offizieller Termin für die Eröffnung: Juli (siehe mm80)
+
+00:52:11 Apples Aktienkurs (AAPL) steigt http://www.comdirect.de/inf/aktien/detail/uebersicht.html?ID_NOTATION=253931&eCRMLink=S#apple/
+http://www.finanzen.net/aktien/Apple-Aktie
+                - Apple TV / Apple Fernseher
+                - iPad 3 (Retina iPad?)
+                - Kauft Apple die Filmindustrie?
+                - DAT / Minidisc / Sony und DRM
+                - ARD sendet per Multicast http://www.ard-digital.de/Empfang--Technik/IPTV/Multicast-Adressen/Multicast-Adressen
+                - Multicast http://de.wikipedia.org/wiki/Multicast / http://www.fefe.de/ct/multicast.txt
+                - Bidirektionales Fernsehen?
+                - Live vs. TV aus der Konserve
+                - mobileMacs tritt gegen "Wetten dass...?" an
+
+01:23:47 Bittorrent-Live
+                - http://techcrunch.com/2012/02/13/bittorrent-live/
+
+01:27:20 Adressbuch-Gate
+                - Einige Apps schicken Adressbuch an entfernte Server via HTTP-GEThttp://www.theverge.com/2012/2/14/2798008/ios-apps-and-the-address-book-what-you-need-to-know/in/2564438
+                - Twitter App http://itunes.apple.com/de/app/twitter/id333903271?mt=8
+                - Hipster (Instagram für arme) http://itunes.apple.com/de/app/hipster/id461983020?mt=8
+                - Addressbuch-Zugriff-Problem in iOS (wurde bereits behobenhttp://www.iphoneblog.de/2012/02/15/adressbuchzugriff-fur-ios-entwickler-nur-noch-auf-ruckfrage 
+                - Viber App (fragt nach, und erntet dadurch kritik)http://itunes.apple.com/de/app/viber-free-phone-calls-text/id382617920?mt=8
+                - Adressbuch-Einträge hashen, statt klartext übertragen
+                - Kontakte sensibler als Location-Daten?
+                - Mehr Sicherheit durch mehr Rückfragen beim Nutzer?
+                - Sandboxing unter Mac OS X
+                - Nicht pauschal alle Daten eines Kontaktes übermitteln? Selektiver Zugriff
+                - Unterteilung der Daten des Addressbuchs in normale und private Daten
+                - Tim benutzt die Adressbuch-Notizen wie ein verrückter.
+                - Im Adressbuch ist nach Orten suchen nicht möglich
+
+01:45:40 Tweetbot für iPad und iPhone
+                - Tweet Marker http://tweetmarker.net/
+                - komische Timeline: DMs Zeitverlauf nach unten, bei normalen Tweets anders herum
+                - Tim fehlt Multi-Account-Fähigkeit für Favoriten-Funktion
+
+01:56:00 Apple ist evil
+                - keine Dividende unter Steve
+
+01:58:10 Computerspielemuseum Sonderausstellung: Komputing-Revolution - eine Hommagehttp://www.computerspielemuseum.de/index.php?lg=de&main=Besucherinfos&site=01:03:00
+                - Bildauflösung: Apple I http://en.wikipedia.org/wiki/Apple_I
+                - Schöne Platine: http://yfrog.com/z/h2ovlkkhj
+                - www.applefritter.com/files/images//img_0454-17715.jpg
+                - Vergleich Apple II / PET  
+                - Altair 8800 http://de.wikipedia.org/wiki/Altair_8800
+                - Raspberry Pi http://www.raspberrypi.org/
+                - Friseure haben Humor
+
+02:14:25 Kickstarter
+                - iPhone Dock von http://www.elevationlab.com/ bei Kickstarter 
+                - http://www.kickstarter.com/projects/hop/elevation-dock-the-best-dock-for-iphone
+                - Erstes Kickstarter-Funding > $1 million
+
+02:21:54 Bitcoin
+                - Preise gehen hoch und runter
+                - Kurzerklärung Bitcoin (Shares/Hashes)
+                - Strategien der Pool-Hopper
+                - Pay per share gegen Pool-Hopper https://en.bitcoin.it/wiki/Pooled_mining#The_Pay-per-Share_approach
+
+02:28:30 CouchDB http://cre.fm/cre125 
+                - Erklärung no SQL DB Key-Value Store vs Document-Store (Map-Reduce)
+                - geschrieben in Erlang http://en.wikipedia.org/wiki/Erlang_(programming_language)
+                - aus couch.io und membase wurde http://www.couchbase.com/
+                - CouchDB unter iOS https://github.com/couchbaselabs/TouchDB-iOS
+                - Couch wird das neue SQL
+
+02:39:40 Nokia
+                - Entwicklerkonferenz im Herbst 2011
+                - Zum zweiten mal kostenlose Telefone verteilt
+
+02:42:07 Samsung-Anti-Apple-Werbung
+                - Tim findet Samsung's Anti-Werbung schrecklich und peinlich
+                - Samsung Galaxy Note
+                - Tastaturanpassung
+                - Galaxy Nexus
+
+02:??:?? Browser, HTML5, CSS3 und Standards
+                - Android 4.0 Google Chrome
+                - Zu wenige mögliche Tabs im Mobile-Safari?
+                - CSS Präfix Diskussion -webkit
+                - W3C braucht Ewigkeiten für die Entwicklung von Standards
+
+02:57:36 Kleinigkeiten
+                - Source Tree http://www.sourcetreeapp.com/ http://itunes.apple.com/us/app/sourcetree-git-hg/id411678673?mt=12
+                - GitX http://gitx.frim.nl/index.html / http://gitx.laullon.com/
+                - Tower http://www.git-tower.com/
+
+03:02:00 Erata 
+                - Tims iCloud Probleme mit 10.7.3 behoben
+                - Core Data
+
+03:12:30 Buchvorschläge / ePub Reader
+                - Working with Unix Processes (Ruby book) http://workingwithunixprocesses.com/
+                - http Ersatz: SPDY http://spdybook.com/
+                - http://riakhandbook.com/
+                - Bookle ePub Reader 4Mac http://itunes.apple.com/us/app/bookle/id496158508
+
+03:21:08 Ruby und Rails
+                - Sinatra http://www.sinatrarb.com/
+                - Padrino http://www.padrinorb.com/
+                - Rails Tutorial http://ruby.railstutorial.org/
+                - Ruby und Test Driven Development
+                - Cucumber http://cukes.info/
+                - TextMate 2 http://blog.macromates.com/2011/textmate-2-0-alpha/
+                - Sublime Text 2 http://www.sublimetext.com/2
+
+                                                                                 
+03:35:17 E N D E                                                       
+                                                                                 
+

@@ -1,0 +1,45 @@
+Shownotes Allgemeines, best practice
+Dieser Vorschlag ruft zu Kommentaren und Ergänzungen auf, diese bitte direkt im Text anbringen, evtl. in Kursivschrift.
+
+Benutzer Policy:
+Jene Benutzer die mehrfach mitgeholfen haben, was impliziert, dass sie konstruktiv an den Shownotes beteiligt waren, können Admins werden. Admins können neue Benutzer aktivieren, Benutzer löschen, Admins machen.
+
+Zeitmarken:
+Viele Podcaster wollen in der Lage sein Zeitmarken zu setzen. Hörer wollen zu Kapiteln springen können. Die Lösung: ca. alle Minuten bei Themenabschnitten eine Zeitmarke notieren, dazu empfiehlt sich bspw. die reale Zeit anzugeben, bspw. 12 Uhr Mittag: 12:00, dann muss man nur noch abziehen, wann der Podcast begonnen hat. Die Alternative bei Streambeginn Anfang zu zählen kann dagegen schnell zu Verwirrung führen, wenn der Unterschied zwischen fertigem Dowload-Podcast und Live-Podcast bei 5 Minuten liegt.
+
+Ausführlichkeit:
+Vielen Hörern erscheint mal dieses oder jenes als ausgelassen, drum ist's gut, wenn die SHownotes [sic!] nicht auslassen, sondern viel enthalten. Jedoch: übereifrige Shownoter und  stenographische Mitschriften führen das Prinzip der Notiz "[Show]notes" ad absurdum, deshalb lieber kurz fassen als lang, vor allem auch mit telegrammstilartigen, knappen Formulierungen. Wenn es die Detailliertheit einschränkt, sind auch richtige Sätze angemessen.
+
+Korrektur anderer:
+Schreibfehler wie "SHownotes" im letztem Absatz sollten von einem Mit-Shownoter korrigiert werden. Auch Grammatikfehler sollten korrigiert werden, aber mit Vorsicht. Allerdings sollte nicht das was von anderen geschrieben wurde einfach so gelöscht werden, wir sind Inkludisten, keine Exkludisten wie die deutsche Wikipedia. Im Zweifel den Text durchstreichen. Lieber ein paar Abschnitte zu viel, als dass wir durch weglöschen Mit-Shownoter verprellen!
+
+Unklarheiten:
+Wenn etwas unklar ist, bspw. ein Textabschnitt komisch formuliert ist, oder zu lang ist, oder Fragen zur Formatierung aufkommen, sollte man einen Kommentar schreiben in Kursivschrift.
+
+Formatierung von Bildern:
+statt http://www.example.com/bild.jpg
+nur:
+www.example.com/bild.jpg
+da wie oben zu sehen, das Bild direkt versucht wird einzufügen, und dies zu hässlichen Umbrüchen führt.
+
+Formatierung von Themen/Kapitelüberschriften:
+Beispiel:
+13:37 Systemweite Twitter-Integration
+Je nach Kontext ist eine andere Formatierung angebracht, diese am besten vorher vereinbaren, im Chat unten Rechts, oder mit Kursivkommentaren.
+
+Formatierung von Links:
+Wenn Links an Absätze angehängt werden, sollten diese folgendermaßen angegeben werden:
+Beispiel <http://beispiel.de>
+(Konvention übernommen von Tims Shownote-Formatierungswünschen)
+
+
+Unterstützung/Spende für Shownotes:
+Das Shownotes Team Pad läuft auf einem Server der Piraten IT. Diese also bitte unterstützen: http://www.piratenpartei.de/mitmachen/spenden/
+
+Shownote- Teamnutzung
+Die Teamseite steht allen mit Interesse daran Shownotes zu machen offen. Wenn ein Podcaster darum bittet, dass wir für ihn Shownotes machen, sollte er dies bis etwa spätestens einen Tag zuvor ankündigen.
+
+Eventuelle Technikspielerei:
+Eine Webseite für die Shownotes aufsetzen, mit Kalender für die nächsten Shownote Termine, und dies mit einem Jabber/XMPP Daemon verknüpfen, der 1 Tag vor einem Shownote-Termin an alle gelisteten Shownoter eine XMPP-Message als Vorankündigung absetzt.
+Ein Twitter-Account wurde bereits für diesen Zweck aufgesetzt, ist aber bisher unbenutzt: https://twitter.com/dieshownotes (Bei Fragen bitte an Gurkitier wenden.)
+

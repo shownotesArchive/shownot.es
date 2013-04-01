@@ -1,0 +1,110 @@
+MobileMacs 86
+Mittwoch, 25.04.12 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max)
+
+<http://mobilemacs.de>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM086&time=19%3A47%3A00
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Gekuerzte Shownotes: https://shownotes.piratenpad.de/18
+Zusammengetragen von: Flo, hanz, Ludger, ePiratte, lik, Quimoniz
+
+Sendungsbeginn: 19:47 Uhr
+00:00:00 Previously by David <http://soundcloud.com/david1701/previously-on-mobilemacs-085>
+~00:02:00 Apple Keynotes
+THEMA: FUSSBALL
+00:06:00 Fußballspielen in der Kindheit
+<http://www.djk-wuermtal.de/>
+Championsleague <http://de.wikipedia.org/wiki/UEFA_Champions_League>
+Tim will EM Spezial machen
+Handball <http://de.wikipedia.org/wiki/Handball>
+Dubna, in der Nähe von Moskau <http://www.dubna.ru>
+WWDC <http://developer.apple.com/wwdc/>
+Vorstellung mit Darth Denis, Tim, Max aus Russland & Roddi.
+THEMA: Open Tracker
+00:20 Erlang Open Tracker <http://de.wikipedia.org/wiki/Erlang_%28Programmiersprache%29>
+Open Tracker von erdgeist <http://erdgeist.org/arts/software/opentracker/>
+00:25 Why Erlang? by hukl <http://smyck.net/2012/04/22/why-erlang/>
+THEMA: Erlang
+CRE082: Erlang <http://cre.fm/cre082>
+00:26 Rekursion
+00:34 Liebe den Fehler
+00:35 Chaosradio 52 Programmiersprachen <http://chaosradio.ccc.de/cr52.html>
+00:36 Learn you some Erlang <http://learnyousomeerlang.com/>
+00:37 Erlang Shell Webseite (O'Reilly Buchwerbung) <http://www.tryerlang.org/>
+Editor Chocolat <http://chocolatapp.com/>
+00:41 Handbrake, Final Cut Pro X
+THEMA: Apple Inc.
+00:45 Apple macht pro Stunde 6,4 Mio Dollar Gewinn
+00:45 AAPL <http://de.wikipedia.org/wiki/AAPL>
+00:47 DFB Pokal <http://de.wikipedia.org/wiki/DFB-Pokal>
+00:48 Fussballweisheiten
+00:49 Computerweisheiten
+00:50 Bericht eines in die Piratenpartei einschleichenden <LINK>
+00:53 Tortengrafik <http://www.macrumors.com/2012/04/24/apple-reports-results-for-q2-2012-11-6-billion-profit-on-39-2-billion-in-revenue/>
+00:55 Tim protzt mit 8mal 4GB = 32GB RAM
+01:01 @FridgeToaster <http://twitter.com/FridgeToaster/status/194904181012828160>
+01:02 Podcast Gestern <http://wir.muessenreden.de/2012/04/25/wmr40-urgesteinheberei/>
+THEMA: Spekulation um Zukunft Windows
+01:06:40 Impact von Windows 8
+01:08:00 Windows 8 wird wie Windows Vista
+01:11:30 Zweites Tor im Spiel Bayern Muenchen gegen Real Madrid
+01:13:15 Produktmatrix Windows
+01:13:54 Windows RT (früher Pen-Windows, Pocket Windows, Windows CE) für ARM-Prozessoren
+01:18:00 iPad wird Consumer Markt überrollen
+01:20:10 Die verlorene Dekade 2000 - 2010  1995-2005
+THEMA: APPLE BASHING
+01:22:25 Mit Apple gehts jetzt bergab: Flashback und das Malware-Problem, Unübersichtliche Downloadseiten für Windows-Apps (Werbung, Malware, Abofallen)
+01:30:00 Rätseln um die Verbreitung von Flashback
+Wordpress als Verbreitungsweg <http://seclists.org/isn/2012/Apr/47>
+01:33:00 Die Java Lücke in Mac OS <http://www.heise.de/mac-and-i/meldung/Neue-Mac-Malware-nutzt-alte-Java-Luecke-1526095.html>
+01:35:00 CRE 155 Malware und Botnets <http://cre.fm/cre155>
+01:38:15 Sandboxing gegen Malware-Bedrohung von Mac OS sinnvoll?
+01:40:45 Kein standardmäßiges Java auf Mountain Lion und anderen Betriebssystemen
+01:42:40 Was tut Flashback genau? <http://www.heise.de/mac-and-i/artikel/Tiefenanalyse-Der-Flashback-Trojaner-1525100.html>
+THEMA: iOS Apps
+01:48:45 Neues Geo-Based Spiel für iPhone/iPad: Shadow Cities <http://www.shadowcities.com/>
+Denis ist zu finden als nickname Denisio und ist bei den Orangen
+01:56:40 Screenfeeder, ihr praktischer kleiner Twitter-, Instagram-, Foursquare- und Dribbble-Client <http://screenfeeder.com/>
+01:57:20 Dribbble <http://dribbble.com/>
+02:00:10 Fritz Beitrag zu App Screenfeeder <http://www.fritz.de/neues_wort/multimedia/2012/04/beitrag23968.html>
+02:05:10 Facebook API-Pain
+02:08:08 eBay-API-Verhalten
+02:09:50 Tim Cook war nicht bei Valve
+02:12:15 Erfahrung: Assassin's Creed II von Steam ging nicht, aus dem Mac App Store funktioniert
+02:18:10 Empfehlung: Assassin's Creed Brotherhood (wenn es denn funktioniert)
+02:20:25 Steam
+02:23:00 Default Signatur von Samsung Android Smartphone <https://twitter.com/thinkofthought/status/192967196413149185/photo/1>
+02:24:40 Apple Store Berlin: Nichts geht voran. Scheinbar generelle Probleme mit der Statik und den Nachbarn.
+02:26:00 Tim Cook war in Berlin bei der Apple Store Baustelle
+02:28:00 Gravis
+02:33:30 Verkaufssysteme der Zukunft
+02:34:50 Online-Terminvereinbarung beim Straßenverkehrsamt Berlin
+THEMA: Ikea
+02:35:40 Ikea Produkt: Uppleva Integrierter TV+Schrank <http://www.youtube.com/watch?v=0Nm7-EuctOs> 
+02:39:10 Ikea-Lob: TV-Möbel-Kombinations-Problem erkannt und gelöst
+02:50:30 Ikea-Tadel: Web-Präsenz schlecht da Standort-Informationen von Produkten fehlen, Ikea-App fehlt
+02:54:40 Real Selbstscan-Kasse schlecht
+THEMA: Google, Googles Netzwerkinfrastruktur
+02:56:50 Google Drive ist noch nicht bereit <http://drive.google.com>
+02:57:40 Google Mail Erfahrungen
+02:59:00 Google Drive in Konkurrenz zu Dropbox, iCloud und SkyDrive.
+03:02:13 Idee: CloudRaid mehrere Clouds in Sync, um sich vor Ausfall von einer Cloud zu sichern <http://www.cubby.com/>
+03:04:25 Google hat seine Backend-Datenstruktur auf ein anderes Protokoll, OpenFlow <http://en.wikipedia.org/wiki/OpenFlow> , umgestellt in den letzten Monaten
+03:12:10 Netzwerk-Technologie hat ähnliche Problematik wie Relativitätstheorie
+03:15:00 Microsoft hat von dem AOL Patentportfolio die Hälfte an Facebook verkauft
+03:16:10 Facebook will an die Börse
+03:17:50 Instagram Verkaufsinterview ist lustig <http://www.youtube.com/watch?v=x6r1YcQ-T5U>
+03:19:15 Wie geht es Yahoo? 
+03:23:50 Soziale Netzwerke: Google+ als Temporärblog, störend an Google+ sind die falschrum aufgezogenen Circles: Circles müssen eingerichtet und gegegärtnert werden, eigentlich müsste es andersrum sein. – Pinterest funktioniert genau so andersherum.
+THEMA: Die Show franzt aus
+03:30 Elfmeter, Bayern gewinnt
+03:31:50 Pinterest verbindet den visuellen Cue von Instagram mit dem, was hinter den Bildern steht.
+03:32 Gebiss Monty Python <http://28.media.tumblr.com/tumblr_ln6y2qDjqc1qg1veto1_500.gif>
+03:34:30 Transmit nutzt derzeit nur MobileMe, unterstützung von iCloud ist geplant
+03:37:07 Katze im Sack
+23:40 My little pony - friendship is magic: "Call of the Cutie" Staffel 1, Episode 12 <http://www.youtube.com/watch?v=n-7y0D6ru4o> 
+23:45 Fefe ist auf Twitter betrollt worden (@fefesblog Avatar): https://twimg0-a.akamaihd.net/profile_images/2165510331/ponyfefe.jpeg
+http://www.kotzendes-einhorn.de/blog/2012-04/fefepony-mini-shitstorm-fefe-hasst-ponies/
+
+Sendungsende 23:50
+

@@ -1,0 +1,77 @@
+leutz, ihr koennt hier tippen
+MobileMacs 85
+Mittwoch, 11.04.12 aus der metaebene
+mit Tim Pritlove (@timpritlove), hukl (@hukl), roddi (@roddi), denis (@denis2342)
+http://mobilemacs.de
+Timer: http://epirat.de/timer/?url=http%3A%2F%2Fshownotes.piratenpad.de%2FMM085&time=19%3A54%3A45
+
+Sendungsbeginn: 19:54:45
+00:00:00 Previously on MM084 http://soundcloud.com/david1701/previously-on-mobilemacs-084
+00:01:48 Sendungsbeginn
+00:04:10 Nokia http://www.spiegel.de/wirtschaft/unternehmen/0,1518,826951,00.html ; http://www.heise.de/newsticker/meldung/Nokias-Aktie-nach-Gewinnwarnung-auf-Talfahrt-1519041.html
+00:06:30 Parallele Ballspielveranstaltung: Dortmund gegen Bayern
+00:08:15 Windows 8 Veranstaltung in Berlin, Tim hat eine Einladung. So ein Karton: www.drwindows.de/images/win8/w8pc_einladung.jpg
+00:10:00 Vergleich und Erfahrungsaustausch vom Windows Phone 7 und Android
+00:17:00 Sonys Handysparte http://www.welt.de/print/die_welt/article106170066/Sony-erwartet-Rekordverlust.html
+00:17:15 Mac Trojaner http://www.zeit.de/digital/internet/2012-04/apple-flashback-trojaner-mac
+00:29:00 FlashbackChecker https://github.com/jils/FlashbackChecker/wiki ; http://www.maclandau.de/2012/04/howto-check-auf-trojaner-flashback-deutsch-einfach/
+00:30:00 Handsoff in neuer Version http://www.metakine.com/products/handsoff/
+00:33:30 Mac App Store Upgrades http://blog.wilshipley.com/2012/03/mac-app-store-needs-paid-upgrades.html
+00:39:30 Schmerzhafte Updates
+01:01:40 Classic games http://www.kickstarter.com/projects/66710809/double-fine-adventure
+01:04:15 Indy-Programmierer und die AppStores
+01:07:25 Instagram wird von Facebook gekauft https://twitter.com/PatrickMoorhead/status/189425792986529792
+01:14:00 Facebook vs. Twitter
+01:17:00 Abmahnung wegen Foto auf Facebook-Pinnwand http://www.test.de/Facebook-Abmahnung-wegen-Foto-auf-Pinnwand-4364401-4364403/
+01:19:30 Jack Tramiel ist tot http://www.tagesschau.de/ausland/jacktramiel100.html
+01:20:00 Tim's Computer-Story vom Atari und der CeBit
+01:33:00 Outliner https://workflowy.com/
+01:42:20 Shell-Empfehlung: http://de.wikipedia.org/wiki/Zsh
+01:44:20 zsh-Erweiterung https://github.com/robbyrussell/oh-my-zsh
+01:49:15 Mosh http://mosh.mit.edu/
+01:50:00 MKS Toolkit http://en.wikipedia.org/wiki/MKS_Toolkit
+01:50:15 screen vs. tmux
+01:52:20 Apple und Google unterstützen die Strafvervollgungsbehörden http://news.cnet.com/8301-31921_3-57408370-281/how-apple-and-google-help-police-bypass-iphone-android-lock-screens/
+01:54:02 AT&T iPhones werden jetzt von AT&T unlocked
+01:55:14 Neues iPad Erfahrungen
+01:56:18 Fehlender 3G-Support im MacBook
+01:56:50 Solid-State-Speicher und Spec Preisvergleich iPad vs. MacBook Air
+02:00:00 Tim Cook spricht auf AllthingsD die Keynote (Factcheck nötig)
+02:01:30 Welche Neuerungen wird Tim Cook bringen?
+02:02:20 Kommt das iTV?
+02:02:50 Spekulation MacBook Air 15 Zoll
+02:05:40 Spekulation MacPro Update: Kleineres Gehäuse oder 19-Zoll-Rack-Größe
+02:08:00 Retinifizierung MacBook Air 11 Zoll nächster erwarteter Schritt
+02:09:30 Spekulation Apple Fernseher
+02:11:00 Mountain Lion Erfahrungen
+02:13:00 iCloud-Skeptik wegen fehlender Alternativen und Transparenz
+02:14:30 Closed, closed, closed (Bald ist auch kein Festplattentausch mehr möglich.)
+02:16:08 Wunsch: Selber Cloud zusammenklicken und selber hosten lassen
+02:19:17 Mit Mountain Lion kommt Der Dicke Bloat-Bär
+02:23:05 Fullscreen-Fail bei Multimonitor-Setup und DVD-Player
+02:25:40 Thunderbolt Anschluss Möglichkeiten
+02:27:10 LaCie Thunderbolt Hub mit eSATA-Anschluss soll bald lieferbar sein
+02:28:00 Eine Anbindung an die Peripheriewelt findet derzeit nicht statt.
+02:29:30 Intro letzte Woche war gut: Replay, David Lob und Flattraufforderung
+02:30:42 Beginn Replay Intro letzte Woche http://soundcloud.com/david1701/previously-on-mobilemacs-083
+02:32:25 David Flattrn https://flattr.com/profile/David1701
+02:33:45 Gerüchte 7,85 Zoll iPad: Alte Auflösung des iPad 1 und 2 auf 7,85 Zoll stauchen ergibt DPI-Zahl des Pre-Retina iPhone. Herstellung wäre extrem günstig möglich.
+02:39:00 Spekulation Display iPhone 4S Nachfolger: Gleiche 640 Pixel Breite, aber höher. Anpassung existierender Anwendungen wäre leicht möglich. http://www.theverge.com/2012/4/9/2937265/the-4-inch-iphone-5
+02:44:00 Spekulation Unterstützung iOS 6 auf alten iDevices, Spekulation iOS 6 läuft nicht mehr auf 3GS
+02:45:30 Neues Gehäuse für iPhone 4S Nachfolger?
+02:47:05 Lesen auf Retina-Display auf kleinerem iPad im Taschenbuchformat
+02:49:00 Tim erwartet: Dieses Jahr kein kleines iPad, kein Apple Fernseher, kein Mobilfunk 3G MacBook mit SIM-Karte, iMac dünner
+02:51:30 iPod 5G Top-Gerät
+02:52:30 Tim-Wunsch: Clickwheel auf iPhone-Rückseite oder als Krawattenklammer
+02:53:45 Spiele: Für Chrome "Bastion" cooler Soundtrack und Grafiken https://chrome.google.com/webstore/detail/oohphhdkahjlioohbalmicpokoefkgid
+02:56:40 Neues Spiel von Minecraft Programmierer: 0x10c http://0x10c.com/
+02:58:10 Prozessor-Kritik von iPhone-Hacker
+03:01:25 Fibble HD von Crytek http://itunes.apple.com/de/app/fibble-hd/id513643869?mt=8
+03:02:54 Neues Tower-Defense: Jelly-Defense mit Phatter Grafik http://itunes.apple.com/de/app/jelly-defense/id465908785?mt=12
+03:03:33 Mate in Two http://itunes.apple.com/de/app/mate-in-2-puzzles/id368403957?mt=8, Mate in 1-4+ für Schach-Puzzle-Freunde. "t Chess Pro" als starker Schach-Computergegner http://itunes.apple.com/de/app/t-chess-pro-schach/id295445501?mt=8
+03:06:40 Spieleempfehlung Braid http://braid-game.com/ im Mac App Store http://itunes.apple.com/de/app/braid/id411902645?mt=12
+03:09:08 Raum-Plan-Erstellung: Magic Plan für iPhone basiert auf Erfassung des Raumes per Kamera. http://itunes.apple.com/de/app/magicplan/id427424432?mt=8
+03:10:30 iPad 2 Nach-Hinten-Kamera ist mies
+03:12:00 erster Abschlussversuch
+03:12:30 Feieraaahmt
+

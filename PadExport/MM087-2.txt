@@ -1,0 +1,86 @@
+Pad ist Public-Readonly
+ 
+MobileMacs 87
+Mittwoch, 09.05.12 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max)und hukl (@hukl)
+ 
+<http://mobilemacs.de>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM087-2&time=19%3A40%3A00
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Zusammengetragen von: Quimoniz, PascalMD, Pyroblast, Gurkitier, L3viathan
+ 
+ 
+Sendungsbeginn: ~19:40
+ 
+Problematik der Stromsparenden Uhren mit Sekundenzeiger auf iPhone
+Kickstarter Pebble <http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android>
+iPod Melange
+Not Safe For Work 44 Video, Windows 95 Sounds
+<http://www.networkworld.com/community/blog/watch-steve-jobs-play-fdr-apples-long-lost-takeoff-1984-mac-ad?page=0%2C0>
+"Don't trust a computer you can't lift"
+XBox ist nichts fuer den Casual Gamer
+Naechste Generationen der Konsolen, XBox 720, Wii Nachfolger, Playstation Nachfolger
+Tim's erste Begegnung mit Windows8
+00:30 Textlastige Slides im Powerpoint Feeling
+00:31 Buehne war in der Mitte, jeder verglich mit iPhone
+00:38 Windows 8 wird sich nur durchsetzen als neues OEM Betriebsystem
+00:43 DriveToGo, ParkNow,
+00:47 re:publica 2012
+WMR#41 zu Ponys  <http://wir.muessenreden.de/2012/05/03/wmr41-wir-mussen-reden/>
+00:50:30 Filevault-Problem <http://www.mactechnews.de/news/index/Warnung-vor-Sicherheitslucke-im-alteren-FileVault-unter-OS-X-Lion-152903.html>
+HP LaserJet P1102W: 
+<http://www.amazon.de/LaserJet-Laserdrucker-1200dpi-Speicher-schwarz/dp/B003ANMPTI>
+Browserspezifische Druckerprobleme
+01:05:00 neues Apple-Patent <http://www.patentlyapple.com/patently-apple/2012/05/apple-wins-patents-for-future-macbook-4g-antenna-touch-event-processing-mysterious-handheld-more.html>
+01:09:00 Apps 
+01:10:40 <http://www.macbartender.com/>
+01:14:00 Hukl hat nen eigenen BSD Server bei Hetzner geklickt
+<http://www.hetzner.de/>
+01:20:00 HTTP mit IPv6 ausliefern
+01:23:10 Datenschutz mit IPv6
+01:24:00 iOS 5.1.1
+01:26:30 Instacast-Update auf 2.0 <http://itunes.apple.com/de/app/instacast/id420368235?mt=8>
+01:32:40 Podlove <http://podlove.org/>
+01.36:00 Bitlove <http://bitlove.org/>
+01:38:20 Torrent mit RSS Feed <http://put.io/>
+01:40:45 Dennis und Hukls Erlang-Projekt <https://github.com/hukl/Bitturret>
+01:49:50 C64-Floppy-Digitalisieren <http://store.go4retro.com/zoomfloppy/>
+                Youtube <http://www.youtube.com/watch?feature=player&v=RNcVtMDFbOg#!>
+01:51:30 http://en.wikipedia.org/wiki/IEEE-488
+01:51:30 Prince of Persia Source Code — Posted! <http://jordanmechner.com/blog/2012/04/source/>
+01:58:00 Mark of the Unicorn, motu <http://www.motu.com/>
+02:04:15 Metric Halo <http://mhsecure.com/metric_halo/>
+02:06:00 Universal Audio <http://www.uaudio.com/>
+02:10:00 Buch "Core Audio", Amazon <http://www.amazon.de/Learning-Core-Audio-Hands--Programming/dp/0321636848/ref=sr_1_1?ie=UTF8&qid=1336593079&sr=8-1>
+02:13:10 malloc und co
+02:20:30 Ruby Motion <http://www.rubymotion.com/>
+                embedded Ruby <https://github.com/mruby/mruby>
+02:24:50 Firebug <http://de.wikipedia.org/wiki/Firebug>
+02:28:20 Podcast Chrome-Bug - mit dev-channel update gefixt
+02:29:10 Javascript Beautifier
+02:32:30 "Wake Up"-Kampagne von RIM <http://www.youtube.com/watch?feature=player&v=Ldq2tNLRDwA>
+<http://wakeupbebold.com/>
+02:36:15 new iPad2.4 mit längerer Akkulaufzeit <http://www.mactechnews.de/news/index/Langere-Akkulaufzeit-beim-verbesserten-iPad-2-152893.html>
+<http://www.anandtech.com/show/5789/the-ipad-24-review-32nm-a5-tested>
+02:43:30 OSX Lion 10.7.4 released <http://support.apple.com/kb/HT5167?viewlocale=de_DE&locale=de_DE>
+02:45:00 Amazon Backup
+02:48:00 Die 7 Mantras des Backups <http://www.haystacksoftware.com/blog/2012/01/7-facets-of-a-good-backup-strategy/>
+02:52:10 Botanifon <http://www.haystacksoftware.com/blog/2012/01/7-facets-of-a-good-backup-strategy/> Pflanzen twittern
+02:54:00 Functionflip <http://kevingessner.com/software/functionflip/>
+02:56:00 VDSL Erweckungserlebnis
+03:02:00 Nokia vernuttet sich an Microsoft
+03:07:25 Jobscher Perfektionismus
+03:11:00 Mountain Lion Beta Preview
+03:12:00 Inline Skaten
+03:14:20 Xcode 4.4 <http://www.heise.de/developer/meldung/Beta-Version-von-Xcode-4-4-veroeffentlicht-1542525.html> <https://developer.apple.com/xcode/> <http://en.wikipedia.org/wiki/Xcode>
+03:18:00 ARC (Automated Reference Counting) <http://clang.llvm.org/docs/AutomaticReferenceCounting.html>
+03:24:00 Multi User iPad
+03:26:00 Freenode Spenden <http://freenode.net/>
+03:28:00 utf8 in IRC, IRC Server in Erlang
+03:31[23:12] <Tofuschwuchtel> Die Selbsthilfegruppe "UTF-8-Probleme" trifft sich diesmal abweichend im grÃƒÂ¼nen Saal.
+03:33:00 Channel #bsdforen.de wird betrollt
+03:37:00 ChanServ kickt sich selbst <http://ibash.de/zitat_49055.html>
+03:39:00 Es franst aus
+03:42:45 Ende
+
+

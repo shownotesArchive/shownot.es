@@ -1,0 +1,145 @@
+(Zum Mitmachen ist die Anmeldung auf https://shownotes.piratenpad.de erforderlich!)
+
+Jobcast mit Daniel Autenrieth und Alex Olma
+Thema: Alex Olma betreibt den iPhoneBlog.de und ist unter anderem Mitglied des Bits und So Teams.
+<http://www.iphoneblog.de/>
+<http://wwww.bitsundso.de/>
+Seite zur Sendung: <http://www.jobscast.de/medien/%20jc009blogger>
+
+Zusammengetragen von: Scarlett
+
+Shownotes
+00:00:35
+ * Persönliche Vergangenheit
+   * Kindheit
+     * SEGA
+       * <http://de.wikipedia.org/wiki/Sega>
+     * Nintendo
+       * <http://de.wikipedia.org/wiki/Nintendo>
+   * Werdegang
+     * Realschulabschluss, später Abitur und Studium
+     * freie Praktika
+     * München
+       * Arbeit als freier Redakteur
+         * Future Verlag
+           * <http://www.thefuturesnetwork.co.uk/>
+           * The Future Network beendet Geschäftsaktivitäten der Future Verlag GmbH in Deutschland - Pressrelations.de
+             * <http://www.pressrelations.de/new/standard/result_main.cfm?pfach=1&n_firmanr_=105830&sektor=pm&detail=1&r=61433&sid=&aktion=jour_pm&quelle=0>
+         * Zeitschrift Videogames
+           * <http://de.wikipedia.org/wiki/Video_Games>
+       * Public Relations Berater
+         * <http://de.wikipedia.org/wiki/Öffentlichkeitsarbeit>
+         * Marketing für Microsoft
+           * <http://de.wikipedia.org/wiki/X-Box>
+         * Clipping
+           * <http://www.pr-woerterbuch.de/wiki/index.php/Clipping>
+         * Kaltakquise
+           * <http://de.wikipedia.org/wiki/Akquise#Kaltakquise_und_Warmakquise>
+     * 00:12:00 - Soziologie Studium mit Nebentätigkeiten
+       * <http://de.wikipedia.org/wiki/Soziologie>
+       * Gesellschaft aus dem Blickpunkt der Soziologie
+         * <http://de.wikipedia.org/wiki/Gesellschaft_(Soziologie)>
+       * Austauschsemester Schweden
+     * 00:16:00 - Diplomarbeit - Werbevermarktung von Blogs und die Entstehung des Blogs
+       * Start des Iphoneblogs (2006)
+         * <http://www.iphoneblog.de/2006/12/>
+       * Interessenspunkte und Technik
+         * PowerPC G3
+           * <http://de.wikipedia.org/wiki/PowerPC_G3>
+         * PowerBook G4
+           * <http://de.wikipedia.org/wiki/PowerBook_G4_Titanium>
+         * Apple Betriebssystem
+           * <http://de.wikipedia.org/wiki/Mac_OS_9>
+           * <http://de.wikipedia.org/wiki/Mac_OS_X>
+         * iPhone
+           * <http://de.wikipedia.org/wiki/Iphone>
+         * Palm Geräte
+           * <http://de.wikipedia.org/wiki/HP_Palm>
+ * 00:28:00 - Das Iphoneblog - Leben vom Blog
+   * Werbung, Flattr, gesponsorte Links (u.a. Amazon)
+   * 5 Jahre Iphoneblog - mit Auflistung der Einnahmen
+     * <http://www.iphoneblog.de/2011/12/27/iphoneblog-de-feiert-funften-geburtstag/>
+   * RSS Feeds
+     * <http://de.wikipedia.org/wiki/RSS>
+   * Themenauswahl und "Wie gewinne ich Werbekunden"
+   * WWDC
+     * <https://developer.apple.com/wwdc/>
+     * <http://de.wikipedia.org/wiki/Worldwide_Developers_Conference>
+   * iPad
+     * <http://de.wikipedia.org/wiki/Apple_iPad>
+   * 00:38:00 - "Wie recherchierst du für deine Artikel?"
+     * Quellen für Informationen
+       * Social Media durchsuchen
+         * <http://twitter.com>
+       * eigene Kontakte
+       * Foren lesen
+     * Bewerten und Kategorisieren
+       * Sorgfaltspflicht
+         * <http://de.wikipedia.org/wiki/Sorgfalt>
+       * Anwendungen die zum Einsatz kommen
+         * Instapaper
+           * <http://www.instapaper.com>
+         * MarsEdit 3
+           * <http://www.red-sweater.com/marsedit/>
+         * Simplenote
+           * <http://simplenoteapp.com>
+   * 00:43:00 - "Inwieweit hat dir das Studium dabei geholfen?" 
+     * Statistik
+       * <http://de.wikipedia.org/wiki/Statistik>
+     * als Beispiel - Apple - zweiter Quartalsbericht 2012
+       * <http://www.apple.com/de/pr/library/2012/04/24Apple-Reports-Second-Quarter-Results.html>
+   * 00:45:00 - "Wem würdest du das Studium empfehlen?"
+   * 00:47:00 - "Wie sieht dein Tagesablauf aus?"
+   * 00:52:00 - "Gibt es Kritik an deiner Arbeit?"
+     * Kommentare, Tweets oder Feedback per E-Mail
+     * Vergleich zwischen klassischen Medien und Blogs
+       * Quellenangaben und Zitate
+         * http://de.wikipedia.org/wiki/Quellenangabe
+   * 00:57:00 - "Was macht den Unterschied, dass Podcast mehr geflattrt werden als Blogs?"
+     * Holger Klein
+       * http://de.wikipedia.org/wiki/Holger_Klein
+     * Tim Pritlove
+       * http://de.wikipedia.org/wiki/Tim_Pritlove
+     * Flattr vor allem in Deutschland beliebt - Netzlogbuch
+       * <http://netzlogbuch.de/2010/12/infografik-flattr-vor-allem-in-deutschland-beliebt/>
+         * <www.netzlogbuch.de/wp-content/uploads/2010/12/flattr_in_data.jpg>
+   * 00:59:00 - "Was für Tipps würdest du Anfängern geben?"
+   * 01:04:00 - "Hast du Schreibblockaden?"
+     * Podcast Feed des Iphoneblog
+       * <http://itunes.apple.com/podcast/iphoneblog.de-podcast/id258311544?mt=2>
+   * 01:06:00 - "Wie würdest du deinen medialen Impact einschätzen?"
+     * John Gruber
+       * http://daringfireball.net
+       * http://twitter.com/gruber/
+ * 01:10:00 - Leben in Finnland
+   * http://de.wikipedia.org/wiki/Finnland
+   * und die Nutzung des Internets
+     * http://de.wikipedia.org/wiki/Finnland#Medien
+ * 01:15:00 - "Was sagst du zum iOS 6"
+   * iOS 6 Vorschau
+     * http://www.apple.com/de/ios/ios6/
+   * Readability
+     * http://www.readability.com
+   * Iphoneblog auf Twitter
+     * http://twitter.com/iPhoneBlog
+ * 01:21:00 - "Dein Schwerpunkt liegt in Zukunft..."
+   * Bitsundso
+     * http://www.bitsundso.de
+   * Timo Hetzel
+     * http://www.undsoversum.de
+   * Superhyperturbo
+     * http://www.superhyperturbo.com
+   * Gamesundso
+     * http://www.gamesundso.de
+ * 01:26:00 - Lesetipps
+   * Stefan Niggemeier
+     * http://www.stefan-niggemeier.de/
+   * Superlevel
+     * http://superlevel.de
+   * Fünfe Freunde
+     * http://www.fuenf-filmfreunde.de
+   * Lawblog von Udo Vetter
+     * http://www.lawblog.de
+   * Spreeblick
+     * http://www.spreeblick.com
+

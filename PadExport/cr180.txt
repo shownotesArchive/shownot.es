@@ -1,0 +1,77 @@
+Chaosradio 180
+Thema: Hacker und Politik
+Am 28.06.2012 mit @monoxyd, @zuendelkind und @constanzekurz.
+http://chaosradio.ccc.de/cr180.html
+http://www.fritz.de/programm/sendungen/33/1206/120628_blue_moon_6620.html
+
+Stream: http://www.fritz.de/live.m3u
+Zusammengetragen von: Gurkitier, Pyromanic, Quimoniz
+
+Transparency International <http://www.transparency.de/>
+Politik im CCC
+Vergleich: Gesetzestexte und Programmieren
+ * Gesetzestext wurde erst als Forderung (im Wiki) formuliert und anschließend von Juristen überarbeitet
+Günstige Voraussetzungen für direkte Demokratie in Hamburg
+ * anders als im Rest Deutschlands bindende Entscheidungen
+im Allgemeinen konstruktive Anhörung zum Transparenzgesetz (28. Februar 2012)
+Fussballspiel Deutschland - Italien, 1:2
+Transparenzgesetz <http://www.spiegel.de/politik/deutschland/hamburg-beschliesst-umfassendes-transparenz-gesetz-a-838742.html>
+PM Mehr Demokratie e.V. <http://hh.mehr-demokratie.de/hh_newseinzelansicht.html?&tx_ttnews%5BbackPid%5D=6831&tx_ttnews%5Btt_news%5D=12393&cHash=d0f9b375a8d3d7474c64c3e6a7d562ce>
+Einschränkungen beim Transparenzgesetz:
+ * Im Einzelfall keine automatische Veröffentlichung, sondern auf Antrag
+ * Einschränkungen bei der Veröffentlichung von Verträgen
+
+Wie sieht es eigentlich mit dem Informationsfreiheitsgesetz aus? Welche Unterschiede gibt es hier zum Transparenzgesetz?
+ * Informationsfreiheitsgesetz: Bürger fragen den Staat nach Daten
+ * Transparenzgesetz: Staat muss dem Bürger gegenüber transparent sein & maschinenlesbare Daten bereitstellen
+Parlamentarier waren froh, dass der Entwurf schon fertig ausgearbeitet war.
+SPD beobachtete gleich von zu Beginn.
+CDU ignorierte es bevor es in die Buergerschaft gebracht wurde
+Zum Schluss haben sich alle Parteien in der Bürgerschaft geeinnigt und gemeinsam dafür gestimmt
+Die wichtigste Erfahrung war der Erfolg des Durchsetzens der Transparenz, und die Konstruktivität des Engagements.
+Abdrucken in Gesetzesblatt Hamburgs bleibt als letzte Formalie noch.
+Die Zeit ist günstig (Druck, Angst durch das Entstehen der Piraten), um sich zu engagieren.
+
+Musik: Mizuki's Last Chance - Holy Bleep <http://mizukislastchance.bandcamp.com/album/holy-bleep>
+
+Lobbyismus: Beeinflussung von Parlamentariern (oft im Interesse von Konzernen oder anderen großen Körperschaften), in Deutschland neuerdings auch aus Sicht der Netzgemeinde - in Form von Digitale Gesellschaft e.V. <http://www.digitalegesellschaft.de/>.
+Die Kulturwertmark <http://www.ccc.de/de/updates/2011/kulturwertmark>
+Siegfried Kauder Konservatismus
+Das ehrenamtliche Engagement frisst die Freizeit von Netzaktivisten, die sich bei Parlamenten engagieren.
+Vorschlag auf Netzpolitik.org: 
+ * entfallende "Stoererhaftung" vertreten von ISPs (Internet Service Provider) [Störerhaftung = Inhaber des Netzanschlusses haftet für illegales Verhalten der Benutzer]
+ * Link: <https://netzpolitik.org/2012/die-losung-fur-die-storerhaftung/>
+Crowdfunding auch fuer Finanzierung politischer Aktivisten
+ * interessanter Vorschlag vom Digitale Gesellschaft e.V.: "Adoptier deinen Abgeordneten"; Link: <http://www.adoptier-deinen-abgeordneten.de/>
+Vorschlag "Stiftung Datenschutz", Regierungskommision uebernimmt es im Koalitionsvertrag.
+
+Die andere Seite "Entschuldigen Sie, Sie haben ein Gesetz, das müssen wir kaputt machen"
+Beispiel:
+Der Hamburger Wahlstift (kein Wahlzettel, sondern ein Wahlbuch, bei dem ein 'digitalisiertes' Kreuz gemacht werden muss)
+ * <https://www.ccc.de/de/updates/2007/wahlstift-hack>
+ * <https://www.ccc.de/de/updates/2007/wahlstift-hack-anhoerung>
+Der Club macht kein NDA (Non-disclosure Agreement) <http://de.wikipedia.org/wiki/Geheimhaltungsvertrag>
+
+Der Club stellt nicht nur in der Legislative Gutachter, sonderen auch in der Jurisdiktion.
+Ebenso findet eine Beinflussung der Rechtswirklichkeit durch eigene Klagen statt.
+
+OpenData, was ist ein Öffentliches Datum, was ist ein privates Datum.
+"Flurstücknummer" <http://de.wikipedia.org/wiki/Flurstücksnummer>
+
+Enquete Kommission für Internet und digitale Gesellschaft <http://www.bundestag.de/internetenquete/>
+ * Ergebnisse einer Enquete Kommission sind (allgemein) immer lange Berichte, wie zukünftige Gesetze zu einem bestimmten Thema aussehen sollten
+ * Es gibt 17 Sachverständige; die Verteilung wird nach Sitzen im Bundestag zugeordnet
+ * Der 18. Sachverständige ist die Öffentlichtkeit
+Abgeordnete von Der Linken waren überraschend Bürgernah.
+ * Arbeit erfolgt hauptsächlich in Projektgruppen
+ * Die Projektgruppen sind nicht-öffentlich, während die Sitzung der Enquete-Kommission live gestreamt wird via bundestag.de
+Noam Chomsky <http://de.wikipedia.org/wiki/Noam_Chomsky>
+Das wichtigste zur Mitarbeit: Kompetenz, danach das Engagement dort wo man will.
+Erfahrung von Konstanze: Beide Gäste wollen keine Parteipolitik machen.
+Problem: Leistungsschutzrecht [Verlage wollen für kleine Snippets (Nachrichtenschnipsel) und Verlinkungen ihrer Online-News Geld haben]
+ * Diskussion in den letzten beiden Trackback-Folgen <http://trackback.fritz.de/2012/06/23/trb-284-totgesagt-tablets-leistungsschutzrecht-gratisrouter-milenskaya/> <http://trackback.fritz.de/2012/06/16/trb-283-leistungsschutz-em-kommentar-vz-superfav-transparenz/>
+
+Musik: Tracky Birthday - Websiiite <http://www.trackybirthday.com/>
+
+Link zum Log des IRC-Chats: http://pastebin.com/4kQ9NtUf
+

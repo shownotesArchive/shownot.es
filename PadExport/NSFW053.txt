@@ -1,0 +1,150 @@
+(Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.)
+
+NSFW53: „Krautfunding“ (Montag, 16. Juli 2012)
+mit Tim Pritlove (@timpritlove), und Holger Klein (@holgi)
+Publikation: <http://not-safe-for-work.de/nsfw053-spucki-muss-ins-heim/>
+
+Zusammengefasst von: mrmoe, das-pearl, Quimoniz, Pooky, modprobe, docretro, Parsley, ec:0a, Nayru, widder, hanz, The Bishop, ich_testma
+
+Beginn: 12:38:10 Uhr
+
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FNSFW053&time=12%3A38%3A10>
+
+Intro: Lead Breakfast ('Pulp Fiction' Remix) <http://www.youtube.com/watch?v=F7Ad1AuHriI>
+
+00:03 Spucky, der Putzroboter
+<http://www.amazon.de/s/?ie=UTF8&keywords=putzroboter>
+00:05 Swiffer Staubmagnet
+<http://www.swiffer.de/de_DE/products/swiffer-dusters-extender>
+00:06 Begrüßung
+00:07 Holger hat für seine Hörer produziert <http://www.wrint.de/>
+00:08 Geräuschgeber für Elektroautos <http://en.wikipedia.org/wiki/Electric_vehicle_warning_sounds> <http://www.auto.de/magazin/showArticle/article/50977/UNO-Richtlinie-Elektroautos-brauchen-Motorengeraeusch>
+00:10 Podcasts gemacht von Gehörlosen (<http://twitter.com/einAugenschmaus>)
+
+Der Transkriptionsblock
+00:12 Transkriptionen <http://de.wikipedia.org/wiki/Transkription_%28Linguistik%29> <http://de.wikipedia.org/wiki/Transkription_%28Sozialwissenschaften%29> <http://www.audiotranskription.de/>
+00:14 SimpleNote<http://www.simplenoteapp.com/>, Wunderlist<http://www.wunderlist.com/>, Worflowy <https://workflowy.com/>
+00:18 Apple wird wieder schlechter
+00:18:30 Holgi trinkt Kellerbier
+Fränkisches Bier und Bogkbier <http://hier-gibts-bier.de/> <http://www.inkubato.com/de/projekte/bogkbier>
+00:20 Vileda Virobi <http://www.vileda-virobi.com> (Achtung Flash)
+<http://www.amazon.de/Vileda-136135-Wisch-Roboter-trockenes-Staubwischen/dp/B005U1WMZA>
+00:23 Holgi will den "van de Felde" öffentlich lesen, Rechtefrage noch nicht geklärt
+00:24 zurück zu Audiotranskription: Software: 
+Voice Pro Enterprise von Linguatech (Text-to-Speech und andersrum) <http://www.linguatec.net/> benötigt das 4fache der Eingangssignaldauer, Einsatz von Dragon NaturallySpeaking für die Videotext Untertitel bei der ARD <http://www.nuance.de/naturallyspeaking/> F4 für Windows <http://www.audiotranskription.de/f4.htm>, F5 für Mac <http://www.audiotranskription.de/f5.htm>
+00:26 <http://cre.fm/cre194>: Folge über Bier fast fertig skriptiert
+00:31 Tim wünscht sich für Transkription einen Service wie <https://auphonic.com/>
+00:34 Trennung der Einzelstimmen in der Transkription: Multitrackrecording für einfachere Transktiption der einzelnen Sprecher
+00:36 Stenographie, Stenographietastaturen
+Dumping Untertitel für Gehörlose gibt es für 4 Euro/Minute
+00:39 Bei Podcasts die Multi Tracks NIEMALS wegschmeissen!
+00:42 Scheiss doch auf die weltverbesseristischen Kackscheisser!
+00:44 Helge Schneider "Erziehung" <http://www.youtube.com/watch?v=_Ipcvx7hlw4>
+00:47 Helge Schneider hat mal Hörspielplatten aufgenommen.
+00:51 Wieder Podcasts transkribieren z.B. Podcast mit Pavel über Schusswaffen <http://cre.fm/cre108>, drei verschiedene Arten von "äh"
+00:55 Untertitel Software in Live Sportsendungen
+00:56 Spucky läuft noch rum.
+00:57 Tim ist interessiert an Untertitel codecs.
+00:58 Institut für Rundfunktechnik München (IRT) <http://www.irt.de/>
+00:59 Chaosradio 49, Multicast <http://chaosradio.ccc.de/cr49.html>
+00:59 Peer to Peer Lösungen für den Tatort.
+
+01:00 Nach Beschwerde der Hörerschaft: Schreibwaren Fallbleistift 5,6mm Mine, mit kleinem Spitzer in der Kappe aus Tschechien , Holger hat ihn von Manufaktum  <http://de.wikipedia.org/wiki/Koh-i-Noor_Hardtmuth> <http://www.koh-i-noor.cz/en> <http://eshop.koh-i-noor.eu/> <http://www.manufaktum.de>
+01:04 Tim hat Kopfschmerzen, weil er viel gereist ist. High end "Cave" beim ZKM in Kalsruhe. <http://www.zkm.de/> <http://de.wikipedia.org/wiki/Cave_Automatic_Virtual_Environment><http://on1.zkm.de/zkm/werke/reconFIGURINGtheCAVE>
+01:09 Rosat Satelit mit extrem flachen Spiegel, Raumzeit Episode 23 <http://raumzeit-podcast.de/2011/09/23/rz023-rosat/>
+Carl Zeiss hat auch eine Rüstungsabteilung.
+01:10 Holgi war bei Detektor.fm in Leipzig <http://detektor.fm/> <http://www.wrint.de/2012/07/08/wr086-ortsgesprach-marcus-engert-detektor-fm/>, FluxFM <http://fluxfm.de> in Berlin hat Werbung
+01:12 Holger liest aus "van de Felde", denn Tim holt Bier: Hochehe, Purgatorium <http://de.wikipedia.org/wiki/Purgatorium>
+
+Bier und Crowdfunding
+01:14 Lübzer/Leubzer Dunkel aus Franken 
+01:15 Andreas Bogk verkauft jetzt sein Bier. Innerhalb von 5 Stunden komplettes Crowdfunding geschafft <http://www.inkubato.com/de/projekte/bogkbier> um die Berliner Weisse zu retten. Spendenstand 16.07.2012 13:55 Uhr: 5210€ von 3000€ (173 %) um 14:05 hat Holgi sich einen Kasten Bogkbier "gekauft" => 5350/3000€ (178%)
+01:23 Projekt Elixir
+01:25 Das Samwer-Modell
+01:26 Inkubato funktioniert auf Holgis iPhone nicht.
+01:29 Crowdfunding Plattformen sollen auch beraten
+01:31 Flattr funktioniert in Amerika nicht, denn es ist "Sozialismus".
+01:33 Holgi ist Fan von Stefan Kaminski, Ring des Nibelungen Hörbuch Crowdfunding auf startnext <http://www.startnext.de/kaminski/>
+01:34 Bier ist mehr wert als Kultur.
+01:35 "Kaminski ON AIR" - Walküre LIVE 2010 im Deutschen Theater Berlin <http://www.youtube.com/watch?v=YJSWfLemyNY>
+01:36 Holger soll seine Halltaste wiederbekommen
+01:38 Holgi hat Finding Vivian Maier gebacked: <http://www.kickstarter.com/projects/800508197/finding-vivian-maier-a-feature-length-documentary>
+01:39 Spucky ist tot.
+01:40 Frage, ob man Funding vorzeitig beenden kann
+01:41 Louis C.K. <http://en.wikipedia.org/wiki/Louis_C.K.> behält die Rechte an seinen Produktionen ein und verdient sich (Holgi) damit dumm und dämlich.
+01:44 Flattr funktioniert nur bei Personen nicht bei Institutionen. (Holgi)
+01:46 Toby Baier hat keinen Hut, sondern einen Klingelbeutel, denn er ist Christ, siehe <http://einschlafen-podcast.de/>.
+01:50 Beim Chaos Radio musste Holgi sich immer VORHER. rechtfertigen, nie hinterher, wie das manchmal bei seinen normalen Bluemoons passiert.
+
+01:51 Die Göttingen Verschwörung
+01:53 Geschenke: was nerdiger, was geschmackvolles und etwas mit Bling (Maßband; Brainscope; Ohrstöpsel, die aussieht wie Petersilie in den Ohren) <http://twitpic.com/a8a65m> <https://twitter.com/holgi/status/224844534293610496> <http://en.dawanda.com/product/28838369-Ear-Plugs-Parsley>
+01:55 rot13 Tastatur
+01:57 iPhone retro cases Gameboy und Kasette <http://www.amazon.de/GAMEBOY-AUFDRUCK-SILIKON-SCHUTZH%C3%9CLLE-IPHONE/dp/B0056JO8LW> <http://www.amazon.de/KASSETTE-iPhone-Silikonh%C3%BClle-SCHWARZ-kwmobile/dp/B0059JKZWU>
+01:58 Twittermeme von Gestern #sätzeunsererkindheit‬
+02:00 Tim hatte nie eine Spielekonsole, noch etwas von Nintendo
+02:02 Holgi hat mit Thomas Frickel gesprochen <http://www.wrint.de/2012/07/09/wr087-holger-ruft-an-bei-thomas-frickel-wg-mondverschworung/>, nachdem in der letzten Sendung die DVD geschenkt wurde, obwohl Holgi sie schon bestellt hatte.
+02:05 Holgi war beunruhigt, als die Bluemoons das erste mal als Podcasts veröffendlicht wurden.
+02:07 Das Nerdiversum bemühe sich nicht genug die Vorzüge der Technik zu kommunizieren.
+02:10 Investigativer Journalismus mit Crowdfunding geht nur mit entsprechender Reputation. => Gefahr Reputation zu verlieren relativ hoch
+02:12 Ergebnis des Wrintgesprächs: Macht die Faschisten lächerlich, ignorieren ist nicht genug.
+02:13 Leipziger haben zur Nazidemo Konfetti und Luftschlangen geworfen. Holger Apfel ist ein unterficktes Milchbubi.
+02:14 Titanic und der Papst, Meinungsfreiheit bei allen anderen, und jetzt nicht mehr. <http://wahrheitueberwahrheit.blogspot.de/2012/07/die-freiheit-die-ich-meine.html> aus "Die Wahrheit über die Wahrheit-Blog"
+02:18 Der Papst im Freudenrausch Startcoon <http://www.express.de/politik-wirtschaft/nach-cover-verbot--titanic--zeigt-papst-jetzt-mit-fanta,2184,16596360.html>
+02:20 Matthias Döpfner im Alternativlospodcast-Interview von und mit Frank Rieger und Felix "FEFE" von Leitner  <http://alternativlos.org/24/>
+02:21 Handyparken: Minutengenaue Abrechnung der Parkdauer: 39% der Transaktionskosten (mindestens 39ct) ODER 1€ Grundgebühr und 50ct Transaktionskosten <http://de.wikipedia.org/wiki/Handy-Parken>, <http://www.mobil-parken.de/cms/berlin.html> Tim: Da sind wieder mal totale Profis am Werk (Car2go-Wagen bekommt "Ticket" trotz Vertrag mit dem Berliner Senat).
+02:27 Karlsruhe ist das Sillicon Valley Europas
+02:28 RANT über Hotel-WLANs (Tim: Ich hab schon alles gesehen, unter anderem 10€ / Stunde, Loginfelder mit kryptischen Codes und zwei Eingabefeldern. Tim wird zu Hulk, Uploadlimit, WLAN mit nur einem Gerät)
+02:32 Holgi erzählt den Grund für zu teures Hotel-WLAN: Für 15€ am Tag machen lassen wäre sicherer, als selbst zu machen.
+02:33 Du bestellst ein Taxi und es kommt ein Opel
+02:34 Im Gegensatz zu teuren Hotels hat man scheinbar in günstigen Hostels meist freies WLAN
+02:35 Holgis Erfahrungen zu seinen LED Lampen <http://leds-go-home.de> die teureren Lampen machen das bessere Licht <http://www.ledon.de/> PROTIPP: Erst mal eine kaufen und testen. Tim nutzt Halogen Lampen ohne Schirm
+
+Der Raumfahrtblock
+02:42 Marsmission Man muss über Raumfahrt reden: Holgi will zum Mars (Kurt Beck bringt uns zum Mars) am 06.08. NASA Marsmission landet aufm Mars, russische Raumfahrt darbt, viele Marsmissionen sind gescheitert, Phobos-Boden Mission hat es nicht geschafft, die Erde zu verlassen.
+02:45 Es gibt keine nationalen Weltraumprojekte mehr.
+02:46 Der russischen Raumfahrt gehen eine Generation und Wissen verloren (sogar die Sojus ist gescheitert).
+02:48 Fernerkundungsmissionen sind praktisch Lebenswerk der Forscher bei der langen Vorbereitungszeit von bis zu 15 Jahren.
+02:51 Die Mars Roboter sind seit 8 Jahren dort unterwegs
+Die Amerikaner trauen sich einfach viel
+02:52 Mars Rover Curiosity Landung <https://www.youtube.com/watch?v=pzqdoXwLBT8>, <http://mars.jpl.nasa.gov/msl/>
+02:59 Holgi hat zwischendurch noch die Parkzeit per Handy verlängert
+
+03:00 Outro: DMK - Everything counts (Depeche Mode Coverversion) <http://www.youtube.com/watch?v=BxQSEvHdyjQ>
+(die dreckige Schlussplatte heute)
+
+
+Sendungsende: 15:43:25
+
+knapp 500 Zuhörer über die ganze Sendung.
+
+Titelideen:
+Du dreckiges Schwein
+Spucky, der weltverbesseristische Kackscheisser
+Die Zeit ist gekommen
+weltverbesseristisches Transkriptionsschwein
+Das dreifache "Äh"
+Das dreifaltige Äh-Gottesteilchen
+Das dreifaltige Äh-Higgsteilchen
+"Äh"-thnologie
+Schöner Hackendreck
+Hochehe
+Bei Kopfschmerz nen Bier
+Oh: Kultur kaputt, mach ich neu.
+Feuchte Bierfantasien
+Grander Gold
+Gemetzelgeräusche (chat: eranjez)
+Spucki ist tot
+Bier ist mehr wert als Kultur
+Das Radio der Zukunft
+Die Göttingen Verschwörung
+Ohrstöpsel Petersilie
+Ohrspeichel
+Adhäsiver Ohrspeichel (chat: spotnik)
+Macht Faschisten lächerlich!
+Nazis: Unterfickte Milchbubis
+15eur/Tag ist sicherer
+Das ist kein Internet
+Das ist als ob du ein Taxi bestellst, und es kommt ein Opel
+Nintendo-Defizit (chat: ssc_rc)
+Man hätte Hitler auslachen sollen (chat: ssc_rc)
+

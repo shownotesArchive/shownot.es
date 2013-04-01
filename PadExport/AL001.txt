@@ -1,0 +1,54 @@
+Appleleptiker 001
+
+Stream: http://radio.moepmoep.org:8200/moep2.mp3
+
+Kapitelmarken:
+00:01:30 Apple's Podcast App
+00:11:55 Mountain Lion
+00:17:45 iOS 6
+00:20:50 iPad
+00:24:00 Rechtfertigung/Neid
+00:27:40 Pause - MUSIK -
+00:31:34 Pause - ENDE -
+00:33:35 Android
+00:34:15 MacBook Pro 15“ Retina
+00:41:30 Neues Hintergrundbild/ Fotografie
+00:43:00 Hochkant-Videos
+00:45:38 iPad Mini
+00:57:00 VHS und So…
+01:00:30 Radio, Teletext, Patente
+01:04:00 Letztes Wort
+01:05:55 Apple Anti-Minuten
+
+Shownotes:
+ * Begrüßung
+ * Apple's Podcast App <http://itunes.apple.com/de/app/podcasts/id525463029?mt=8>
+ * Mountain Lion <http://www.apple.com/de/osx/>
+   * Besser als Lion?
+   * Gatekeeper
+ * iOS 6
+   * Neuer Audioplayer
+   * Neue Karten-App, 3D Karten, Google Karten besser?
+ * iPad
+ * Immer mehr Rechtfertigung für Apple-Geräte nötig
+ * Neid-Komplex der Android Benutzer
+ * Musik: Marco Tezza - Vivaldi: Four Seasons - Except 2
+ * Windows ist scheiße
+ * Jan will sich ein iMac kaufen
+ * Android
+ * MacBook Pro 15“ Retina <http://www.apple.com/de/macbook-pro/features/>
+   * Braucht Mensch das?
+   * Gestochen scharf, Atembraubend
+ * „Euer neuer Desktophintergrund“ <http://yfrog.com/h2g7yzzcj>
+ * Hochkant Filmen mit iPhone
+ * iPad Mini Gerüchte <http://www.spiegel.de/netzwelt/gadgets/ipad-mini-nexus-7-kindle-fire-mini-tablets-im-preiskampf-a-842751.html>
+ * Mac Pro
+ * VHS, Betamax und Co.
+ * ARD wollte HD wieder abschaffen
+ * Rundschau Radio Experiment
+ * Mountain Lion vermutlich am 25. Juli
+ * Apple verletzt chinesisches Siri Patent <http://www.giga.de/apps/siri/news/china-patentklage-gegen-apple-wegen-siri/>
+ * Letztes Wort: Windows Nutzer benutzen Apple Plagiate
+ * Die Apple Anti-Minuten
+ * Musik: Coppola & Hakan Slim - Nostalgique <http://www.jamendo.com/de/track/333417/coppola-hakan-slim-nostalgique>
+

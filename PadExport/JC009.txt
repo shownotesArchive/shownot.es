@@ -1,0 +1,256 @@
+(Zum Mitmachen ist die Anmeldung auf https://shownotes.piratenpad.de erforderlich!)
+
+Jobcast mit Daniel Autenrieth und Alexander Waschkau
+Thema: Alexander Waschkau ist in einer leitendenden Position in der Erwachsenenfortbildung mit Schwerpunkt auf eLearning und Medien. Er ist außerdem bekannt für seinen Podcast Hoaxilla welchen er zusammen mit seiner Frau produziert.
+<http://www.hoaxilla.com/>
+Seite zur Sendung:
+<http://www.jobscast.de/akademische-berufe/%20jc009-erwachsenenbildung-und-hoaxilla>
+Stream:
+<http://stream2.alexbrueckel.de:8000/jobscast.mp3>
+
+Sendungsbeginn: 20:01 Uhr
+Zusammengetragen von: Scarlett, suchmaske
+Timer: <http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FJC009&time=20%3A01%3A00>
+
+Shownotes
+ * Persönlicher Werdegang
+   * Abitur
+   * Studium der Psychologie 
+     * <http://de.wikipedia.org/wiki/Psychologiestudium>
+     * <http://de.wikipedia.org/wiki/Numerus_clausus>
+     * ZVS (früher Zentralstelle für die Vergabe von Studienplätzen)
+       * http://de.wikipedia.org/wiki/Stiftung_f%C3%BCr_Hochschulzulassung
+     * Psychologischer Psychotherapeut
+       * <http://de.wikipedia.org/wiki/Psychologischer_Psychotherapeut>
+   * Inhalte des Studiums
+     * Diplomstudium
+     * Grundlagen Statistik
+       * <http://de.wikipedia.org/wiki/Statistik>
+       * <http://de.wikipedia.org/wiki/Deskriptive_Statistik>
+     * Psychologischer Psychotherapeut
+       * <http://de.wikipedia.org/wiki/Psychologischer_Psychotherapeut>
+     * Psychotherapeut
+       * <http://de.wikipedia.org/wiki/Psychotherapeut>
+     * Sozialpsychologie
+       * <http://de.wikipedia.org/wiki/Sozialpsychologie>
+     * Entwicklungspsychologie
+       * <http://de.wikipedia.org/wiki/Entwicklungspsychologie>
+     * Persönlichkeitspsychologie
+       * <http://de.wikipedia.org/wiki/Differentielle_und_Pers%C3%B6nlichkeitspsychologie>
+     * Physiologie
+       * <http://de.wikipedia.org/wiki/Physiologie>
+     * Unterteilung in drei Formen
+       * Arbeits- und Organisationspsychologie
+         * http://de.wikipedia.org/wiki/Organisationspsychologie
+       * Klinische Psychologie
+         * http://de.wikipedia.org/wiki/Klinische_Psychologie
+       * Pädagogische Psychologie
+         * http://de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie
+   * 00:10 - Studie vermutet höheres Selbstmordrisiko bei Katzenhalterinnen - der Westen
+     * <http://www.derwesten.de/gesundheit/studie-vermutet-hoeheres-selbstmordrisiko-bei-katzenhalterinnen-id6845684.html>
+     * Studie
+       * <http://archpsyc.jamanetwork.com/>
+         * http://archpsyc.jamanetwork.com/article.aspx?articleid=1206779
+   * 00:13 - Unterschiede zwischen den Studien "füher" und "heute"
+     * <http://de.wikipedia.org/wiki/Bachelor>
+     * <http://de.wikipedia.org/wiki/Diplom>
+     * <http://de.wikipedia.org/wiki/Master>
+     * <http://de.wikipedia.org/wiki/Magister>
+     * <http://de.wikipedia.org/wiki/Diplom>
+   * 00:16 - "Nutzt man das Erlernte um Menschen zu manipulieren?"
+     * Voruteile gegen die Psychologie
+   * 00:18 - Einschätzung der Menschen nach dem Studium
+   * 00:21 - Psychologie als zweites Studienfach
+   * 00:22 - Arbeiten während des Studiums
+     * Software-Ergonomie
+       * <http://de.wikipedia.org/wiki/Software-Ergonomie>
+     * Psychosomatische Klinik
+       * Angststörung
+         * <http://de.wikipedia.org/wiki/Angstst%C3%B6rung>
+       * Bulimie
+         * <http://de.wikipedia.org/wiki/Bulimie>
+       * Fettsucht
+         * <http://de.wikipedia.org/wiki/Adipositas>
+       * Rollenspiele in der Psychologie
+         * <http://de.wikipedia.org/wiki/Rollenspiel_(P%C3%A4dagogik)>
+       * Borderline-Persönlichkeitsstörung
+         * <http://de.wikipedia.org/wiki/Borderline-Pers%C3%B6nlichkeitsst%C3%B6rung>
+   * 00:35 - Diplomarbeit
+     * Vergleich zwischen Reiseportalen unter Betrachtung der Reaktionen
+       * Opodo und Expedia
+   * 00:37 - Hilfsarbeit in einem Forschungslabor
+     * Schlafforschung
+       * <http://de.wikipedia.org/wiki/Schlafforschung>
+   * 00:37 - Ärztekammer in Münster
+     * <http://www.aekwl.de/>
+ * 00:40 - Zeit nach dem Studium
+   * Veranstaltungsmanagement
+     * Fortbildungspflicht sowie deren Nachweise
+       * § 95d Pflicht zur fachlichen Fortbildung
+         * <http://www.gesetze-im-internet.de/sgb_5/__95d.html>
+     * Ärztekammer
+       * <http://de.wikipedia.org/wiki/%C3%84rztekammer_(Deutschland)>
+     * Bundesärztekammer
+       * <http://de.wikipedia.org/wiki/Bundes%C3%A4rztekammer>
+   * 00:54 - Strukturwandel in der Ärztekammer
+     * Sachgebietsleiter
+     * Papierloses Büro
+       * <http://de.wikipedia.org/wiki/Papierloses_B%C3%BCro>
+     * Online-Fortbildungen für Ärzte
+       * <http://www.adobe.com/de/products/connect/>
+     * Multiple Choice, Qualitätskontrolle und E-Learning
+   * AG eLearning Bundesärztekammer
+     * E-Learning
+       * http://de.wikipedia.org/wiki/E-Learning
+       * ISO
+         * <http://www.din.de/cmd?level=tpl-artikel&languageid=de&cmstextid=e-learning>
+     * Qualitätskriterien eLearning der Bundesärztekammer
+     * <http://www.bundesaerztekammer.de/downloads/KritElearningV8.01.pdf>
+   * Zentralstelle für Fernunterricht
+     * http://www.zfu.de/
+   * Deutsches Ärzteblatt
+     * <http://www.aerzteblatt.de/>
+       * <http://www.aerzteblatt.de/archiv/68065/Aerztliche-Fortbildung-im-Internet-Kriterien-fuer-gutes-E-Learning?src=search>
+   * Blended-Learning
+     * <http://de.wikipedia.org/wiki/Integriertes_Lernen>
+   * e-Learning Plattform
+     * ILIAS
+       * <https://www.ilias.de/>
+       * <http://de.wikipedia.org/wiki/ILIAS_(Software)>
+     * Moodle
+       * <http://moodle.de/>
+       * <http://de.wikipedia.org/wiki/Moodle>
+   * Ärztekammer Schleswig-Holstein & Akademie
+ * 01:10 - Bad Segeberg und das Podcasting
+   * Mehr im Leben: Hoaxilla & Hamburg
+     * <http://www.hoaxilla.com/>
+   * Neuer Arbeitgeber: Ärztekammer Schleswig-Holstein in Bad Segeberg (Sachbearbeiter)
+     * <http://www.aeksh.de/>
+   * ILIAS Konferenz - Ärztliche Fortbildung im Internet: Kriterien für gutes eLearning
+     * <http://www.ilias-conference.org/index.php/keynote-II.html>
+       * <http://193.25.22.100:8080/ess/echo/presentation/9e7d100c-87a1-430a-932c-3db30626a619/media.m4v>
+   * "Was kostet eine Fortbildung?" - Pro Stunde ca. 10-13 Euro
+     * Unkosten sollen gedeckt werden; es darf kein Gewinn erwirtschaftet werden
+   * 01:20 - "Hast du jetzt noch einen Nutzen vom deinem Studium?"
+   * 01:22 - "Wie sinnvoll ist Erwachsenenbildung?"
+     * IT-Kompetenz (Apps für Ärzte)
+       * Ordermed - Barcode-Scanner für Medikamente
+         * https://ordermed.de/index.php/medikament-mit-app-scannen.html
+           * https://ordermed.de/index.php/app-kostenlos-herunterladen.html
+     * Muss gut gemacht sein, darf kein Selbstzweck sein, muss Inhalte transportieren können
+     * Fortbildungen fördert den Austausch zwischen Fachkollegen
+   * 01:26 - Lebenslanges Lernen ("Man hört nie auf zu lernen.")
+     * <http://de.wikipedia.org/wiki/Lebenslanges_Lernen>
+   * 01:29 - "Wie muss eine Fortbildung aufgebaut sein?"
+     * Methodik ist ähnlich wie in der Schule
+     * Kein "Schüler-Lehrer-Verhältnis" - eher kollegiale Ebene
+   * 01:31 - "Gibt es Probleme mit jungen Schülern?"
+   * 01:32 - "Wie sieht ein guter Vortrag aus?"
+     * Gut strukturierter Vortrag, frei sprechen, Zwischenfragen zulassen
+     * Jede Veranstaltung wird evaluiert
+   * 01:33 - "Gibt es Sanktionsmöglichkeiten?"
+     * Kritik der Evaluation zu Herzen nehmen und zukünftig ändern
+     * Facharzt
+       * <http://de.wikipedia.org/wiki/Facharzt>
+     * Weiterbildungsbefugte Ärzte
+   * 01:35 - Informelles Lernen
+     * Zeitschriften, Bücher, Austausch
+   * 01:37 - Praktische Weiterbildungen
+     * OP-Workshops - Operationen werden in Hörsäle übertragen
+     * "Praktizieren am Schweinemagen"
+   * 01:39 - "Wie siehst du die Zunkunft in der Erwachsenenbildung?"
+     * Mobile Apps (Smartphones, Tablets) werden zunehmen
+     * "Klassische Form der Weiterbildung wird in den nächsten 50 Jahren nicht aussterben."
+   * 01:40 - "Ist der grundsätzliche Wille zur Fortbildung da?"
+     * Der Mensch ist neugierig.
+     * Erwachsenenfortbildung als Arbeitsnehmer ist Luxus.
+     * Problem: Fortbildung kostet Geld - Nicht jeder kann sich es leisten
+   * 01:42 - "Wie ist der Hoaxilla-Podcast entstanden?"
+     * Entstanden aus einer Schnappsidee und Frustration
+     * "Terra X/Phoenix/Doku-Fernsehen als Podcast"
+       * <http://terra-x.zdf.de/>
+     * Wissenschaftskommunikation
+     * GWUP - Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften
+       * <http://www.gwup.org/>
+     * Zugang zu wissenschaftlich fundierten Wissen ist schwer
+       * Man findet viel zu viel Parawissenschaftliches
+       * Bigfoot
+         * <http://de.wikipedia.org/wiki/Bigfoot>
+         * Hoaxilla #82
+           * http://www.hoaxilla.com/hoaxilla-82-bigfoot/
+       * Lichtfasten
+         * <http://de.wikipedia.org/wiki/Lichtnahrung>
+         * Hoaxilla #88 - Lichtnahrung
+           * <http://www.hoaxilla.com/hoaxilla-88-lichtnahrung/>
+       * Bleiche trinken
+         * Hoaxilla #91 - Bleiche als Medizin
+           * <http://www.hoaxilla.com/hoaxilla-91-bleiche-als-medizin/>
+   * 01:47 - "Warum suchen die Leute nach nicht-wissenschaftlichen Wissen?"
+     * Die Welt ist zu kompliziert geworden.
+     * Man kann nicht mehr alles verstehen/nachvollziehen
+     * Higgs Boson
+       * <http://de.wikipedia.org/wiki/Higgs-Boson>
+     * Parawissenschaften: man nimmt lieber eine einfache Erklärung
+     * Loch Ness / Ungeheuer von Loch Ness
+       * <http://de.wikipedia.org/wiki/Loch_Ness>
+       * <http://de.wikipedia.org/wiki/Ungeheuer_von_Loch_Ness>
+       * Hoaxilla #53
+         * <http://www.hoaxilla.com/hoaxilla-53-nessie-das-ungeheuer-von-loch-ness/>
+     * Homöopathie
+       * <http://de.wikipedia.org/wiki/Hom%C3%B6opathie>
+       * <http://psiram.com/ge/index.php/Hom%C3%B6opathie>
+       * Hoaxilla #32 - Homöopathie Aktion 10:23
+         * <http://www.hoaxilla.com/hoaxilla-32-homoopathie-aktion-1023/>
+       * Holgi: "Man diskutiert man nicht mit Fundamentalisten!"
+   * 01:53 - "Wie gefährlich sind Verschwörungstheorien, Parawissenschaften und Paramedizin?"
+     * Parawissenschaftlicher Glauben ist gesamtgesellschaftlich nicht besonders groß
+   * 01:54 - "Wie könnte man diese Glaubenbildung schon früh unterbinden?"
+     * Wissenschaft als Schulfach - Wissenschaftliches Denken wird Kindern beigebracht
+   * 01:55 - "Rückmeldung von Schülern?"
+     * Einsamer Skeptiker auf einer österreichischen Waldorffschule
+     * Konzeptvorschlag: "Hoaxilla Kids" - Hoaxilla-Inhalte für Kinder aufbereiten
+   * 01:56 - Hoaxilla bei iTunes "explicit"
+     * http://itunes.apple.com/de/podcast/hoaxilla-der-skeptische-podcast/id373352387
+     * Vorsicht ist besser als Nachsicht
+ * 01:58 - Hoaxilla-Podcast
+   * Hoaxmaster hat keinen technischen Hintergrund
+   * Freeware, STRATO, Comic Sans & WordPress
+   * Zu Anfang 20 Hörer pro Woche
+   * "Aggressives Marketing" - Sonnenbrille, Mantel, Pseudonyme, Facebook
+     * <http://www.facebook.com/Hoaxilla>
+     * Hoaxilla-Werbung bei Facebook
+   * Hosting & Speicherplatz geschenkt - Umstellung auf WordPress
+   * NSFW-Hörer-Sturm
+     * Not-Safe-For-Work-Podcast mit Tim Pritlove und Holger Klein
+       * <http://not-safe-for-work.de/>
+   * Weltskeptikerkonferenz 2012 in Berlin
+     * <http://www.worldskeptics.org/de/home-de/>
+   * Mitte Juni 2012: 1. Mio. Downloads
+   * 02:05 - Verbesserungen
+     * Spenden, Flattr, Beratung (durch Holgi)
+   * Hoaxilla ist nicht der offizielle Podcast der GWUP
+   * Skeptoskop stellt die GWUP vor, hat jedoch kein Mitspracherecht in der Gestaltung
+     * Skeptoskop - Der Podcast, der in die GWUP hineinhorcht
+       * <http://www.skeptoskop.com/>
+   * 02:08 - Lieblingsfolgen
+     * Interviewfolgen (z.B. mit Bernhard Hoecker)
+       * http://www.hoaxilla.com/hoecker-sie-sind-im-interview/
+     * meist immer die aktuelle Folge ("Das Kind, das gerade zur Welt kommt.")
+     * Die Mondverschwörung
+       * <http://mondverschwoerung.de/>
+       * <http://www.youtube.com/watch?v=kKWIjj5RWI0>
+     * Thomas Frickel (Regisseur von "Die Mondverschwörung")
+       * <http://de.wikipedia.org/wiki/Thomas_Frickel>
+   * 02:10 - Spontane Hörertreffen
+ * 02:11 - Zum Abschluss: "Wie soll man im Alltag mit 'Grütze' umgehen?"
+   * Nicht aggressiv sein!
+   * Nicht missionieren!
+   * Nicht zurückstecken, seine Meinung zu äußern!
+   * Ein waches Auge behalten!
+   * "Immer schön skeptisch bleiben!" (Auch sich selbst gegenüber. Man soll sich selbst hinterfragen.)
+ * 02:13 - iOS-Spiel Podman - "The Podcast Hangman Game"
+   * Kosten: 0,79 Euro
+   * <http://www.podman.de/>
+   * Wird derzeit noch von Apple geprüft
+ * 02:14 - Ende der Sendung
+

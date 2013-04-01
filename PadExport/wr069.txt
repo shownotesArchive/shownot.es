@@ -1,0 +1,85 @@
+Ihr benötigt einen Account, um hier mitschreiben zu können! Zum Registrieren bitte auf http://webchat.freenode.net/?channels=#kleitung nachfragen, die reguläre Seite funktioniert temporär nicht - Accounts müssen manuell eingetragen werden.
+
+Realitätsabgleich VI - http://wrint.de
+Am 27. Juni 2012 mit @holgi und @tobybaier vom http://einschlafen-podcast.de/
+Chat: http://webchat.freenode.net/?channels=#kleitung
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fwr069&time=11%3A35%3A00
+
+Zusammengetragen von: Gurkitier, stormi, Joschasa, Quimoniz
+
+Sendungsbeginn: 11:35 Uhr
+
+Geplänkel:
+Holgi kann nach dem direkt Aufstehen nichts essen.
+Vertrauensarbeitszeit im Büro
+Nächsten Mittwoch Realitätsabgleich und NSFW (aktuell noch gleichzeitig)
+Holgi kennt API, Toby erklärt REST <https://de.wikipedia.org/wiki/Representational_State_Transfer>
+Es wird bald möglich sein, Podcasts direkt über xenim.de auf Auphonic zu laden, die dann wiederum automatisiert auf den jeweiligen FTP-Server geladen werden.
+Toby ist ein Fan von Automatisierung.
+Holgi traut der Automatisierung hingegen nicht. Außer beim Auto.
+Toby hat sich ein kleines Tool für Kapitelmarken gebaut.
+Holgi will Kapitelmarken in die Wrintheit einbauen (je Frage), hat sich damit jedoch noch nicht beschäftigt.
+
+Intro: 11:46 Uhr
+
+00:11
+Holgi hatte am Vortag einen Anrufer (21) in der LateLine, der mit der Ungerechtigkeit der Welt nicht mehr zurecht kam und stellt sich jetzt die Frage: Wie redet man sich da jetzt raus?
+<http://blogs.hr-online.de/lateline/2012/06/26/26-juni-2012-trennungen-schmennungen/>
+Holgi lobt den Eintritt des Anrufers in eine Partei.
+Toby glaubt, dass es das schon immer gegeben hat, man jedoch nichts davon wusste (mangels Medien)
+
+00:21
+Holgi: Nachrichten sind dann berichtenswert, wenn sie eine Abweichung zum Normalzustand darstelllen. Wenn wir in einer Welt leben würden, in der es nur gute Nachrichten geben würde, wäre das Schlechte der Normalzustand.
+Toby findet, dass wir jammern, obwohl es uns vergleichsweise gut geht. 
+Wenn man sich seiner Zusammengehörigkeit bewusst ist, dann passiert auch weniger Mist auf der Welt. Wenn wir als Menschheit bestehen wollen, dann muss man zusammen halten.
+Holgi glaubt das nicht. 
+Holgi: Man braucht nicht alle Menschen, um auf diesem Planeten zu überleben!
+Der "Unterschied zwischen Süden und Westen"
+
+00:26
+Toby hat ein Patenkind in Sri Lanka in einem SOS-Kinderdorf.
+Holgi beschuldigt Toby die FDP gewählt zu haben. Anspielung: Teppichklauender Niebel.
+Holgi hat noch nie FDP gewählt, ansonsten aber schon (fast) alle
+Missbrauch des Wählervertrauens durch die SPD nach 1998 mit Hartz 4, Holgi spricht sich dagegen aus
+Dumping Löhne, Teilzeitarbeiter die weniger Geld als die unflexiblen Arbeitskräfte erhalten.
+
+00:31
+Holgi findet, dass die CDU "aufrichtiger heuchelt".
+Idee für Sendungstitel: "Status quo ante"
+Holgi erzählt von "damals": Arbeitslosengeld (2/3 vom Lohn bis zu 3 Jahre) vs Arbeitslosenhilfe.
+Das System musste prinzipiell erneuert werden.
+Toby war zum Schreiben seiner Doktorarbeit einen Monat absichtlich arbeitslos.
+Das Grauenhafte an Hartz 4: Man kann davon nicht leben, 20-30% beantragen Staatskredite um über die Runden zu kommen.
+Für 10 Euro am Tag leben geht nicht, nur das Kochen.
+Toby bekommt Lebensmittelmarken im Wert von 5,97 Euro.
+Er geht jeden Mittag essen, weil er sich nichts mitnehmen will und Xing keine Kantine hat.
+Jim Block Systemgastronomiekette: <http://www.jim-block.de/>
+
+00:43
+Türkische Vereine sollen in Deutschland keine Gastspiele mehr abhalten dürfen.
+Toby: "Der DFB ist so ein scheiß Verein."
+Holgi: "Thilo Sarrazin würde jubeln, dass der DFB den Türken als Gefahr erkannt hat."
+Toby findet es schwer für das DFB-Team zu sein, wenn er an die Leute da denkt.
+Über Berlin fliegen 3 schwarze Hubschrauber in Formation.
+Holgi erzählt von Platten. Einem Plattenladen am Hansaring in Köln (später Saturn), Hauptsponsor eines Basketballvereins.
+Der Basketballverein BSC Saturn 77 Köln wurde in Galatasaray Köln unbenannt, was viele aufgeregt hat.
+<https://de.wikipedia.org/wiki/BSC_Saturn_K%C3%B6ln>
+Holgi und Toby benennen auch andere Vereine mit Galatasaray, um gegen die Nazis anzukommen.
+Wie kann man den Nazis beikommen? Holgi: "Nazitrollnobelpreis."
+
+00:50
+In Tobys Welt, in seiner Kindheit, war gefühlt alles besser, da er weniger Sorgen hatte.
+Toby hatte Verwandte in der "Zone" und kennt das Gefühl, vom Westen in den Osten zu fahren.
+Toby: "Die DDR war nicht schlecht, man konnte Öffentlich-Rechtliche sehen, ohne GEZ zu bezahlen."
+Holgi: "Den Jammer-Osi gibt es zum Teil heute noch."
+Die Überbesorgten Eltern.
+Bessere Medizinische Versorgung als vor 30 Jahren. Man kann heute teilweise Krebs überleben.
+Toby hat mal bei einem Opensourceprojekt mitgearbeitet. Das Internet lässt die Welt näher zusammen wachsen.
+Argo UML: http://de.wikipedia.org/wiki/ArgoUML
+Netto in Orange http://de.wikipedia.org/wiki/Netto_Marken-Discount und Netto mit Hund http://de.wikipedia.org/wiki/Netto_(Handelskette).
+Netto in Orange hat Plus übernommen.
+
+Ende der Sendung: 12:31:15
+
+
+

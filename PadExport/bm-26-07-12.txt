@@ -1,0 +1,148 @@
+(Zum Mitschreiben bitte anmelden auf https://shownotes.piratenpad.de/ )
+
+Chaosradio 181 (Tel. 0331 70 97 110)
+Thema: Störende Störerhaftung
+Am 26 Juli 2012 mit @monoxyd, Erdgeist, Bea (studierte Juristin), Kai (macht Internetkonnektivität)
+http://www.fritz.de/programm/sendungen/33/1207/120726_blue_moon_6900.html
+http://blog.chaosradio.ccc.de/index.php/2012/07/26/cr181-stoerende-stoererhaftung/
+Stream: http://www.fritz.de/live.m3u
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2Fbm-26-07-12&time=22%3A02%3A00
+
+Zusammengetragen von: Gurkitier, Quimoniz, Scarlett, hanz, Martin
+
+Sendungsbeginn: 22:02:40
+
+Dezentrales Netztopologie als Idealbild.
+Störerhaftung, wenn andere über die eigene Internetverbindung illegales tun.
+
+00:07 Was alles macht der CCC?
+Jabber-Server des CCC <http://web.jabber.ccc.de/>
+BitTorrent Tracker
+Tor Project <https://www.torproject.org/>
+
+00:10 Was ist eine Störerhaftung?
+Unklarheit des Täters.
+Kommt aus dem 19.Jahrhundert, u.a. Haftung für Bäume die auf andere Grundstücke gefallen sind.
+Nachweispflicht, dass man nicht selber die Tat begangen hat.
+Störerhaftung ist der Fall, wenn andere über die eigene Internetverbindung illegales tun.
+"Gefahrenquellen"
+Lösung des Fahrtenbuchs bei Fremdautonutzung mit Unfall.
+Hinweispflicht der Nutzer und Kontrolle derer seitens der Rechtsprechung, wenn man andere das WLAN mitnutzen lassen:
+"Im Internet gilt die Unschuldsvermutung nicht"?!
+
+00:17 "Wie soll ich beweisen, dass ich die Straftat nicht begangen habe?"
+Bei einem verschlüsselten WLAN wird der Beweis schwer zu erbringen sein.
+Eine Verschlüsselung mit WPA2 sollte vorliegen, damit diese nach Stand der Technik aktuell ist.
+Es gibt keine 100%tige Sicherheit.
+Ein Forensiker könnte den Beweis vor dem Gericht erbringen, kostet jedoch circa 6000€.
+Wer einen Internet Anschluss hat ist erstmal schuld.
+Haftschutzversicherungen für Internetanschlussinhaber? (Marktlücke)
+Bea empört sich der Aussage, das Internet sei eine "Gefahrenzone", laut der Gerichte.
+Gefahr bedeutet, dass ohne Eingreifen ein Schaden entsteht.
+
+00:24 "Ist das Internet eine Gefahrenzone?"
+Die Entscheidungen sind juritisch angreifbar.
+Die Rechtssprechung von Hamburg wird durch höhere Instanzen überprüft.
+Inhaltlich muss die Entscheidung juristisch begründet werden können.
+Das "Müllmann-Syndrom": Richter sehen immer nur die Schadensfälle, nicht jedoch wie oft das relativ zur Bevölkerungszahl stattfindet.
+
+00:27 Musik von http://chiptuneswin.com/
+
+00:31 FritzInfo mit Nachrichten, Wetter und Verkehr
+
+00:34 "Wie hoch ist die aktuelle Anzahl der Fälle, bei denen tatsächlich Unfug getrieben wird?"
+Auf dem Chaos Communication Congress (<http://events.ccc.de/congress/> ) passiert relativ wenig. Zum Teil durch Weihnachtsurlaub oder Blacklisting (3-4 "Abuse calls").
+Viele werden wahrscheinlich gehackt und ignorieren es oder reparieren es.
+Der Großteil der Besucher des Congress benutzt das Internet für legale Dienste. Der kleinste für illegale Zwecke.
+Tor (<https://www.torproject.org/>) dient dafür, User zu annonymisieren.
+Der CCC betreibt mehrere "Exit Nodes", sie sind einer der größten "Exit-Nodes".
+
+00:39 "Wie viele User nutzen den "Exit Node"?"
+Sie erheben diese Daten wegen der Anonymität nicht.
+Beim Tracker haben sie schon ein mal die Info Hashes gesperrt, auf ein Fax eines Anwalts.
+(Fingerprints) <http://wiki.answers.com/Q/What_is_a_bit_torrent_info_hash>
+Der Tracker speichert nur die "Lage" im Netzwerk aber nicht die Daten selbst.
+Einem Antrag auf Sperrung einer Datei muss Folge geleistet werden. Man kann keine User sperren.
+
+00:42 "Wie entsteht der Nachweis, der mich als Beschuldigten darstellt?"
+Es werden Honeypots (<http://de.wikipedia.org/wiki/Honeypot>) aufgestellt, um Täter zu überführen.
+Es werden standardisierte Anfragen an die Telcos verschickt.
+Erhebung der IP-Adressen ist ein Verstoss gegen das Fernmeldegeheimnis (§10 GG) (<http://de.wikipedia.org/wiki/Fernmeldegeheimnis>).
+Bis 2013 gibt es eine Frist, für die Novellierung des Gesetztes.
+Sie sind "Rechtszwischenraum".
+Automatisiertes Erheben und Bereitstellen ist nicht zulässig.
+Ip-Adressen, egal ob dynamisch oder statisch sind personenbezogene Daten.
+Nach einem Vorschlag eines Politikers sollen mit IPv6 Adressen jedem Bürger nach Vorlage des Personalausweis eine feste IP zugeteilt werden.
+
+00:50 Wie sicher ist die Zuordnung von IP zu Person?
+IPv4 bietet 4.294.967.296 (4 Milliarden) Addressmöglichkeiten, IPv6 dagegen 340.282.366.920.938.463.463.374.607.431.768.211.456 (340 Dezillionen) <http://de.wikipedia.org/wiki/IP-Adresse>
+Es gibt Fehler beim Wechsel von einer dynamischen IP.
+
+00:54 Was soll man tun wenn man eine Abmahnung bekommt?
+Wenn der Betroffene glaubhaft bezeugen kann, dass er unschuldig ist, tritt man von der Schadensersatzhaftung zurück.
+Prima facia
+Modifizierte Unterlassungserklärung <http://de.wikipedia.org/wiki/Unterlassungserkl%C3%A4rung>
+Eine Antwort mit "kollegialen Grüßen" führt in einigen Fällen zur Beendigung des Vorgangs.
+Ein Auskunftanspruch ohne Gerichtsbeschluss ist eigentlich gar nicht legal, dennoch machen ISPs das.
+
+00:59 Musik von http://chiptuneswin.com/
+
+01:03 Neumann zur "Freifunkt Freedom Fighter Box"
+Die Freifunker haben "Freedom-Fighter-Boxen" verschenkt. <http://freifunkstattangst.de/2012/06/14/aktion-gegen-storerhaftung-anonym-im-wlan-an-offentlichen-platzen-mit-freifunk/>
+Ein WLAN-Router mit einem freien Betriebssystem.
+VPN zur Verschlüsselung gibt's für ~5€ pro Monat <http://de.wikipedia.org/wiki/Virtual_Private_Network>
+Caféinhaber und öffentliche Meinung ist leider oft, dass anonymes Internet illegal sei.
+Man kann seine Internet Bandbreite aufteilen und zum Teil öffentlich machen.
+OpenWRT <https://openwrt.org/>
+Durch die Störerhaftung wird das Projekt gebremst.<http://de.wikipedia.org/wiki/St%C3%B6rerhaftung>
+Für ISPs entfällt die Störerhaftung.
+Nur Anwaltskanzleien profitieren von der Störerhaftung.
+
+01:13 "Wie genau funktioniert das mit der Haftung?"
+Wenn es offensichtlich illegal ist, etwas herunterzuladen (bspw. bei Downloadportalen), dann verstösst man gegen Urheberrechte.
+Wenn Daten geteilt werden gehen Richter davon aus, dass es illegal ist.
+Richter sehen nur die Schadensfälle und sehen so die ganze Gesellschaft.
+Weitere Lösungsvorschläge, wären eine "Splash Page" mit Nutzungshinweisen und eine technische Lösung an Router, der dann selbstständig Filesharing erkennt und einschränkt.
+
+01:18 "Wie werden kleine und große Telcos gleichgesetzt?"
+§8 Telemediengesetz <http://www.gesetze-im-internet.de/tmg/index.html>
+Es soll ausgeschlossen werden, dass Betreiber für die Aktivitäten ihrer Anwender haften.
+<http://www.gesetze-im-internet.de/bgb/__1004.html>
+Es treffen die Grundrechte des Eigentums und der Freizügigkeit der Person aufeinander.
+Praktische Konkordanz der Grundrechte:
+Ein komplettes Ausschließen der Störerhaftung ist nicht möglich.
+Es ist ein Akt der Gastfreundlichkeit seinen Freunden einen freien Zugang zum WLAN zu ermöglichen.
+Die Verantwortlichkeit zur vernünftigen Nutzung darf dem Anwender nicht entzogen werden.
+
+01:28 "Ist das Problem unlösbar?"
+Pirate Pay in Russland <http://www.heise.de/newsticker/meldung/Pirate-Pay-will-Urheberrecht-im-Bittorrent-Netz-schuetzen-1574868.html>
+iTunes zeigt, dass man auch Massentauglich Musik im Internet verkaufen kann. <http://www.apple.com/de/itunes/>
+
+01:31 FritzInfo mit Nachrichten, Wetter und Verkehr
+
+01:35 Martin aus Charlottenburg
+Er hat eine Abmahnung von den Anwälten Bushidos bekommen, betreffend einer 99 MB großen ZIP-Datei. Deren Inhalt: Superhits aus den 80er.
+Er hat einen Anwalt eingeschaltet für 100€, auf dessen Anraten 150€ freiwillig überwiesen, und damit immernoch unter den 350€ veranschlagten Euros geblieben.
+Bushido hält die Rechte an Porno-Musik.
+Oftmals muss man auf illegale Quellen gehen, um dinge zu sehen oder zu hören.
+
+01:40 "Mache ich es Hackern nicht einfacher, wenn ich mein WLAN unverschüsselt zur Verfügung stelle?"
+Je nach Konfiguration, ermöglicht man direkten Zugriff auf das Netzwerk und somit auf die eigenen Rechner.
+Unverschlüsselte WLAN Router sind angreifbar.
+
+01:42 Hackbarkeit bei der Nutzung von freien WLANs:
+Für jeden einzelnen Client wird ein Session-Key vergeben. Die Datenströme der anderen Clients können nicht entschlüsselt werden.
+Wenn man vergisst sich im Internetcafé bei Facebook auszulogen, hinterlässt man Daten zum Zugriff auf sein Konto (Social Hacking).
+Erdgeist drosselt die Bandbreite für unbekannte Netzwerkkarten in seinem WLAN, sodass man effektiv nicht filesharen kann.
+Wenn man eine Serienabmahnung kriegt, dann kann man danach googeln.
+Hinweise gibt es u.a. auf http://abmahnwahn-dreipage.de/, http://stoererhaftung.de.
+
+01:51 Werbeblock
+Freifunker <http://start.freifunk.net/>
+Treffen sich jeden Mittwoch in der c-base <http://www.c-base.org/>
+Datengarten nächste Woche <http://chaosradio.ccc.de/datengarten.html>
+
+~Macht immer schön eure Backups und lasst euch nicht überwachen~
+Ende der Sendung: 23:56 Uhr
+Outromusik: Websiiite von Tracky Birthday <http://www.trackybirthday.com/>
+

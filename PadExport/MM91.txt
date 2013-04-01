@@ -1,0 +1,108 @@
+Bei Mobile Macs freuen wir uns über jeden neuen Mitschreiber bei den Live Shownotes!
+Zum Mitschreiben ist die Anmeldung auf http://shownotes.piratenpad.de/ erforderlich
+
+MobileMacs 091
+Montag, 2. Juli 2012 aus der metaebene
+mit Tim Pritlove (@timpritlove) , roddi (@roddi), denis (@denis2342), Max (@343max), hukl (@hukl) bitte überprüfen!
+
+<http://mobilemacs.de>
+Timer: http://epirat.de/timer/?url=https%3A%2F%2Fshownotes.piratenpad.de%2FMM91&time=20%3A01%3A00
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Stream: http://xsn.io/mobile_macs.mp3
+
+Zusammen getragen von: hanz, Anthrazit, frakturfreak, woLeonard, Quimoniz, Pyroblast
+
+Sendungsbeginn: ~19:51
+
+00:00:00 Previously Mobile Macs von David <http://soundcloud.com/david1701/previously-on-mobilemacs-090>
+00:01:00 Apples neue Podcast-App <http://itunes.apple.com/de/app/podcasts/id525463029?mt=8>
+00:04:00 Die alte Möglichkeit, Podcasts unter iOS zu hören
+00:07:00 Gründe für die neue Podcasts App
+00:11:00 App Store
+00:12:00 Hukl hat einen iPod shuffle zum Podcasts hören und nennt ihn Willy.
+00:15:00 Tim ist entsetzt über das Design der App
+00:16:00 Die App performt nicht.
+00:17:10 Kapitelmarken-Funktionalität
+00:21:30 Die Bedienung
+00:22:00 Tim ist zu doof das Telefon zu bedienen.
+00:24:00 Die App hat noch die Krankheiten aus der alten Podcast App.
+00:26:00 Angeblich ist ein Redeem-Button geplant <http://www.iphone-ticker.de/apple-podcast-app-braun-tonband-35198/>
+00:28:00 Es gibt auch positive Aspekte (z.B. iOS-unabhängige Updates)
+00:30:00 Max findet das Bandlaufwerk putzig.
+00:30:30 Show Notes werden nicht vernünftig dargestellt
+00:33:00 Komplizierte Bedienung beim Vorspulen
+00:36:00 Tim ist nicht glücklich und die Runde zieht ein Fazit
+00:48:30 Tims BlueTooth am MacPro stürzt mal wieder ab
+00:52:00 Es gibt zur Zeit nichts wichtiges von Google
+00:52:30 5 Jahre iPhone und 30 Jahre hukl
+00:53:00 Wie sieht’s in der Tech-Szene in 5 Jahren aus
+00:53:30 Plattformwechsel bei Apple
+00:58:30 Die Podcast-Runde möchte Gadgets aus Star Trek und anderen SF-Filmen
+01:02:00 Körpervermessung für Kleiderkauf <http://benfranklin.org/news/intellifits-laser-body-sizing-system-is-a-good-fit-with-apparel-industry>
+01:05:00 Nerd-Träume
+01:07:30 Nochmal Podcast App – Was vergessen wurde …
+01:08:00 Sleeping Timer
+01:08:40 Suchfunktion in den Show Notes
+01:09:45 Siri (ist deine Freundin)
+01:12:45 Rauchbier aus Franken <http://hier-gibts-bier.de/>
+01:14:30 Miniaturisierung/Bluetooth 4 (z.B. Pebble Watch <http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android>)
+01:17:45 NFC <http://de.wikipedia.org/wiki/Near_Field_Communication> vs. Bluetooth <http://de.wikipedia.org/wiki/Bluetooth>
+01:21:50 Protina (MacBook Pro mit Retina Display) – Review
+01:31:00 Der Berglöwe und andere OS-Katzen
+01:31:45 VPN-Provider und IPv6
+01:35:00 Google  – Chrome für iOS
+01:40:00 Samsung Galaxy S III
+01:42:00 Google – Android 4.1 »Jelly Beans«
+01:46:00 7-Zoll-Tablets
+01:47:00 Tim hat sich das iPad als Controller gekauft und dann nur als Uhr benutzt.
+01:48:00 Zeiten. Atomuhren geben Tim Halt
+01:50:00 iPhone bleibt King, meint Tim.
+01:50:30 fehlender Multiusermodus beim iPad
+01:51:15 Ist Android die Zukunft?
+01:53:30 iOS 6 wird sich auch auf iPhone 3GS wiederfinden.
+01:55:30 Meinungen zum und Parameter des Nexus Q <http://www.heise.de/newsticker/meldung/Nexus-Q-Googles-sozialer-Streaming-Player-1627302.html>
+Trailer zu Nexus Q <http://video.golem.de/audio-video/8501/google-nexus-q-trailer.html>
+02:01:00 Details zur Funktionsweise des Nexus Q im Vergleich zum Apple-Ansatz (Wir sind alle DJs)
+02:08:00 Google Now
+02:13:00 Google Glass  <http://en.wikipedia.org/wiki/Project_Glass> <https://plus.google.com/111626127367496192147/posts>
+02:21:00 Unverständnis bezüglich Kalender-Events über G+ <http://de.engadget.com/2012/06/27/io-2012-google-events-bringt-den-multimediavernetzungsspasz-auf/>
+02:23:30 Facebook ändert ungefragt deine eingetragene E-Mail-Adresse <http://www.focus.de/digital/internet/facebook/bevormundung-beim-online-netzwerk-facebook-veraendert-adressbuecher-der-mitglieder_aid_772852.html>
+02:25:30 Tims jüngste Erfahrungen mit Facebook
+02:28:50 »Der ewige Speicher« (TM)
+02:29:00 Die Fan-CRE-Seite auf Facebook <http://www.facebook.com/pages/Chaosradio-Express/141583345859159> und fehlende Begründungsoptionen zur Löschung
+02:33:00 Die Freundin von Max hat ihrer Mutter ein Facebookprofil eingerichtet.
+02:35:00 Unverständnis und Positives zu Facebook.
+02:37:00 Tim bekommt nach der Sendung Facebook erklärt.
+02:39:00 Beziehungsstati in Facebook
+02:40:00 Prototyping <http://www.uishape.com/>
+02:41:25 Programmierung:Rich-Hickey-Vorträge
+02:41:30 Clojure <http://clojure.org/>
+02:42:00 Simple made easy <http://www.infoq.com/presentations/Simple-Made-Easy>
+Value Identity State Rich Hickey<http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey>
+Are We There Yet Rich <http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey>
+02:45:00 Duckduckgo ist nicht so gut wie google <http://duckduckgo.com/>
+02:46:00 Talk: Herding Tigers <http://www.confreaks.com/videos/67-mwrc2009-herding-tigers-software-development-and-the-art-of-war> 
+02:49:30 Editoren <http://chocolatapp.com/> <http://www.sublimetext.com/>
+02:51:00 Keine Referenz für Google App Engine <https://appengine.google.com/>
+02:51:30 Coworking Berlin co.up <http://co-up.de/>
+02:55:00 Travis CI <http://travis-ci.org/>
+03:00:00 Gerüchte über einen 2. Apple-Store in Berlin <http://www.ifun.de/apple-store-berlin-leipziger-platz-26541/>
+03:05:30 Linux-Absturz-Tag wegen Schaltsekunde <http://www.heise.de/open/meldung/Schaltsekunde-Linux-kann-einfrieren-1629683.html>
+03:07:00 Gewitter legt Amazon- und Twitter-Server lahm <http://www.ifrick.ch/2012/07/wie-ein-gewitter-in-virginia-teile-des-internet-lahmgelegt-hat/>
+03:09:10 Kalender und Steve Martin <http://de.wikipedia.org/wiki/Steve_Martin>
+03:10:00 Tote tragen keine Karos <http://de.wikipedia.org/wiki/Tote_tragen_keine_Karos> Cleaning Woman <http://www.youtube.com/watch?v=i1oFnWHDPg0>
+03:12:20 SuperFav <http://www.superfav.com/>
+03:12:45 Flash auf Mobile ist TOT! <http://www.engadget.com/2012/06/28/adobe-confirms-it-wont-support-flash-on-android-4-1/>
+03:18:00 SuperFav (2. Versuch) <http://www.superfav.com/> Externe Flattr-Integration auf Twitter.
+03:26:00 Warum man ein Youtube-Konto braucht.
+03:28:00 Github-Flattrei
+03:30:00 Internet-Fernsehen Zattoo <http://zattoo.com/> auf iOS-Geräten via Airplay zum TV
+Zattoo-App auf iTunes: <http://itunes.apple.com/de/app/tv-digital-zattoo-live-fernsehen/id423779936?mt=8>
+03:34:00 ARD- und ZDF-Mediathek auf dem iPad
+03:39:00  DVB-T und Fernsehen
+03:40:30 Blackmagic Cinema Camera <http://www.blackmagic-design.com/products/blackmagiccinemacamera/>
+03:46:10 Hoffnung im Podcasting-Bereich
+03:47:20 Abschied (Versuch 1)
+03:48:30 Satellite Eyes <http://satelliteeyes.tomtaylor.co.uk/>
+03:50:00 Abschied (Versuch 2) (»Wir ranten doch auch alle nur mit Bier«)
+

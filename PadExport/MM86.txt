@@ -1,0 +1,78 @@
+Mobile Macs 86, gekuerzte Shownotes
+Verfahrensweise, Tims Wünsche: http://codepad.org/eZ7Qk8yt
+Ausfuehrliche Mitschrift: https://shownotes.piratenpad.de/MM086
+Zusammengetragen von: Flo, hanz, Ludger, ePiratte, lik, klyonrad, Jemus42, Quimoniz
+
+###########################################################################
+###########################             Themenliste             #######################
+###########################################################################
+
+00:00:00 Begrüßung
+00:04:43 Fußball und WWDC
+00:20:00 OpenTracker
+00:26:00 Erlang
+00:45:00 Apple Inc.
+01:06:40 Die Zukunft von Windows
+01:22:25 Apple bashing
+01:48:45 iOS Apps
+02:20:25 Steam
+02:35:40 IKEA
+02:56:50 Google und OpenFlow
+03:30:00 Die Show franst aus
+
+###########################################################################
+###########################               Linkliste                 #######################
+###########################################################################
+
+00:00:00 Previously by David <http://soundcloud.com/david1701/previously-on-mobilemacs-085>
+00:06:00 Fußballspielen in der Kindheit <http://www.djk-wuermtal.de/>
+Championsleague <http://de.wikipedia.org/wiki/UEFA_Champions_League>
+Tim will EM Spezial machen
+Handball <http://de.wikipedia.org/wiki/Handball>
+Dubna, in der Nähe von Moskau <http://www.dubna.ru>
+WWDC <http://developer.apple.com/wwdc/>
+00:20:00 Erlang <http://de.wikipedia.org/wiki/Erlang_%28Programmiersprache%29>
+Open Tracker von erdgeist <http://erdgeist.org/arts/software/opentracker/>
+00:25:00 Why Erlang? by hukl <http://smyck.net/2012/04/22/why-erlang/>
+CRE082: Erlang <http://cre.fm/cre082>
+00:35:00 Chaosradio 52 Programmiersprachen <http://chaosradio.ccc.de/cr52.html>
+00:36:00 Learn you some Erlang <http://learnyousomeerlang.com/>
+00:37:00 Erlang Shell Webseite (O'Reilly Buchwerbung) <http://www.tryerlang.org/>
+Editor Chocolat <http://chocolatapp.com/>
+00:45:00 AAPL <http://de.wikipedia.org/wiki/AAPL>
+00:47:00 DFB Pokal <http://de.wikipedia.org/wiki/DFB-Pokal>
+00:53:00 Tortengrafik <http://www.macrumors.com/2012/04/24/apple-reports-results-for-q2-2012-11-6-billion-profit-on-39-2-billion-in-revenue/>
+01:01:00 @FridgeToaster <http://twitter.com/FridgeToaster/status/194904181012828160>
+01:02:00 Podcast Gestern <http://wir.muessenreden.de/2012/04/25/wmr40-urgesteinheberei/>
+01:30:00 Wordpress als Verbreitungsweg von Flashback <http://seclists.org/isn/2012/Apr/47>
+01:33:00 Die Java Lücke in Mac OS <http://www.heise.de/mac-and-i/meldung/Neue-Mac-Malware-nutzt-alte-Java-Luecke-1526095.html>
+01:35:00 CRE 155 Malware und Botnets <http://cre.fm/cre155>
+01:42:40 Was tut Flashback genau? <http://www.heise.de/mac-and-i/artikel/Tiefenanalyse-Der-Flashback-Trojaner-1525100.html>
+01:48:45 Denis entdeckte Geo-Based Spiel für iOS: Shadow Cities <http://www.shadowcities.com/>
+01:56:40 Screenfeeder, ihr praktischer kleiner Twitter-, Instagram-, Foursquare- und Dribbble-Client <http://screenfeeder.com/>
+01:57:20 Dribbble <http://dribbble.com/>
+02:00:10 Fritz Beitrag zu App Screenfeeder <http://www.fritz.de/neues_wort/multimedia/2012/04/beitrag23968.html>
+02:05:10 Facebook API-Pain, eBay API
+02:09:50 Tim Cook war nicht bei Valve <http://www.macrumors.com/2012/04/19/valve-co-founder-says-tim-cook-didnt-visit-valve-hq/>
+02:12:15 Erfahrung: Assassin's Creed II Steam vs Mac App Store
+02:23:00 Default Signatur von Samsung Android Smartphone <https://twitter.com/thinkofthought/status/192967196413149185/photo/1>
+02:24:40 Apple Store Berlin: Nichts geht voran
+02:28:00 Gravis
+02:35:40 IKEA: UPPLEVA TV+Schrank als ein Produkt<http://www.youtube.com/watch?v=0Nm7-EuctOs> 
+02:50:30 Technologie-Vorschläge für IKEA
+02:54:40 Real Selbstscan-Kasse schlecht
+02:56:50 Erst Google Drive, später Google Fly, dazwischen aber Google ÖPNV <http://drive.google.com>
+03:02:13 Idee: Cloud-RAID <http://www.cubby.com/>
+03:04:25 Neues Protokoll für Backend-Datenstruktur von Google: OpenFlow <http://www.wired.com/wiredenterprise/2012/04/going-with-the-flow-google/all/1>
+03:15:00 Microsoft verkauft Hälfte von AOL Patent-Portfolio an Facebook
+03:17:50 Lustiges Instagram Verkaufsinterview <http://www.youtube.com/watch?v=x6r1YcQ-T5U>
+03:19:15 Yahoo    
+03:23:50 Soziale Netzwerke: Google+, Pinterest
+03:32:00 Gebiss Monty Python <http://28.media.tumblr.com/tumblr_ln6y2qDjqc1qg1veto1_500.gif>
+03:34:30 Transmit kämpft mit iCloud <https://twitter.com/panic/status/195252312774684672/>
+03:37:07 Katze im Sack
+23:40:00 My little pony - friendship is magic: "Call of the Cutie" Staffel 1, Episode 12 <http://www.youtube.com/watch?v=n-7y0D6ru4o>
+23:45:00 Fefe ist auf Twitter betrollt worden (@fefesblog Avatar): https://twimg0-a.akamaihd.net/profile_images/2165510331/ponyfefe.jpeg (Falls der Avatar gewechselt wird: http://img855.imageshack
+.us/img855/5517/ponyfefe.jpg )
+http://www.kotzendes-einhorn.de/blog/2012-04/fefepony-mini-shitstorm-fefe-hasst-ponies/
+
