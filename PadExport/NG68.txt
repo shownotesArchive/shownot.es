@@ -1,0 +1,37 @@
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Show: NG
+Episode: NG067
+
+Shownotes zu Netzgespräche 068
+Stream: http://xsn.io/ng.mp3
+Timer: Zeitangaben werden vom EP-TimeStamp-Bookmarklet geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um
+
+
+Dosenpfand http://www.dosenpfand.de/wie_funktioniert_das_dosenpfand.html
+Molkenerzeugnis / Molkemischgetränk http://energy-drink-magazin.de/2012/05/molkenerzeugnis
+Musikantenstadl
+Symbolcodes
+refx nexus
+
+Bitcoin (BTC) Bitcoin-Wiki https://en.bitcoin.it
+bitcoin-qt Ein Bitcoin-Client für den Linux-Desktop (GNU funzt!) http://www.youtube.com/watch?v=KdHMS5WrKTI#t=4m10s + http://go-bitcoin.com/seite/fragen-antworten + http://www.dev-eth0.de/bitcoins-erstellung-neuer-btc
+
+Tom war beim Physio-Therapeuten und ist beeindruckt
+
+Filme
+Witzman und Tom finden Skyfall doof
+Witzman empfiehlt "the man with the iron fists" http://www.imdb.com/title/tt1258972/?ref_=sr_1
+div. andere Filme, Witzman spoilert
+
+Facebook Home http://t3n.de/news/facebook-home-alles-wissen-455081/
+Witzman hat "gallery live wallpaper"  https://play.google.com/store/apps/details?id=fishnoodle.gallerywp_free
+Fulda hat eine neue Stadtverordnung bzgl. Sonnenschirm-Farbe in Gastronomien http://www.fuldaerzeitung.de/nachrichten/fulda-und-region/Fulda-Rote-Schirme-schon-in-diesem-Sommer;art25,707901
+Lothar Matthäuse holding things durch Facebook-Frühlingsgruß http://www.faz.net/aktuell/gesellschaft/menschen/facebook-lothar-matthaeus-laeutet-den-fruehling-ein-12137241.html  http://loddarholdingthings.tumblr.com
+Witzman verschlägt es heute in die Natur
+

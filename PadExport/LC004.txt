@@ -1,0 +1,193 @@
+HEADER 
+Info: Zum Mitschreiben ist die Anmeldung auf https://shownotes.piratenpad.de/ erforderlich.
+
+Alle Einträge bitte mit Zeitstempel: ### erzeugt ihn! Zitate in <italic>, Themenüberschriften in <bold>.
+Typografisch korrekte Anführungszeichen „“ 
+Linux bzw. X Window: AltGr+V und AltGr+B
+Windows: Alt+0132 und Alt+0147
+Mac OS X: Alt+^ und Alt+Shift+^
+Danke
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+
+LeCast 004
+
+Titel der Sendung:
+ Windbeutel mit extra Sahne +GEWINNSPIEL+ <http://bullosamedia.de/lecast-004-windbeutel-mit-extra-sahne-gewinnspiel/> #link
+
+Dauer 01:02:31
+
+Mit Pascal (@KleinesP) <https://twitter.com/KleinesP> #link
+Gast Stephan Böhlig (@Boehler) <https://twitter.com/Boehler> #link
+
+Shownotes: @shbitt <https://twitter.com/shbitt> #link
+
+/HEADER
+
+00:00:00 Beginn #chapter
+
+Pascal erklärt warum er in einer der Sendungen nicht dabei war.
+
+00:01:39 Schnellfragerunde #chapter
+
+Frage: „Mein Lieblingsessen ist?“ Antwort: „Spaghetti in allen Variationen.“
+
+F: „Früher war ich?“ A: „Jünger.“
+
+F: „Heute bin ich?“ A: „Älter.“
+
+F: „Das Internet ist für mich?“ A: „Sehr wichtig geworden.“
+
+F: „Mit einer Million würde ich?“ A: „In den Urlaub fahren.“
+
+Fabi hat diese Schnellfragerunde eingeführt und Pascal möchte sie weiterführen.
+Fabi aka Dailyknoedel <http://www.dailyknoedel.de/index.html> #link
+
+00:02:50 Urlaub #chapter
+
+Stephan würde als erstes mit seiner Freundin in den Urlaub fliegen und danach mehrere Städtereisen in Deutschland machen. 
+Stephan: „Urlaub ist eine Geldfrage.“
+Der Letzte Urlaub ging an die Ostsee <http://de.wikipedia.org/wiki/Ostsee> #wikilink
+Der Vorletzte Urlaub (Wanderurlaub) ging nach Zell am See <http://de.wikipedia.org/wiki/Zell_am_See> #wikilink
+Pascal würde auch lieber in den Bergen wohnen.
+Stephan hat viele Fotos aus dem Wanderurlaub <http://www.livemoment.de/zell-am-see-osterreich/> #link
+Pascal empfiehlt Inzell <http://de.wikipedia.org/wiki/Inzell> #wikilink
+Rund um den Falkenstein <http://www.gps-touren.at/showtour_details.php?id=89&sportart=bergtouren> #link
+Windbeutelbaron <http://www.windbeutelbaron.de/> #link
+Pascal will dieses Jahr auf das Oktoberfest <http://de.wikipedia.org/wiki/Oktoberfest> #wikilnk
+Oktoberfest 2013 <http://www.oktoberfest2013.com/> #link
+Stephan sind es dort zu viele Menschen, er braucht Urlaub zum abschalten.
+Für alle die Lust auf Urlaub haben: „Fahrt doch!“
+Stephan kam durch einen Auftrag quer durch Sachsen und fand dies sehr interessant.
+Beide würden gerne nach New York.
+
+00:09:01 Frühling #chapter
+
+Beide wollen endlich den Frühling. Stephans Arbeit leidet durch den noch nicht einsetzenden Frühling.
+Pascal: „Game of Thrones - Vier Jahre Winter“  <http://de.wikipedia.org/wiki/Game_of_Thrones> #wikilink
+Für Stephan wäre es ein denkbar aufgrund des diesjährigen Winters wegzuziehen.
+Beide wollen an das Bundeskanzleramt <http://de.wikipedia.org/wiki/Bundeskanzleramt_(Deutschland)> #wikilink schreiben und besseres Wetter verlangen.
+Pascal hat sich schon oft beschwert, z.B. bei Borussia Mönchengladbach <http://www.borussia.de/de/startseite.html> #link als seine Mutter bei einem Fussbalspiel  von einem Ball getroffen wurde.
+Stephan hat mal die Pet Shop Boys <http://de.wikipedia.org/wiki/Pet_Shop_Boys> #wikilink fotografiert. 
+Prager Straße (Dresden) <http://de.wikipedia.org/wiki/Prager_Straße_(Dresden)> #wikilink 
+Er leidet sehr unter Höhenangst <http://de.wikipedia.org/wiki/Akrophobie> #wikilink
+
+00:16:53 Arbeit  I #chapter
+
+Stephan ist Fotograf  #link und betreut nebenher Künstler, welche in der Groove Station  auftreten u.a. Achim Menzel  und Die Ärzte.
+Stephans Firma Livemoment <http://www.livemoment.de>
+Groove Station Dresden <http://www.groovestation.de/> #link
+Achim Menzel ist für Stephan ein echter Rockstar. <http://de.wikipedia.org/wiki/Achim_Mentzel> #wikilink
+Die Ärzte <http://de.wikipedia.org/wiki/Die_Ärzte> #wikilink
+Stephan hat mehrere Fotoprojekte u.a. fotografiert er seine Follower <http://www.livemoment.de/ich-fotografiere-meine-follower/> #link 
+Projekt „Ich fotografiere meine Follower“<http://ichfotografieremeinefollower.livemoment.de/> #link
+Treibhausgalerie. <http://www.galerietreibhaus.de/> #link
+Modellkartei <http://www.model-kartei.de/> #link
+Sein Projekt „Ich fotografiere meine Follower“ ist angelehnt an das Projekt „Ich male meine Follower“ von @Frauenfuss.
+Projekt „Ich male meine Follower“ <http://www.ich-male-meine-follower.de/> #link
+@Frauenfuss  <https://twitter.com/Frauenfuss> #link
+Seit 2013 arbeitet Stephan an einem neuen Projekt mit.
+Ballroom Studios @ballroomdresden <https://twitter.com/ballroomdresden> #link
+Ballroom Studios bei Fecabook <https://www.facebook.com/ballroomstudiosdresden> #link
+Bericht über die Ballroom Studios <http://mittelstern.de/2013/02/ballroom-studios-ein-kleinod-in-der-neustadt-wird-wachgekusst/> #link
+Pascal würden gerne dort vorbeikommen.
+
+00:27:53 Mitmachen #chapter
+
+Wer beim Projekt „Ich fotografiere meine Follower“ mitmachen möchte soll Stephan auf Twitter folgen (@boehler <https://twitter.com/Boehler> #link ), dort veröffentlicht er die Termine.
+Pascal kann dies nur empfehlen.
+
+00:28:55 Arbeit II #chapter
+
+Ein weiteres Projekt von Stephan ist der Neustadtspaziergang. <http://www.livemoment.de/projekte/neustadtspaziergang/> #link
+Stephan kam über das spazieren gehen und über seine Mutter zu diesem Projekt.
+Stephan: „Wenn man in Dresden Postkarten kaufen will, gibt es nur die Altstadt...“
+Er will damit den Stadtteil den Leuten näher bringen. 
+In Zusammenarbeit mit Kati Hegewald (@hipgunart, <https://twitter.com/hipgunart> #link) erstellte er u.a. große Poster, welche im Onlineshop erhältlich sind.
+Onlineshop <http://shop.neustadtspaziergang.de/> #link
+Der Neustadtspaziergang ist Stephans Lieblingsprojekt.
+Der erstellte Kalender 2013 (Auflage 250 Stück) <http://shop2.neustadtspaziergang.de/Kalender/> #link #shopping ist seit Ende Dezember 2012 ausverkauft. Für 2014 soll es evtl. zwei neue Kalendervarianten geben. #spoiler
+Stephan arbeitet ohne einen Verlag und ist immer alleine unterwegs.
+Pascal wünscht sich einen Tischkalender und eine Panoramaaufnahme der Neustadt. #spoiler
+Stephan hat eine Fotoreihe des Hochhauses am Albertplatz erstellt, <http://www.livemoment.de/hochhaus-am-albertplatz-verkehrsbetriebe/> #link er möchte dort im Frühjahr noch mehr Fotos schießen. #spoiler
+Hochhaus am Albertplatz <http://de.wikipedia.org/wiki/Hochhaus_am_Albertplatz> #wikilink
+Ebenso gibt es eine Fotostrecke vom Radebeul <http://de.wikipedia.org/wiki/Radebeul> #wikilink diese läuft unter dem Projekt „Redebeuler Momente“.
+„Redebeuler Momente“ <http://www.livemoment.de/projekte/radebeuler-momente/> #link
+„Redebeuler Momente“ bei Facebook <https://www.facebook.com/RadebeulerMomente> #link
+
+00:39:11 Böhler buchen?!  #chapter
+
+Stephan ist buchbar, er bittet darum. <http://www.livemoment.de/kontakt/> #link
+Stephan: „Alles ist machbar und ich bin für jeden Spass zu haben.“
+Ab Ostern hat er mehr Zeit. #spoiler
+
+00:41:10 Fototips #chapter
+
+Pascal hätte gerne Empfehlungen.
+Stephan: „Es kommt nicht auf die Kamera an.“
+Er selbst hat es auch nicht gelernt und hat mit einer billigen Kamera angefangen. Wichtig ist die Beschäftigung mit Fotografie. Abschauen, Praktikas oder mit bereits erfahreneren Leuten unterwegs sein sind Stephans Tips.
+Die Canon EOS 600d <http://www.amazon.de/Canon-SLR-Digitalkamera-Megapixel-schwenkbares-Display/dp/B004MKNBJG> #amazon #link #shopping empfiehlt er zum Einstieg in die Spiegelreflexkameras. Wichtig ist, dass auseinandersetzen mit Objektiven, da die Standartvarianten meist nicht gut sind.
+Stephan: „Objektive sind sehr, sehr wichtig. Wichtiger als die Kamera!“
+Pascal bittet um eine Empfehlung im Kompacktbereich.
+Stephan benutz keine Kompacktkameras, er macht lieber Handyfotos und postet diese bei Instagram. <http://instagram.com/boehlr> #link
+Stephan: „Nur auf Megapixel zu achten ist Quatsch!“
+Er rät von Kameras von <100,00 Euro ab und empfiehlt lieber die G-Reihe von Canon  da diese eine gute Bildqualität liefern.
+G-Reihe von Canon <http://de.wikipedia.org/wiki/Canon_Powershot_G-Reihe> #wikilink
+
+00:47:57 Tips in der Dresdner Neustadt #chapter
+
+Stephan empfiehlt die Groove Station, <http://www.groovestation.de/> #link  „...die fetzt immer.“
+Für Essen rät er zum Alten Wettbüro. <http://www.altes-wettbuero.de/> #link „...wahnsinnig gute, junge Köche und Essen zu Witzpreisen (niedrig).“
+Ebenso ist die Planwirtschaft <http://www.qype.com/place/4897-Planwirtschaft-Dresden> #link empfehlenswert.
+Die Kunsthofpassage <http://www.kunsthof-dresden.de/> #link ist seht schön.
+Den Kaffee sollte man im Tanteleuk <http://www.qype.com/place/2554061-tanteleuk-Dresden> #link trinken. „...großartiger, selbst gebackener Kuchen.“
+Dies war nur eine kleine Auswahl von Stephans Tips.
+Pascal war im Sommer 2012 das letzte mal in der Dresdner Neustadt.
+
+00:52:16 Das Versprechen #chapter
+
+Stephan wollte zu einem Bundesligaspiel kommen hatte dies aber vergessen. Er schlägt vor zu einem Champions League Spiel zu kommen. 
+
+00:52:57 Fussball #chapter
+
+Stephan ist FC Bayern München <http://de.wikipedia.org/wiki/FC_Bayern_München> #wikilink Fan.
+Pascal durfte die FC Bayern Mannschaft schon mal Treffen.
+Bastian Schweinsteiger <http://de.wikipedia.org/wiki/Bastian_Schweinsteiger> #wikilink hat ihm sein Trikot versprochen, schlich sich dann aber davon, ohne es ihm zu überreichen.
+Stephan meint er habe es bestimmt nur vergessen.
+Pascal erzählt eine lustige Geschichte über Oliver Kahn <http://de.wikipedia.org/wiki/Oliver_Kahn> #wikilink
+
+00:55:32 Gewinnspiel #chapter
+
+Pascal und Stephan möchten gerne Poster und Postkarten verlosen.
+
+1. Platz: Ein Poster
+2. Platz: Zehn Postkarten
+3. Platz: Fünf Postkarten
+
+(Die Gewinner können sich dann die Motive auf <http://shop2.neustadtspaziergang.de/> #link auswählen)
+
+Aufgabe:
+
+Kreatives Kommentar im Blog unter der LeCast Folge 004  sowie einen kreativen Tweet mit dem Hashtag #LeCast.
+
+Pascal und Fabi küren dann die Gewinner.
+
+00:58:50 Podcast #chapter
+
+Stephan hat auch noch eigene Podcasts:
+
+XX vs. XY <http://hoersuppe.de/podcast/xxvsxy/> #link
+PoDDcast <http://www.poddcast.de/> #link
+Buzr <http://www.buzr.de/> #link
+
+01:01:40 Verabschiedung #chapter
+
+Pascal und Stephan bedanken sich und grüßen Fabi.
+
+
+
+
+

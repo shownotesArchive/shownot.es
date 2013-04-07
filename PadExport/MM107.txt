@@ -1,0 +1,360 @@
+HEADER
+
+---------------------------------------------------------------------
+New Rules:
+
+Standard Tags: #chapter #section #spoiler #topic #embed
+Inclusion Tags: #video #audio #image #shopping #glossary
+
+Deprecated Tags: #wikilink #amazon #youtube #link
+---------------------------------------------------------------------
+Zur Diskussion vorgeschlagene Tags: #source #app #title #quote
+
+Show: MM
+Episode: MM107
+
+Shownotes zu mobileMacs 107
+Stream: <http://streams.xenim.de/metaebene.mp3>
+Timer: Zeitangaben werden vom EPL-TimeStamp-Plugin geschrieben. 
+Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um.
+Mit: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342, hukl @hukl und Gast: Martin Hering @vemedio 
+Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
+Version auf Shownot.es: <http://shownot.es/mm/107>
+
+Zusammengetragen von: @EvitaBley, @SimonWaldherr, @vale (ADNonly), @luutoo, @Kambfhase, @piff82
+
+Sendungstitel Vorschläge:
+- Das Meisterpasswort
+- Hottentotten-Elektrohöker
+- Der Link ist schon im Chat
+- Der neue Morseanschluss der Telekom
+- DroSsel of Service
+- Peak Google
+- Die Amsel und die Drossel
+- ohne rum und pling
+
+/HEADER
+
+Sendungsbeginn: 19:42
+
+
+1365010923 Sendungsbeginn #chapter
+Previously on mobileMacs 106 <https://soundcloud.com/david1701/previously-on-mobilemacs-106> #a
+1365011013  „Harlem Shake“ <http://knowyourmeme.com/memes/harlem-shake>
+1365011034 Wer bis jetzt kein Harlem Shake kennt braucht es auch nicht mehr zu gucken
+1365011076 Dank an David für Previously on mobileMacs <http://flattr.com/thing/343097/David1701-auf-Soundcloud> #flattr
+1365011095 mobileMacs wird 5 Jahre alt #topic
+1365011142 Heute mit Publikum aus dem Off
+1365011164 Gast: Martin Hering <http://twitter.com/vemedio> #twitter
+ 
+1365011228 Gastvorstellung #chapter
+1365011236 Vemedio <http://vemedio.com/> #t
+1365011245 Instacast <http://vemedio.com/products/instacast3> #t
+1365011269 iTunes <http://www.apple.com/de/itunes/download/>
+1365011273 Apple Podcast App <https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&ign-mpt=uo%3D2> #app #shopping
+1365011280 DownCast <https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&ign-mpt=uo%3D2> #app #shopping
+1365011310 Jonny Ive <http://de.wikipedia.org/wiki/Jonathan_Ive> #g
+- kümmert sich um die UI der Podcast App
+1365011355 Shownot.es Team <http://shownot.es/> #t
+1365011389 Apple API <https://developer.apple.com/resources/>
+1365011420 AAC <http://de.wikipedia.org/wiki/Advanced_Audio_Coding> #g
+1365011425 MP3 (MPEG 1 Audio Layer 3) <http://de.wikipedia.org/wiki/MP3> #g
+1365011503 Garage Band  <http://www.apple.com/ilife/garageband/> #app
+1365011530 MPEG 4 <http://de.wikipedia.org/wiki/MPEG-4> #g
+1365011570 21 Century: Kapitelmarken, Sync und Kalender
+1365011635 Töne im Studio
+ 
+1365011653 Flattr und Appstore Bergwerk #chapter
+1365011655 Flattr und Instacast <http://flattr.com/> #t
+1365011675 Vemedio durfte flattr nicht in Instacast einbauen, wegen Apples App-Store-Regeln <http://vemedio.com/blog/posts/instacast-hd-rejected-over-flattr-integration>
+1365011711 Willkürliches Aussortieren durch Reviewer von Apps im Appstore
+1365011788 Eine App darf nichts kosten, wenn sie Spenden sammelt
+1365011845 Auf der WWDC bekommt man genauere Informationen als App-Entwickler
+1365011895 Für Payment soll man laut Apple in-App-Purchases nutzen
+1365011980 Der Flattr Manager <http://www.codingmerc.com/blog/flattr-manager/> #app #t
+1365012029 Auto Flattr funktioniert weiter nicht
+1365012040 Sync in Instacast #t
+1365012051 Instacast nutzte iCloud-Sync nur in Version 2
+1365012078 Probleme mit iCloud-Sync
+1365012152 Nicht vorhandene Apple Neuvorstellungen
+1365012198 Stefan sitzt im Off
+1365012219 WebDav <http://de.wikipedia.org/wiki/WebDAV> #g
+1365012252 Apache Webserver <http://de.wikipedia.org/wiki/Apache_HTTP_Server> #g
+1365012303 DNS muss noch erfunden werden
+1365012328 WebDAV in Instacast für den Mac
+1365012393 Zeit basiertes Konfliktmanagement für Sync in Instacast
+1365012442 Vector Clock <http://en.wikipedia.org/wiki/Vector_clock>
+ 
+1365012476 iCloudsync #chapter
+1365012484 Outbank
+- Secure Incremental Store Framework (Stoeger it GmbH) <http://www.stoeger-it.de/secureincrementalstore/>
+1365012592 Bei der Enterprise License ist der Sourcecode dabei
+1365012692 Für 5000 $ kann man die Funktion nicht selber entwickeln
+ 
+1365012770 Apple Store in Berlin #chapter
+1365012795 Im Studio sind keine Kapitelmarken zu hören
+1365012811 Kapitelmarken AKA Mars Attacks im Stream zu hören.
+1365012910 Sehnsüchtiges Erwarten der Eröffnung
+1365012931 „Trauerperser“
+1365012969 Der gemeine Apple Store Berlin Mitarbeiter darf wahrscheinlich bald zu arbeiten beginnen
+1365013005 Voraussichtliche Eröffnung doch erst im Juni/Juli #t
+ 
+1365013062 Musikgeschäfte in Berlin #chapter
+1365013106 Just Music eröffnet einen großen Laden in Berlin <http://justmusic.de> #t
+1365013148 „Audiogeräte von frei laufenden Verkäufern“ #q
+1365013194 Tim fordert eine Podcast-Etage
+1365013280 JustMusic <http://www.justmusic.de/de-de/cms.html?Path=News/Berlin#breadcrumb> #link #shopping
+1365013367 Bei Just Music wird es wohl auch Mikrofone geben
+1365013450 Laurie Anderson - Big Science <http://www.youtube.com/watch?v=BhOvrVUoJoY> #video
+ 
+1365013486 App.net und Security <http://app.net> #chapter
+1365013508 Denis meldet sich live in der Sendung bei App.net an
+1365013529 Invites für alle! <https://join.app.net/from/mobilemacs> #t
+1365013548 Podcasts und Blogs sind Medienpartner von App.net #t
+1365013672 Two factor authentication <http://blog.app.net/2013/03/13/added-security-for-your-app-net-account/>
+1365013769 Verification bei Twitter
+1365013791 Verification per Domain
+1365013844 ADN Clients #t
+- Kiwi für Mac <http://kiwi-app.net/> #app
+1365013945 Das Meisterpasswort
+1365014026 RSA-Token <http://en.wikipedia.org/wiki/SecurID> #g
+1365014055 HOTP (HMAC-Based One-Time Password Algorithm) <http://tools.ietf.org/html/rfc4226> #t
+1365014089 TOTP (Time-Based One-Time Password Algorithm) <http://tools.ietf.org/html/rfc6238> #t
+1365014100 One Time Pad <https://de.wikipedia.org/wiki/One-Time-Pad> #g
+- One Time Pad Beispiel <http://cdn.simon.waldherr.eu/projects/OTP-CAPTCHA/> 
+1365014143 Dropbox <https://www.dropbox.com/>
+1365014162 HDE OTP Generator <https://itunes.apple.com/us/app/hde-otp-generator/id571240327?l=en&mt=8> #app #shopping
+- Entwickler Website <http://www.hde.co.jp/otp/en/> #t
+1365014198 QR-Codes <http://de.wikipedia.org/wiki/QR-Code> #g
+1365014243 Apple wird sicher etwas eigenes machen
+1365014290 Google Authenticator <https://itunes.apple.com/de/app/google-authenticator/id388497605?l=en&mt=8> #app #shopping
+1365014321 Bitcoin-Markets nutzen jetzt auch two factor authentication
+1365014347 HOTP #t
+1365014467 Durch diese Authentication kann man einzelne Clients wieder deauthorisieren
+1365014551 Anspielung auf den PayPal Slogan „Sicherererer“
+1365014608 Two factor authentication war „ein schöner Scam um Tim aus ADN auszusperren“ #quote
+1365014766 Automatische Crosspostings sind ein „absolutes No-Go“
+1365014859 ADN ist Tweet-HD
+1365014884 Felix schreibt bei Crossposts Links zu App.net
+1365015016 1Password spammt und bekommt keine neuen Features
+1365015049 1Password sollte Password sharing mit anderen Nutzern in zweit Datenbank unterstützen
+ 
+1365015110 Geschenke und Bier #chapter
+1365015116  MM, Metaebene und NSFW Stifte
+1365015135 ComicSans <http://de.wikipedia.org/wiki/Comic_Sans_MS> #g
+1365015159 Bier aus Franken Kohlenmühle, Neustadt an der Aisch <http://www.kohlenmuehle.de/> #t
+1365015237 Bogk-Bier <http://www.bogk-bier.de> #t
+1365015259 Berliner Weiße schmeckt „es ist ein Sommerbier“ #quote
+1365015292 mobileMacs bekommt viel Bier geschenkt
+1365015403 Gude schmeckt gut <http://www.gude-stoff.de/> #t
+1365015421 Original Apple USB-Verlängerungskabel <http://www.amazon.de/dp/B002C7RRQY/>
+1365015449 „Hottentotten Elektrohökerer“ (Tim) #q
+1365015459 Apple wird gelobt für ihre Idee des „Metallschnubsies“ #quote
+1365015509 “It’s not a feature, it’s a bug” #quote
+1365015531 „Apple hatte noch nie USB-Verlängerungskabel“ #quote
+1365015566 Apple Tastaturen hatten eine Aussparung am USB-Stecker
+1365015597 USB-Kabel auf Schuko
+1365015679 „Is egal, ich will's lang!“ (Tim) #q
+ 
+1365015762 Bitcoin #chapter
+1365015779 Denis darf nichts sagen, denn er ist reich
+1365015803 Wenn Denis verkauft, geht der Kurs in den Keller
+1365015840 Tim hat 33 Bitcoins gespendet bekommen
+1365015845 Blockchain.info <http://blockchain.info/> #t #link
+1365015863 Pizza für 750.000$ in BTC <http://motherboard.vice.com/blog/this-pizza-is-worth-750000>
+1365016025 Bitcoins werden mehr gebraucht um Dienstleistungen zu bezahlen
+1365016084 „High-Speed-Trading für Bitcoins“ #quote
+1365016096 „Hype und Spekulatius“ #quote
+1365016186 Mit Bitcoins wird nur gezockt oder Gras gekauft
+1365016297 Der momentane Bitcoin Kurs „sieht irgendwie nicht gesund aus“ (Tim) #quote
+1365016411 Bitcoin Kurs fällt während der Sendung
+1365016460 Bitcoin Market aus Deutschland <https://www.bitcoin.de/de> #shopping
+1365016502 Für Bitcoins bitte nur „Spielgeld“ verwenden (hukl) #quote
+1365016547 Auch WoW Gold unterliegt den Geldwäscheregularien der USA
+1365016575 Problematik der Versteuerung von Gewinnen bei dezentralen Währungen
+1365016613 „Die Bitcoins sind sicher“ #quote
+1365016652 Ein Kollege von hukl möchte argentinische Peso über Bitcoin in Euro wechseln
+1365016700 SatoshiDice <http://satoshidice.com>
+1365016707 btcReport App <https://itunes.apple.com/de/app/btcreport-bitcoin-exchange/id440302110?l=en&mt=8> #app #shopping
+1365016853 Es lohnt wieder Bitcoins zu minen dank ASICs
+ 
+1365017110 Telekom DroSseL #chapter
+1365017120 Meldung bei den Fanboys <http://fanboys.fm/drossel/> #t
+1365017411 Ab einem gewissen Volumen wird die Leitung gedrosselt
+- Blog.Telekom <http://blogs.telekom.com/2013/03/22/neue-spielregeln-fuer-dsl/>
+1365017463 Drossel vs. „funktional kaputt“ (Clemens) #quote
+1365017507 „Ich brauch' keinen DSL-Anschluss mit 384 Kilobit, da kann ich auch Mobilfunk nehmen oder ne Morsetaste!“ (Clemens) #q
+1365017587 Die 75GB sind die Summe aus Transmit und Recieve
+1365017639 Clemens skizziert ein DOS Szenario
+1365017664 „DroSsel of Service“ #q
+1365017745 „Digitale Querschnittslähmung“ #quote
+1365018054 Roaming <https://de.wikipedia.org/wiki/Roaming> #g
+1365018165 Abrechungen zwischen Providern
+1365018183 Monatsregelung ist nicht fair, sondern nur um den Kunden zu verarschen gedacht
+1365018291 Die Telekom interessiert es nicht wenn man von der Telekom weg wechselt
+1365018415 Entertain ist kein Internetvertrag
+1365018500 URLs die das Wort Speedtest enthalten, haben schnellere Übertragung
+1365018545 Denis braucht stabiles 16.000 DSL. Tim braucht Schnellnetz
+1365018609 Fritz!Box hat Traffic Berechnungen
+1365018704 Tim hat in der letzten Woche 200 GB in der Metaebene versurft 
+1365018802 CCC Berlin hätte die Möglichkeit sich für einen fünf stelligen Betrag eine Glasfaser legen zu lassen
+1365018884 Drosselung/Abschaltung ist technisch kompliziert
+1365018942 Abschaltung wäre bei der Telekom keine Bandbreite sparen, Drosselung verhindert Retry-Spam
+1365019046 Die anderen Provider werden nachziehen
+1365019294 Die Telekom baut Konkurenzprodukte auf, sobald sie von aufs Land ziehender Konkurenz hört
+1365019424 Martin wohnt im Rentnerviertel und hat deshalb nur langsames Netz
+1365019470 Vor dem Hausbau sollte man sich nach der Internetverfügbarkeit erkunden
+1365019501 Tim priorisiert Internet höher als Strom
+1365019567 Tim erkundigt sich vor der Anreise zu Hotels über die Verfügbarkeit von Internet
+1365019645 Best Western Hotels <http://www.bestwestern.com/>
+1365019685 Vergleich der Internetsituation mit Sanitäranlagen in Hotels
+1365019842 WLAN-Kabel bei der Lufthansa <http://www.stupidedia.org/stupi/W-Lan-Kabel> #g
+1365019932 schon 2006 hatte maha Internet im Flugzeug <http://tim.geekheim.de/2006/03/19/tlf003-maha-im-flugzeug/> #podcast
+
+1365020025 Google drosselt den Zugang zu Reader #chapter
+1365020050 Google Graveyard <http://www.slate.com/articles/technology/map_of_the_week/2013/03/google_reader_joins_graveyard_of_dead_google_products.html>
+1365020090 Google Reader wird eingestellt
+1365020145 Reeder <http://reederapp.com/> #app
+1365020182 Google Reader als Sync #t
+1365020241 Google wäre gerne Facebook
+1365020324 Google Reader als Website <http://www.google.com/reader>
+1365020345 Google kann nur ein Eingabefeld
+1365020394 „Peak Google“ (alle) #quote
+1365020505 Ein paar Ansätze von Google+ sind gar nicht so schlecht (Tim)
+- Man kann es nutzen um ab und zu einen Post zu schreiben, der auch länger sein darf
+1365020722 Search Bubble <https://de.wikipedia.org/wiki/Filterblase>
+1365020762 Tim über RSS-Feeds als Herz des Netzes
+- Feedburner wird als Provider genutzt, um Statistiken zu bekommen
+
+1365020994 Podlove #c
+1365021002 RFC5005 <https://www.ietf.org/rfc/rfc5005.txt>
+1365021045 Aufteilen des Feeds in Teile (Paging)
+1365021078 Alte Einträge auslagern (Archive)
+1365021200 RSS ist XML und sollte nicht von Hand geschrieben werden
+1365021364 Eine API ?
+1365021427 REST <https://de.wikipedia.org/wiki/Representational_State_Transfer> #g
+1365021433 Roy Fielding <http://de.wikipedia.org/wiki/Roy_Fielding> #g
+
+1365021488 Themenlücke #c
+1365021505 iStatMenus <http://bjango.com/mac/istatmenus/> #app
+1365021620 MacBook Pros wachen seit 10.8 langsamer auf #t
+- Standby Delay <http://www.ewal.net/2012/09/09/slow-wake-for-macbook-pro-retina/>
+1365021755 Hukl ist genervt von getrennten Netzwerkverbindungen
+1365021878 nVidia Titan Grafikkarten <http://www.nvidia.com/titan-graphics-card>
+1365021978 Sonys Pressekonferenz zu allem nur nicht zur PS4 <http://www.youtube.com/watch?v=8OhDX0anXZE> #video
+
+1365021992 Mediathek App wurde eingestellt #c
+1365022006 Fernsehsuche.de #schleichwerbung
+1365022109 Next Episode <http://next-episode.net/>
+- kann zeitversetzte Kalender-Feeds, um rechtzeitig über verfügbare Torrents informiert zu werden
+1365022183 Mad Man 
+1365022191 Game of Thrones
+1365022198 Clemens hat keinen Nerv für Torrent
+- Denis shared seine Videos gerne über Air
+
+1365022228 Werbung für Roddies Workshop in der Undsoversity <http://www.undsoversity.de/detailed.php?id=12>  #t
+1365022237 Timo Hetzel <https://twitter.com/timohetzel> #twitter
+1365022262 „iOS-Entwicklung für Quereinsteiger“
+1365022315 Video von Roddi ist nicht zeigenswert gewesen
+
+1365022327 Stream tot
+1365022592 Stream lebt!
+
+1365022641 Kevin Lynch <http://en.wikipedia.org/wiki/Kevin_Lynch_(businessman)> #g
+1365022724 Er verlässt Adobe und geht zu Apple <http://gizmodo.com/5991407/report-adobe-cto-kevin-lynch-is-going-to-apple>
+1365022808 CTO <https://de.wikipedia.org/wiki/Chief_Technical_Officer> #g
+- Macromedia und Macromind <http://de.wikipedia.org/wiki/Macromedia> #g
+1365022883 Phil Schiller <http://en.wikipedia.org/wiki/Phil_Schiller> #g
+1365022925 Was macht der Softwareguy in der Technologies-Abteilung?
+1365023003 Solange Kevin Lynch bei Apple nichts macht ist es nicht gefährlich
+1365023034 „cooken in die trübe Glaskugel“ (roddi) :)
+1365023080 Rumors über die Entwicklungen bei Apples Betriebssystemen <http://daringfireball.net/linked/2013/04/02/apple-scuttlebutt>
+1365023169 Breaking: Instawallet.org wurde gehackt, der Bitcoinkurs fällt <http://notice.instawallet.org/>
+1365023299 Disskusion über neue Materialien des iPhone 5S
+1365023310 Gorillaglas <http://de.wikipedia.org/wiki/Gorillaglas> #g
+
+1365023366 Vibrationen und Notifications #chapter
+1365023399 Tims Vibration nervt alle
+1365023429 Notifications im „do not disturb“-Modus
+
+1356023530 Dokumentationen schreiben #chapter
+1365023569 Podlove Dokumentation <http://podlove.github.com/>
+1365023630 PostScript <https://de.wikipedia.org/wiki/PostScript> #g
+1365023635 Tim schrieb Liebesbriefe in Postscript
+1365023650 LaTeX <https://de.wikipedia.org/wiki/LaTeX> #g
+1365023716 iBook zum Thema Markdown <https://itunes.apple.com/us/book/markdown/id622433972?mt=11&ign-mpt=uo%3D4> #shopping
+1365023727 Markdown <http://de.wikipedia.org/wiki/Markdown> #g
+1365023784 GitHub Markdown
+1365023818 MultiMarkdown <http://en.wikipedia.org/wiki/MultiMarkdown> #g
+1365023919 ByWord <http://bywordapp.com/markdown/guide.html>
+1365024087 Beispiel: Podlove Simple Chapters <http://podlove.org/simple-chapters/>
+1365024182 Wordpress Plugins:
+1365024190 Markdown on save <http://wordpress.org/extend/plugins/markdown-on-save/>
+1365024226 WP-Markdown wird nicht empfohlen<http://wordpress.org/extend/plugins/wp-markdown/>
+1365024337 MultiMarkdown-Composer <http://multimarkdown.com/>
+- Tims bevorzugter Markdown Editor
+1365024403 Export in verschiedene Formate u.a. LaTeX und OpenDokument
+1365024407 OPML <http://en.wikipedia.org/wiki/OPML> #g
+1365024458 DayOne <http://dayoneapp.com/>
+1365024553 - MultiMarkdown in DayOne
+1365024566 MarkdownPlus <https://github.com/basejump/markdown-plus>
+1365024577 critiquetext
+- mit History
+1365024619 alle genannten können keine Inhaltsverzeichnisse generieren
+
+1365024632 Find my Friends #c
+1365024653 Mit Geofence Freunde einzäunen
+1365024709 Fremdgehen dank Find my Friends
+1365024780 Tempelhofer Feld
+1365024799 Find my Friends ist nützlich wenn man sich auf dem Tempelhofer Feld finden möchte
+
+1365024833 VoIP #c
+1365024834 Clemens hat eine Änderung bei der Telekom beantragt ohne, dass die Leitung kaput gegangen ist
+1365024889 opus über Telekom VoIp
+1365024924 Video over VoIP
+1365024962 Durch die Codec Wahl kann die Telekom nicht mehr verwertbare Abhördaten liefern
+1365025030 Karsten heißt Clemens
+1365025071 Die Telekom hat gute VoIP Gegenstellen, die SIP-Messages auf Deutsch versendet
+1365025118 „Mit Video, Soße und scharz und opus!“ #q
+1365025132 VDSL
+1365025159 Codec
+1365025211 Die Telekom macht ISDN tot
+1365025230 „Der Hörer sitzt“ <http://mobilemacs.de/2012/10/mm098.html> #q
+1365025232 Es mangelt an Opus fähiger Hardware
+1365025344 Das Hörer-Meter wird vermisst
+1365025363 Hörerzahlen
+1365025433 Tool mit dem man sich toll sein Blog runterfahren kann #t
+1365025449 SequelPro <http://www.sequelpro.com/>
+1365025498 Vor zwei Wochen hat SequelPro die Metaebene mit einem alten Backup kaputt gemacht
+- „REMEMBER: @METAEBENE DIED FOR YOUR SINS“ <https://alpha.app.net/timpritlove/post/4252468>
+1365025627 PostgreSQL <http://www.postgresql.org/>
+1365025687 PostgreSQL sollte man bald möglichst updaten
+- es ist gut dokumentiert
+
+1365025804 Oracle + MySQL
+1365025858 liquidfeedback 
+1365025873 SQL-Nummernschild <img://cache.gizmodo.com/assets/images/4/2011/11/xlarge_8ca4aa827c1151851324895f5ffb778b.jpg>
+
+1365025907 Alfred ist in Version 2 erschienen mit Neuigkeiten die noch keiner so richtig versteht
+1365025944 Hukl hat ein neues Audiointerface <http://global.focusrite.com/firewire-audio-interfaces/saffire-pro-40>
+1365026006 Fireface
+1365026076 Firewire <http://de.wikipedia.org/wiki/FireWire> #g
+1365026103 Laptops kommen nur noch bei HD-Audio und HD-Video ins Schwitzen
+1365026142 Hukl braucht einen MacPro für multitrack Audio
+1365026180 Reaper <http://www.reaper.fm/>
+1365026201 Mixing Secrets, Midgel Godridge 
+1365026215 Nigel Godrich <http://en.wikipedia.org/wiki/Nigel_Godrich> #g
+1365026245 Reaper Plugins 
+1365026279 Equalizer <http://de.wikipedia.org/wiki/Equalizer> #g
+1365026284 Kompressor <http://de.wikipedia.org/wiki/Kompressor_(Signalverarbeitung)> #g
+1365026323 Ableton <http://ableton.com>
+1365026421 Thomann <http://thomann.de>
+1365026435 Logic Pro <http://www.apple.com/logicpro/>
+1365026445 Finalcut Pro <http://www.apple.com/finalcutpro/>
+1365026464 Mac OS 7
+
+1365026472 „Hammas? Wir tüten ein!“ #q
+
+1365026536 Streamende
+1365026544 Outro: <http://www.youtube.com/watch?v=e7Klczu14tE>
+
