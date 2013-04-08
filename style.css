@@ -1,0 +1,347 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    font-size: 100%;
+	font-weight: inherit;
+	font-style: inherit;
+	font-family: inherit;
+	vertical-align: baseline;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+@font-face {
+	/* Alte Haas Grotesk by Yann Le Coroller <http://www.yannlecoroller.com> */
+	font-family: 'Alte Haas Grotesk';
+	font-style: normal;
+	font-weight: bold;
+	src: local('Alte Haas Grotesk Bold'), url('altehaasgroteskbold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Anonymous Pro';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Anonymous Pro'), local('AnonymousPro'), url(http://themes.googleusercontent.com/static/fonts/anonymouspro/v3/Zhfjj_gat3waL4JSju74E1tUcs43uvLUMv3hfHgzs3w.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Anonymous Pro';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Anonymous Pro Bold'), local('AnonymousPro-Bold'), url(http://themes.googleusercontent.com/static/fonts/anonymouspro/v3/WDf5lZYgdmmKhO8E1AQudy_O50XgJwSsgBhwZ9pjuTs.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Anonymous Pro';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Anonymous Pro Italic'), local('AnonymousPro-Italic'), url(http://themes.googleusercontent.com/static/fonts/anonymouspro/v3/q0u6LFHwttnT_69euiDbWEOc-qcyZDPXUzSso1bA9YE.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Anonymous Pro';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Anonymous Pro Bold Italic'), local('AnonymousPro-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/anonymouspro/v3/_fVr_XGln-cetWSUc-JpfGLkIvtLOz01sdqGPgcEBM8.woff) format('woff');
+}
+
+*:focus { 
+	outline: 0;
+}
+
+::selection {
+	background-color: #CAE4FF;
+	color: #000000;
+	text-shadow: none;
+}
+
+strong, b {
+	font-weight: bold;
+}
+
+em, i {
+	font-style: italic;
+}
+
+ul {
+	list-style-type: square;
+}
+
+code {
+	background-color: #EEEEEE;
+	color: #666666;
+	font-family: 'Anonymous Pro', monospace
+;	display: inline-block;
+	margin: 0.25em 0;
+	padding: 0.25em 0.5em;
+}
+
+kbd {
+	/* http://meta.superuser.com/questions/4788/css-for-the-new-kbd-style */
+	background-color: #F7F7F7;
+	text-shadow: 0 1px 0 #FFFFFF;
+	display: inline-block;
+	margin: 0 0.1em;
+	padding: 0.1em 0.5em;
+	border: 1px solid #CCCCCC;
+	border-radius: 3px;
+	box-shadow: 0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #FFFFFF inset;
+	-moz-border-radius: 3px;
+	-moz-box-shadow: 0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #FFFFFF inset;
+	-webkit-border-radius: 3px;
+	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #FFFFFF inset;
+}
+
+label {
+	color: #262626;
+	font-size: 0.8em;
+}
+
+input[type='text'], input[type='password'], textarea {
+	background-color: #EEEEEE;
+	font-family: monospace;
+	border: 1px solid #262626;
+	padding: 0.5em;
+	transition: all 0.15s ease-in-out;
+	-webkit-transition: all 0.15s ease-in-out;
+	-moz-transition: all 0.15s ease-in-out;
+}
+
+input[type='text']:focus, input[type='password']:focus, textarea:focus {
+	border: 1px solid #0067CC;
+	box-shadow: 0 0 5px #0067CC;
+}
+
+
+input[type='submit']:hover {
+	cursor: pointer;
+}
+
+hr {
+	clear: both;
+	border: none;
+	border-top: 1px solid #3D3D3D;
+}
+
+body {
+	background-color: #EEEEEE;
+	color: #000000;
+	font: normal 1em sans-serif;
+	max-width: 900px;
+	margin: 2em auto;
+}
+
+a:link, a:visited {
+	color: #0067CC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0067CC;
+	text-decoration: underline;
+}
+
+a:active {
+	position: relative;
+	top: 1px;
+}
+
+#content {
+	box-shadow: 0 0 0.5em #999999;
+	border-radius: 0.5em;
+}
+
+header, section {
+	background-color: #FFFFFF;
+	padding: 1em;
+}
+
+header {
+}
+
+header a:link, header a:visited, header a:hover {
+	color: #3D3D3D;
+	text-decoration: none;
+}
+
+header h1 {
+	font: bold 3.5em 'Alte Haas Grotesk', sans-serif;
+	text-align: center;
+}
+
+header img {
+	width: 1em;
+	height: auto;
+	vertical-align: middle;
+}
+
+nav {
+	background-image: linear-gradient(bottom, rgb(38,38,38) 0%, rgb(61,61,61) 100%);
+	background-image: -o-linear-gradient(bottom, rgb(38,38,38) 0%, rgb(61,61,61) 100%);
+	background-image: -moz-linear-gradient(bottom, rgb(38,38,38) 0%, rgb(61,61,61) 100%);
+	background-image: -webkit-linear-gradient(bottom, rgb(38,38,38) 0%, rgb(61,61,61) 100%);
+	background-image: -ms-linear-gradient(bottom, rgb(38,38,38) 0%, rgb(61,61,61) 100%);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, rgb(38,38,38)),color-stop(1, rgb(61,61,61)));
+	padding: 0.5em;
+	border: 1px solid #262626;
+}
+
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+	padding: 1em;
+}
+
+nav ul li a:link, nav ul li a:visited {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #000000;
+	padding: 1em;
+	border: none;
+}
+
+nav ul li a:hover {
+	color: #BBBBBB;
+}
+
+section {
+	overflow: hidden;
+}
+
+section h2 {
+	color: #3D3D3D;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+
+section p {
+	margin: 1em 0;
+}
+
+section p:last-child {
+	margin-bottom: 0;
+}
+
+section ul, section ol {
+	margin-left: 1.25em;
+}
+
+section#welcome p.teaser {
+	margin: 0 0 1em 0;
+}
+
+section#welcome .left {
+	text-align: right;
+	float: left;
+	width: 47%;
+	margin-top: 0.5em;
+}
+
+section#welcome .left form {
+	margin: 0.5em 0;
+}
+
+section#welcome .left form input[type='text'], section#welcome .left form input[type='password'] {
+	width: 10em;
+}
+
+section#welcome .left form input {
+	margin-top: 0.5em;
+}
+
+section#welcome .left p.info {
+	font-size: 0.8em;
+	margin-top: 1em;
+}
+
+section#welcome .right {
+	float: right;
+	width: 47%;
+	margin-top: 0.5em;
+}
+
+section#welcome .right ul li {
+	margin-bottom: 1em;
+}
+
+section#faq div {
+	margin: 1em 0;
+}
+
+section#faq div:last-child {
+	margin-bottom: 0;
+}
+
+section#faq p.question {
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+section#team .teamblock {
+	float: left;
+	margin: 0 4em 1em 0;
+}
+
+section#team .teamblock .teamphoto {
+	float: left;
+}
+
+section#team .teamblock .teamphoto img {
+	width: 100px;
+	height: 100px;
+	border: 1px solid #3D3D3D;
+}
+
+section#team .teamblock .teaminfo {
+	float: left;
+	margin-left: 1em;
+}
+
+section#team .teamblock .teaminfo p {
+	margin: 0;
+}
+
+section#team .teamblock .teaminfo p:last-child {
+	margin-top: 1em;
+}
+
+section#rules ol li {
+	margin-top: 1em;
+}
+
+section#imprint .imprintblock {
+	float: left;
+	margin: 0 2em 1em 0;
+}
+
+section#imprint .imprintinfo {
+	clear: both;
+}
+
+section#contact td {
+	padding: 0 1em 1em 0;
+}
+
+section#contact p:last-child {
+	margin-top: 0;
+}
+
+footer {
+	font-size: 0.8em;
+	margin-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+footer p.left {
+	float: left;
+}
+
+footer p.right {
+	float: right;
+}
