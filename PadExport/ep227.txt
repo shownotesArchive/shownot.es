@@ -1,0 +1,98 @@
+HEADER
+Podcast: Einschlafen Podcast 227 vom 8.April 2013
+Episode: 227
+Datum: 08.04.2013
+Start-Zeit: 22:07
+End-Zeit: 22:40
+Podcaster: Toby Baier, @tobybaier, @schlafein
+Shownoter: @EvitaBley, @Dr4k3_LE, @simonwaldherr, @JNSchuermann 
+Chat: <http://webchat.freenode.net/?channels=%23einschlafen>
+Tags: #chapter #section #spoiler #topic #embed
+Stream: 
+Webseite:  <http://einschlafen-podcast.de/>
+/HEADER
+
+
+1365451651 Begrüßung #c
+1365451660 Er liest heute wieder Kant vor
+1365451678 Philosophiestudium <http://de.wikipedia.org/wiki/Philosophie> #g
+1365451696 Kategorienfilter wird nicht mehr betreut <http://einschlafen-podcast.de/kategorie/kant/> #podcast
+- die Suche müsste funktionieren <http://einschlafen-podcast.de/?s=kant> #podcast
+
+1365451710 Geschenke #c 
+1365451726 Vorbereitungen sind meistens fürn Arsch...
+1365451735 Ole: DVDs von Season 4 von How i met your mother <http://de.wikipedia.org/wiki/How_I_Met_Your_Mother> #g
+- How I Met Your Mother 4 bei Amazon <http://www.amazon.de/dp/B0030FXXM4/> #shopping
+1365451751 Von der Season 3 fehlt ihm die 3. CD, weil 2 mal die 2. in der Hülle war
+1365451783 Quittungen sollte man aufheben
+1365451795 Die sieben Wochen ohne Schimpfen sind vorbei 
+1365451810 Steve: Paket mit 2 Bluerays "Memento" und "V wie Vendetta" und 5 Tüten Chips vom Amazonwunschzettel.
+- Memento bei Amazon <http://www.amazon.de/dp/B004CDVLMC/> #shopping
+- V wie Vendetta <http://www.amazon.de/dp/B000EYK0YS/> #shopping
+1365451859 Bio handcookchips 
+1365451874 Flattrdanksagungen <http://flattr.com/profile/tobybaier> #flattr
+1365451903 Hat seinem Bruder vor 3 Monaten gesagt das er Flattr nutzt
+1365451925 Toby bekommt fast jeden Monat 3stellige Summen gespendet
+1365451954 Flattrfragen bitte an Tim Pritlove richten <https://twitter.com/timpritlove> #twitter
+1365451966 Toby hat mal Statistik betrieben und geschaut wie viel Geld 2012 über Flattr rein kam
+
+1365452002 Steuer und Geld #c
+1365452003 Freund Björn ist bei Smartsteuer <http://www.smartsteuer.de>
+1365452039 Lohnsteuer <http://de.wikipedia.org/wiki/Lohnsteuer_(Deutschland)> #g
+1365452071 Steuerberater Ausbildung
+1365452080 Kollegin von ihm hat das immer übernommen seine Steuererklärung zu machen
+1365452106 Toby hasst es Formulare aus zu füllen
+1365452146 Steuer auf dem Bierdeckel <http://de.wikipedia.org/wiki/Friedrich_Merz#Steuerpolitik> #g
+1365452171 Tobys Bruder wohnt in Otterfing bei Bad Tölz
+1365452205 Toby möchte lieber Musik machen und Programmieren als die Steuer zu machen
+1365452242 Toby will auf der sicheren Seite sein, er will nichts dafür tun und als letztes will er auch gerne etwas zurück bekommen
+1365452266 Auch Toby freut sich über jede Steuerrückerstattung
+1365452275 Steuersoftware
+1365452280 Steuerfuchs <https://www.steuerfuchs.de>
+1365452285 WISO Online <https://www.internet-sparbuch.de/>
+1365452313 Toby hat versucht das selbst online auszufüllen und hat es innerhalb einer Stunde geschafft
+1365452402 Lohnsteuerhilfeverein darf nur bedingt helfen beim ausfüllen
+1365452420 er hat tatsächlich einiges zurück bekommen
+1365452437 er hat leider vergessen flattreinnahmen mit rein zu schreiben
+1365452460 Flattrauszahlung nach Paypal um es direkt wieder zu verwenden
+1365452503 Tims Grafik über seine Flattreinnahmen (Ende 2012) <http://tim.geekheim.de/2012/05/01/zwei-jahre-flattr/>
+1365452522 Toby hat auch eine Grafik gemacht und sie mit der Episode veröffentlicht
+1365452552 Tobys Flattreinnahmen liegen so bei zwischen 150-200 Euro im Monat und letztes jahr über 1000 Euro insgesamt
+1365452598 Vielleicht ist PEAK-Einschlafen für Flattr ja überschritten
+1365452647 Die Flattreinnahmen konnte er dann mit dem neuen Computer verrechnen
+1365452675 ELSTER <http://de.wikipedia.org/wiki/ELSTER> #g
+- Offizielle Homepage <https://www.elster.de/>
+1365452720 Es gibt viele neue Features bei Smartsteuer
+1365452748 Er war zum ersten Mal nicht genervt vom Steuer machen
+1365452782 wahrscheinlich würde er noch mehr zurück bekommen, wenn er sich mehr damit beschäftigt
+1365452800 Vergleich mit Java vs. Assembler
+1365452810 Assembler ist viel performanter
+1365452820 "Wenn ich groß bin, habe ich vielleicht auch mal 'nen Steuerberater." #q
+
+1365452864 Chatfragen #c
+1365452887 Einschlafen Podcast auf der Autobahn hören ist gefährlich 
+1365452913 Sicherheitshinweis: Einschlafen Podcast nicht beim Maschinenbedienen hören!
+
+1365452932 Ingress Nachtrag #c
+1365452932 Ingress <http://www.ingress.com/> #appR
+- Ingress auf Google Play <https://play.google.com/store/apps/details?id=com.nianticproject.ingress> #app
+1365452940 Toby findet das Spiel immer interessanter
+1365452946 Toby ist jetzt Level 5
+1365452950 Bis Level 6 dauert es aber noch etwas
+1365452980 Everquest, ein Spiel was süchtig machte, aber nervte, weil man so lange hochleveln musste <http://de.wikipedia.org/wiki/Everquest> #g
+1365453049 Infos zu Ingress gibt es bei google+ zu Hauf <https://plus.google.com/+Ingress>
+1365453102 Solche Spiele sind gut für Singles. Mit Familie ist das zeitlich nicht mehr so oft drin
+1365453165 Toby hat heute seinen ersten Ingressinvite über ADN verteilt
+1365453199 Man kann über Google+ etwas posten und dann eventuell schneller einen Invite bekommen
+1365453239 Management 3.0 von Jurgen Appelo <http://www.management30.com/>
+- Management 3.0 bei Amazon <http://www.amazon.de/dp/0321712471> #shopping
+1365453272 Ein geheimes Buch auf seinem Kindle über Truthahnfrittieren
+1365453312 News zur Zahl 42 gibt es in der nächsten Episode
+
+1365453343 Toby liest aus Kant "Kritik der reinen Vernunft" #c
+1365453427 Trinken bei Kant ist nicht so einfach, weil die Sätze zu lang sind und man deshalb zwischendurch fast verdurstet...
+1365453835 Man erkennt, dass man Deutscher ist, wenn man "tschechisches Streichholzschächtelchen" richtig aussprechen kann
+
+1365453849 Verabschiedung und Ende #c
+1365453856 Toby wünscht eine schöne Woche mit Spaß und Gelassenheit
+

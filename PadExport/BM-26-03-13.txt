@@ -33,7 +33,7 @@ Karl Marx <http://de.wikipedia.org/wiki/Karl_Marx> #g
 Andreas wünscht sich mehr Marxismus
 Forderung: Marxismus
 
-22:24:38 Stephan Urbach (@herrurbach) aus Berlin (Beruf/Alter) #chapter
+22:24:38 Stephan Urbach (@herrurbach) aus Berlin #chapter
 Seine Welt ist gut, aber die Welt selbst ist schlecht
 Stephan Urbach <http://stephanurbach.de/>
 Er hat damals Ägypten mit Internet versorgt <http://telecomix.org/>
@@ -120,7 +120,7 @@ Seine Aktivitäten beschränken sich auf Meinungsäußerungen im Internet
 Bündnis 90 / die Grünen <http://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen> #g
 Er soll etwas dagegen unternehmen
 
-00:05:10 Martin aus Oehna (Beruf/Alter) #chapter
+00:05:10 Martin aus Oehna #chapter
 Oehna <http://de.wikipedia.org/wiki/Oehna_%28Niederg%C3%B6rsdorf%29> #g
 Es muss wem schlecht gehen bevor man Änderungen angeht
 Martin hat bereits eine Flasche Wein getrunken
