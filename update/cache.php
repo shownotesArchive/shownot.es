@@ -124,7 +124,7 @@ function getEpisodes($Podcast, $count)
           <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://not-safe-for-work.de">Not Safe For Work</a>
+          <a class="baf bluehover" href="http://not-safe-for-work.de/">Not Safe For Work</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -139,7 +139,7 @@ function getEpisodes($Podcast, $count)
           <img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://einschlafen-podcast.de">Einschlafen</a>
+          <a class="baf bluehover" href="http://einschlafen-podcast.de/">Einschlafen</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -168,7 +168,7 @@ function getEpisodes($Podcast, $count)
           <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://wikigeeks.de">Wikigeeks</a>
+          <a class="baf bluehover" href="http://wikigeeks.de/">Wikigeeks</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -179,10 +179,24 @@ function getEpisodes($Podcast, $count)
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
+          <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://psychotalk.moepmoep.com/">Psychotalk</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+              <?php $i = getEpisodes('psyt', $i); ?>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
           <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://www.jobscast.de">Jobscast</a>
+          <a class="baf bluehover" href="http://www.jobscast.de/">Jobscast</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>

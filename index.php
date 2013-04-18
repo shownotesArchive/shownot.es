@@ -89,7 +89,7 @@
           <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://not-safe-for-work.de">Not Safe For Work</a>
+          <a class="baf bluehover" href="http://not-safe-for-work.de/">Not Safe For Work</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -103,7 +103,7 @@
           <img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://einschlafen-podcast.de">Einschlafen</a>
+          <a class="baf bluehover" href="http://einschlafen-podcast.de/">Einschlafen</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -130,7 +130,7 @@
           <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://wikigeeks.de">Wikigeeks</a>
+          <a class="baf bluehover" href="http://wikigeeks.de/">Wikigeeks</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -140,10 +140,23 @@
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
+          <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://psychotalk.moepmoep.com/">Psychotalk</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+              <li><a href="http://shownot.es/psyt/10">Musik</a></li><li><a href="http://shownot.es/psyt/9">Bücher</a></li><li><a href="http://shownot.es/psyt/8">Sex</a></li><li><a href="http://shownot.es/psyt/7">Tiere</a></li><li><a href="http://shownot.es/psyt/6">StarTrek</a></li>          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
           <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://www.jobscast.de">Jobscast</a>
+          <a class="baf bluehover" href="http://www.jobscast.de/">Jobscast</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
@@ -158,7 +171,7 @@
       <!--
         <div style="margin-top: 1em;">
         
-        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 283 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
+        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 288 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
       </div>-->
     </div>
     <hr />
@@ -206,7 +219,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1366299036 (17:30:36 18.04.2013)
-Generierungsdauer: 0.0069899559020996 sec
---><?php if(1366385436 < time()){
+zuletzt aktualisiert um: 1366299623 (17:40:23 18.04.2013)
+Generierungsdauer: 0.0069859027862549 sec
+--><?php if(1366386023 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
