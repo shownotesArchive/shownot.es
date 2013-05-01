@@ -99,21 +99,6 @@ function getEpisodes($Podcast, $count)
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/ll_logo.png" alt="LateLine Logo" />
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('ll', $i); ?>
-          </ul>
-        </div>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
           <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
         </div>
         <div class="baf-group">

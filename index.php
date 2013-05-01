@@ -66,20 +66,6 @@
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/ll_logo.png" alt="LateLine Logo" />
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://blogs.hr-online.de/lateline/podcast/">LateLine</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <li><a href="http://shownot.es/ll/8">27.12.12</a></li><li><a href="http://shownot.es/ll/7">01.10.12</a></li><li><a href="http://shownot.es/ll/6">24.09.12</a></li><li><a href="http://shownot.es/ll/5">03.09.12</a></li><li><a href="http://shownot.es/ll/4">12.07.12</a></li><li><a href="http://shownot.es/ll/3">05.07.12</a></li><li><a href="http://shownot.es/ll/2">11.06.12</a></li><li><a href="http://shownot.es/ll/1">23.04.12</a></li>          </ul>
-        </div>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
           <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
         </div>
         <div class="baf-group">
@@ -187,7 +173,7 @@
       <!--
         <div style="margin-top: 1em;">
         
-        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 299 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
+        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 291 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
       </div>-->
     </div>
     <hr />
@@ -235,7 +221,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1367448592 (00:49:52 02.05.2013)
-Generierungsdauer: 0.0072228908538818 sec
---><?php if(1367534992 < time()){
+zuletzt aktualisiert um: 1367448978 (00:56:18 02.05.2013)
+Generierungsdauer: 0.0070037841796875 sec
+--><?php if(1367535378 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
