@@ -13,14 +13,6 @@
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
-  <style>
-  	#newPodcast {
-  		-webkit-border-top-right-radius: 0px;
-  		-moz-border-radius-topright: 0px;
-  		border-top-right-radius: 0px;
-  		width: 125px;
-  	}
-  </style>
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
@@ -221,7 +213,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1367448978 (00:56:18 02.05.2013)
-Generierungsdauer: 0.0070037841796875 sec
---><?php if(1367535378 < time()){
+zuletzt aktualisiert um: 1367449645 (01:07:25 02.05.2013)
+Generierungsdauer: 0.0070130825042725 sec
+--><?php if(1367536045 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
