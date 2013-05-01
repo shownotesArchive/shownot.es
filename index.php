@@ -13,6 +13,14 @@
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
+  <style>
+  	#newPodcast {
+  		-webkit-border-top-right-radius: 0px;
+  		-moz-border-radius-topright: 0px;
+  		border-top-right-radius: 0px;
+  		width: 125px;
+  	}
+  </style>
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
@@ -164,6 +172,14 @@
               <li><a href="http://shownot.es/jc/20">Jobscast-20</a></li><li><a href="http://shownot.es/jc/19">Jobscast-19</a></li><li><a href="http://shownot.es/jc/18">Jobscast-18</a></li><li><a href="http://shownot.es/jc/15">Jobscast-15</a></li><li><a href="http://shownot.es/jc/13">Jobscast-13</a></li><li><a href="http://shownot.es/jc/12">Jobscast-12</a></li><li><a href="http://shownot.es/jc/11">Jobscast-11</a></li><li><a href="http://shownot.es/jc/10">Jobscast-10</a></li><li><a href="http://shownot.es/jc/9">Jobscast-9</a></li><li><a href="http://shownot.es/jc/8">Jobscast-8</a></li><li><a href="http://shownot.es/jc/7">Jobscast-7</a></li>          </ul>
         </div>
       </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" />
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" id="newPodcast" href="mailto:team@shownot.es?subject=Podcast-Anmeldung">Podcast anmelden</a>
+        </div>
+      </div>
       
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -219,7 +235,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1367446739 (00:18:59 02.05.2013)
-Generierungsdauer: 0.0071849822998047 sec
---><?php if(1367533139 < time()){
+zuletzt aktualisiert um: 1367448592 (00:49:52 02.05.2013)
+Generierungsdauer: 0.0072228908538818 sec
+--><?php if(1367534992 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>

@@ -4,11 +4,13 @@ RewriteCond %{HTTP_USER_AGENT} ^(.*)Gecko(.*) [NC]
 RewriteRule (.*)logos/ep_logo.png(.*)$ http://shownot.es/img/logos_big/ep_logo.png [P]
 RewriteRule (.*)logos/mm_logo.png(.*)$ http://shownot.es/img/logos_big/mm_logo.png [P]
 RewriteRule (.*)logos/nsfw_logo.png(.*)$ http://shownot.es/img/logos_big/nsfw_logo.png [P]
+RewriteRule (.*)logos/shownotes_logo.png(.*)$ http://shownot.es/img/logos_big/shownotes_logo.png [P]
 RewriteRule (.*)logos/wg_logo.png(.*)$ http://shownot.es/img/logos_big/wg_logo.png [P,L]
 
 RewriteCond %{HTTP_USER_AGENT} ^(.*)WebKit(.*) [NC]
 RewriteRule (.*)logos/ep_logo.png(.*)$ http://shownot.es/img/logos_big/ep_logo.png [P]
 RewriteRule (.*)logos/mm_logo.png(.*)$ http://shownot.es/img/logos_big/mm_logo.png [P]
 RewriteRule (.*)logos/nsfw_logo.png(.*)$ http://shownot.es/img/logos_big/nsfw_logo.png [P]
+RewriteRule (.*)logos/shownotes_logo.png(.*)$ http://shownot.es/img/logos_big/shownotes_logo.png [P]
 RewriteRule (.*)logos/wg_logo.png(.*)$ http://shownot.es/img/logos_big/wg_logo.png [P,L]
 </IfModule>
