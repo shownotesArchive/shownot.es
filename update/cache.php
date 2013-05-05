@@ -3,8 +3,10 @@
 $starttime = microtime(1);
 ob_start();
 
-function getEpisodes($Podcast, $count)
+function getEpisodes($Podcast, $count, $name)
   {
+  	$linkSet = false;
+  	echo '<div class="baf-group">';
     if ($handle = @scandir('./../podcasts/'.$Podcast, 1))
       {
         foreach($handle as $file)
@@ -14,8 +16,13 @@ function getEpisodes($Podcast, $count)
                 $Episode = explode('.', $file);
                 if($Episode[2] != '')
                   {
+                  	
                     $linkname = str_replace('_', '.', $Episode[1]);
                     $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
+                    if($linkSet == false) {
+                    	echo '<a class="baf bluehover" href="'.$link.'">'.$name.'</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu">';
+                    	$linkSet = true;
+                    }
                     echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
                     ++$count;
                   }
@@ -26,6 +33,7 @@ function getEpisodes($Podcast, $count)
       {
         echo "<li>Verzeichnis leer</li>";
       }
+    echo '</ul></div>';
     return $count;
   }
 
@@ -52,7 +60,7 @@ function getEpisodes($Podcast, $count)
   </div>
   <div class="box" id="main">
     <p style="margin-top: 1em;">
-      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Wir planen momentan, eine eigene Software zu modifizieren und in Betrieb zu nehmen, um das Schreiben von Shownotes zu erleichtern. Bis dahin erreicht ihr die Pads nach wie vor &uuml;ber <a href="https://shownotes.piratenpad.de/"><strong>shownotes.piratenpad.de</strong></a>.
+      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownotes.org/"><strong>pad.shownotes.org</strong></a>.
     </p><hr><br>
     <div id="podcasts">
       <p style="margin-top: 1em;">
@@ -61,138 +69,66 @@ function getEpisodes($Podcast, $count)
       <br/><br/>
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" />
+        <a href="http://www.wrint.de/"><img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.wrint.de/">WRINT</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('wrint', 0); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('wrint', 0, 'WRINT'); ?>
       </div>
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/bm_logo.png" alt="BlueMoon Logo" />
+        <a href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html"><img src="http://shownot.es/img/logos/bmll_logo.png" alt="BlueMoon Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html">Blue&nbsp;Moon</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('bm', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('bm', $i, 'Blue&nbsp;Moon'); ?>
       </div>
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
+        <a href="http://chaosradio.ccc.de/chaosradio.html"><img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('cr', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('cr', $i, 'Chaosradio'); ?>
       </div>
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
+        <a href="http://not-safe-for-work.de/"><img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://not-safe-for-work.de/">Not Safe For Work</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('nsfw', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('nsfw', $i, 'Not Safe for Work'); ?>
       </div>
       
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" />
+        <a href="http://einschlafen-podcast.de/"><img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://einschlafen-podcast.de/">Einschlafen</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('ep', $i); ?>
-          </ul>
-        </div>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/mm_logo.png" alt="MobileMacs Logo" />
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://mobilemacs.de/">mobileMacs</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('mm', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('ep', $i, 'Einschlafen'); ?>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
+        <a href="http://mobilemacs.de/"><img src="http://shownot.es/img/logos/mm_logo.png" alt="MobileMacs Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://wikigeeks.de/">Wikigeeks</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('wg', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('mm', $i, 'mobileMacs'); ?>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
+        <a href="http://wikigeeks.de/"><img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://psychotalk.moepmoep.com/">Psychotalk</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('psyt', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('wg', $i, 'Wikigeeks'); ?>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
+        <a href="http://psychotalk.moepmoep.com/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
         </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.jobscast.de/">Jobscast</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-              <?php $i = getEpisodes('jc', $i); ?>
-          </ul>
-        </div>
+              <?php $i = getEpisodes('psyt', $i, 'Psychotalk'); ?>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" />
+        <a href="http://www.jobscast.de/"><img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" /></a>
+        </div>
+              <?php $i = getEpisodes('jc', $i, 'Jobscast'); ?>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="mailto:team@shownot.es?subject=Podcast-Anmeldung"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
+          
         </div>
         <div class="baf-group">
           <a class="baf bluehover" id="newPodcast" href="mailto:team@shownot.es?subject=Podcast-Anmeldung">Podcast anmelden</a>
@@ -216,7 +152,7 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
@@ -227,7 +163,7 @@ function getEpisodes($Podcast, $count)
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause gitimg">Der Großteil der Entwicklung erfolgt auf <a href="https://github.com/">GitHub</a>. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/shownotes/shownot.es">shownotes/shownot.es</a>, <a href="https://github.com/shownotes/OpenShownotesFormat">shownotes/OpenShownotesFormat</a>, <a href="https://github.com/shownotes/OSF-Editor">shownotes/OSF-Editor</a>, <a href="https://github.com/mluto/ShowPad">mluto/ShowPad</a> sowie <a href="https://github.com/mluto/etherpad-lite">mluto/etherpad-lite</a> schicken.</p>
+      <p class="clause gitimg">Der Großteil der Entwicklung erfolgt auf GitHub. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/shownotes/shownot.es">shownotes/shownot.es</a>, <a href="https://github.com/shownotes/OpenShownotesFormat">shownotes/OpenShownotesFormat</a> sowie <a href="https://github.com/shownotes/show-pad">shownotes/show-pad</a> schicken.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
