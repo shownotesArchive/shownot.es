@@ -1,8 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTP_USER_AGENT} ^(.*)Gecko(.*) [NC]
-RewriteRule (.*)shownotes.css(.*)$ http://cdn.shownot.es/include-shownotes/highres.css [P,L]
-
-RewriteCond %{HTTP_USER_AGENT} ^(.*)WebKit(.*) [NC]
-RewriteRule (.*)shownotes.css(.*)$ http://cdn.shownot.es/include-shownotes/highres.css [P,L]
-</IfModule>

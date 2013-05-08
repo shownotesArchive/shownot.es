@@ -125,6 +125,24 @@ function getEpisodes($Podcast, $count, $name)
         </div>
               <?php $i = getEpisodes('jc', $i, 'Jobscast'); ?>
       </div>
+      
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://die-sondersendung.de/"><img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" /></a>
+        </div>
+              <?php $i = getEpisodes('dss', $i, 'Sondersendung'); ?>
+      </div>
+      
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://shownot.es/rp13/"><img src="http://shownot.es/img/logos/rp_logo.png" alt="re-publica Logo" /></a>
+          
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/rp13/">re:publica</a>
+        </div>
+      </div>
+      
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="mailto:team@shownot.es?subject=Podcast-Anmeldung"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>

@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} ^(.*)Gecko(.*) [NC]
+RewriteRule (.*)ua/other.css(.*)$ http://shownot.es/css/ua/gecko.css [P,L]
+
+RewriteCond %{HTTP_USER_AGENT} ^(.*)WebKit(.*) [NC]
+RewriteRule (.*)ua/other.css(.*)$ http://shownot.es/css/ua/webkit.css [P,L]
+</IfModule>

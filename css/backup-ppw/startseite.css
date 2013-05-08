@@ -32,18 +32,11 @@
 .ircimg { background-image: url("http://cdn.shownot.es/img/irc_icon.png") }
 .gitimg { background-image: url("http://cdn.shownot.es/img/git_icon.png") }
 .thispodcast {
-    width: 150px;
+    width: 160px;
+    margin: auto;
     float: left;
     position: relative;
-    margin: 20px;
-    height: 180px;
-    border-radius: 10px;
-}
-.thispodcast:hover {
-    -webkit-box-shadow: 0px 0px 11px #333;
-    -moz-box-shadow: 0px 0px 11px #333;
-    -o-box-shadow: 0px 0px 11px #333;
-    box-shadow: 0px 0px 11px #333;
+    padding: 15px;
 }
 .podcastimg {
     display: inline-block;

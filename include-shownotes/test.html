@@ -8,13 +8,17 @@
   <meta name="viewport" content="width=715" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
+  <link href="http://selfcss.org/baf/css/baf.css?v=002" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://selfcss.org/baf/css/icomoon.css?v=002" media="screen" rel="stylesheet" type="text/css"/>
   <script src="http://selfcss.org/baf/js/baf.min.js"></script>
   <link rel="stylesheet" href="../css/style.css?v=008" type="text/css" />
   <link rel="stylesheet" href="../css/anycast.min.css?v=008" type="text/css" media="screen">
-  <link rel="stylesheet" href="http://cdn.shownot.es/include-shownotes/shownotes2.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/shownotes.min.css?v=002" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://cdn.shownot.es/include-shownotes/shownotes.css" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
-
+  <link rel="stylesheet" href="../css/font-awesome.css">
+  <script src="http://cdn.shownot.es/js/jquery.min.js"></script>
   <style>
     #showtags {
       width: 160px;
@@ -50,13 +54,48 @@
   <style id="editablestyle"></style>
 </head>
 
-<body>
+<body onload="baf_listenerInit();">
 <div id="background"></div>
 <div class="content">
   <div class="header">
     <div class="title"><a href="http://shownot.es/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
   </div>
   <div class="box" id="main">
+
+    <div class="info">
+  <div class="thispodcast">
+    <div class="podcastimg">
+      <img src="http://shownot.es/img/logos/mm_logo.png" alt="mobileMacs Logo">
+    </div>
+<div class="baf-group-x1"><a class="baf bluehover grey prev" href="http://shownot.es/mm/100"><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a2;"></span></a><div class="baf-group"><a class="baf bluehover dropdown-toggle w80">Episode 101<span class="caret"></span></a><ul class="dropdown-menu"><li><a id="selected" href="./101">Episode 101</a></li><li><a href="./100">Episode 100</a></li><li><a href="./99">Episode 99</a></li><li><a href="./98">Episode 98</a></li><li><a href="./97">Episode 97</a></li><li><a href="./96">Episode 96</a></li><li><a href="./95">Episode 95</a></li><li><a href="./94">Episode 94</a></li><li><a href="./93">Episode 93</a></li><li><a href="./92">Episode 92</a></li><li><a href="./91">Episode 91</a></li><li><a href="./90">Episode 90</a></li><li><a href="./89">Episode 89</a></li><li><a href="./88">Episode 88</a></li><li><a href="./87">Episode 87</a></li><li><a href="./86">Episode 86</a></li><li><a href="./85">Episode 85</a></li><li><a href="./84">Episode 84</a></li><li><a href="./82">Episode 82</a></li><li><a href="./81">Episode 81</a></li><li><a href="./12">Episode 12</a></li><li><a href="./11">Episode 11</a></li><li><a href="./10">Episode 10</a></li><li><a href="./9">Episode 9</a></li><li><a href="./8">Episode 8</a></li><li><a href="./7">Episode 7</a></li><li><a href="./6">Episode 6</a></li><li><a href="./5">Episode 5</a></li><li><a href="./4">Episode 4</a></li><li><a href="./3">Episode 3</a></li><li><a href="./2">Episode 2</a></li></ul></div><a class="baf bluehover grey next" disabled="true" ><span class="baf-icomoon bigger" aria-hidden="true" data-icon="&#xe0a0;"></span></a></div>  </div>
+  <div class="episodeinfo">
+    <table>
+      <tr>
+        <td>Podcast</td><td><a href="http://mobilemacs.de/">mobileMacs</a></td>
+      </tr>
+      <tr>
+        <td>Episode</td><td><a href="http://mobilemacs.de/2012/12/mm101-pirate-match.html">101 - PirateMatch</a></td>
+      </tr>
+      <tr>
+          <td>Podcaster</td>
+            <td>
+              <a href="http://twitter.com/timpritlove">timpritlove</a>, 
+              <a href="http://twitter.com/hukl">hukl</a>, 
+              <a href="http://twitter.com/343max">343max</a>, 
+              <a href="http://twitter.com/denis2342">denis2342</a>
+            </td>
+      </tr>
+      <tr>
+          <td>Shownoter</td><td>
+            <a href="http://twitter.com/evitabley">evitabley</a>, 
+            <a href="http://twitter.com/kaeffchen_heinz">kaeffchen_heinz</a>, 
+            <a href="http://twitter.com/simonwaldherr">simonwaldherr</a>, 
+            <a href="http://twitter.com/ctrettin">ctrettin</a>
+          </td>
+      </tr>
+    </table>
+  </div>
+</div>
 <dl id="mm101"><dt data-time="0">00:00:00</dt>
 <dd><strong class="chapter">Intro und Begrüßung</strong> 
 <a href="https://soundcloud.com/david1701/previously-on-mobilemacs-100">Previously on mobileMacs von David1701</a>; <span class=" osf_spoiler">Bumm Zack Return</span>; <a href="http://zombocalyp.se">Weltuntergang am 21.12.2012</a>; <span class=" osf_quote">"Ohne Veränderung kein Fortschritt"</span>; <span class=" osf_spoiler">Gitarrenzeugs von Hukl Elektrokram</span>; <span class=" osf_topic">Trend sollte wieder zu Analogaufnahme gehen laut Hukl</span>; <a href="http://www.thomann.de">Hukls Lieblingswebseite Thomann</a>; <span class=" osf_spoiler">bei Thomann werden Podcasts gehört</span>; <span class=" osf_topic">Musikhaus Thomann e.K., Treppendorf 30, D-96138 Burgebrach</span>; <a href="http://goo.gl/maps/j3roA">GoogleStreetview</a>; <span class=" osf_spoiler">Einkaufsexperience bei Thomann</span>; <a href="http://www.kabeleins.de/tv/abenteuer-leben/videos/clip/groesste-musikversandhandel-welt-1.191671">Hochregallager bei Thomann</a>; <a href="http://de.wikipedia.org/wiki/Hochregallager" class="osf_glossary">Hochregallager</a>; <span class=" osf_spoiler">Berlin ist völlig unterbesetzt was Musikstores angeht</span>; <span class=" osf_quote">Just Music ist laut Hukl nicht so "kundenfreundlich" Verkäufer = "Latent ungefickt" Tim</span>; <span class=" osf_topic">Berlin hat keinen Apple Store, keinen neuen Flughafen, keine Musikstores, ...</span>; <a href="http://de.wikipedia.org/wiki/Crowdsurfing" class="osf_glossary">Stagediving</a></dd><dt data-time="750">00:12:30</dt>

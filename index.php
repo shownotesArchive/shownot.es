@@ -56,7 +56,7 @@
         <div class="podcastimg">
         <a href="http://einschlafen-podcast.de/"><img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" /></a>
         </div>
-              <div class="baf-group"><a class="baf bluehover" href="http://shownot.es/ep/231">Einschlafen</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu"><li><a href="http://shownot.es/ep/231">EP-231</a></li><li><a href="http://shownot.es/ep/230">EP-230</a></li><li><a href="http://shownot.es/ep/229">EP-229</a></li><li><a href="http://shownot.es/ep/228">EP-228</a></li><li><a href="http://shownot.es/ep/227">EP-227</a></li><li><a href="http://shownot.es/ep/226">EP-226</a></li><li><a href="http://shownot.es/ep/225">EP-225</a></li><li><a href="http://shownot.es/ep/224">EP-224</a></li><li><a href="http://shownot.es/ep/223">EP-223</a></li><li><a href="http://shownot.es/ep/222">EP-222</a></li><li><a href="http://shownot.es/ep/221">EP-221</a></li><li><a href="http://shownot.es/ep/219">EP-219</a></li><li><a href="http://shownot.es/ep/218">EP-218</a></li><li><a href="http://shownot.es/ep/217">EP-217</a></li><li><a href="http://shownot.es/ep/216">EP-216</a></li><li><a href="http://shownot.es/ep/215">EP-215</a></li><li><a href="http://shownot.es/ep/214">EP-214</a></li><li><a href="http://shownot.es/ep/213">EP-213</a></li><li><a href="http://shownot.es/ep/212">EP-212</a></li><li><a href="http://shownot.es/ep/211">EP-211</a></li><li><a href="http://shownot.es/ep/210">EP-210</a></li><li><a href="http://shownot.es/ep/209">EP-209</a></li><li><a href="http://shownot.es/ep/207">EP-207</a></li><li><a href="http://shownot.es/ep/206">EP-206</a></li><li><a href="http://shownot.es/ep/205">EP-205</a></li><li><a href="http://shownot.es/ep/204">EP-204</a></li><li><a href="http://shownot.es/ep/203">EP-203</a></li><li><a href="http://shownot.es/ep/202">EP-202</a></li><li><a href="http://shownot.es/ep/201">EP-201</a></li><li><a href="http://shownot.es/ep/200">EP-200</a></li><li><a href="http://shownot.es/ep/199">EP-199</a></li><li><a href="http://shownot.es/ep/198">EP-198</a></li><li><a href="http://shownot.es/ep/197">EP-197</a></li><li><a href="http://shownot.es/ep/196">EP-196</a></li><li><a href="http://shownot.es/ep/195">EP-195</a></li><li><a href="http://shownot.es/ep/194">EP-194</a></li><li><a href="http://shownot.es/ep/193">EP-193</a></li><li><a href="http://shownot.es/ep/192">EP-192</a></li><li><a href="http://shownot.es/ep/191">EP-191</a></li><li><a href="http://shownot.es/ep/190">EP-190</a></li><li><a href="http://shownot.es/ep/189">EP-189</a></li><li><a href="http://shownot.es/ep/188">EP-188</a></li><li><a href="http://shownot.es/ep/187">EP-187</a></li><li><a href="http://shownot.es/ep/186">EP-186</a></li><li><a href="http://shownot.es/ep/185">EP-185</a></li><li><a href="http://shownot.es/ep/184">EP-184</a></li><li><a href="http://shownot.es/ep/183">EP-183</a></li><li><a href="http://shownot.es/ep/182">EP-182</a></li><li><a href="http://shownot.es/ep/181">EP-181</a></li><li><a href="http://shownot.es/ep/179">EP-179</a></li><li><a href="http://shownot.es/ep/178">EP-178</a></li><li><a href="http://shownot.es/ep/177">EP-177</a></li><li><a href="http://shownot.es/ep/176">EP-176</a></li><li><a href="http://shownot.es/ep/169">EP-169</a></li><li><a href="http://shownot.es/ep/168">EP-168</a></li><li><a href="http://shownot.es/ep/166">EP-166</a></li><li><a href="http://shownot.es/ep/160">EP-160</a></li></ul></div>      </div>
+              <div class="baf-group"><a class="baf bluehover" href="http://shownot.es/ep/232">Einschlafen</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu"><li><a href="http://shownot.es/ep/232">EP-232</a></li><li><a href="http://shownot.es/ep/231">EP-231</a></li><li><a href="http://shownot.es/ep/230">EP-230</a></li><li><a href="http://shownot.es/ep/229">EP-229</a></li><li><a href="http://shownot.es/ep/228">EP-228</a></li><li><a href="http://shownot.es/ep/227">EP-227</a></li><li><a href="http://shownot.es/ep/226">EP-226</a></li><li><a href="http://shownot.es/ep/225">EP-225</a></li><li><a href="http://shownot.es/ep/224">EP-224</a></li><li><a href="http://shownot.es/ep/223">EP-223</a></li><li><a href="http://shownot.es/ep/222">EP-222</a></li><li><a href="http://shownot.es/ep/221">EP-221</a></li><li><a href="http://shownot.es/ep/219">EP-219</a></li><li><a href="http://shownot.es/ep/218">EP-218</a></li><li><a href="http://shownot.es/ep/217">EP-217</a></li><li><a href="http://shownot.es/ep/216">EP-216</a></li><li><a href="http://shownot.es/ep/215">EP-215</a></li><li><a href="http://shownot.es/ep/214">EP-214</a></li><li><a href="http://shownot.es/ep/213">EP-213</a></li><li><a href="http://shownot.es/ep/212">EP-212</a></li><li><a href="http://shownot.es/ep/211">EP-211</a></li><li><a href="http://shownot.es/ep/210">EP-210</a></li><li><a href="http://shownot.es/ep/209">EP-209</a></li><li><a href="http://shownot.es/ep/207">EP-207</a></li><li><a href="http://shownot.es/ep/206">EP-206</a></li><li><a href="http://shownot.es/ep/205">EP-205</a></li><li><a href="http://shownot.es/ep/204">EP-204</a></li><li><a href="http://shownot.es/ep/203">EP-203</a></li><li><a href="http://shownot.es/ep/202">EP-202</a></li><li><a href="http://shownot.es/ep/201">EP-201</a></li><li><a href="http://shownot.es/ep/200">EP-200</a></li><li><a href="http://shownot.es/ep/199">EP-199</a></li><li><a href="http://shownot.es/ep/198">EP-198</a></li><li><a href="http://shownot.es/ep/197">EP-197</a></li><li><a href="http://shownot.es/ep/196">EP-196</a></li><li><a href="http://shownot.es/ep/195">EP-195</a></li><li><a href="http://shownot.es/ep/194">EP-194</a></li><li><a href="http://shownot.es/ep/193">EP-193</a></li><li><a href="http://shownot.es/ep/192">EP-192</a></li><li><a href="http://shownot.es/ep/191">EP-191</a></li><li><a href="http://shownot.es/ep/190">EP-190</a></li><li><a href="http://shownot.es/ep/189">EP-189</a></li><li><a href="http://shownot.es/ep/188">EP-188</a></li><li><a href="http://shownot.es/ep/187">EP-187</a></li><li><a href="http://shownot.es/ep/186">EP-186</a></li><li><a href="http://shownot.es/ep/185">EP-185</a></li><li><a href="http://shownot.es/ep/184">EP-184</a></li><li><a href="http://shownot.es/ep/183">EP-183</a></li><li><a href="http://shownot.es/ep/182">EP-182</a></li><li><a href="http://shownot.es/ep/181">EP-181</a></li><li><a href="http://shownot.es/ep/179">EP-179</a></li><li><a href="http://shownot.es/ep/178">EP-178</a></li><li><a href="http://shownot.es/ep/177">EP-177</a></li><li><a href="http://shownot.es/ep/176">EP-176</a></li><li><a href="http://shownot.es/ep/169">EP-169</a></li><li><a href="http://shownot.es/ep/168">EP-168</a></li><li><a href="http://shownot.es/ep/166">EP-166</a></li><li><a href="http://shownot.es/ep/160">EP-160</a></li></ul></div>      </div>
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="http://mobilemacs.de/"><img src="http://shownot.es/img/logos/mm_logo.png" alt="MobileMacs Logo" /></a>
@@ -77,6 +77,23 @@
         <a href="http://www.jobscast.de/"><img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" /></a>
         </div>
               <div class="baf-group"><a class="baf bluehover" href="http://shownot.es/jc/20">Jobscast</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu"><li><a href="http://shownot.es/jc/20">Jobscast-20</a></li><li><a href="http://shownot.es/jc/19">Jobscast-19</a></li><li><a href="http://shownot.es/jc/18">Jobscast-18</a></li><li><a href="http://shownot.es/jc/15">Jobscast-15</a></li><li><a href="http://shownot.es/jc/13">Jobscast-13</a></li><li><a href="http://shownot.es/jc/12">Jobscast-12</a></li><li><a href="http://shownot.es/jc/11">Jobscast-11</a></li><li><a href="http://shownot.es/jc/10">Jobscast-10</a></li><li><a href="http://shownot.es/jc/9">Jobscast-9</a></li><li><a href="http://shownot.es/jc/8">Jobscast-8</a></li><li><a href="http://shownot.es/jc/7">Jobscast-7</a></li></ul></div>      </div>
+      
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://die-sondersendung.de/"><img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" /></a>
+        </div>
+              <div class="baf-group"><a class="baf bluehover" href="http://shownot.es/dss/1">Sondersendung</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu"><li><a href="http://shownot.es/dss/1">Sondersendung-001</a></li></ul></div>      </div>
+      
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://shownot.es/rp13/"><img src="http://shownot.es/img/logos/rp_logo.png" alt="re-publica Logo" /></a>
+          
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/rp13/">re:publica</a>
+        </div>
+      </div>
+      
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="mailto:team@shownot.es?subject=Podcast-Anmeldung"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
@@ -93,7 +110,7 @@
       <!--
         <div style="margin-top: 1em;">
         
-        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 291 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
+        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt 293 Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
       </div>-->
     </div>
     <hr />
@@ -141,7 +158,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1367749924 (12:32:04 05.05.2013)
-Generierungsdauer: 0.0069441795349121 sec
---><?php if(1367836324 < time()){
+zuletzt aktualisiert um: 1367925839 (13:23:59 07.05.2013)
+Generierungsdauer: 0.0071091651916504 sec
+--><?php if(1368012239 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>

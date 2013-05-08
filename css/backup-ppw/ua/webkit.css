@@ -1,3 +1,4 @@
+/* webkit */
 dd a:hover {
   text-decoration: underline;
 }
@@ -15,47 +16,47 @@ dd a:hover {
   .osf_amazon, .osf_amazonde, .osf_amazoncom {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/amazon.png');
   }
-  
+
   .osf_flattr {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/flattr.png');
   }
-  
+
   .osf_twitter {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/twitter.png');
   }
-  
+
   .osf_wiki, .osf_glossary {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/wiki.png');
   }
-  
+
   .osf_youtube, .osf_youtubecom, .osf_youtu.be, .osf_video {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/youtube.png');
   }
-  
+
   .osf_applecom {
-  	background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/apple.png');
+    background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/apple.png');
   }
-  
+
   .osf_esaint {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/esa.png');
   }
-  
+
   .osf_dlrde {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/dlr.png');
   }
-  
+
   .osf_githubcom {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/git.png');
   }
-  
+
   .osf_imdbcom {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/imdb.png');
   }
-  
+
   .osf_quote {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/quote.png');
   }
-  
+
   .osf_podcast {
     background-image: url('http://cdn.shownot.es/include-shownotes/img/hd/podcast.png');
   }
