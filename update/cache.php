@@ -170,7 +170,12 @@ function getEpisodes($Podcast, $count, $name)
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a> und <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
+      </div>
+    </div>
+    <div style="margin-top: 1em;">
+      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="http://alpha.app.net/evita">@Evita</a>, <a href="http://alpha.app.net/luto">@luto</a>, <a href="http://alpha.app.net/quimoniz">@Quimoniz</a> und <a href="http://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
