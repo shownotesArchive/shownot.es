@@ -61,6 +61,7 @@ Options +Indexes
   RewriteRule ^sozio/(.*)$ /podcasts/?search&podcast=./sozio/$1 [L]
   RewriteRule ^sz/(.*)$ /podcasts/?search&podcast=./dss/$1 [L]
   RewriteRule ^dss/(.*)$ /podcasts/?search&podcast=./dss/$1 [L]
+  RewriteRule ^abs/(.*)$ /podcasts/?search&podcast=./abs/$1 [L]
 </IfModule>
 
 FileETag None
