@@ -100,16 +100,8 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
   <link rel="stylesheet" href="http://cdn.shownot.es/include-shownotes/shownotes.css" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
-  <link rel="stylesheet" href="http://fortawesome.github.com/Font-Awesome/assets/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="http://cdn.shownot.es/css/fa/css/font-awesome.min.css"/>
   
-  <link href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/mediaelement/build/mediaelementplayer.min.css" rel="stylesheet" media="screen" type="text/css" />
-  <link rel="stylesheet" href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/pwpfont/css/fontello.css" /><!--[if IE 7]>
-  <link rel="stylesheet" href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/pwpfont/css/fontello-ie7.css" /><![endif]-->
-  <link href="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/podlove-web-player.css" rel="stylesheet" media="screen" type="text/css" />
-  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/html5shiv.js"></script>
-  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/jquery-1.9.1.min.js"></script>
-  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/libs/mediaelement/build/mediaelement-and-player.min.js"></script>
-  <script src="http://cdn.shownot.es/wordpress/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/podlove_web_player/player/podlove-web-player/podlove-web-player.js"></script>
   <style id="editablestyle"></style>
   <style>
   	iframe {

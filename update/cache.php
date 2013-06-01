@@ -52,6 +52,18 @@ function getEpisodes($Podcast, $count, $name)
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
+  <style>
+    .flattrbtn {
+      float: left;
+    }
+    .flattrbtn iframe {
+      height: 20px;
+      width: 150px;
+      visibility: visible;
+      position: relative;
+      margin-right: 5px;
+    }
+  </style>
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
@@ -164,7 +176,7 @@ function getEpisodes($Podcast, $count, $name)
     </div>
     <hr />
     <div style="margin: 0px;">
-      <p class="clause flattrimg">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/thing/874771/Die-Shownotes">flattern</a> k&ouml;nntet.
+      <p class="clause flattrimg">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/profile/shownotes">flattern</a> k&ouml;nntet.
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -180,7 +192,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause ircimg">Neben Twitter k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
+      <p class="clause ircimg">Ausserdem k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -193,6 +205,10 @@ function getEpisodes($Podcast, $count, $name)
     <hr />
     <p>Wer Podcasts mag, sollte die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert. Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
     <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="http://shownot.es/faq/">shownot.es/faq/</a></p>
+    <br/>
+    <br/><div class="flattrbtn"><a class="FlattrButton" href="http://shownot.es/" title="Die Shownot.es" lang="de_DE">
+      [description]
+    </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
   </div>
   <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></span></div>
 </div>
@@ -208,6 +224,22 @@ function getEpisodes($Podcast, $count, $name)
     ga.src = 'http://statistik.simon.waldherr.eu/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script');
+        var t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = '//api.flattr.com/js/0.6/load.js?'+
+                'mode=auto&uid=shownotes&language=de_DE&category=text&button=compact&popout=0';
+        s.button = 'compact';
+        s.popout = false;
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
 
 </script>
 </body>
