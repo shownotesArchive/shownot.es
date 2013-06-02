@@ -16,7 +16,6 @@ function getEpisodes($Podcast, $count, $name)
                 $Episode = explode('.', $file);
                 if($Episode[2] != '')
                   {
-                  	
                     $linkname = str_replace('_', '.', $Episode[1]);
                     $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
                     if($linkSet == false) {
@@ -157,11 +156,11 @@ function getEpisodes($Podcast, $count, $name)
       
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="mailto:team@shownot.es?subject=Podcast-Anmeldung"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
+        <a href="http://shownot.es/contact/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
           
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" id="newPodcast" href="mailto:team@shownot.es?subject=Podcast-Anmeldung">Podcast anmelden</a>
+          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/contact/">Podcast anmelden</a>
         </div>
       </div>
       
