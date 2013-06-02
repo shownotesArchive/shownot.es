@@ -31,7 +31,7 @@
     .input-prepend.baf-input {
       text-align: center;
     }
-    span.baf.blue, span.baf.grey {
+    span.baf.blue, a.baf.grey {
       border-radius: 8px !important;
     }
   </style>
@@ -109,17 +109,11 @@
                               	  <textarea class="" id="message" name="message" onkeyup="" style="height: 120px;" type="text"></textarea>
                               	</div>
                               	<br/>
-                              	<!--
-                              	<div class="baf-group">
-                              	  <span class="baf blue">
-                              	    <span class="baf-icomoon" aria-hidden="true" data-icon="&#xe02f;"> &nbsp;</span>Absenden</span>
-                              	</div> 
-                              	-->
                               	<p id="alert"></p>
                               	<div class="baf-group">
-                              	  <span class="baf grey">
+                              	  <a class="baf grey" href="http://shownot.es/">
                               	    <span class="baf-icomoon big" aria-hidden="true" data-icon="&#xe038;"> &nbsp;
-                              	    </span>zurück</span>
+                              	    </span>zurück</a>
                               	</div>
                               	<div class="baf-group" style="margin-left: 135px;">
                               	  <span onclick="javascript:getdata()" class="baf blue" id="sendbutton">
