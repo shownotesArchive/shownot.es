@@ -36,56 +36,55 @@
     }
   </style>
   <script type="text/javascript">
-  	function retinval(a) {
-  	  return document.getElementById(a).value
-  	}
-  	
-  	function getdata() {
-  	  var a = "";
-  	  if (retinval("message") == "") {
-  	    a += "Das Feld Nachricht ist leer, bitte füllen Sie mindestens dieses Feld aus, um das Formular zu senden.";
-  	    document.getElementById("alert").innerHTML = a;
-  	    window.setTimeout("document.getElementById('alert').innerHTML = ''", 15000);
-  	    return false
-  	  }
-  	  document.getElementById('sendbutton').className = 'baf blue loading';
-  	  reqwest({
-  	      url: "http://simon.waldherr.eu/contactShownotes/",
-  	      method: "post",
-  	      data: {
-  	        name: retinval("name"),
-  	        timestamp: retinval("timestamp"),
-  	        subject: retinval("subject"),
-  	        email: retinval("email"),
-  	        message: retinval("message"),
-  	        tele: retinval("tele")
-  	      },
-  	      success: function (b) {
-  	        if (b == "0") {
-  	          document.getElementById("alert").innerHTML = "Nachricht konnte nicht gespeichert werden."
-  	        } else {
-  	          if (b == "1") {
-  	            document.getElementById("alert").innerHTML = "Nachricht wurde erfolgreich per eMail versendet.";
-  	            document.getElementById("name").value = "";
-  	            document.getElementById("subject").value = "";
-  	            document.getElementById("email").value = "";
-  	            document.getElementById("message").value = "";
-  	            document.getElementById("tele").value = ""
-  	            window.setTimeout("document.getElementById('alert').innerHTML = ''", 10000);
-  	            document.getElementById('sendbutton').className = 'baf blue';
-  	          }
-  	          if (b == "2") {
-  	            document.getElementById("alert").innerHTML = "Nachricht wurde erfolgreich abgespeichert, konnte jedoch nicht versendet werden. Nachrichten die nicht versendet werden konnten werden in unregelmässigen Abständen kontrolliert, sollte Ihnen das zu lange dauern, können Sie es gerne erneut probieren"
-  	          }
-  	        } if ((b != "0") && (b != "1") && (b != "2")) {
-  	          document.getElementById("alert").innerHTML = 'Nachricht konnte aufgrund eines schwerwiegenden Fehlers nicht gespeichert werden. Dieser Fehler könnte längere Zeit dauern, bitte verwenden Sie vorübergehend die E-Mail-Adresse <a href="mailto:contact@simonwaldherr.de">contact@simonwaldherr.de</a> und erwähnen Sie diese Fehlermeldung.';
-  	          alert("Schwerer Ausnahmefehler!")
-  	        }
-  	      }
-  	    });
-  	  window.setTimeout("document.getElementById('alert').innerHTML=''", 15000);
-  	  return false
-  	}
+    function retinval(a) {
+      return document.getElementById(a).value
+    }
+    
+    function getdata() {
+      var a = "";
+      if (retinval("message") == "") {
+        a += "Das Feld Nachricht ist leer, bitte füllen Sie mindestens dieses Feld aus, um das Formular zu senden.";
+        document.getElementById("alert").innerHTML = a;
+        window.setTimeout("document.getElementById('alert').innerHTML = ''", 15000);
+        return false
+      }
+      document.getElementById('sendbutton').className = 'baf blue loading';
+      majaX({
+        url: "http://simon.waldherr.eu/contactShownotes/",
+        method: "POST",
+        data: {
+          name: retinval("name"),
+          timestamp: retinval("timestamp"),
+          subject: retinval("subject"),
+          email: retinval("email"),
+          message: retinval("message"),
+          tele: retinval("tele")
+        }},
+        function (b) {
+          if (b == "0") {
+            document.getElementById("alert").innerHTML = "Nachricht konnte nicht gespeichert werden."
+          } else {
+            if (b == "1") {
+              document.getElementById("alert").innerHTML = "Nachricht wurde erfolgreich per eMail versendet.";
+              document.getElementById("name").value = "";
+              document.getElementById("subject").value = "";
+              document.getElementById("email").value = "";
+              document.getElementById("message").value = "";
+              document.getElementById("tele").value = ""
+              window.setTimeout("document.getElementById('alert').innerHTML = ''", 10000);
+              document.getElementById('sendbutton').className = 'baf blue';
+            }
+            if (b == "2") {
+              document.getElementById("alert").innerHTML = "Nachricht wurde erfolgreich abgespeichert, konnte jedoch nicht versendet werden. Nachrichten die nicht versendet werden konnten werden in unregelmässigen Abständen kontrolliert, sollte Ihnen das zu lange dauern, können Sie es gerne erneut probieren"
+            }
+          } if ((b != "0") && (b != "1") && (b != "2")) {
+            document.getElementById("alert").innerHTML = 'Nachricht konnte aufgrund eines schwerwiegenden Fehlers nicht gespeichert werden. Dieser Fehler könnte längere Zeit dauern, bitte verwenden Sie vorübergehend die E-Mail-Adresse <a href="mailto:contact@simonwaldherr.de">contact@simonwaldherr.de</a> und erwähnen Sie diese Fehlermeldung.';
+            alert("Schwerer Ausnahmefehler!")
+          }
+        });
+      window.setTimeout("document.getElementById('alert').innerHTML=''", 15000);
+      return false
+    }
   </script>
 </head>
 <body onload="baf_listenerInit();">
@@ -95,38 +94,36 @@
   </div>
   <div class="box" id="main" style="width: 390px; margin: auto;">
     <div class="contact">
-                              <form action="http://simon.waldherr.eu/contactShownotes/" id="contactForm" method="post" onsubmit="return getdata();">
-                              	
-                              	<div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="name" id="label-Name1">Name</label><input class="input-grey" id="name" name="text-Name1" maxlength="" size="16" type="text"/></div>
-                              	<div style="display:none"><label for="timestamp">Timestamp:</label><input id="timestamp" name="timestamp" type="text" value="<?php echo time(); ?>"></div>
-                              	<div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="email" id="label-eMail2">eMail</label><input class="input-grey" id="email" name="text-eMail2" maxlength="" size="16" type="text"/></div>
-                              	<div style="display:none"><label for="tele">Telefon:</label><input id="tele" name="tele" type="text" value="foo"></div>
-                              	<div class="special" style="display:none"><label for="last">Don't fill this in:</label><input id="last" name="last" type="text"></div>
-                              	<div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="subject" id="label-Betreff3">Betreff</label><input class="input-grey" id="subject" name="text-Betreff3" maxlength="" size="16" type="text"/></div> 
-                              	
-                              	<div class="textarea" style="margin: 20px; width: 350px;">
-                              	  <label class="baf add-on w90" for="message" id="">Nachricht</label>
-                              	  <textarea class="" id="message" name="message" onkeyup="" style="height: 120px;" type="text"></textarea>
-                              	</div>
-                              	<br/>
-                              	<p id="alert"></p>
-                              	<div class="baf-group">
-                              	  <a class="baf grey" href="http://shownot.es/">
-                              	    <span class="baf-icomoon big" aria-hidden="true" data-icon="&#xe038;"> &nbsp;
-                              	    </span>zurück</a>
-                              	</div>
-                              	<div class="baf-group" style="margin-left: 135px;">
-                              	  <span onclick="javascript:getdata()" class="baf blue" id="sendbutton">
-                              	    <span class="baf-icomoon big" aria-hidden="true" data-icon="&#xe02f;"> &nbsp;
-                              	    </span>absenden</span>
-                              	</div> 
-                              </form>
+      <form action="http://simon.waldherr.eu/contactShownotes/" id="contactForm" method="post" onsubmit="return getdata();">
+        <div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="name" id="label-Name1">Name</label><input class="input-grey" id="name" name="text-Name1" maxlength="" size="16" type="text"/></div>
+        <div style="display:none"><label for="timestamp">Timestamp:</label><input id="timestamp" name="timestamp" type="text" value="<?php echo time(); ?>"></div>
+        <div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="email" id="label-eMail2">eMail</label><input class="input-grey" id="email" name="text-eMail2" maxlength="" size="16" type="text"/></div>
+        <div style="display:none"><label for="tele">Telefon:</label><input id="tele" name="tele" type="text" value="foo"></div>
+        <div class="special" style="display:none"><label for="last">Don't fill this in:</label><input id="last" name="last" type="text"></div>
+        <div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="subject" id="label-Betreff3">Betreff</label><input class="input-grey" id="subject" name="text-Betreff3" maxlength="" size="16" type="text"/></div>
+        <div class="textarea" style="margin: 20px; width: 350px;">
+          <label class="baf add-on w90" for="message" id="">Nachricht</label>
+          <textarea class="" id="message" name="message" onkeyup="" style="height: 120px;" type="text"></textarea>
+        </div>
+        <br/>
+        <p id="alert"></p>
+        <div class="baf-group">
+          <a class="baf grey" href="http://shownot.es/">
+            <span class="baf-icomoon big" aria-hidden="true" data-icon="&#xe038;"> &nbsp;
+            </span>zurück</a>
+        </div>
+        <div class="baf-group" style="margin-left: 135px;">
+          <span onclick="javascript:getdata()" class="baf blue" id="sendbutton">
+            <span class="baf-icomoon big" aria-hidden="true" data-icon="&#xe02f;"> &nbsp;
+            </span>absenden</span>
+        </div> 
+      </form>
     </div>
   </div>
   <div class="footer" style="width: 390px; margin: auto; margin-top: 10px;">&nbsp;<span>&copy; 2013 <a href="http://shownot.es/">shownot.es</a></span></div>
 </div>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
-<script src="http://cdn.simon.waldherr.eu/projects/reqwest/reqwest.js"></script>
+<script src="http://simonwaldherr.github.io/majaX.js/majax.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -157,8 +154,4 @@
 
 </script>
 </body>
-</html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1370178623 (15:10:23 02.06.2013)
-Generierungsdauer: 0.0019328594207764 sec
---><?php if(1370265023 < time()){
-echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
+</html>
