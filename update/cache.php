@@ -191,7 +191,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause ircimg">Ausserdem k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> erreichen. (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>)
+      <p class="clause ircimg">Ausserdem k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>) oder &uuml;ber unser <a href="http://shownot.es/contact/">Kontaktformular</a> erreichen. 
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
