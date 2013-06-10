@@ -9,6 +9,7 @@ Disallow: /podcasts/mm/
 Disallow: /podcasts/nsfw/
 Disallow: /podcasts/pt/
 Disallow: /podcasts/wrint/
+Disallow: /podcasts/
 Disallow: /update/
 Disallow: /test/
 Disallow: /tweets/
