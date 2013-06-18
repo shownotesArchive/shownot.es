@@ -108,11 +108,11 @@
       
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://shownot.es/contact/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
+        <a href="http://shownot.es/anmelden/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
           
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/contact/">Podcast anmelden</a>
+          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/anmelden/">Podcast anmelden</a>
         </div>
       </div>
       
@@ -195,7 +195,7 @@
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1371511150 (01:19:10 18.06.2013)
-Generierungsdauer: 0.021389961242676 sec
---><?php if(1371597550 < time()){
+zuletzt aktualisiert um: 1371596215 (00:56:55 19.06.2013)
+Generierungsdauer: 0.0040378570556641 sec
+--><?php if(1371682615 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>

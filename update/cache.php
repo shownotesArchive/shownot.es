@@ -156,11 +156,11 @@ function getEpisodes($Podcast, $count, $name)
       
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://shownot.es/contact/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
+        <a href="http://shownot.es/anmelden/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
           
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/contact/">Podcast anmelden</a>
+          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/anmelden/">Podcast anmelden</a>
         </div>
       </div>
       
