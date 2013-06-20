@@ -183,7 +183,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     ?>
   </div>
 
-  <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></div>
+  <div class="footer"><span style="text-align: right;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span></div>
 
 </div>
 <script type="text/javascript">
