@@ -150,6 +150,12 @@ function getEpisodes($Podcast, $count, $name)
         </div>
    	      <?php $i = getEpisodes('abs', $i, 'ABSradio'); ?>
       </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://absradio.de/"><img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" /></a>
+        </div>
+   	      <?php $i = getEpisodes('ng', $i, 'Netzgespräche'); ?>
+      </div>
       
       <div class="thispodcast">
         <div class="podcastimg">
