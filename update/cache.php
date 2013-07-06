@@ -126,7 +126,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://www.psycho-talk.de/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
+        <a href="http://psychotalk.moepmoep.com/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
         </div>
               <?php $i = getEpisodes('psyt', $i, 'Psychotalk'); ?>
       </div>
@@ -156,7 +156,8 @@ function getEpisodes($Podcast, $count, $name)
         </div>
    	      <?php $i = getEpisodes('ng', $i, 'Netzgespräche'); ?>
       </div>
-      
+
+<!-- re:publica 2013
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="http://shownot.es/rp13/"><img src="http://shownot.es/img/logos/rp_logo.png" alt="re-publica Logo" /></a>
@@ -166,7 +167,8 @@ function getEpisodes($Podcast, $count, $name)
           <a class="baf bluehover" id="newPodcast" href="http://shownot.es/rp13/">re:publica</a>
         </div>
       </div>
-      
+-->      
+
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="http://shownot.es/anmelden/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
