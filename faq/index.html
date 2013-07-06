@@ -6,6 +6,9 @@
 <link rel="stylesheet" href="http://cdn.shownot.es/css/style.min.css?v=006" type="text/css" />
 <link rel="stylesheet" href="http://cdn.shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
 <style type="text/css">
+h3 {
+  margin-bottom: 4px;
+}
 ol.step_by_step {
   list-style: decimal outside;
 }
@@ -17,9 +20,12 @@ ol {
   margin-left: 25px;
 }
 li {
-margin-top: 2px;
-margin-bottom: 2px;
-margin-left: 10px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+}
+div.box {
+  margin-bottom: 22px;
 }
 </style>
 </head>
@@ -33,14 +39,10 @@ margin-left: 10px;
     <div class="box" id="main">
       <h3 class="title" id="funktionieren">Wie funktionieren die Shownotes?</h3>
       <p>
-        Hinter dem Twitter-Account steht eine kleine Gruppe von Shownotes-Enthusiasten, die ihn selbst, die shownot.es-Seite und auch das Piratenpad managen. In letzterem können sich zudem alle registrieren, die mithelfen möchten. Da es sich dabei um ein Hobby-Projekt handelt, ist die Hilfe jedes Einzelnen sehr wichtig. Die Teilnahme ist natürlich absolut freiwillig und jeder kann selbst entscheiden, wie viel Zeit er investieren möchte.
+        Hinter shownot.es steht eine kleine Gruppe von Shownotes-Enthusiasten, die die <a href="https://twitter.com/dieshownotes">Twitter</a> und <a href="https://alpha.app.net/shownotes">ADN</a> Accounts bef&uuml;llen, die shownot.es-Seite schrauben, und das eigens entwickelte <a href="http://pad.shownot.es">ShowPad</a> betreuen. Wir sind stetig dabei die Korrektheit, Nutzbarkeit und Effektivit&auml;t zu verbessern. Da es sich dabei um ein Hobby-Projekt handelt, ist die Hilfe jedes Einzelnen sehr wichtig. Die Teilnahme ist nat&uuml;rlich absolut freiwillig und jeder kann selbst entscheiden, wie viel Zeit er investieren m&ouml;chte.
       </p>
       <p>
-        Das Shownotes-Crowdsourcing selbst läuft bisher noch auf
-        <a href="https://shownotes.piratenpad.de">Piratenpad</a>
-        ab. Wenn ein neuer Podcast-Livestream ansteht, wird dort ein neues Pad erstellt, das dann kollaborativ gefüllt wird. Damit jeder die gleichen Timecodes hat, empfehlen wir außerdem, einen Timer
-        <a href="http://epirat.de/timer/">epirat.de/timer</a>
-        zu benutzen. Über Twitter wird meist kurz vor jeder Sendung dazu aufgerufen, mitzumachen. Wir sind ständig dabei, unsere Seite zu verbessern und möchten außerdem gerne eine eigene Implementierung der Shownotes-Software programmieren. Die Arbeit läuft komplett auf GitHub ab.
+        Das Shownotes-Crowdsourcing selbst l&auml;uft nun auf dem <a href="http://pad.shownot.es/">ShowPad</a> ab. Dessen Hauptseite eine &Uuml;bersicht der Podcasts ist, die an diesem Tage gestreamt werden, automatisch bef&uuml;llt durch die <a href="http://hoersuppe.de/2012/11/30/in-eigener-sache-daten-uberall-daten/">API</a> der <a href="">H&ouml;rsuppe</a>. Wir sind st&auml;ndig dabei, unsere Seite zu verbessern, t&auml;glich gibt es neue Versionen auf GitHub.
         <a href="https://github.com/shownotes">github.com/shownotes/</a>
       </p>
     </div>
@@ -49,25 +51,49 @@ margin-left: 10px;
       <p>
         <ol class="step_by_step">
           <li>Registriert euch auf
-            <a href="https://shownotes.piratenpad.de/">shownotes.piratenpad.de/</a>. (Jeder Account wird manuell freigeschaltet.)</li>
-          <li>Folgt uns auf Twitter und besucht optional unseren IRC-Channel (Webchat).</li>
-          <li>Achtet auf unsere Ankündigungen und findet euch rechtzeitig im jeweiligen Pad ein.</li>
-          <li>Traut euch einfach und macht mit. Fragt einfach, wenn etwas unklar sein sollte. Achtet bitte außerdem auf eine klare Rechtschreibung und sprecht euch bei inhaltlichen Unklarheiten im Chat ab.</li>
+            <a href="http://pad.shownot.es/">pad.shownot.es</a>.</li>
+          <li>Folgt uns auf <a href="https://alpha.app.net/shownotes">ADN</a> oder <a href="https://twitter.com/dieshownotes">Twitter</a> und besucht optional unseren <a href="irc://freenode.net/#shownotes">IRC-Channel</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>).</li>
+          <li>Nutzt bspw. den Kalender der <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> (rechte Spalte), achtet auf unsere Ank&uuml;ndigungen und findet euch rechtzeitig im jeweiligen Pad ein.</li>
+          <li>Traut euch einfach und macht mit. Das kurzgefasst Quickguide erkl&auml;rt schon fast alles. Fragt einfach, wenn etwas unklar sein sollte. Achtet bitte au&szlig;erdem auf eine klare Rechtschreibung und sprecht euch bei inhaltlichen Unklarheiten im Chat ab.</li>
         </ol>
+      </p>
+    </div>
+    <div class="box">
+      <h3 class="title" id="korrigiert">Ihr habt einen Fehler in den Shownotes, korrigiert den!</h3>
+      <p>
+	Das ist keine Frage.
+      </p>
+    </div>
+    <div class="box">
+      <h3 class="title" id="korrigieren">Ich habe einen Fehler in den Shownotes gefunden, wie kann der ausgebessert werden?</h3>
+      <p>
+	Derzeit werden alle Shownotes die im Github Repository und auf der Webseite verf&uuml;gbar sind h&auml;ndisch bearbeitet. Um eine Korrektur einzubringen gibt es nun verschiedene M&ouml;glichkeiten:
+	<ul>
+	  <li>Forke das <a href="https://github.com/shownotes/shownot.es">Github Repository</a>, korrigiere den Fehler, und erstelle einen Pull-Request. Das ist uns am liebsten und wir k&ouml;nnen es am z&uuml;gigsten bearbeiten.</li>
+	  <li>Bearbeite das entsprechende Pad im <a href="https://github.com/shownotes/OpenShownotesFormat">OSF Format</a> auf <a href="http://pad.shownot.es/">pad.shownot.es</a>. Teilt uns dann auf jeden Fall mit, welches Pad ihr bearbeitet habt, sonst merken wir es nicht.</li>
+	  <li>Nutzt einen der vielen Kommunikationskanäle (<a href="irc://freenode.net/#shownotes">IRC</a>, <a href="https://alpha.app.net/shownotes">ADN</a>, <a href="https://twitter.com/dieshownotes">Twitter</a>, <a href="http://shownot.es/contact/">Formular</a> u.a.) an das Kernteam um uns den Fehler mitzuteilen.</li>
+	</ul>
+      </p>
+    </div>
+    <div class="box">
+      <h3 class="title" id="relive">Eine Episode von meinem Podcast braucht dringend Shownotes, macht ihr bitte ReLive Shownotes?</h3>
+      <p>
+	Wir bieten nur die Plattform f&uuml;r das Shownoten, die Shownoter m&uuml;sst ihr schon selber mobilisieren. Ausnahmen wie bspw. beim Soziopod zur Teilnahme am Grimme Online Award best&auml;tigen lediglich die Regel.<br/>
+	Wir freuen uns, wenn wir f&uuml;r die Shownotes eures Podcasts ein Pad im ShowPad aufmachen k&ouml;nnen. Dieses bietet unter anderem den Vorteil, dass es vor Vandalismus gesch&uuml;tzt ist, das vereinfachte Zeitmarkensetzen, und die Live Umsetzung der geschriebenen Notizen in schönes HTML. Kontaktiert uns dazu am besten schnell im <a href="irc://freenode.net/#shownotes">IRC</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>), ansonsten aber auch per <a href="https://alpha.app.net/shownotes">ADN</a>, <a href="https://twitter.com/dieshownotes">Twitter</a> oder auch per <a href="http://shownot.es/contact/">Formular</a>.
       </p>
     </div>
     <div class="box">
       <h3 class="title" id="beitreten">Kann auch ein etwas kleinerer und neuer Podcast beitreten?</h3>
       <p>
-        Falls ihr euren Podcast live streamt, ist das im Prinzip gar kein Problem. Die Frage ist nur, wie viele Leute gerne mithelfen möchten. Wenn ihr euch sicher seid, genug Leute zusammentrommeln zu können, kontaktiert uns einfach. Hier sind zudem einige Anregungen, die unsere Arbeit möglich und sinnvoll machen.
+        Falls ihr euren Podcast live streamt, ist das im Prinzip gar kein Problem. Die Frage ist nur, wie viele Leute gerne mithelfen m&ouml;chten. Wenn ihr euch sicher seid, genug Leute zusammentrommeln zu k&ouml;nnen, kontaktiert uns einfach. Hier sind zudem einige Anregungen, die unsere Arbeit m&ouml;glich und sinnvoll machen.
         <ul>
           <li>Wichtig: Retweetet bitte unsere Tweets, in denen wir auf die Shownotes eurer Sendungen verweisen. Ansonsten kann es im schlimmsten Fall passieren, dass sich zu wenige oder auch gar keine Leute einfinden, um mitzuhelfen.</li>
-          <li>Während des Livestreams sollte klar erkennbar sein, wann eine Sendung beginnt und aufhört. Ansonsten können in den fertigen Shownotes die Timecodes fehlerhaft sein.</li>
+          <li>W&auml;hrend des Livestreams sollte klar erkennbar sein, wann eine Sendung beginnt und aufh&ouml;rt. Ansonsten können in den fertigen Shownotes die Timecodes fehlerhaft sein.</li>
           <li>Gebt Tipps oder Empfehlungen in der Sendung (siehe bspw. NSFW).</li>
-          <li>Sprecht über interessante Themen (siehe bspw. nicht NSFW).</li>
-          <li>Stundenlange Diskussionen, die von Halbwissen geprägt sind, halten wir dann meistens auch nicht aus. Je interessanter die Sendung, desto möglicherweise umfangreicher die Shownotes.</li>
+          <li>Sprecht &uuml;ber interessante Themen (siehe bspw. nicht NSFW).</li>
+          <li>Stundenlange Diskussionen, die von Halbwissen gepr&auml;gt sind, halten wir dann meistens auch nicht aus. Je interessanter die Sendung, desto m&ouml;glicherweise umfangreicher die Shownotes.</li>
           <li>Ein passender IRC-Kanal, in dem auch die Podcaster selbst anzutreffen sind, ist sinnvoll.</li>
-          <li>Solange sie nicht in einer Dissertation enden, nehmen wir Rechercheaufträge gerne entgegen.</li>
+          <li>Solange sie nicht in einer Dissertation enden, nehmen wir Rechercheauftr&auml;ge gerne entgegen.</li>
           <li>Nicht zwingend notwendig aber gerne gesehen wird die eine oder andere Flattr-Spende. Das komplette Geld kommt dem Projekt zugute.</li>
         </ul>
       </p>

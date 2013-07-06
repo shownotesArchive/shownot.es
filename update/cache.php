@@ -126,7 +126,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://psychotalk.moepmoep.com/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
+        <a href="http://www.psycho-talk.de/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
         </div>
               <?php $i = getEpisodes('psyt', $i, 'Psychotalk'); ?>
       </div>
@@ -142,6 +142,19 @@ function getEpisodes($Podcast, $count, $name)
         <a href="http://die-sondersendung.de/"><img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" /></a>
         </div>
               <?php $i = getEpisodes('dss', $i, 'Sondersendung'); ?>
+      </div>
+
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://absradio.de/"><img src="http://shownot.es/img/logos/abs_logo.png" alt="ABSradio Logo" /></a>
+        </div>
+   	      <?php $i = getEpisodes('abs', $i, 'ABSradio'); ?>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+        <a href="http://absradio.de/"><img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" /></a>
+        </div>
+   	      <?php $i = getEpisodes('ng', $i, 'Netzgespräche'); ?>
       </div>
       
       <div class="thispodcast">
@@ -209,7 +222,7 @@ function getEpisodes($Podcast, $count, $name)
       [description]
     </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
   </div>
-  <div class="footer">&nbsp;<span>&copy; 2011-2013 <a href="/">shownot.es</a></span></div>
+  <div class="footer"><span style="text-align: right;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span></div>
 </div>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
@@ -296,7 +309,7 @@ if (!empty($file_contents))
     <div class="title"><a href="http://shownot.es/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
   </div>
   <div class="box" id="main">'.$file_contents.'</div>
-  <div class="footer">&nbsp;<span>&copy; 2012 <a href="/">shownot.es</a></div>
+  <div class="footer"><span style="text-align: right;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span></div>
 
 </div>
 </body>
