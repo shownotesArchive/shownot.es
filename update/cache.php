@@ -126,7 +126,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://psychotalk.moepmoep.com/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
+        <a href="http://www.psycho-talk.de/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
         </div>
               <?php $i = getEpisodes('psyt', $i, 'Psychotalk'); ?>
       </div>
@@ -152,7 +152,7 @@ function getEpisodes($Podcast, $count, $name)
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-        <a href="http://absradio.de/"><img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" /></a>
+        <a href="http://www.xn--netzgesprche-ocb.de/"><img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" /></a>
         </div>
    	      <?php $i = getEpisodes('ng', $i, 'Netzgespräche'); ?>
       </div>
