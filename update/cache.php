@@ -78,84 +78,38 @@ function getEpisodes($Podcast, $count, $name)
         Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
       </p>
       <br/><br/>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://www.wrint.de/"><img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('wrint', 0, 'WRINT'); ?>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://www.fritz.de/media/podcasts/sendungen/blue_moon.html"><img src="http://shownot.es/img/logos/bmll_logo.png" alt="BlueMoon Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('bm', $i, 'Blue&nbsp;Moon'); ?>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://chaosradio.ccc.de/chaosradio.html"><img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('cr', $i, 'Chaosradio'); ?>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://not-safe-for-work.de/"><img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('nsfw', $i, 'Not Safe for Work'); ?>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://einschlafen-podcast.de/"><img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('ep', $i, 'Einschlafen'); ?>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://mobilemacs.de/"><img src="http://shownot.es/img/logos/mm_logo.png" alt="MobileMacs Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('mm', $i, 'mobileMacs'); ?>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://wikigeeks.de/"><img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('wg', $i, 'Wikigeeks'); ?>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://www.psycho-talk.de/"><img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('psyt', $i, 'Psychotalk'); ?>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://www.jobscast.de/"><img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('jc', $i, 'Jobscast'); ?>
-      </div>
-      
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://die-sondersendung.de/"><img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" /></a>
-        </div>
-              <?php $i = getEpisodes('dss', $i, 'Sondersendung'); ?>
-      </div>
+<?php
 
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://absradio.de/"><img src="http://shownot.es/img/logos/abs_logo.png" alt="ABSradio Logo" /></a>
-        </div>
-   	      <?php $i = getEpisodes('abs', $i, 'ABSradio'); ?>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://www.xn--netzgesprche-ocb.de/"><img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" /></a>
-        </div>
-   	      <?php $i = getEpisodes('ng', $i, 'Netzgespräche'); ?>
-      </div>
+$podcast_arr=array(
+	array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
+	array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon Logo'),
+	array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
+	array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
+	array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
+	array('mobileMacs','mm','http://mobilemacs.de/','mm_logo.png','MobileMacs Logo'),
+	array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+	array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
+	array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
+	array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
+	array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
+	array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo')
+);
+shuffle($podcast_arr);
+$ele_count=count($podcast_arr);
+$i=0;
+$j=0;
+for(; $i < $ele_count; $i++) {
+        print "      <div class=\"thispodcast\">\n";
+        print "        <div class=\"podcastimg\">\n";
+	print "          <a href=\"" . $podcast_arr[$i][2] . "\">\n";
+	print "            <img src=\"http://shownot.es/img/logos/" . $podcast_arr[$i][3] . "\" alt=\"" . $podcast_arr[$i][4] . "\" />\n";
+	print "          </a>\n";
+        print "        </div>\n";
+        $j = getEpisodes($podcast_arr[$i][1], $j, $podcast_arr[$i][0]);
+        print "\n        </div>";
+}
+
+?>
 
 <!-- re:publica 2013
       <div class="thispodcast">
