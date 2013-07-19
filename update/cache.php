@@ -1,40 +1,34 @@
 <?php
-@sleep(1);
+
 $starttime = microtime(1);
 ob_start();
 
-function getEpisodes($Podcast, $count, $name)
-  {
-  	$linkSet = false;
-  	echo '<div class="baf-group">';
-    if ($handle = @scandir('./../podcasts/'.$Podcast, 1))
-      {
-        foreach($handle as $file)
-          {
-            if ($file != "." && $file != "..")
-              {
-                $Episode = explode('.', $file);
-                if($Episode[2] != '')
-                  {
-                    $linkname = str_replace('_', '.', $Episode[1]);
-                    $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
-                    if($linkSet == false) {
-                    	echo '<a class="baf bluehover" href="'.$link.'">'.$name.'</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu">';
-                    	$linkSet = true;
-                    }
-                    echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
-                    ++$count;
-                  }
-              }
+function getEpisodes($Podcast, $count, $name) {
+  $linkSet = false;
+  echo '<div class="baf-group">';
+  if ($handle = @scandir('./../podcasts/'.$Podcast, 1)) {
+    foreach($handle as $file) {
+      if ($file != "." && $file != "..") {
+        $Episode = explode('.', $file);
+        if($Episode[2] != '') {
+          $linkname = str_replace('_', '.', $Episode[1]);
+          $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
+          if($linkSet == false) {
+          	echo '<a class="baf bluehover" href="'.$link.'">'.$name.'</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu">';
+          	$linkSet = true;
           }
+          echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+          ++$count;
+        }
       }
-    else
-      {
-        echo "<li>Verzeichnis leer</li>";
-      }
-    echo '</ul></div>';
-    return $count;
+    }
   }
+  else {
+    echo "<li>Verzeichnis leer</li>";
+  }
+  echo '</ul></div>';
+  return $count;
+}
 
 ?><!DOCTYPE html>
 <html lang="de"> 
@@ -80,33 +74,33 @@ function getEpisodes($Podcast, $count, $name)
       <br/><br/>
 <?php
 
-$podcast_arr=array(
-	array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
-	array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon Logo'),
-	array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
-	array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
-	array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
-	array('mobileMacs','mm','http://mobilemacs.de/','mm_logo.png','MobileMacs Logo'),
-	array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
-	array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
-	array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
-	array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
-	array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
-	array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo')
+$podcast_arr = array(
+  array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
+  array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon Logo'),
+  array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
+  array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
+  array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
+  array('mobileMacs','mm','http://mobilemacs.de/','mm_logo.png','MobileMacs Logo'),
+  array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+  array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
+  array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
+  array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
+  array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
+  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo')
 );
 shuffle($podcast_arr);
 $ele_count=count($podcast_arr);
 $i=0;
 $j=0;
 for(; $i < $ele_count; $i++) {
-        print "      <div class=\"thispodcast\">\n";
-        print "        <div class=\"podcastimg\">\n";
-	print "          <a href=\"" . $podcast_arr[$i][2] . "\">\n";
-	print "            <img src=\"http://shownot.es/img/logos/" . $podcast_arr[$i][3] . "\" alt=\"" . $podcast_arr[$i][4] . "\" />\n";
-	print "          </a>\n";
-        print "        </div>\n";
-        $j = getEpisodes($podcast_arr[$i][1], $j, $podcast_arr[$i][0]);
-        print "\n        </div>";
+  print "      <div class=\"thispodcast\">\n";
+  print "        <div class=\"podcastimg\">\n";
+  print "          <a href=\"" . $podcast_arr[$i][2] . "\">\n";
+  print "            <img src=\"http://shownot.es/img/logos/" . $podcast_arr[$i][3] . "\" alt=\"" . $podcast_arr[$i][4] . "\" />\n";
+  print "          </a>\n";
+  print "        </div>\n";
+  $j = getEpisodes($podcast_arr[$i][1], $j, $podcast_arr[$i][0]);
+  print "\n        </div>";
 }
 
 ?>
@@ -150,12 +144,12 @@ for(; $i < $ele_count; $i++) {
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a> und <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="http://alpha.app.net/evita">@Evita</a>, <a href="http://alpha.app.net/luto">@luto</a>, <a href="http://alpha.app.net/quimoniz">@Quimoniz</a> und <a href="http://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="http://alpha.app.net/evita">@Evita</a>, <a href="http://alpha.app.net/luto">@luto</a>, <a href="http://alpha.app.net/quimoniz">@Quimoniz</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a> und <a href="http://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
@@ -166,7 +160,7 @@ for(; $i < $ele_count; $i++) {
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause gitimg">Der Großteil der Entwicklung erfolgt auf GitHub. Jeder der mithelfen will, kann gerne Pull-Requests an die Repositorys <a href="https://github.com/shownotes/shownot.es">shownotes/shownot.es</a>, <a href="https://github.com/shownotes/OpenShownotesFormat">shownotes/OpenShownotesFormat</a> sowie <a href="https://github.com/shownotes/show-pad">shownotes/show-pad</a> schicken.</p>
+      <p class="clause gitimg">Der Großteil der Entwicklung erfolgt auf GitHub. Jeder der mithelfen will, kann gerne Pull-Requests an <a href="https://github.com/shownotes">unsere Repositorys</a> schicken.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
@@ -271,18 +265,16 @@ if (!empty($file_contents))
 </body>
 
 </html>';
-  if (fwrite($handle, $file_contents) === FALSE)
-    {
-      echo 'Cannot write to file '.$tweetbackup;
-      exit;
-    }
-  
+  if (fwrite($handle, $file_contents) === FALSE) {
+    echo 'Cannot write to file '.$tweetbackup;
+    exit;
+  }
   fclose($handle);
 }
-  
-  $generatetime = microtime(1)-$starttime;
+
+  $generatetime = microtime(1) - $starttime;
   $cache_refresh = 86400;
-  $code = '<?php if('.(time()+$cache_refresh).' < time()){'."\n".'echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>';
+  $code = '<?php if('.(time() + $cache_refresh).' < time()){'."\n".'echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>';
   
   $filename = './../index.php';
   $inhalt = explode('<body onload="loadShownotes();">', $inhalt);
