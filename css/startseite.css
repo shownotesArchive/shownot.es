@@ -115,6 +115,12 @@
 @media only screen and (min-width:930px) { 
 	#imgcontainer { width: 760px }
 }
+@media only screen and (min-width:1386px) { 
+  #podcasts {
+      margin: auto;
+      max-width: 1140px;
+  }
+}
 @media only screen and (max-width:1385px) { 
 	#podcasts {
 	    margin: auto;

@@ -102,7 +102,7 @@
         <div class="special" style="display:none"><label for="last">Don't fill this in:</label><input id="last" name="last" type="text"></div>
         <div class="input-prepend baf-input"><label class="baf grey w120 add-on" for="subject" id="label-Betreff3">Betreff</label><input class="input-grey" id="subject" name="text-Betreff3" maxlength="" size="16" type="text"/></div>
         <div class="textarea" style="margin: 20px; width: 350px;">
-          <label class="baf add-on w90" for="message" id="">Nachricht</label>
+          <label class="baf add-on w90" for="message" id="">Nachricht</label><br/>
           <textarea class="" id="message" name="message" onkeyup="" style="height: 120px;" type="text"></textarea>
         </div>
         <br/>

@@ -6,3 +6,5 @@
 .Trashes
 Thumbs.db
 podcasts/wrint/*.txt
+.utilsh
+.utilsh/*
