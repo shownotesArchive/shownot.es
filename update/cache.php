@@ -3,30 +3,82 @@
 $starttime = microtime(1);
 ob_start();
 
-function getEpisodes($Podcast, $count, $name) {
-  $linkSet = false;
-  echo '<div class="baf-group">';
-  if ($handle = @scandir('./../podcasts/'.$Podcast, 1)) {
+function printPodcastBox($podcast, $count) {
+  $found_podcasts = false;
+  $file_arr = array();
+  $i = 0;
+  if ($handle = @scandir('./../podcasts/' . $podcast[1], 1)) {
     foreach($handle as $file) {
       if ($file != "." && $file != "..") {
         $Episode = explode('.', $file);
         if($Episode[2] != '') {
-          $linkname = str_replace('_', '.', $Episode[1]);
-          $link = 'http://shownot.es/'.$Podcast.'/'.ltrim($Episode[0], '0 \t\n\r');
-          if($linkSet == false) {
-          	echo '<a class="baf bluehover" href="'.$link.'">'.$name.'</a><a class="baf bluehover dropdown-toggle" data-toggle="dropdown" ><span class="caret"></span></a><ul class="dropdown-menu">';
-          	$linkSet = true;
-          }
-          echo '<li><a href="'.$link.'">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
-          ++$count;
+	  $file_arr[$i++] = $Episode;
         }
       }
     }
+
+    if (0 < $i) {
+      $found_podcasts = true;
+      $Episode = $file_arr[0];
+      $linkname = str_replace('_', '.', $Episode[1]);
+      $link = 'http://shownot.es/'.$podcast[1].'/'.ltrim($Episode[0], '0 \t\n\r');
+      $linkname_title=$linkname;
+      $slug_match;
+      if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
+        $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[1]));
+      }
+      $linkname_title_reg_ret = @preg_replace("/-([0-9]+)/"," \\1", $linkname_title);
+      if ( NULL !== $linkname_title_reg_ret) {
+        $linkname_title = $linkname_title_reg_ret;
+      }
+      if ( FALSE === stripos($linkname_title, $podcast[1]) &&  FALSE === stripos($linkname_title, $podcast[0])) {
+        $linkname_title = $podcast[0] . ': ' . $linkname_title;
+      }
+
+      echo "      <div class=\"thispodcast\">\n";
+      echo "        <div class=\"podcastimg\">\n";
+      echo '          <a href="' . $link . '" title="' . $linkname_title . '" >';
+      echo "\n";
+      echo "            <img src=\"http://shownot.es/img/logos/" . $podcast[3] . "\" alt=\"" . $podcast[4] . "\" />\n";
+      echo "          </a>\n";
+      echo "        </div>\n";
+      echo "        <div class=\"baf-group\">\n";
+      echo '          <a class="baf bluehover" href="' . $podcast[2] . '">' . htmlentities($podcast[0], ENT_QUOTES, "UTF-8") . '</a>';
+      echo "\n";
+      echo "          <a class=\"baf bluehover dropdown-toggle\" data-toggle=\"dropdown\" >\n";
+      echo "            <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\">\n";
+
+      echo '            <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+      echo "\n";
+      ++$count;
+
+      for($j = 1; $j < $i; $j++) {
+        $Episode = $file_arr[$j];
+        $linkname = str_replace('_', '.', $Episode[1]);
+        $link = 'http://shownot.es/'.$podcast[1].'/'.ltrim($Episode[0], '0 \t\n\r');
+        $linkname_title=$linkname;
+        $slug_match;
+        if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
+          $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[1]));
+        }
+        $linkname_title_reg_ret = @preg_replace("/-([0-9]+)/"," \\1", $linkname_title);
+        if ( NULL !== $linkname_title_reg_ret) {
+          $linkname_title = $linkname_title_reg_ret;
+        }
+        if ( FALSE === stripos($linkname_title, $podcast[1]) &&  FALSE === stripos($linkname_title, $podcast[0])) {
+          $linkname_title = $podcast[0] . ': ' . $linkname_title;
+        }
+        echo '            <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+        echo "\n";
+        ++$count;
+      }
+      echo "          </ul>\n        </div>\n      </div>\n";
+    }
   }
-  else {
-    echo "<li>Verzeichnis leer</li>";
+
+  if ( false === $found_podcasts) {
+    echo "            <li>Verzeichnis leer</li>\n";
   }
-  echo '</ul></div>';
   return $count;
 }
 
@@ -93,14 +145,7 @@ $ele_count=count($podcast_arr);
 $i=0;
 $j=0;
 for(; $i < $ele_count; $i++) {
-  print "      <div class=\"thispodcast\">\n";
-  print "        <div class=\"podcastimg\">\n";
-  print "          <a href=\"" . $podcast_arr[$i][2] . "\">\n";
-  print "            <img src=\"http://shownot.es/img/logos/" . $podcast_arr[$i][3] . "\" alt=\"" . $podcast_arr[$i][4] . "\" />\n";
-  print "          </a>\n";
-  print "        </div>\n";
-  $j = getEpisodes($podcast_arr[$i][1], $j, $podcast_arr[$i][0]);
-  print "\n        </div>";
+  $j = printPodcastBox($podcast_arr[$i], $j);
 }
 
 ?>
