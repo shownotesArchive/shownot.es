@@ -138,7 +138,8 @@ $podcast_arr = array(
   array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
   array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
   array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
-  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo')
+  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
+  array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo')
 );
 shuffle($podcast_arr);
 $ele_count=count($podcast_arr);
