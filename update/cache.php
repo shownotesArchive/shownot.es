@@ -132,7 +132,7 @@ $podcast_arr = array(
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
   array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
-  array('mobileMacs','mm','http://mobilemacs.de/','mm_logo.png','MobileMacs Logo'),
+  array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
   array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
   array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
   array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
