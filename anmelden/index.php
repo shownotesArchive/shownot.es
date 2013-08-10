@@ -7,11 +7,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/baf2/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
-  <link href="http://selfcss.org/baf/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://selfcss.org/baf2/css/icomoon.css" media="screen" rel="stylesheet" type="text/css"/>
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>
@@ -127,7 +127,7 @@
   </div>
   <div class="footer" style="width: 390px; margin: auto; margin-top: 10px;">&nbsp;<span>&copy; 2013 <a href="http://shownot.es/">shownot.es</a></span></div>
 </div>
-<script src="http://selfcss.org/baf/js/baf.min.js"></script>
+<script src="http://selfcss.org/baf2/js/baf.min.js"></script>
 <script src="http://simonwaldherr.github.io/majaX.js/majax.js"></script>
 <script type="text/javascript">
 
