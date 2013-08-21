@@ -215,7 +215,7 @@ dd {
 }
 
 .box .info .episodeinfo {
-  width: auto;
+  width: 79%;
   max-width: none;
   min-width: none;
   font-size: 15pt;
