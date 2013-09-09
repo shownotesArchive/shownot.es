@@ -44,30 +44,13 @@ Options +Indexes
 </IfModule>
 
 <IfModule mod_rewrite.c>
-  RewriteRule ^bm/(.*)$ /podcasts/?search&podcast=./bm/$1 [L]
-  RewriteRule ^cr/(.*)$ /podcasts/?search&podcast=./cr/$1 [L]
-  RewriteRule ^dw/(.*)$ /podcasts/?search&podcast=./dw/$1 [L]
-  RewriteRule ^ep/(.*)$ /podcasts/?search&podcast=./ep/$1 [L]
-  RewriteRule ^jc/(.*)$ /podcasts/?search&podcast=./jc/$1 [L]
-  RewriteRule ^ll/(.*)$ /podcasts/?search&podcast=./ll/$1 [L]
-  RewriteRule ^mm/(.*)$ /podcasts/?search&podcast=./mm/$1 [L]
-  RewriteRule ^fs/(.*)$ /podcasts/?search&podcast=./mm/$1 [L]
-  RewriteRule ^nsfw/(.*)$ /podcasts/?search&podcast=./nsfw/$1 [L]
-  RewriteRule ^pt/(.*)$ /podcasts/?search&podcast=./pt/$1 [L]
-  RewriteRule ^wrint/(.*)$ /podcasts/?search&podcast=./wrint/$1 [L]
-  RewriteRule ^psyt/(.*)$ /podcasts/?search&podcast=./psyt/$1 [L]
-  RewriteRule ^wg/(.*)$ /podcasts/?search&podcast=./wg/$1 [L]
-  RewriteRule ^scsp/(.*)$ /podcasts/?search&podcast=./scsp/$1 [L]
-  RewriteRule ^pp/(.*)$ /podcasts/?search&podcast=./pp/$1 [L]
-  RewriteRule ^sozio/(.*)$ /podcasts/?search&podcast=./sozio/$1 [L]
+  RewriteRule ^cr([0-9]+)$ /podcasts/?search&podcast=./cr/$1 [L]
   RewriteRule ^sz/(.*)$ /podcasts/?search&podcast=./dss/$1 [L]
-  RewriteRule ^dss/(.*)$ /podcasts/?search&podcast=./dss/$1 [L]
-  RewriteRule ^abs/(.*)$ /podcasts/?search&podcast=./abs/$1 [L]
-  RewriteRule ^osm/(.*)$ /podcasts/?search&podcast=./osm/$1 [L]
-  RewriteRule ^ls/(.*)$ /podcasts/?search&podcast=./ls/$1 [L]
-  RewriteRule ^ng/(.*)$ /podcasts/?search&podcast=./ng/$1 [L]
-  RewriteRule ^qs/(.*)$ /podcasts/?search&podcast=./qs/$1 [L]
-  RewriteRule ^rl/(.*)$ /podcasts/?search&podcast=./rl/$1 [L]
+  RewriteRule ^fs/(.*)$ /podcasts/?search&podcast=./mm/$1 [L]
+
+  RewriteRule ^(bm|cr|dw|ep|jc|ll|mm|nsfw|pt|wrint|psyt|wg|scsp|pp|sozio|pp|dss|abs|osm|ls|ng|qs|rl)/(.*)$ /podcasts/?search&podcast=./$1/$2 [L]
+
+  RewriteRule ^PIS$ /pis/ [L]
 </IfModule>
 
 FileETag None
