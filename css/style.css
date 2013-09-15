@@ -127,6 +127,11 @@ input[type='submit']:hover {
 .footer a:last-child {
   font-weight: normal;
 }
+
+.footer a, .footer a:visited {
+  color: #70B3E4;
+}
+
 .baf-group a{
   color: #000000;
 }

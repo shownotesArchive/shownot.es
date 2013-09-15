@@ -21,6 +21,7 @@ input[type='submit']:hover{cursor:pointer;}
 .footer{clear:both;margin-top:1em;padding-bottom:2em;}
 .footer span{float:right;}
 .footer a:last-child{font-weight:normal;}
+.footer a,.footer a:visited{color:#70B3E4;}
 .baf-group a{color:#000000;}
 #podcasts{text-align:center;}
 .tbox{position:absolute;display:none;padding:14px 17px;z-index:900;height:90%;overflow-y:scroll;}
