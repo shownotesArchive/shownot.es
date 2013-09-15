@@ -1,7 +1,7 @@
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{font-size:100%;font-weight:initial;font-style:initial;font-family:initial;vertical-align:baseline;margin:0;padding:0;border:0;outline:0;}
 html{height:100%;}
 *:focus{outline:0;box-sizing:border-box;}
-body{background:#ffffff;background:-moz-linear-gradient(top,#ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffffff),color-stop(60%,#e5e5e5),color-stop(85%,#eaeaea),color-stop(100%,#ffffff));background:-webkit-linear-gradient(top,#ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);background:-o-linear-gradient(top,#ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);background:-ms-linear-gradient(top,#ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);background:linear-gradient(to bottom,#ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff',endColorstr='#ffffff',GradientType=0 );color:black;font:normal 1.0em Helvetica,sans-serif;}
+body{background-image:url('http://shownotes.github.io/tinyOSF.js/bg.png');background-size:13%;color:black;font:normal 1.0em Helvetica,sans-serif;}
 a:link,a:visited{color:#1B69A2;text-decoration:none;}
 a:hover{color:#1C67A3;text-decoration:underline;}
 a:active{position:relative;top:1px;}
@@ -12,7 +12,7 @@ ul{list-style-type:square;padding-left:1em;}
 .header a:link,.header a:visited,.header a:hover,.footer a:link,.footer a:visited,.footer a:hover{font-weight:bold;}
 .header{text-align:justify;}
 .header .title{font-size:2em;font-weight:bold;}
-.box .title{font-size:1.3em;font-weight:bold;}
+.box .title{font-size:2.3em;font-weight:bold;text-align:center;}
 .title img{margin:10px 15px -10px 15px;width:48px;height:48px;}
 .title a:link,.title a:visited,.title a:hover{color:#000000;text-decoration:none;}
 .box{background-color:#ffffff;border:1px solid #cccccc;padding:1em;margin:1em 0 1em 0;-webkit-box-shadow:0px 3px 15px 0px rgba(15,15,15,0.2);box-shadow:0px 3px 15px 0px rgba(15,15,15,0.2);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}
@@ -41,3 +41,4 @@ iframe{height:1px;width:1px;visibility:hidden;}
 dl{padding:40px 80px 30px 120px;background:#FEFEFE;width:799px;margin-left:-15px;float:none;border-radius:5px;}
 .info_icon img{width:30px;height:30px;}
 #background{z-index:-1;position:fixed;top:0px;left:0px;height:100%;width:100%;background:white;background:-moz-linear-gradient(top,white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,white),color-stop(60%,#E5E5E5),color-stop(85%,#EAEAEA),color-stop(100%,white));background:-webkit-linear-gradient(top,white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);background:-o-linear-gradient(top,white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);background:-ms-linear-gradient(top,white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);background:linear-gradient(to bottom,white 0%,#E5E5E5 60%,#EAEAEA 85%,white 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff',endColorstr='#ffffff',GradientType=0 );}
+

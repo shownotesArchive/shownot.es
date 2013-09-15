@@ -20,14 +20,8 @@ html {
 }
 
 body {
-  background: #ffffff;
-  background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 60%, #eaeaea 85%, #ffffff 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(60%,#e5e5e5), color-stop(85%,#eaeaea), color-stop(100%,#ffffff));
-  background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);
-  background: -o-linear-gradient(top, #ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);
-  background: -ms-linear-gradient(top, #ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);
-  background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 60%,#eaeaea 85%,#ffffff 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+  background-image: url('http://shownotes.github.io/tinyOSF.js/bg.png');
+  background-size: 13%;
   color: black;
   font: normal 1.0em Helvetica, sans-serif;
 }
@@ -81,8 +75,9 @@ ul {
 }
 
 .box .title {
-  font-size: 1.3em;
+  font-size: 2.3em;
   font-weight: bold;
+  text-align: center;
 }
 
 .title img{

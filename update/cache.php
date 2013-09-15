@@ -112,10 +112,10 @@ function printPodcastBox($podcast, $count) {
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
-  <div class="header">
-    <div class="title"><a href="/"><img src="http://shownot.es/img/logo.png" alt="Shownot.es Logo">Die Shownotes</a></div>
-  </div>
   <div class="box" id="main">
+    <div class="header">
+      <div class="title"><a href="/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
+    </div>
     <p style="margin-top: 1em;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
