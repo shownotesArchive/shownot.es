@@ -91,7 +91,7 @@ function printPodcastBox($podcast, $count) {
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="http://shownot.es/baf2/css/baf.min.css?v=006" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
@@ -220,7 +220,7 @@ for(; $i < $ele_count; $i++) {
   </div>
   <div class="footer"><span style="text-align: right;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span></div>
 </div>
-<script src="http://selfcss.org/baf2/js/baf.min.js"></script>
+<script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
