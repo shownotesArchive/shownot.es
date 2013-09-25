@@ -14,7 +14,9 @@ function getEpisodes($count, $podcast = 'all')
                     if ($file != "." && $file != ".." && $file != 'index.php')
                       {
                         $Episode = explode('.', $file);
-                        echo '<li><a href="./sn/'.$folder.'/'.ltrim($file, '0 \t\n\r').'">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
+			$link_to='./sn/'.$folder.'/'.ltrim($file, '0 \t\n\r');
+			$link_to='/'.$folder.'/'.$Episode[0];
+                        echo '<li><a href="' . $link_to .  '">'.(2 < count($Episode) ? $Episode[1] : $Episode[0]).'</a></li>';
                         ++$count;
                       }
                   }
@@ -55,7 +57,12 @@ function ShownoteTitle()
   }
 
 $podcast = $_GET['podcast'];
-
+/* make the raw HTML accessible
+ *   mandates GET paramater "clear"
+ *   with "search", seach for the episode given only it's number
+ *   without "search", requires exact file name
+ *      of the episode in parameter "podcast".
+ */
 if(($podcast != '')&&($_GET['clear'] == 'true'))
   {
     if(isset($_GET['search']))
@@ -125,6 +132,8 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
     
     if(($podcast != '')&&($podcastarray[1] != ''))
       {
+/* display shownotes by including them */    
+
         if(isset($_GET['search']))
           {
             

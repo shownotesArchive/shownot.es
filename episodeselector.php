@@ -34,7 +34,7 @@ function insertselector($podcast=false)
                       }
                     
                     $files[$count] = ltrim($Episode[0], '0 \t\n\r');
-                    $link = './'.ltrim($Episode[0], '0 \t\n\r');
+                    $link = '/'.$info[1].'/'.ltrim($Episode[0], '0 \t\n\r');
                     $printit .= '<li><a ';
                     if($info[2] == ltrim($Episode[0], '0 \t\n\r'))
                       {
