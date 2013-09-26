@@ -140,7 +140,8 @@ $podcast_arr = array(
   array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
   array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
   array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo'),
-  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo')
+  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
+  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo')
 );
 shuffle($podcast_arr);
 $ele_count=count($podcast_arr);
