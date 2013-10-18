@@ -34,7 +34,10 @@ function printPodcastBox($podcast, $count) {
       if ( FALSE === stripos($linkname_title, $podcast[1]) &&  FALSE === stripos($linkname_title, $podcast[0])) {
         $linkname_title = $podcast[0] . ': ' . $linkname_title;
       }
-
+      if ( isset($podcast[5])) {
+        $linkname_title.="\n";
+        $linkname_title.=$podcast[5];
+      }
       echo "      <div class=\"thispodcast\">\n";
       echo "        <div class=\"podcastimg\">\n";
       echo '          <a href="' . $link . '" title="' . $linkname_title . '" >';
@@ -125,24 +128,43 @@ function printPodcastBox($podcast, $count) {
       </p>
       <br/><br/>
 <?php
-
+/* An array to contain all the podcasts we link to on the front page.
+ * a podcast is entered as an array, that array has up to 6 parameters, of which the last is optional:
+ *   0: Name of the podcast
+ *   1: slug (folder where the podcast is located at)
+ *   2: the general web address under which the podcast resides
+ *   3: name of the logo file
+ *   4: alternate text of the logo file
+ *   5: Optional. Additional title text for the logo file
+ */
 $podcast_arr = array(
   array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
-  array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon Logo'),
+  array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon / Lateline Logo', 'Blue Moon Foto von Ainhoa Pcb l, CC: BY'),
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
   array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
   array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
   array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
   array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
+  array('Pubkameraden','pp','http://www.pubkameraden.de/','pp_logo.png','Pubkameraden Podcast Logo'),
   array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
   array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
   array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
   array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
   array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo'),
   array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
-  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo')
+  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
+  array('Radio OSM','osm','http://blog.openstreetmap.de/','osm_logo.png','Radio OSM Logo')
 );
+/* optional ToDo: Use last modification as a parameter to shuffling
+ * function name is filemtime see http://www.php.net/manual/en/function.filemtime.php
+ * it takes only one parameter the file's name,
+ * and returns a timestamp
+ * probably a good method would be, to sort the array at first
+ * using the sorting mechanism usort, which uses a user defined
+ * function as comparator for sorting http://www.php.net/manual/en/function.usort.php
+ * then, after the array was sorted, some elements could be randomly exchanged
+ */
 shuffle($podcast_arr);
 $ele_count=count($podcast_arr);
 $i=0;
