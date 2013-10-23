@@ -24,7 +24,9 @@ function printPodcastBox($podcast, $count) {
       $link = 'http://shownot.es/'.$podcast[1].'/'.ltrim($Episode[0], '0 \t\n\r');
       $linkname_title=$linkname;
       $slug_match;
-      if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
+      if( FALSE !== ($slug_match = stripos($linkname, $podcast[0])) ) {
+        $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[0]));
+      } else if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
         $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[1]));
       }
       $linkname_title_reg_ret = @preg_replace("/-([0-9]+)/"," \\1", $linkname_title);
@@ -61,7 +63,9 @@ function printPodcastBox($podcast, $count) {
         $link = 'http://shownot.es/'.$podcast[1].'/'.ltrim($Episode[0], '0 \t\n\r');
         $linkname_title=$linkname;
         $slug_match;
-        if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
+        if( FALSE !== ($slug_match = stripos($linkname, $podcast[0])) ) {
+          $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[0]));
+        } else if ( FALSE !== ($slug_match = stripos($linkname, $podcast[1])) ) {
           $linkname_title = substr($linkname, 0, $slug_match) . $podcast[0] . substr($linkname, $slug_match + strlen($podcast[1]));
         }
         $linkname_title_reg_ret = @preg_replace("/-([0-9]+)/"," \\1", $linkname_title);
@@ -154,7 +158,8 @@ $podcast_arr = array(
   array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo'),
   array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
   array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
-  array('Radio OSM','osm','http://blog.openstreetmap.de/','osm_logo.png','Radio OSM Logo')
+  array('Radio OSM','osm','http://blog.openstreetmap.de/','osm_logo.png','Radio OSM Logo'),
+  array('SozioPod','sozio','http://soziopod.de/','sozio_logo.png','SozioPod Logo')
 );
 /* optional ToDo: Use last modification as a parameter to shuffling
  * function name is filemtime see http://www.php.net/manual/en/function.filemtime.php
