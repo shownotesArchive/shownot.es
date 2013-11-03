@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  background-image: url('http://shownotes.github.io/tinyOSF.js/bg.png');
+  background-color: #ddd;
   background-size: 13%;
   color: black;
   font: normal 1.0em Helvetica, sans-serif;
