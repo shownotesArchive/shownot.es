@@ -24,6 +24,26 @@
       position: relative;
       margin-right: 5px;
     }
+    .column.grid_4 {
+      display: inline-block;
+      margin: 10px;
+    }
+    .baf-group.open [class^="dropdown-menu"] {
+      display: block;
+      margin-top: 1px;
+      position: fixed;
+      top: calc(50% - 100px);
+      left: calc(50% - 200px);
+      height: 200px;
+      width: 150px;
+      padding-left: 210px;
+      background-size: 210px;
+      background-repeat: no-repeat;
+      box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
+      -webkit-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
+      -moz-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
+      -o-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
+    }
   </style>
 </head>
 <body onload="baf_listenerInit();">
@@ -51,7 +71,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/rl_logo.png');">
             <li><a href="http://shownot.es/rl/29" title="Robotiklabor 029">RL-029</a></li>
             <li><a href="http://shownot.es/rl/28" title="Robotiklabor 028">RL-028</a></li>
             <li><a href="http://shownot.es/rl/27" title="Robotiklabor 027">RL-027</a></li>
@@ -72,7 +92,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/fs_logo.png');">
             <li><a href="http://shownot.es/mm/120" title="Freak Show: FS 120">FS-120</a></li>
             <li><a href="http://shownot.es/mm/119" title="Freak Show: FS 119">FS-119</a></li>
             <li><a href="http://shownot.es/mm/118" title="Freak Show: FS 118">FS-118</a></li>
@@ -137,7 +157,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/osm_logo.png');">
             <li><a href="http://shownot.es/osm/23" title="Radio OSM 023">OSM-023</a></li>
             <li><a href="http://shownot.es/osm/22" title="Radio OSM 022">OSM-022</a></li>
             <li><a href="http://shownot.es/osm/21" title="Radio OSM 021">OSM-021</a></li>
@@ -157,7 +177,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/qs_logo.png');">
             <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
             <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
             <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
@@ -182,7 +202,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/ng_logo.png');">
             <li><a href="http://shownot.es/ng/80" title="Netzgespräche 080">NG-080</a></li>
             <li><a href="http://shownot.es/ng/79" title="Netzgespräche 079">NG-079</a></li>
             <li><a href="http://shownot.es/ng/77" title="Netzgespräche 077">NG-077</a></li>
@@ -206,7 +226,7 @@
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/abs_logo.png');">
             <li><a href="http://shownot.es/abs/11" title="ABSradio 011">ABS-011</a></li>
             <li><a href="http://shownot.es/abs/9" title="ABSradio 009">ABS-009</a></li>
             <li><a href="http://shownot.es/abs/8" title="ABSradio 008">ABS-008</a></li>
@@ -231,7 +251,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY" >
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/bmll_logo.png');">
             <li><a href="http://shownot.es/bm/133" title="Blue Moon: 29.10.13
 Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
             <li><a href="http://shownot.es/bm/132" title="Blue Moon: 27.10.13">27.10.13</a></li>
@@ -378,7 +398,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/nsfw_logo.png');">
             <li><a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76">NSFW-76</a></li>
             <li><a href="http://shownot.es/nsfw/75" title="Not Safe for Work 75">NSFW-75</a></li>
             <li><a href="http://shownot.es/nsfw/74" title="Not Safe for Work 74">NSFW-74</a></li>
@@ -427,7 +447,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/dss_logo.png');">
             <li><a href="http://shownot.es/dss/3" title="Sondersendung 003">Sondersendung-003</a></li>
             <li><a href="http://shownot.es/dss/2" title="Sondersendung 002">Sondersendung-002</a></li>
             <li><a href="http://shownot.es/dss/1" title="Sondersendung 001">Sondersendung-001</a></li>
@@ -445,7 +465,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/sozio_logo.png');">
             <li><a href="http://shownot.es/sozio/32" title="SozioPod 032">Soziopod-032</a></li>
             <li><a href="http://shownot.es/sozio/31" title="SozioPod 031">Soziopod-031</a></li>
             <li><a href="http://shownot.es/sozio/30" title="SozioPod 030">Soziopod-030</a></li>
@@ -465,7 +485,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wg_logo.png');">
             <li><a href="http://shownot.es/wg/47" title="Wikigeeks 47">Wikigeeks-47</a></li>
             <li><a href="http://shownot.es/wg/46" title="Wikigeeks 46">Wikigeeks-46</a></li>
             <li><a href="http://shownot.es/wg/45" title="Wikigeeks 45">Wikigeeks-45</a></li>
@@ -488,7 +508,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wr_logo.png');">
             <li><a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55">Realitaetsabgleich-55</a></li>
             <li><a href="http://shownot.es/wrint/219" title="WRINT 219">WRINT-219</a></li>
             <li><a href="http://shownot.es/wrint/218" title="WRINTheit 46">Wrintheit-46</a></li>
@@ -597,7 +617,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/psyt_logo.png');">
             <li><a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit">Zeit</a></li>
             <li><a href="http://shownot.es/psyt/12" title="Psychotalk: Drogen">Drogen</a></li>
             <li><a href="http://shownot.es/psyt/10" title="Psychotalk: Musik">Musik</a></li>
@@ -619,7 +639,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/ep_logo.png');">
             <li><a href="http://shownot.es/ep/256" title="Einschlafen 256">EP-256</a></li>
             <li><a href="http://shownot.es/ep/255" title="Einschlafen 255">EP-255</a></li>
             <li><a href="http://shownot.es/ep/254" title="Einschlafen 254">EP-254</a></li>
@@ -716,7 +736,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/cr_logo.png');">
             <li><a href="http://shownot.es/cr/195" title="Chaosradio 195">Chaosradio-195</a></li>
             <li><a href="http://shownot.es/cr/194" title="Chaosradio 194">Chaosradio-194</a></li>
             <li><a href="http://shownot.es/cr/193" title="Chaosradio 193">Chaosradio-193</a></li>
@@ -743,7 +763,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wmr_logo.png');">
             <li><a href="http://shownot.es/wmr/72" title="Wir. Müssen Reden 072">WMR-072</a></li>
             <li><a href="http://shownot.es/wmr/71" title="Wir. Müssen Reden 071">WMR-071</a></li>
             <li><a href="http://shownot.es/wmr/70" title="Wir. Müssen Reden 070">WMR-070</a></li>
@@ -767,7 +787,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/pp_logo.png');">
             <li><a href="http://shownot.es/pp/31" title="Pubkameraden 31">PP-31</a></li>
             <li><a href="http://shownot.es/pp/30" title="Pubkameraden 30">PP-30</a></li>
             <li><a href="http://shownot.es/pp/29" title="Pubkameraden 29">PP-29</a></li>
@@ -788,7 +808,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/jc_logo.png');">
             <li><a href="http://shownot.es/jc/20" title="Jobscast 20">Jobscast-20</a></li>
             <li><a href="http://shownot.es/jc/19" title="Jobscast 19">Jobscast-19</a></li>
             <li><a href="http://shownot.es/jc/18" title="Jobscast 18">Jobscast-18</a></li>
@@ -864,9 +884,25 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
       </div>
     </div>
     <hr />
-    <p>Wer Podcasts mag, sollte die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert. Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
     <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
-    <br/>
+    <hr/>
+    <div class="widget-inner"><h3 class="widget-title">befreundete Projekte</h3>
+
+<div class="column grid_4"><a href="https://auphonic.com/" title="auphonic" target="_blank"><img src="http://cdn.shownot.es/snprojekte/auphonic_300.png" alt="auphonic" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://bitlove.org/" title="Bitlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Bitlove_300.png" alt="Bitlove" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://firtz.org/" title="firtz" target="_blank"><img src="http://cdn.shownot.es/snprojekte/firtz_300.png" alt="Podbe" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://hoersuppe.de/" title="Die Hoersuppe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/hoersuppe_300.png" alt="Die Hoersuppe" width="150" height="150"></a></div>
+<div class="column grid_4 last"><a href="http://podbe.wikibyte.org/" title="Podbe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podbe_300.png" alt="Podbe" width="150" height="150"></a></div>
+<div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://reliveradio.de/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="150" height="150"></a></div>
+<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="150" height="150"></a></div>
+<div class="column grid_4"></div>
+<div class="column grid_4 last"></div>
+<div class="clear"></div></div>
     <br/><div class="flattrbtn"><a class="FlattrButton" href="http://shownot.es/" title="Die Shownot.es" lang="de_DE">
       [description]
     </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><span style="text-align: right;display: inherit;margin-top: -25px;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span>
