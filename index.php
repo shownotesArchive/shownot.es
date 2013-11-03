@@ -7,10 +7,10 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/style.min.css?v=006" type="text/css" />
-  <link rel="stylesheet" href="/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/startseite.min.css?v=004" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/baf/css/baf.min.css?v=009" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/style.min.css?v=009" type="text/css" />
+  <link rel="stylesheet" href="/css/anycast.min.css?v=009" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/startseite.min.css?v=009" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>
@@ -62,132 +62,110 @@
       <br/><br/>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/rl/29" title="Robotiklabor 029" >
-            <img src="http://shownot.es/img/logos/rl_logo.png" alt="Robotiklabor Logo" />
+          <a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55" >
+            <img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://www.robotiklabor.de/">Robotiklabor</a>
+          <a class="baf bluehover" href="http://www.wrint.de/">WRINT</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/rl_logo.png');">
-            <li><a href="http://shownot.es/rl/29" title="Robotiklabor 029">RL-029</a></li>
-            <li><a href="http://shownot.es/rl/28" title="Robotiklabor 028">RL-028</a></li>
-            <li><a href="http://shownot.es/rl/27" title="Robotiklabor 027">RL-027</a></li>
-            <li><a href="http://shownot.es/rl/26" title="Robotiklabor 026">RL-026</a></li>
-            <li><a href="http://shownot.es/rl/25" title="Robotiklabor 025">RL-025</a></li>
-            <li><a href="http://shownot.es/rl/24" title="Robotiklabor 024">RL-024</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/mm/120" title="Freak Show: FS 120" >
-            <img src="http://shownot.es/img/logos/fs_logo.png" alt="Freak Show Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://freakshow.fm/">Freak Show</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/fs_logo.png');">
-            <li><a href="http://shownot.es/mm/120" title="Freak Show: FS 120">FS-120</a></li>
-            <li><a href="http://shownot.es/mm/119" title="Freak Show: FS 119">FS-119</a></li>
-            <li><a href="http://shownot.es/mm/118" title="Freak Show: FS 118">FS-118</a></li>
-            <li><a href="http://shownot.es/mm/117" title="Freak Show: FS 117">FS-117</a></li>
-            <li><a href="http://shownot.es/mm/116" title="Freak Show: FS 116">FS-116</a></li>
-            <li><a href="http://shownot.es/mm/115" title="Freak Show: FS 115">FS-115</a></li>
-            <li><a href="http://shownot.es/mm/114" title="Freak Show 114">MM-114</a></li>
-            <li><a href="http://shownot.es/mm/113" title="Freak Show 113">MM-113</a></li>
-            <li><a href="http://shownot.es/mm/112" title="Freak Show 112">MM-112</a></li>
-            <li><a href="http://shownot.es/mm/111" title="Freak Show 111">MM-111</a></li>
-            <li><a href="http://shownot.es/mm/110" title="Freak Show 110">MM-110</a></li>
-            <li><a href="http://shownot.es/mm/109" title="Freak Show 109">MM-109</a></li>
-            <li><a href="http://shownot.es/mm/108" title="Freak Show 108">MM-108</a></li>
-            <li><a href="http://shownot.es/mm/107" title="Freak Show 107">MM-107</a></li>
-            <li><a href="http://shownot.es/mm/106" title="Freak Show 106">MM-106</a></li>
-            <li><a href="http://shownot.es/mm/105" title="Freak Show 105">MM-105</a></li>
-            <li><a href="http://shownot.es/mm/104" title="Freak Show 104">MM-104</a></li>
-            <li><a href="http://shownot.es/mm/103" title="Freak Show 103">MM-103</a></li>
-            <li><a href="http://shownot.es/mm/102" title="Freak Show 102">MM-102</a></li>
-            <li><a href="http://shownot.es/mm/101" title="Freak Show 101">MM-101</a></li>
-            <li><a href="http://shownot.es/mm/100" title="Freak Show 100">MM-100</a></li>
-            <li><a href="http://shownot.es/mm/99" title="Freak Show 99">MM-99</a></li>
-            <li><a href="http://shownot.es/mm/98" title="Freak Show 98">MM-98</a></li>
-            <li><a href="http://shownot.es/mm/97" title="Freak Show 97">MM-97</a></li>
-            <li><a href="http://shownot.es/mm/96" title="Freak Show 96">MM-96</a></li>
-            <li><a href="http://shownot.es/mm/95" title="Freak Show 95">MM-95</a></li>
-            <li><a href="http://shownot.es/mm/94" title="Freak Show 94">MM-94</a></li>
-            <li><a href="http://shownot.es/mm/93" title="Freak Show 93">MM-93</a></li>
-            <li><a href="http://shownot.es/mm/92" title="Freak Show 92">MM-92</a></li>
-            <li><a href="http://shownot.es/mm/91" title="Freak Show 91">MM-91</a></li>
-            <li><a href="http://shownot.es/mm/90" title="Freak Show 90">MM-90</a></li>
-            <li><a href="http://shownot.es/mm/89" title="Freak Show 89">MM-89</a></li>
-            <li><a href="http://shownot.es/mm/88" title="Freak Show 88">MM-88</a></li>
-            <li><a href="http://shownot.es/mm/87" title="Freak Show 87">MM-87</a></li>
-            <li><a href="http://shownot.es/mm/86" title="Freak Show 86">MM-86</a></li>
-            <li><a href="http://shownot.es/mm/85" title="Freak Show 85">MM-85</a></li>
-            <li><a href="http://shownot.es/mm/84" title="Freak Show 84">MM-84</a></li>
-            <li><a href="http://shownot.es/mm/82" title="Freak Show 82">MM-82</a></li>
-            <li><a href="http://shownot.es/mm/81" title="Freak Show 81">MM-81</a></li>
-            <li><a href="http://shownot.es/mm/12" title="Freak Show 12">MM-12</a></li>
-            <li><a href="http://shownot.es/mm/11" title="Freak Show 11">MM-11</a></li>
-            <li><a href="http://shownot.es/mm/10" title="Freak Show 10">MM-10</a></li>
-            <li><a href="http://shownot.es/mm/9" title="Freak Show 9">MM-9</a></li>
-            <li><a href="http://shownot.es/mm/8" title="Freak Show 8">MM-8</a></li>
-            <li><a href="http://shownot.es/mm/7" title="Freak Show 7">MM-7</a></li>
-            <li><a href="http://shownot.es/mm/6" title="Freak Show 6">MM-6</a></li>
-            <li><a href="http://shownot.es/mm/5" title="Freak Show 5">MM-5</a></li>
-            <li><a href="http://shownot.es/mm/4" title="Freak Show 4">MM-4</a></li>
-            <li><a href="http://shownot.es/mm/3" title="Freak Show 3">MM-3</a></li>
-            <li><a href="http://shownot.es/mm/2" title="Freak Show 2">MM-2</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/osm/23" title="Radio OSM 023" >
-            <img src="http://shownot.es/img/logos/osm_logo.png" alt="Radio OSM Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://blog.openstreetmap.de/">Radio OSM</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/osm_logo.png');">
-            <li><a href="http://shownot.es/osm/23" title="Radio OSM 023">OSM-023</a></li>
-            <li><a href="http://shownot.es/osm/22" title="Radio OSM 022">OSM-022</a></li>
-            <li><a href="http://shownot.es/osm/21" title="Radio OSM 021">OSM-021</a></li>
-            <li><a href="http://shownot.es/osm/20" title="Radio OSM 020">OSM-020</a></li>
-            <li><a href="http://shownot.es/osm/18" title="Radio OSM 18">OSM-18</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/qs/50" title="Quasselstrippen 050" >
-            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://die-quasselstrippen.de/">Quasselstrippen</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/qs_logo.png');">
-            <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
-            <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
-            <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
-            <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
-            <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
-            <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
-            <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
-            <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
-            <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
-            <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wr_logo.png');">
+            <li><a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55">Realitaetsabgleich-55</a></li>
+            <li><a href="http://shownot.es/wrint/219" title="WRINT 219">WRINT-219</a></li>
+            <li><a href="http://shownot.es/wrint/218" title="WRINTheit 46">Wrintheit-46</a></li>
+            <li><a href="http://shownot.es/wrint/217" title="WRINT 217">WRINT-217</a></li>
+            <li><a href="http://shownot.es/wrint/215" title="WRINT: Realitaetsabgleich 54">Realitaetsabgleich-54</a></li>
+            <li><a href="http://shownot.es/wrint/214" title="WRINT 214">WRINT-214</a></li>
+            <li><a href="http://shownot.es/wrint/213" title="WRINT 213">WRINT-213</a></li>
+            <li><a href="http://shownot.es/wrint/212" title="WRINT: Realitaetsabgleich 53">Realitaetsabgleich-53</a></li>
+            <li><a href="http://shownot.es/wrint/211" title="WRINTheit 45">Wrintheit-45</a></li>
+            <li><a href="http://shownot.es/wrint/210" title="WRINT: Realitaetsabgleich 52">Realitaetsabgleich-52</a></li>
+            <li><a href="http://shownot.es/wrint/209" title="WRINTheit 44">Wrintheit-44</a></li>
+            <li><a href="http://shownot.es/wrint/207" title="WRINT: Realitaetsabgleich 51">Realitaetsabgleich-51</a></li>
+            <li><a href="http://shownot.es/wrint/206" title="WRINT: Realitaetsabgleich 50">Realitaetsabgleich-50</a></li>
+            <li><a href="http://shownot.es/wrint/204" title="WRINT: Realitaetsabgleich 49">Realitaetsabgleich-49</a></li>
+            <li><a href="http://shownot.es/wrint/203" title="WRINTheit 43">Wrintheit-43</a></li>
+            <li><a href="http://shownot.es/wrint/201" title="WRINT: Realitaetsabgleich 48">Realitaetsabgleich-48</a></li>
+            <li><a href="http://shownot.es/wrint/199" title="WRINT: Realitaetsabgleich 47">Realitaetsabgleich-47</a></li>
+            <li><a href="http://shownot.es/wrint/197" title="WRINT: Flaschen.Wein.8">Flaschen.Wein.8</a></li>
+            <li><a href="http://shownot.es/wrint/196" title="WRINT: Realitaetsabgleich 46">Realitaetsabgleich-46</a></li>
+            <li><a href="http://shownot.es/wrint/194" title="WRINTheit 42">Wrintheit-42</a></li>
+            <li><a href="http://shownot.es/wrint/191" title="WRINTheit 41">Wrintheit-41</a></li>
+            <li><a href="http://shownot.es/wrint/190" title="WRINT: Realitaetsabgleich 45">Realitaetsabgleich-45</a></li>
+            <li><a href="http://shownot.es/wrint/188" title="WRINTheit 40">Wrintheit-40</a></li>
+            <li><a href="http://shownot.es/wrint/187" title="WRINT: Realitaetsabgleich 44">Realitaetsabgleich-44</a></li>
+            <li><a href="http://shownot.es/wrint/186" title="WRINT: Flaschen.Wein.7">Flaschen.Wein.7</a></li>
+            <li><a href="http://shownot.es/wrint/185" title="WRINT: Helena.in.Antalya">Helena.in.Antalya</a></li>
+            <li><a href="http://shownot.es/wrint/184" title="WRINT: Realitaetsabgleich 43">Realitaetsabgleich-43</a></li>
+            <li><a href="http://shownot.es/wrint/183" title="WRINTheit 39">Wrintheit-39</a></li>
+            <li><a href="http://shownot.es/wrint/182" title="WRINT: Realitaetsabgleich 42">Realitaetsabgleich-42</a></li>
+            <li><a href="http://shownot.es/wrint/181" title="WRINT: Realitaetsabgleich 41">Realitaetsabgleich-41</a></li>
+            <li><a href="http://shownot.es/wrint/179" title="WRINT: Realitaetsabgleich 40">Realitaetsabgleich-40</a></li>
+            <li><a href="http://shownot.es/wrint/178" title="WRINTheit 38">Wrintheit-38</a></li>
+            <li><a href="http://shownot.es/wrint/177" title="WRINT: Realitaetsabgleich 39">Realitaetsabgleich-39</a></li>
+            <li><a href="http://shownot.es/wrint/175" title="WRINT: Realitaetsabgleich 38">Realitaetsabgleich-38</a></li>
+            <li><a href="http://shownot.es/wrint/174" title="WRINTheit 37">Wrintheit-37</a></li>
+            <li><a href="http://shownot.es/wrint/172" title="WRINT: Ortsgespraeche">Ortsgespraeche</a></li>
+            <li><a href="http://shownot.es/wrint/170" title="WRINT: Realitaetsabgleich 37">Realitaetsabgleich-37</a></li>
+            <li><a href="http://shownot.es/wrint/168" title="WRINT: Ferngespraeche">Ferngespraeche</a></li>
+            <li><a href="http://shownot.es/wrint/167" title="WRINT: Realitaetsabgleich 36">Realitaetsabgleich-36</a></li>
+            <li><a href="http://shownot.es/wrint/166" title="WRINTheit 36">Wrintheit-36</a></li>
+            <li><a href="http://shownot.es/wrint/163" title="WRINT: Realitaetsabgleich 35">Realitaetsabgleich-35</a></li>
+            <li><a href="http://shownot.es/wrint/162" title="WRINT: Ortsgespraeche-Europa">Ortsgespraeche-Europa</a></li>
+            <li><a href="http://shownot.es/wrint/161" title="WRINTheit 35">Wrintheit-35</a></li>
+            <li><a href="http://shownot.es/wrint/159" title="WRINT: Realitaetsabgleich 34">Realitaetsabgleich-34</a></li>
+            <li><a href="http://shownot.es/wrint/157" title="WRINTheit 34">Wrintheit-34</a></li>
+            <li><a href="http://shownot.es/wrint/155" title="WRINT: Realitaetsabgleich 33">Realitaetsabgleich-33</a></li>
+            <li><a href="http://shownot.es/wrint/153" title="WRINT: Realitaetsabgleich 32">Realitaetsabgleich-32</a></li>
+            <li><a href="http://shownot.es/wrint/152" title="WRINTheit 33">Wrintheit-33</a></li>
+            <li><a href="http://shownot.es/wrint/151" title="WRINT: Realitaetsabgleich 31">Realitaetsabgleich-31</a></li>
+            <li><a href="http://shownot.es/wrint/148" title="WRINT: Realitaetsabgleich 30">Realitaetsabgleich-30</a></li>
+            <li><a href="http://shownot.es/wrint/146" title="WRINT: Realitaetsabgleich 29">Realitaetsabgleich-29</a></li>
+            <li><a href="http://shownot.es/wrint/144" title="WRINTheit 32">Wrintheit-32</a></li>
+            <li><a href="http://shownot.es/wrint/143" title="WRINT: Realitaetsabgleich 28">Realitaetsabgleich-28</a></li>
+            <li><a href="http://shownot.es/wrint/141" title="WRINTheit 31">Wrintheit-31</a></li>
+            <li><a href="http://shownot.es/wrint/140" title="WRINT: Realitaetsabgleich 27">Realitaetsabgleich-27</a></li>
+            <li><a href="http://shownot.es/wrint/138" title="WRINT: Realitaetsabgleich 26">Realitaetsabgleich-26</a></li>
+            <li><a href="http://shownot.es/wrint/135" title="WRINT: Realitaetsabgleich 25">Realitaetsabgleich-25</a></li>
+            <li><a href="http://shownot.es/wrint/133" title="WRINT: Flaschen.Wein.1">Flaschen.Wein.1</a></li>
+            <li><a href="http://shownot.es/wrint/132" title="WRINT: Realitaetsabgleich 24">Realitaetsabgleich-24</a></li>
+            <li><a href="http://shownot.es/wrint/130" title="WRINT: Realitaetsabgleich 23">Realitaetsabgleich-23</a></li>
+            <li><a href="http://shownot.es/wrint/128" title="WRINTheit 30">Wrintheit-30</a></li>
+            <li><a href="http://shownot.es/wrint/127" title="WRINT: Realitaetsabgleich 22">Realitaetsabgleich-22</a></li>
+            <li><a href="http://shownot.es/wrint/125" title="WRINT: Realitaetsabgleich 21">Realitaetsabgleich-21</a></li>
+            <li><a href="http://shownot.es/wrint/123" title="WRINTheit 29">Wrintheit-29</a></li>
+            <li><a href="http://shownot.es/wrint/122" title="WRINT: Realitaetsabgleich 20">Realitaetsabgleich-20</a></li>
+            <li><a href="http://shownot.es/wrint/120" title="WRINT: Realitaetsabgleich 19">Realitaetsabgleich-19</a></li>
+            <li><a href="http://shownot.es/wrint/119" title="WRINT: Realitaetsabgleich 18">Realitaetsabgleich-18</a></li>
+            <li><a href="http://shownot.es/wrint/118" title="WRINT: Ortsgespraeche-Premium.Cola">Ortsgespraeche-Premium.Cola</a></li>
+            <li><a href="http://shownot.es/wrint/117" title="WRINTheit 28">Wrintheit-28</a></li>
+            <li><a href="http://shownot.es/wrint/116" title="WRINT: Realitaetsabgleich 17">Realitaetsabgleich-17</a></li>
+            <li><a href="http://shownot.es/wrint/114" title="WRINTheit 27">Wrintheit-27</a></li>
+            <li><a href="http://shownot.es/wrint/112" title="WRINT: Realitaetsabgleich 16">Realitaetsabgleich-16</a></li>
+            <li><a href="http://shownot.es/wrint/109" title="WRINTheit 26">Wrintheit-26</a></li>
+            <li><a href="http://shownot.es/wrint/108" title="WRINT: Realitätsabgleich 14">Realitätsabgleich-14</a></li>
+            <li><a href="http://shownot.es/wrint/107" title="WRINT: Realitätsabgleich 13">Realitätsabgleich-13</a></li>
+            <li><a href="http://shownot.es/wrint/106" title="WRINTheit 25">Wrintheit-25</a></li>
+            <li><a href="http://shownot.es/wrint/105" title="WRINT: Realitätsabgleich 12">Realitätsabgleich-12</a></li>
+            <li><a href="http://shownot.es/wrint/104" title="WRINT: Realitätsabgleich 11">Realitätsabgleich-11</a></li>
+            <li><a href="http://shownot.es/wrint/103" title="WRINTheit 24">Wrintheit-24</a></li>
+            <li><a href="http://shownot.es/wrint/99" title="WRINTheit 23">Wrintheit-23</a></li>
+            <li><a href="http://shownot.es/wrint/95" title="WRINTheit 22">Wrintheit-22</a></li>
+            <li><a href="http://shownot.es/wrint/92" title="WRINTheit 21">Wrintheit-21</a></li>
+            <li><a href="http://shownot.es/wrint/83" title="WRINTheit 20">Wrintheit-20</a></li>
+            <li><a href="http://shownot.es/wrint/78" title="WRINTheit 19">Wrintheit-19</a></li>
+            <li><a href="http://shownot.es/wrint/70" title="WRINTheit 18">Wrintheit-18</a></li>
+            <li><a href="http://shownot.es/wrint/68" title="WRINTheit 17">Wrintheit-17</a></li>
+            <li><a href="http://shownot.es/wrint/56" title="WRINTheit 16">Wrintheit-16</a></li>
+            <li><a href="http://shownot.es/wrint/53" title="WRINTheit 15">Wrintheit-15</a></li>
+            <li><a href="http://shownot.es/wrint/49" title="WRINTheit 14">Wrintheit-14</a></li>
+            <li><a href="http://shownot.es/wrint/46" title="WRINTheit 13">Wrintheit-13</a></li>
+            <li><a href="http://shownot.es/wrint/41" title="WRINTheit 12">Wrintheit-12</a></li>
+            <li><a href="http://shownot.es/wrint/38" title="WRINTheit 11">Wrintheit-11</a></li>
+            <li><a href="http://shownot.es/wrint/34" title="WRINTheit 10">Wrintheit-10</a></li>
+            <li><a href="http://shownot.es/wrint/33" title="WRINTheit 9">Wrintheit-9</a></li>
           </ul>
         </div>
       </div>
@@ -217,25 +195,94 @@
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/abs/11" title="ABSradio 011" >
-            <img src="http://shownot.es/img/logos/abs_logo.png" alt="ABSradio Logo" />
+          <a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit" >
+            <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://absradio.de/">ABSradio</a>
+          <a class="baf bluehover" href="http://www.psycho-talk.de/">Psychotalk</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/abs_logo.png');">
-            <li><a href="http://shownot.es/abs/11" title="ABSradio 011">ABS-011</a></li>
-            <li><a href="http://shownot.es/abs/9" title="ABSradio 009">ABS-009</a></li>
-            <li><a href="http://shownot.es/abs/8" title="ABSradio 008">ABS-008</a></li>
-            <li><a href="http://shownot.es/abs/7" title="ABSradio 007">ABS-007</a></li>
-            <li><a href="http://shownot.es/abs/6" title="ABSradio 006">ABS-006</a></li>
-            <li><a href="http://shownot.es/abs/5" title="ABSradio 005">ABS-005</a></li>
-            <li><a href="http://shownot.es/abs/4" title="ABSradio 004">ABS-004</a></li>
-            <li><a href="http://shownot.es/abs/3" title="ABSradio 003">ABS-003</a></li>
-            <li><a href="http://shownot.es/abs/2" title="ABSradio 002">ABS-002</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/psyt_logo.png');">
+            <li><a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit">Zeit</a></li>
+            <li><a href="http://shownot.es/psyt/12" title="Psychotalk: Drogen">Drogen</a></li>
+            <li><a href="http://shownot.es/psyt/10" title="Psychotalk: Musik">Musik</a></li>
+            <li><a href="http://shownot.es/psyt/9" title="Psychotalk: Bücher">Bücher</a></li>
+            <li><a href="http://shownot.es/psyt/8" title="Psychotalk: Sex">Sex</a></li>
+            <li><a href="http://shownot.es/psyt/7" title="Psychotalk: Tiere">Tiere</a></li>
+            <li><a href="http://shownot.es/psyt/6" title="Psychotalk: StarTrek">StarTrek</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/cr/195" title="Chaosradio 195" >
+            <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/cr_logo.png');">
+            <li><a href="http://shownot.es/cr/195" title="Chaosradio 195">Chaosradio-195</a></li>
+            <li><a href="http://shownot.es/cr/194" title="Chaosradio 194">Chaosradio-194</a></li>
+            <li><a href="http://shownot.es/cr/193" title="Chaosradio 193">Chaosradio-193</a></li>
+            <li><a href="http://shownot.es/cr/191" title="Chaosradio 191">Chaosradio-191</a></li>
+            <li><a href="http://shownot.es/cr/190" title="Chaosradio 190">Chaosradio-190</a></li>
+            <li><a href="http://shownot.es/cr/186" title="Chaosradio 186">Chaosradio-186</a></li>
+            <li><a href="http://shownot.es/cr/185" title="Chaosradio 185">Chaosradio-185</a></li>
+            <li><a href="http://shownot.es/cr/184" title="Chaosradio 184">Chaosradio-184</a></li>
+            <li><a href="http://shownot.es/cr/183" title="Chaosradio 183">Chaosradio-183</a></li>
+            <li><a href="http://shownot.es/cr/182" title="Chaosradio 182">Chaosradio-182</a></li>
+            <li><a href="http://shownot.es/cr/181" title="Chaosradio 181">Chaosradio-181</a></li>
+            <li><a href="http://shownot.es/cr/180" title="Chaosradio 180">Chaosradio-180</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/rl/29" title="Robotiklabor 029" >
+            <img src="http://shownot.es/img/logos/rl_logo.png" alt="Robotiklabor Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://www.robotiklabor.de/">Robotiklabor</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/rl_logo.png');">
+            <li><a href="http://shownot.es/rl/29" title="Robotiklabor 029">RL-029</a></li>
+            <li><a href="http://shownot.es/rl/28" title="Robotiklabor 028">RL-028</a></li>
+            <li><a href="http://shownot.es/rl/27" title="Robotiklabor 027">RL-027</a></li>
+            <li><a href="http://shownot.es/rl/26" title="Robotiklabor 026">RL-026</a></li>
+            <li><a href="http://shownot.es/rl/25" title="Robotiklabor 025">RL-025</a></li>
+            <li><a href="http://shownot.es/rl/24" title="Robotiklabor 024">RL-024</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/wg/47" title="Wikigeeks 47" >
+            <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://wikigeeks.de/">Wikigeeks</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wg_logo.png');">
+            <li><a href="http://shownot.es/wg/47" title="Wikigeeks 47">Wikigeeks-47</a></li>
+            <li><a href="http://shownot.es/wg/46" title="Wikigeeks 46">Wikigeeks-46</a></li>
+            <li><a href="http://shownot.es/wg/45" title="Wikigeeks 45">Wikigeeks-45</a></li>
+            <li><a href="http://shownot.es/wg/44" title="Wikigeeks 44">Wikigeeks-44</a></li>
+            <li><a href="http://shownot.es/wg/41" title="Wikigeeks 41">Wikigeeks-41</a></li>
+            <li><a href="http://shownot.es/wg/40" title="Wikigeeks 40">Wikigeeks-40</a></li>
+            <li><a href="http://shownot.es/wg/39" title="Wikigeeks 39">Wikigeeks-39</a></li>
+            <li><a href="http://shownot.es/wg/38" title="Wikigeeks: Wikizilla 38">Wikizilla-38</a></li>
           </ul>
         </div>
       </div>
@@ -389,50 +436,66 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76" >
-            <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
+          <a href="http://shownot.es/mm/120" title="Freak Show: FS 120" >
+            <img src="http://shownot.es/img/logos/fs_logo.png" alt="Freak Show Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://not-safe-for-work.de/">Not Safe for Work</a>
+          <a class="baf bluehover" href="http://freakshow.fm/">Freak Show</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/nsfw_logo.png');">
-            <li><a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76">NSFW-76</a></li>
-            <li><a href="http://shownot.es/nsfw/75" title="Not Safe for Work 75">NSFW-75</a></li>
-            <li><a href="http://shownot.es/nsfw/74" title="Not Safe for Work 74">NSFW-74</a></li>
-            <li><a href="http://shownot.es/nsfw/73" title="Not Safe for Work 73">NSFW-73</a></li>
-            <li><a href="http://shownot.es/nsfw/72" title="Not Safe for Work 72">NSFW-72</a></li>
-            <li><a href="http://shownot.es/nsfw/71" title="Not Safe for Work 71">NSFW-71</a></li>
-            <li><a href="http://shownot.es/nsfw/70" title="Not Safe for Work 70">NSFW-70</a></li>
-            <li><a href="http://shownot.es/nsfw/69" title="Not Safe for Work 69">NSFW-69</a></li>
-            <li><a href="http://shownot.es/nsfw/68" title="Not Safe for Work 68">NSFW-68</a></li>
-            <li><a href="http://shownot.es/nsfw/67" title="Not Safe for Work 67">NSFW-67</a></li>
-            <li><a href="http://shownot.es/nsfw/66" title="Not Safe for Work 66">NSFW-66</a></li>
-            <li><a href="http://shownot.es/nsfw/65" title="Not Safe for Work 65">NSFW-65</a></li>
-            <li><a href="http://shownot.es/nsfw/64" title="Not Safe for Work 64">NSFW-64</a></li>
-            <li><a href="http://shownot.es/nsfw/63" title="Not Safe for Work 63">NSFW-63</a></li>
-            <li><a href="http://shownot.es/nsfw/62" title="Not Safe for Work 62">NSFW-62</a></li>
-            <li><a href="http://shownot.es/nsfw/61" title="Not Safe for Work 61">NSFW-61</a></li>
-            <li><a href="http://shownot.es/nsfw/60" title="Not Safe for Work 60">NSFW-60</a></li>
-            <li><a href="http://shownot.es/nsfw/59" title="Not Safe for Work 59">NSFW-59</a></li>
-            <li><a href="http://shownot.es/nsfw/58" title="Not Safe for Work 58">NSFW-58</a></li>
-            <li><a href="http://shownot.es/nsfw/57" title="Not Safe for Work 57">NSFW-57</a></li>
-            <li><a href="http://shownot.es/nsfw/56" title="Not Safe for Work 56">NSFW-56</a></li>
-            <li><a href="http://shownot.es/nsfw/55" title="Not Safe for Work 55">NSFW-55</a></li>
-            <li><a href="http://shownot.es/nsfw/54" title="Not Safe for Work 54">NSFW-54</a></li>
-            <li><a href="http://shownot.es/nsfw/53" title="Not Safe for Work 53">NSFW-53</a></li>
-            <li><a href="http://shownot.es/nsfw/52" title="Not Safe for Work 52">NSFW-52</a></li>
-            <li><a href="http://shownot.es/nsfw/51" title="Not Safe for Work 51">NSFW-51</a></li>
-            <li><a href="http://shownot.es/nsfw/50" title="Not Safe for Work 50">NSFW-50</a></li>
-            <li><a href="http://shownot.es/nsfw/49" title="Not Safe for Work 49">NSFW-49</a></li>
-            <li><a href="http://shownot.es/nsfw/48" title="Not Safe for Work 48">NSFW-48</a></li>
-            <li><a href="http://shownot.es/nsfw/47" title="Not Safe for Work 47">NSFW-47</a></li>
-            <li><a href="http://shownot.es/nsfw/46" title="Not Safe for Work 46">NSFW-46</a></li>
-            <li><a href="http://shownot.es/nsfw/45" title="Not Safe for Work 45">NSFW-45</a></li>
-            <li><a href="http://shownot.es/nsfw/44" title="Not Safe for Work 44">NSFW-44</a></li>
-            <li><a href="http://shownot.es/nsfw/41" title="Not Safe for Work 41">NSFW-41</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/fs_logo.png');">
+            <li><a href="http://shownot.es/mm/120" title="Freak Show: FS 120">FS-120</a></li>
+            <li><a href="http://shownot.es/mm/119" title="Freak Show: FS 119">FS-119</a></li>
+            <li><a href="http://shownot.es/mm/118" title="Freak Show: FS 118">FS-118</a></li>
+            <li><a href="http://shownot.es/mm/117" title="Freak Show: FS 117">FS-117</a></li>
+            <li><a href="http://shownot.es/mm/116" title="Freak Show: FS 116">FS-116</a></li>
+            <li><a href="http://shownot.es/mm/115" title="Freak Show: FS 115">FS-115</a></li>
+            <li><a href="http://shownot.es/mm/114" title="Freak Show 114">MM-114</a></li>
+            <li><a href="http://shownot.es/mm/113" title="Freak Show 113">MM-113</a></li>
+            <li><a href="http://shownot.es/mm/112" title="Freak Show 112">MM-112</a></li>
+            <li><a href="http://shownot.es/mm/111" title="Freak Show 111">MM-111</a></li>
+            <li><a href="http://shownot.es/mm/110" title="Freak Show 110">MM-110</a></li>
+            <li><a href="http://shownot.es/mm/109" title="Freak Show 109">MM-109</a></li>
+            <li><a href="http://shownot.es/mm/108" title="Freak Show 108">MM-108</a></li>
+            <li><a href="http://shownot.es/mm/107" title="Freak Show 107">MM-107</a></li>
+            <li><a href="http://shownot.es/mm/106" title="Freak Show 106">MM-106</a></li>
+            <li><a href="http://shownot.es/mm/105" title="Freak Show 105">MM-105</a></li>
+            <li><a href="http://shownot.es/mm/104" title="Freak Show 104">MM-104</a></li>
+            <li><a href="http://shownot.es/mm/103" title="Freak Show 103">MM-103</a></li>
+            <li><a href="http://shownot.es/mm/102" title="Freak Show 102">MM-102</a></li>
+            <li><a href="http://shownot.es/mm/101" title="Freak Show 101">MM-101</a></li>
+            <li><a href="http://shownot.es/mm/100" title="Freak Show 100">MM-100</a></li>
+            <li><a href="http://shownot.es/mm/99" title="Freak Show 99">MM-99</a></li>
+            <li><a href="http://shownot.es/mm/98" title="Freak Show 98">MM-98</a></li>
+            <li><a href="http://shownot.es/mm/97" title="Freak Show 97">MM-97</a></li>
+            <li><a href="http://shownot.es/mm/96" title="Freak Show 96">MM-96</a></li>
+            <li><a href="http://shownot.es/mm/95" title="Freak Show 95">MM-95</a></li>
+            <li><a href="http://shownot.es/mm/94" title="Freak Show 94">MM-94</a></li>
+            <li><a href="http://shownot.es/mm/93" title="Freak Show 93">MM-93</a></li>
+            <li><a href="http://shownot.es/mm/92" title="Freak Show 92">MM-92</a></li>
+            <li><a href="http://shownot.es/mm/91" title="Freak Show 91">MM-91</a></li>
+            <li><a href="http://shownot.es/mm/90" title="Freak Show 90">MM-90</a></li>
+            <li><a href="http://shownot.es/mm/89" title="Freak Show 89">MM-89</a></li>
+            <li><a href="http://shownot.es/mm/88" title="Freak Show 88">MM-88</a></li>
+            <li><a href="http://shownot.es/mm/87" title="Freak Show 87">MM-87</a></li>
+            <li><a href="http://shownot.es/mm/86" title="Freak Show 86">MM-86</a></li>
+            <li><a href="http://shownot.es/mm/85" title="Freak Show 85">MM-85</a></li>
+            <li><a href="http://shownot.es/mm/84" title="Freak Show 84">MM-84</a></li>
+            <li><a href="http://shownot.es/mm/82" title="Freak Show 82">MM-82</a></li>
+            <li><a href="http://shownot.es/mm/81" title="Freak Show 81">MM-81</a></li>
+            <li><a href="http://shownot.es/mm/12" title="Freak Show 12">MM-12</a></li>
+            <li><a href="http://shownot.es/mm/11" title="Freak Show 11">MM-11</a></li>
+            <li><a href="http://shownot.es/mm/10" title="Freak Show 10">MM-10</a></li>
+            <li><a href="http://shownot.es/mm/9" title="Freak Show 9">MM-9</a></li>
+            <li><a href="http://shownot.es/mm/8" title="Freak Show 8">MM-8</a></li>
+            <li><a href="http://shownot.es/mm/7" title="Freak Show 7">MM-7</a></li>
+            <li><a href="http://shownot.es/mm/6" title="Freak Show 6">MM-6</a></li>
+            <li><a href="http://shownot.es/mm/5" title="Freak Show 5">MM-5</a></li>
+            <li><a href="http://shownot.es/mm/4" title="Freak Show 4">MM-4</a></li>
+            <li><a href="http://shownot.es/mm/3" title="Freak Show 3">MM-3</a></li>
+            <li><a href="http://shownot.es/mm/2" title="Freak Show 2">MM-2</a></li>
           </ul>
         </div>
       </div>
@@ -456,175 +519,47 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/sozio/32" title="SozioPod 032" >
-            <img src="http://shownot.es/img/logos/sozio_logo.png" alt="SozioPod Logo" />
+          <a href="http://shownot.es/osm/23" title="Radio OSM 023" >
+            <img src="http://shownot.es/img/logos/osm_logo.png" alt="Radio OSM Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://soziopod.de/">SozioPod</a>
+          <a class="baf bluehover" href="http://blog.openstreetmap.de/">Radio OSM</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/sozio_logo.png');">
-            <li><a href="http://shownot.es/sozio/32" title="SozioPod 032">Soziopod-032</a></li>
-            <li><a href="http://shownot.es/sozio/31" title="SozioPod 031">Soziopod-031</a></li>
-            <li><a href="http://shownot.es/sozio/30" title="SozioPod 030">Soziopod-030</a></li>
-            <li><a href="http://shownot.es/sozio/29" title="SozioPod 029">Soziopod-029</a></li>
-            <li><a href="http://shownot.es/sozio/28" title="SozioPod 028">Soziopod-028</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/osm_logo.png');">
+            <li><a href="http://shownot.es/osm/23" title="Radio OSM 023">OSM-023</a></li>
+            <li><a href="http://shownot.es/osm/22" title="Radio OSM 022">OSM-022</a></li>
+            <li><a href="http://shownot.es/osm/21" title="Radio OSM 021">OSM-021</a></li>
+            <li><a href="http://shownot.es/osm/20" title="Radio OSM 020">OSM-020</a></li>
+            <li><a href="http://shownot.es/osm/18" title="Radio OSM 18">OSM-18</a></li>
           </ul>
         </div>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/wg/47" title="Wikigeeks 47" >
-            <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
+          <a href="http://shownot.es/jc/20" title="Jobscast 20" >
+            <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://wikigeeks.de/">Wikigeeks</a>
+          <a class="baf bluehover" href="http://www.jobscast.de/">Jobscast</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wg_logo.png');">
-            <li><a href="http://shownot.es/wg/47" title="Wikigeeks 47">Wikigeeks-47</a></li>
-            <li><a href="http://shownot.es/wg/46" title="Wikigeeks 46">Wikigeeks-46</a></li>
-            <li><a href="http://shownot.es/wg/45" title="Wikigeeks 45">Wikigeeks-45</a></li>
-            <li><a href="http://shownot.es/wg/44" title="Wikigeeks 44">Wikigeeks-44</a></li>
-            <li><a href="http://shownot.es/wg/41" title="Wikigeeks 41">Wikigeeks-41</a></li>
-            <li><a href="http://shownot.es/wg/40" title="Wikigeeks 40">Wikigeeks-40</a></li>
-            <li><a href="http://shownot.es/wg/39" title="Wikigeeks 39">Wikigeeks-39</a></li>
-            <li><a href="http://shownot.es/wg/38" title="Wikigeeks: Wikizilla 38">Wikizilla-38</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55" >
-            <img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.wrint.de/">WRINT</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/wr_logo.png');">
-            <li><a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55">Realitaetsabgleich-55</a></li>
-            <li><a href="http://shownot.es/wrint/219" title="WRINT 219">WRINT-219</a></li>
-            <li><a href="http://shownot.es/wrint/218" title="WRINTheit 46">Wrintheit-46</a></li>
-            <li><a href="http://shownot.es/wrint/217" title="WRINT 217">WRINT-217</a></li>
-            <li><a href="http://shownot.es/wrint/215" title="WRINT: Realitaetsabgleich 54">Realitaetsabgleich-54</a></li>
-            <li><a href="http://shownot.es/wrint/214" title="WRINT 214">WRINT-214</a></li>
-            <li><a href="http://shownot.es/wrint/213" title="WRINT 213">WRINT-213</a></li>
-            <li><a href="http://shownot.es/wrint/212" title="WRINT: Realitaetsabgleich 53">Realitaetsabgleich-53</a></li>
-            <li><a href="http://shownot.es/wrint/211" title="WRINTheit 45">Wrintheit-45</a></li>
-            <li><a href="http://shownot.es/wrint/210" title="WRINT: Realitaetsabgleich 52">Realitaetsabgleich-52</a></li>
-            <li><a href="http://shownot.es/wrint/209" title="WRINTheit 44">Wrintheit-44</a></li>
-            <li><a href="http://shownot.es/wrint/207" title="WRINT: Realitaetsabgleich 51">Realitaetsabgleich-51</a></li>
-            <li><a href="http://shownot.es/wrint/206" title="WRINT: Realitaetsabgleich 50">Realitaetsabgleich-50</a></li>
-            <li><a href="http://shownot.es/wrint/204" title="WRINT: Realitaetsabgleich 49">Realitaetsabgleich-49</a></li>
-            <li><a href="http://shownot.es/wrint/203" title="WRINTheit 43">Wrintheit-43</a></li>
-            <li><a href="http://shownot.es/wrint/201" title="WRINT: Realitaetsabgleich 48">Realitaetsabgleich-48</a></li>
-            <li><a href="http://shownot.es/wrint/199" title="WRINT: Realitaetsabgleich 47">Realitaetsabgleich-47</a></li>
-            <li><a href="http://shownot.es/wrint/197" title="WRINT: Flaschen.Wein.8">Flaschen.Wein.8</a></li>
-            <li><a href="http://shownot.es/wrint/196" title="WRINT: Realitaetsabgleich 46">Realitaetsabgleich-46</a></li>
-            <li><a href="http://shownot.es/wrint/194" title="WRINTheit 42">Wrintheit-42</a></li>
-            <li><a href="http://shownot.es/wrint/191" title="WRINTheit 41">Wrintheit-41</a></li>
-            <li><a href="http://shownot.es/wrint/190" title="WRINT: Realitaetsabgleich 45">Realitaetsabgleich-45</a></li>
-            <li><a href="http://shownot.es/wrint/188" title="WRINTheit 40">Wrintheit-40</a></li>
-            <li><a href="http://shownot.es/wrint/187" title="WRINT: Realitaetsabgleich 44">Realitaetsabgleich-44</a></li>
-            <li><a href="http://shownot.es/wrint/186" title="WRINT: Flaschen.Wein.7">Flaschen.Wein.7</a></li>
-            <li><a href="http://shownot.es/wrint/185" title="WRINT: Helena.in.Antalya">Helena.in.Antalya</a></li>
-            <li><a href="http://shownot.es/wrint/184" title="WRINT: Realitaetsabgleich 43">Realitaetsabgleich-43</a></li>
-            <li><a href="http://shownot.es/wrint/183" title="WRINTheit 39">Wrintheit-39</a></li>
-            <li><a href="http://shownot.es/wrint/182" title="WRINT: Realitaetsabgleich 42">Realitaetsabgleich-42</a></li>
-            <li><a href="http://shownot.es/wrint/181" title="WRINT: Realitaetsabgleich 41">Realitaetsabgleich-41</a></li>
-            <li><a href="http://shownot.es/wrint/179" title="WRINT: Realitaetsabgleich 40">Realitaetsabgleich-40</a></li>
-            <li><a href="http://shownot.es/wrint/178" title="WRINTheit 38">Wrintheit-38</a></li>
-            <li><a href="http://shownot.es/wrint/177" title="WRINT: Realitaetsabgleich 39">Realitaetsabgleich-39</a></li>
-            <li><a href="http://shownot.es/wrint/175" title="WRINT: Realitaetsabgleich 38">Realitaetsabgleich-38</a></li>
-            <li><a href="http://shownot.es/wrint/174" title="WRINTheit 37">Wrintheit-37</a></li>
-            <li><a href="http://shownot.es/wrint/172" title="WRINT: Ortsgespraeche">Ortsgespraeche</a></li>
-            <li><a href="http://shownot.es/wrint/170" title="WRINT: Realitaetsabgleich 37">Realitaetsabgleich-37</a></li>
-            <li><a href="http://shownot.es/wrint/168" title="WRINT: Ferngespraeche">Ferngespraeche</a></li>
-            <li><a href="http://shownot.es/wrint/167" title="WRINT: Realitaetsabgleich 36">Realitaetsabgleich-36</a></li>
-            <li><a href="http://shownot.es/wrint/166" title="WRINTheit 36">Wrintheit-36</a></li>
-            <li><a href="http://shownot.es/wrint/163" title="WRINT: Realitaetsabgleich 35">Realitaetsabgleich-35</a></li>
-            <li><a href="http://shownot.es/wrint/162" title="WRINT: Ortsgespraeche-Europa">Ortsgespraeche-Europa</a></li>
-            <li><a href="http://shownot.es/wrint/161" title="WRINTheit 35">Wrintheit-35</a></li>
-            <li><a href="http://shownot.es/wrint/159" title="WRINT: Realitaetsabgleich 34">Realitaetsabgleich-34</a></li>
-            <li><a href="http://shownot.es/wrint/157" title="WRINTheit 34">Wrintheit-34</a></li>
-            <li><a href="http://shownot.es/wrint/155" title="WRINT: Realitaetsabgleich 33">Realitaetsabgleich-33</a></li>
-            <li><a href="http://shownot.es/wrint/153" title="WRINT: Realitaetsabgleich 32">Realitaetsabgleich-32</a></li>
-            <li><a href="http://shownot.es/wrint/152" title="WRINTheit 33">Wrintheit-33</a></li>
-            <li><a href="http://shownot.es/wrint/151" title="WRINT: Realitaetsabgleich 31">Realitaetsabgleich-31</a></li>
-            <li><a href="http://shownot.es/wrint/148" title="WRINT: Realitaetsabgleich 30">Realitaetsabgleich-30</a></li>
-            <li><a href="http://shownot.es/wrint/146" title="WRINT: Realitaetsabgleich 29">Realitaetsabgleich-29</a></li>
-            <li><a href="http://shownot.es/wrint/144" title="WRINTheit 32">Wrintheit-32</a></li>
-            <li><a href="http://shownot.es/wrint/143" title="WRINT: Realitaetsabgleich 28">Realitaetsabgleich-28</a></li>
-            <li><a href="http://shownot.es/wrint/141" title="WRINTheit 31">Wrintheit-31</a></li>
-            <li><a href="http://shownot.es/wrint/140" title="WRINT: Realitaetsabgleich 27">Realitaetsabgleich-27</a></li>
-            <li><a href="http://shownot.es/wrint/138" title="WRINT: Realitaetsabgleich 26">Realitaetsabgleich-26</a></li>
-            <li><a href="http://shownot.es/wrint/135" title="WRINT: Realitaetsabgleich 25">Realitaetsabgleich-25</a></li>
-            <li><a href="http://shownot.es/wrint/133" title="WRINT: Flaschen.Wein.1">Flaschen.Wein.1</a></li>
-            <li><a href="http://shownot.es/wrint/132" title="WRINT: Realitaetsabgleich 24">Realitaetsabgleich-24</a></li>
-            <li><a href="http://shownot.es/wrint/130" title="WRINT: Realitaetsabgleich 23">Realitaetsabgleich-23</a></li>
-            <li><a href="http://shownot.es/wrint/128" title="WRINTheit 30">Wrintheit-30</a></li>
-            <li><a href="http://shownot.es/wrint/127" title="WRINT: Realitaetsabgleich 22">Realitaetsabgleich-22</a></li>
-            <li><a href="http://shownot.es/wrint/125" title="WRINT: Realitaetsabgleich 21">Realitaetsabgleich-21</a></li>
-            <li><a href="http://shownot.es/wrint/123" title="WRINTheit 29">Wrintheit-29</a></li>
-            <li><a href="http://shownot.es/wrint/122" title="WRINT: Realitaetsabgleich 20">Realitaetsabgleich-20</a></li>
-            <li><a href="http://shownot.es/wrint/120" title="WRINT: Realitaetsabgleich 19">Realitaetsabgleich-19</a></li>
-            <li><a href="http://shownot.es/wrint/119" title="WRINT: Realitaetsabgleich 18">Realitaetsabgleich-18</a></li>
-            <li><a href="http://shownot.es/wrint/118" title="WRINT: Ortsgespraeche-Premium.Cola">Ortsgespraeche-Premium.Cola</a></li>
-            <li><a href="http://shownot.es/wrint/117" title="WRINTheit 28">Wrintheit-28</a></li>
-            <li><a href="http://shownot.es/wrint/116" title="WRINT: Realitaetsabgleich 17">Realitaetsabgleich-17</a></li>
-            <li><a href="http://shownot.es/wrint/114" title="WRINTheit 27">Wrintheit-27</a></li>
-            <li><a href="http://shownot.es/wrint/112" title="WRINT: Realitaetsabgleich 16">Realitaetsabgleich-16</a></li>
-            <li><a href="http://shownot.es/wrint/109" title="WRINTheit 26">Wrintheit-26</a></li>
-            <li><a href="http://shownot.es/wrint/108" title="WRINT: Realitätsabgleich 14">Realitätsabgleich-14</a></li>
-            <li><a href="http://shownot.es/wrint/107" title="WRINT: Realitätsabgleich 13">Realitätsabgleich-13</a></li>
-            <li><a href="http://shownot.es/wrint/106" title="WRINTheit 25">Wrintheit-25</a></li>
-            <li><a href="http://shownot.es/wrint/105" title="WRINT: Realitätsabgleich 12">Realitätsabgleich-12</a></li>
-            <li><a href="http://shownot.es/wrint/104" title="WRINT: Realitätsabgleich 11">Realitätsabgleich-11</a></li>
-            <li><a href="http://shownot.es/wrint/103" title="WRINTheit 24">Wrintheit-24</a></li>
-            <li><a href="http://shownot.es/wrint/99" title="WRINTheit 23">Wrintheit-23</a></li>
-            <li><a href="http://shownot.es/wrint/95" title="WRINTheit 22">Wrintheit-22</a></li>
-            <li><a href="http://shownot.es/wrint/92" title="WRINTheit 21">Wrintheit-21</a></li>
-            <li><a href="http://shownot.es/wrint/83" title="WRINTheit 20">Wrintheit-20</a></li>
-            <li><a href="http://shownot.es/wrint/78" title="WRINTheit 19">Wrintheit-19</a></li>
-            <li><a href="http://shownot.es/wrint/70" title="WRINTheit 18">Wrintheit-18</a></li>
-            <li><a href="http://shownot.es/wrint/68" title="WRINTheit 17">Wrintheit-17</a></li>
-            <li><a href="http://shownot.es/wrint/56" title="WRINTheit 16">Wrintheit-16</a></li>
-            <li><a href="http://shownot.es/wrint/53" title="WRINTheit 15">Wrintheit-15</a></li>
-            <li><a href="http://shownot.es/wrint/49" title="WRINTheit 14">Wrintheit-14</a></li>
-            <li><a href="http://shownot.es/wrint/46" title="WRINTheit 13">Wrintheit-13</a></li>
-            <li><a href="http://shownot.es/wrint/41" title="WRINTheit 12">Wrintheit-12</a></li>
-            <li><a href="http://shownot.es/wrint/38" title="WRINTheit 11">Wrintheit-11</a></li>
-            <li><a href="http://shownot.es/wrint/34" title="WRINTheit 10">Wrintheit-10</a></li>
-            <li><a href="http://shownot.es/wrint/33" title="WRINTheit 9">Wrintheit-9</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit" >
-            <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.psycho-talk.de/">Psychotalk</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/psyt_logo.png');">
-            <li><a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit">Zeit</a></li>
-            <li><a href="http://shownot.es/psyt/12" title="Psychotalk: Drogen">Drogen</a></li>
-            <li><a href="http://shownot.es/psyt/10" title="Psychotalk: Musik">Musik</a></li>
-            <li><a href="http://shownot.es/psyt/9" title="Psychotalk: Bücher">Bücher</a></li>
-            <li><a href="http://shownot.es/psyt/8" title="Psychotalk: Sex">Sex</a></li>
-            <li><a href="http://shownot.es/psyt/7" title="Psychotalk: Tiere">Tiere</a></li>
-            <li><a href="http://shownot.es/psyt/6" title="Psychotalk: StarTrek">StarTrek</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/jc_logo.png');">
+            <li><a href="http://shownot.es/jc/20" title="Jobscast 20">Jobscast-20</a></li>
+            <li><a href="http://shownot.es/jc/19" title="Jobscast 19">Jobscast-19</a></li>
+            <li><a href="http://shownot.es/jc/18" title="Jobscast 18">Jobscast-18</a></li>
+            <li><a href="http://shownot.es/jc/15" title="Jobscast 15">Jobscast-15</a></li>
+            <li><a href="http://shownot.es/jc/13" title="Jobscast 13">Jobscast-13</a></li>
+            <li><a href="http://shownot.es/jc/12" title="Jobscast 12">Jobscast-12</a></li>
+            <li><a href="http://shownot.es/jc/11" title="Jobscast 11">Jobscast-11</a></li>
+            <li><a href="http://shownot.es/jc/10" title="Jobscast 10">Jobscast-10</a></li>
+            <li><a href="http://shownot.es/jc/9" title="Jobscast 9">Jobscast-9</a></li>
+            <li><a href="http://shownot.es/jc/8" title="Jobscast 8">Jobscast-8</a></li>
+            <li><a href="http://shownot.es/jc/7" title="Jobscast 7">Jobscast-7</a></li>
           </ul>
         </div>
       </div>
@@ -727,28 +662,94 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/cr/195" title="Chaosradio 195" >
-            <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
+          <a href="http://shownot.es/sozio/32" title="SozioPod 032" >
+            <img src="http://shownot.es/img/logos/sozio_logo.png" alt="SozioPod Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://chaosradio.ccc.de/chaosradio.html">Chaosradio</a>
+          <a class="baf bluehover" href="http://soziopod.de/">SozioPod</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/cr_logo.png');">
-            <li><a href="http://shownot.es/cr/195" title="Chaosradio 195">Chaosradio-195</a></li>
-            <li><a href="http://shownot.es/cr/194" title="Chaosradio 194">Chaosradio-194</a></li>
-            <li><a href="http://shownot.es/cr/193" title="Chaosradio 193">Chaosradio-193</a></li>
-            <li><a href="http://shownot.es/cr/191" title="Chaosradio 191">Chaosradio-191</a></li>
-            <li><a href="http://shownot.es/cr/190" title="Chaosradio 190">Chaosradio-190</a></li>
-            <li><a href="http://shownot.es/cr/186" title="Chaosradio 186">Chaosradio-186</a></li>
-            <li><a href="http://shownot.es/cr/185" title="Chaosradio 185">Chaosradio-185</a></li>
-            <li><a href="http://shownot.es/cr/184" title="Chaosradio 184">Chaosradio-184</a></li>
-            <li><a href="http://shownot.es/cr/183" title="Chaosradio 183">Chaosradio-183</a></li>
-            <li><a href="http://shownot.es/cr/182" title="Chaosradio 182">Chaosradio-182</a></li>
-            <li><a href="http://shownot.es/cr/181" title="Chaosradio 181">Chaosradio-181</a></li>
-            <li><a href="http://shownot.es/cr/180" title="Chaosradio 180">Chaosradio-180</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/sozio_logo.png');">
+            <li><a href="http://shownot.es/sozio/32" title="SozioPod 032">Soziopod-032</a></li>
+            <li><a href="http://shownot.es/sozio/31" title="SozioPod 031">Soziopod-031</a></li>
+            <li><a href="http://shownot.es/sozio/30" title="SozioPod 030">Soziopod-030</a></li>
+            <li><a href="http://shownot.es/sozio/29" title="SozioPod 029">Soziopod-029</a></li>
+            <li><a href="http://shownot.es/sozio/28" title="SozioPod 028">Soziopod-028</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/abs/11" title="ABSradio 011" >
+            <img src="http://shownot.es/img/logos/abs_logo.png" alt="ABSradio Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://absradio.de/">ABSradio</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/abs_logo.png');">
+            <li><a href="http://shownot.es/abs/11" title="ABSradio 011">ABS-011</a></li>
+            <li><a href="http://shownot.es/abs/9" title="ABSradio 009">ABS-009</a></li>
+            <li><a href="http://shownot.es/abs/8" title="ABSradio 008">ABS-008</a></li>
+            <li><a href="http://shownot.es/abs/7" title="ABSradio 007">ABS-007</a></li>
+            <li><a href="http://shownot.es/abs/6" title="ABSradio 006">ABS-006</a></li>
+            <li><a href="http://shownot.es/abs/5" title="ABSradio 005">ABS-005</a></li>
+            <li><a href="http://shownot.es/abs/4" title="ABSradio 004">ABS-004</a></li>
+            <li><a href="http://shownot.es/abs/3" title="ABSradio 003">ABS-003</a></li>
+            <li><a href="http://shownot.es/abs/2" title="ABSradio 002">ABS-002</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76" >
+            <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://not-safe-for-work.de/">Not Safe for Work</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/nsfw_logo.png');">
+            <li><a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76">NSFW-76</a></li>
+            <li><a href="http://shownot.es/nsfw/75" title="Not Safe for Work 75">NSFW-75</a></li>
+            <li><a href="http://shownot.es/nsfw/74" title="Not Safe for Work 74">NSFW-74</a></li>
+            <li><a href="http://shownot.es/nsfw/73" title="Not Safe for Work 73">NSFW-73</a></li>
+            <li><a href="http://shownot.es/nsfw/72" title="Not Safe for Work 72">NSFW-72</a></li>
+            <li><a href="http://shownot.es/nsfw/71" title="Not Safe for Work 71">NSFW-71</a></li>
+            <li><a href="http://shownot.es/nsfw/70" title="Not Safe for Work 70">NSFW-70</a></li>
+            <li><a href="http://shownot.es/nsfw/69" title="Not Safe for Work 69">NSFW-69</a></li>
+            <li><a href="http://shownot.es/nsfw/68" title="Not Safe for Work 68">NSFW-68</a></li>
+            <li><a href="http://shownot.es/nsfw/67" title="Not Safe for Work 67">NSFW-67</a></li>
+            <li><a href="http://shownot.es/nsfw/66" title="Not Safe for Work 66">NSFW-66</a></li>
+            <li><a href="http://shownot.es/nsfw/65" title="Not Safe for Work 65">NSFW-65</a></li>
+            <li><a href="http://shownot.es/nsfw/64" title="Not Safe for Work 64">NSFW-64</a></li>
+            <li><a href="http://shownot.es/nsfw/63" title="Not Safe for Work 63">NSFW-63</a></li>
+            <li><a href="http://shownot.es/nsfw/62" title="Not Safe for Work 62">NSFW-62</a></li>
+            <li><a href="http://shownot.es/nsfw/61" title="Not Safe for Work 61">NSFW-61</a></li>
+            <li><a href="http://shownot.es/nsfw/60" title="Not Safe for Work 60">NSFW-60</a></li>
+            <li><a href="http://shownot.es/nsfw/59" title="Not Safe for Work 59">NSFW-59</a></li>
+            <li><a href="http://shownot.es/nsfw/58" title="Not Safe for Work 58">NSFW-58</a></li>
+            <li><a href="http://shownot.es/nsfw/57" title="Not Safe for Work 57">NSFW-57</a></li>
+            <li><a href="http://shownot.es/nsfw/56" title="Not Safe for Work 56">NSFW-56</a></li>
+            <li><a href="http://shownot.es/nsfw/55" title="Not Safe for Work 55">NSFW-55</a></li>
+            <li><a href="http://shownot.es/nsfw/54" title="Not Safe for Work 54">NSFW-54</a></li>
+            <li><a href="http://shownot.es/nsfw/53" title="Not Safe for Work 53">NSFW-53</a></li>
+            <li><a href="http://shownot.es/nsfw/52" title="Not Safe for Work 52">NSFW-52</a></li>
+            <li><a href="http://shownot.es/nsfw/51" title="Not Safe for Work 51">NSFW-51</a></li>
+            <li><a href="http://shownot.es/nsfw/50" title="Not Safe for Work 50">NSFW-50</a></li>
+            <li><a href="http://shownot.es/nsfw/49" title="Not Safe for Work 49">NSFW-49</a></li>
+            <li><a href="http://shownot.es/nsfw/48" title="Not Safe for Work 48">NSFW-48</a></li>
+            <li><a href="http://shownot.es/nsfw/47" title="Not Safe for Work 47">NSFW-47</a></li>
+            <li><a href="http://shownot.es/nsfw/46" title="Not Safe for Work 46">NSFW-46</a></li>
+            <li><a href="http://shownot.es/nsfw/45" title="Not Safe for Work 45">NSFW-45</a></li>
+            <li><a href="http://shownot.es/nsfw/44" title="Not Safe for Work 44">NSFW-44</a></li>
+            <li><a href="http://shownot.es/nsfw/41" title="Not Safe for Work 41">NSFW-41</a></li>
           </ul>
         </div>
       </div>
@@ -778,6 +779,31 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
+          <a href="http://shownot.es/qs/50" title="Quasselstrippen 050" >
+            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://die-quasselstrippen.de/">Quasselstrippen</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/qs_logo.png');">
+            <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
+            <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
+            <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
+            <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
+            <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
+            <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
+            <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
+            <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
+            <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
+            <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
           <a href="http://shownot.es/pp/31" title="Pubkameraden 31" >
             <img src="http://shownot.es/img/logos/pp_logo.png" alt="Pubkameraden Podcast Logo" />
           </a>
@@ -794,32 +820,6 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
             <li><a href="http://shownot.es/pp/28" title="Pubkameraden 28">PP-28</a></li>
             <li><a href="http://shownot.es/pp/27" title="Pubkameraden 27">PP-27</a></li>
             <li><a href="http://shownot.es/pp/18" title="Pubkameraden 18">PP-18</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/jc/20" title="Jobscast 20" >
-            <img src="http://shownot.es/img/logos/jc_logo.png" alt="Jobscast Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.jobscast.de/">Jobscast</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/jc_logo.png');">
-            <li><a href="http://shownot.es/jc/20" title="Jobscast 20">Jobscast-20</a></li>
-            <li><a href="http://shownot.es/jc/19" title="Jobscast 19">Jobscast-19</a></li>
-            <li><a href="http://shownot.es/jc/18" title="Jobscast 18">Jobscast-18</a></li>
-            <li><a href="http://shownot.es/jc/15" title="Jobscast 15">Jobscast-15</a></li>
-            <li><a href="http://shownot.es/jc/13" title="Jobscast 13">Jobscast-13</a></li>
-            <li><a href="http://shownot.es/jc/12" title="Jobscast 12">Jobscast-12</a></li>
-            <li><a href="http://shownot.es/jc/11" title="Jobscast 11">Jobscast-11</a></li>
-            <li><a href="http://shownot.es/jc/10" title="Jobscast 10">Jobscast-10</a></li>
-            <li><a href="http://shownot.es/jc/9" title="Jobscast 9">Jobscast-9</a></li>
-            <li><a href="http://shownot.es/jc/8" title="Jobscast 8">Jobscast-8</a></li>
-            <li><a href="http://shownot.es/jc/7" title="Jobscast 7">Jobscast-7</a></li>
           </ul>
         </div>
       </div>
@@ -908,6 +908,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
     </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><span style="text-align: right;display: inherit;margin-top: -25px;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span>
   </div>
 </div>
+<br/><br/>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
 
@@ -940,7 +941,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">29.10.13</a></li>
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1383513716 (22:21:56 03.11.2013)
-Generierungsdauer: 0.16120600700378 sec
---><?php if(1383600116 < time()){
+zuletzt aktualisiert um: 1383522304 (00:45:04 04.11.2013)
+Generierungsdauer: 0.030334949493408 sec
+--><?php if(1383608704 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>

@@ -120,11 +120,10 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
 <body onload="baf_listenerInit();">
 <div id="background"></div>
 <div class="content">
-  <div class="header">
-    <div class="title"><a href="http://shownot.es/"><img src="http://cdn.shownot.es/img/logo.png">Die Shownotes</a></div>
-  </div>
   <div class="box" id="main">
-    
+    <div class="header">
+      <div class="title"><a href="http://shownot.es/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
+    </div><br/><br/>
     <?php 
     
     $podcast = $_GET['podcast'];
