@@ -171,7 +171,7 @@ dd {
 
 .thispodcast .prev span, .thispodcast .next span {
   left: -11px;
-  top: -1px;
+  top: 5px;
 }
 
 .w80 {

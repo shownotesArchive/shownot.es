@@ -98,10 +98,10 @@ function printPodcastBox($podcast, $count) {
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/style.min.css?v=006" type="text/css" />
-  <link rel="stylesheet" href="/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/startseite.min.css?v=004" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/baf/css/baf.min.css?v=009" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/style.min.css?v=009" type="text/css" />
+  <link rel="stylesheet" href="/css/anycast.min.css?v=009" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/startseite.min.css?v=009" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
   <style>
@@ -284,6 +284,7 @@ for(; $i < $ele_count; $i++) {
     </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><span style="text-align: right;display: inherit;margin-top: -25px;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span>
   </div>
 </div>
+<br/><br/>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
 
