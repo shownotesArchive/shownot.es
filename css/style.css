@@ -1,6 +1,6 @@
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   font-size: 100%;
-  font-weight: initial;
+  font-weight: 200 !important;
   font-style: initial;
   font-family: initial;
   vertical-align: baseline;
@@ -98,9 +98,9 @@ ul {
   margin: 1em 0 1em 0;
   -webkit-box-shadow: 0px 3px 15px 0px rgba(15, 15, 15, 0.2);
   box-shadow: 0px 3px 15px 0px rgba(15, 15, 15, 0.2);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
 }
 
 input[type="text"]:focus, input[type="password"]:focus {
@@ -125,7 +125,7 @@ input[type='submit']:hover {
 }
 
 .footer a:last-child {
-  font-weight: normal;
+  font-weight: 200 !important;
 }
 
 .footer a, .footer a:visited {
