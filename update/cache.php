@@ -98,44 +98,12 @@ function printPodcastBox($podcast, $count) {
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="/baf/css/baf.min.css?v=009" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/style.min.css?v=009" type="text/css" />
-  <link rel="stylesheet" href="/css/anycast.min.css?v=009" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="/css/startseite.min.css?v=009" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/baf/css/baf.min.css?v=010" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/style.min.css?v=010" type="text/css" />
+  <link rel="stylesheet" href="/css/anycast.min.css?v=010" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/startseite.min.css?v=010" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
-  <style>
-    .flattrbtn {
-      float: left;
-    }
-    .flattrbtn iframe {
-      height: 20px;
-      width: 150px;
-      visibility: visible;
-      position: relative;
-      margin-right: 5px;
-    }
-    .column.grid_4 {
-      display: inline-block;
-      margin: 10px;
-    }
-    .baf-group.open [class^="dropdown-menu"] {
-      display: block;
-      margin-top: 1px;
-      position: fixed;
-      top: calc(50% - 100px);
-      left: calc(50% - 200px);
-      height: 200px;
-      width: 150px;
-      padding-left: 210px;
-      background-size: 210px;
-      background-repeat: no-repeat;
-      box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
-      -webkit-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
-      -moz-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
-      -o-box-shadow: 0px 0px 0px 825px rgba(64, 64, 64, 0.5);
-    }
-  </style>
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
