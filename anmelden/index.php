@@ -89,10 +89,10 @@
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
-  <div class="header" style="width: 430px; margin: auto; margin-bottom: 10px;">
-    <div class="title"><a href="/"><img src="http://shownot.es/img/logo.png" alt="Shownot.es Logo">Die Shownotes</a></div>
-  </div>
   <div class="box" id="main" style="width: 390px; margin: auto;">
+    <div class="header">
+      <div class="title"><a href="http://shownot.es/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
+    </div><br/><br/>
     <div class="contact">
       <p>INFO:</p>
       <p style="font-size:smaller; color: #555;">

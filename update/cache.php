@@ -51,7 +51,7 @@ function printPodcastBox($podcast, $count) {
       echo '          <a class="baf bluehover" href="' . $podcast[2] . '">' . htmlentities($podcast[0], ENT_QUOTES, "UTF-8") . '</a>';
       echo "\n";
       echo "          <a class=\"baf bluehover dropdown-toggle\" data-toggle=\"dropdown\" >\n";
-      echo "            <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\">\n";
+      echo "            <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\" style=\"background-image: url('http://shownot.es/img/logos/" . $podcast[3] . "');\">\n";
 
       echo '            <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
       echo "\n";
@@ -98,24 +98,12 @@ function printPodcastBox($podcast, $count) {
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="stylesheet" href="http://shownot.es/baf/css/baf.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=006" type="text/css" />
-  <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=006" type="text/css"  media="screen" />
-  <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=004" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/baf/css/baf.min.css?v=010" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/style.min.css?v=010" type="text/css" />
+  <link rel="stylesheet" href="/css/anycast.min.css?v=010" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="/css/startseite.min.css?v=010" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
-  <style>
-    .flattrbtn {
-      float: left;
-    }
-    .flattrbtn iframe {
-      height: 20px;
-      width: 150px;
-      visibility: visible;
-      position: relative;
-      margin-right: 5px;
-    }
-  </style>
 </head>
 <body onload="baf_listenerInit();">
 <div class="content">
@@ -240,15 +228,31 @@ for(; $i < $ele_count; $i++) {
       </div>
     </div>
     <hr />
-    <p>Wer Podcasts mag, sollte die <a href="http://hoersuppe.de/">H&ouml;rsuppe</a> kennen. Des weiteren ist <a href="http://podpott.de/">Podpott</a> immer einen Besuch wert. Transkriptionen findet man auf <a href="http://podcascription.de/">Podcascription</a>.</p>
-    <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="http://shownot.es/faq/">shownot.es/faq/</a></p>
-    <br/>
+    <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
+    <hr/>
+    <div class="widget-inner"><h3 class="widget-title">befreundete Projekte</h3>
+
+<div class="column grid_4"><a href="https://auphonic.com/" title="auphonic" target="_blank"><img src="http://cdn.shownot.es/snprojekte/auphonic_300.png" alt="auphonic" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://bitlove.org/" title="Bitlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Bitlove_300.png" alt="Bitlove" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://firtz.org/" title="firtz" target="_blank"><img src="http://cdn.shownot.es/snprojekte/firtz_300.png" alt="Podbe" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://hoersuppe.de/" title="Die Hoersuppe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/hoersuppe_300.png" alt="Die Hoersuppe" width="80" height="80"></a></div>
+<div class="column grid_4 last"><a href="http://podbe.wikibyte.org/" title="Podbe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podbe_300.png" alt="Podbe" width="80" height="80"></a></div>
+<div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://reliveradio.de/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
+<div class="column grid_4"></div>
+<div class="column grid_4 last"></div>
+<div class="clear"></div></div>
     <br/><div class="flattrbtn"><a class="FlattrButton" href="http://shownot.es/" title="Die Shownot.es" lang="de_DE">
       [description]
-    </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+    </a></div><iframe style="visibility: visible; height: 23px; width: 200px;" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fshownot.es%2F&amp;text=Die%20Shownot.es" style="width:110px; height:20px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe><span style="text-align: right;display: inherit;margin-top: -25px;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span>
   </div>
-  <div class="footer"><span style="text-align: right;">Alle Sendungsnotizen unterliegen der <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0-Lizenz</a> (Public Domain).</span></div>
 </div>
+<br/><br/>
 <script src="http://selfcss.org/baf/js/baf.min.js"></script>
 <script type="text/javascript">
 
