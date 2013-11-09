@@ -1,3 +1,6 @@
 [submodule "baf2"]
 	path = baf2
 	url = git@github.com:SimonWaldherr/BaF-Framework.git
+[submodule "archive/easySQL"]
+	path = archive/easySQL
+	url = https://github.com/SimonWaldherr/easySQL.git
