@@ -93,8 +93,8 @@ function printPodcastBox($podcast, $count) {
 <html lang="de"> 
 <head>
   <meta charset="utf-8" />
-  <title>Die Shownotes</title>
-  <meta name="viewport" content="width=715" />  
+  <title>Shownot.es</title>
+  <meta name="viewport" content="width=980" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
   <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
   <link rel="icon" type="image/x-icon" href="./favicon.ico" />
@@ -111,11 +111,11 @@ function printPodcastBox($podcast, $count) {
     <div class="header">
       <div class="title"><a href="/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
     </div>
-    <p style="margin-top: 1em;">
+    <p style="margin-top: 1em; text-align: center;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
     <div id="podcasts">
-      <p style="margin-top: 1em;">
+      <p style="margin-top: 1em; text-align: center;">
         Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
       </p>
       <br/><br/>
@@ -162,24 +162,11 @@ shuffle($podcast_arr);
 $ele_count=count($podcast_arr);
 $i=0;
 $j=0;
-for(; $i < $ele_count; $i++) {
+for($i = 0; $i < $ele_count; $i++) {
   $j = printPodcastBox($podcast_arr[$i], $j);
 }
 
 ?>
-
-<!-- re:publica 2013
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://shownot.es/rp13/"><img src="http://shownot.es/img/logos/rp_logo.png" alt="re-publica Logo" /></a>
-          
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/rp13/">re:publica</a>
-        </div>
-      </div>
--->      
-
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="http://shownot.es/anmelden/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
@@ -192,12 +179,6 @@ for(; $i < $ele_count; $i++) {
       
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
-      
-      <!--
-        <div style="margin-top: 1em;">
-        
-        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
-      </div>-->
     </div>
     <hr />
     <div style="margin: 0px;">
@@ -228,22 +209,22 @@ for(; $i < $ele_count; $i++) {
       </div>
     </div>
     <hr />
-    <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
+    <p style="text-align: center;">Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
     <hr/>
-    <div class="widget-inner"><h3 class="widget-title">befreundete Projekte</h3>
+    <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h3 class="widget-title">befreundete Projekte</h3>
 
 <div class="column grid_4"><a href="https://auphonic.com/" title="auphonic" target="_blank"><img src="http://cdn.shownot.es/snprojekte/auphonic_300.png" alt="auphonic" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://bitlove.org/" title="Bitlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Bitlove_300.png" alt="Bitlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://firtz.org/" title="firtz" target="_blank"><img src="http://cdn.shownot.es/snprojekte/firtz_300.png" alt="Podbe" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://hoersuppe.de/" title="Die Hoersuppe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/hoersuppe_300.png" alt="Die Hoersuppe" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podbe.wikibyte.org/" title="Podbe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podbe_300.png" alt="Podbe" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://reliveradio.de/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
 <div class="column grid_4"></div>
 <div class="column grid_4 last"></div>
 <div class="clear"></div></div>

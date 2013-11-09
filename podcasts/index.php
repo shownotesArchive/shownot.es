@@ -95,7 +95,7 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
 <head>
   <meta charset="utf-8" />
   <title><?php echo ShownoteTitle(); ?></title>
-  <meta name="viewport" content="width=715" />  
+  <meta name="viewport" content="width=980" />  
   <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
   <link href="http://selfcss.org/baf/css/baf.css?v=009" media="screen" rel="stylesheet" type="text/css"/>
