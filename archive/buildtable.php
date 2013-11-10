@@ -57,6 +57,7 @@ function parseUglyDate($str) {
 }
 
 $starttime = time();
+rename('./cache/osf/', './cache/'.$starttime.'/');
 
 foreach($dh as $file) {
   ini_set('max_execution_time', 120);
@@ -87,9 +88,10 @@ foreach($dh as $file) {
       $episode[$i]['shownoter'] = $parsed['shownoter']['data'];
       $episode[$i]['podcaster'] = $parsed['podcaster']['data'];
       $episode[$i]['episodetime'] = $parsed['episodetime'];
-      mkdir('./cache/'.$starttime.'/', 0777);
+      mkdir('./cache/osf/', 0777);
       file_put_contents('./cache/'.$starttime.'/'.$episode[$i]['podcast'].'_'.$episode[$i]['episode'].'.osf.txt', $parsed['osf']);
 
+      $insertEpisode = array();
       $insertEpisode[0] = $sql;
       $insertEpisode[1] = 'episodes';
       $insertEpisode['filename'] = $file;
@@ -101,6 +103,7 @@ foreach($dh as $file) {
       easysql_sqlite_insert($insertEpisode);
       
       foreach($episode[$i]['shownoter'] as $shownoter) {
+        $insertShownoter = array();
         $insertShownoter[0] = $sql;
         $insertShownoter[1] = 'shownoter';
         $insertShownoter['podcast'] = $episode[$i]['podcast'];
@@ -110,6 +113,7 @@ foreach($dh as $file) {
         easysql_sqlite_insert($insertShownoter);
       }
       foreach($episode[$i]['podcaster'] as $podcaster) {
+        $insertPodcaster = array();
         $insertPodcaster[0] = $sql;
         $insertPodcaster[1] = 'podcaster';
         $insertPodcaster['podcast'] = $episode[$i]['podcast'];
