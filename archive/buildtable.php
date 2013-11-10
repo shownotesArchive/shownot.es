@@ -81,22 +81,39 @@ foreach($dh as $file) {
           $episode[$i]['episode'] = date("d.m.Y", $date);
         }
       }
-      $episode[$i]['shownoter'] = $parsed['shownoter'];
-      $episode[$i]['podcaster'] = $parsed['podcaster'];
+      $episode[$i]['shownoter'] = $parsed['shownoter']['data'];
+      $episode[$i]['podcaster'] = $parsed['podcaster']['data'];
       $episode[$i]['episodetime'] = $parsed['episodetime'];
 
-      $insert[0] = $sql;
-      $insert[1] = 'episodes';
-      $insert['filename'] = $file;
-      $insert['podcast'] = $episode[$i]['podcast'];
-      $insert['episode'] = $episode[$i]['episode'];
-      $insert['filehash'] = $episode[$i]['file']['hash'];
-      $insert['episodetime'] = $episode[$i]['episodetime'];
-      $insert['filetime'] = time();
-
-      easysql_sqlite_insert($insert);
+      $insertEpisode[0] = $sql;
+      $insertEpisode[1] = 'episodes';
+      $insertEpisode['filename'] = $file;
+      $insertEpisode['podcast'] = $episode[$i]['podcast'];
+      $insertEpisode['episode'] = $episode[$i]['episode'];
+      $insertEpisode['filehash'] = $episode[$i]['file']['hash'];
+      $insertEpisode['episodetime'] = $episode[$i]['episodetime'];
+      $insertEpisode['filetime'] = time();
+      easysql_sqlite_insert($insertEpisode);
+      
+      foreach($episode[$i]['shownoter'] as $shownoter) {
+        $insertShownoter[0] = $sql;
+        $insertShownoter[1] = 'shownoter';
+        $insertShownoter['podcast'] = $episode[$i]['podcast'];
+        $insertShownoter['episode'] = $episode[$i]['episode'];
+        $insertShownoter['shownoter'] = $shownoter['name'];
+        $insertShownoter['shownoterurl'] = $shownoter['url'];
+        easysql_sqlite_insert($insertShownoter);
+      }
+      foreach($episode[$i]['podcaster'] as $podcaster) {
+        $insertPodcaster[0] = $sql;
+        $insertPodcaster[1] = 'podcaster';
+        $insertPodcaster['podcast'] = $episode[$i]['podcast'];
+        $insertPodcaster['episode'] = $episode[$i]['episode'];
+        $insertPodcaster['shownoter'] = $podcaster['name'];
+        $insertPodcaster['shownoterurl'] = $podcaster['url'];
+        easysql_sqlite_insert($insertPodcaster);
+      }
     }
-    $i++;
   }
 }
 
