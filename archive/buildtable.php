@@ -109,8 +109,8 @@ foreach($dh as $file) {
         $insertPodcaster[1] = 'podcaster';
         $insertPodcaster['podcast'] = $episode[$i]['podcast'];
         $insertPodcaster['episode'] = $episode[$i]['episode'];
-        $insertPodcaster['shownoter'] = $podcaster['name'];
-        $insertPodcaster['shownoterurl'] = $podcaster['url'];
+        $insertPodcaster['podcaster'] = $podcaster['name'];
+        $insertPodcaster['podcasterurl'] = $podcaster['url'];
         easysql_sqlite_insert($insertPodcaster);
       }
     }
