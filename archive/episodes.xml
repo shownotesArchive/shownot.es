@@ -6,7 +6,7 @@
 	<episode>29</episode>
 	<filehash>fcec3daeb7df47ff38a79baba4b92952</filehash>
 	<episodetime>1380368280</episodetime>
-	<filetime>1384047877</filetime>
+	<filetime>1384049991</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-1337kultur-30.json</filename>
@@ -14,7 +14,7 @@
 	<episode>30</episode>
 	<filehash>fae3ef00dc92cb7057c959a5880f2f3a</filehash>
 	<episodetime>1381060170</episodetime>
-	<filetime>1384047877</filetime>
+	<filetime>1384049991</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-1337kultur-31.json</filename>
@@ -22,7 +22,7 @@
 	<episode>31</episode>
 	<filehash>9a32ec410b0573150f30bb19d128c834</filehash>
 	<episodetime>1381664274</episodetime>
-	<filetime>1384047878</filetime>
+	<filetime>1384049992</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Culinaricast-GM2013.json</filename>
@@ -30,55 +30,55 @@
 	<episode>XX</episode>
 	<filehash>e9e46ce6abd600e96291eb43462941ea</filehash>
 	<episodetime>1374040400</episodetime>
-	<filetime>1384047878</filetime>
+	<filetime>1384049992</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-EP226.json</filename>
-	<podcast>&lt;http://einschlafen-podcast.de/&gt;</podcast>
-	<episode></episode>
-	<filehash>732bc43d431013606a83011f625538a2</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047879</filetime>
+	<podcast>Einschlafen Podcast</podcast>
+	<episode>226</episode>
+	<filehash>77230d896d91a33b8752ab91a5b4ecf7</filehash>
+	<episodetime>1365016140</episodetime>
+	<filetime>1384049992</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-EP227.json</filename>
-	<podcast>Einschlafen Podcast 227 vom 8.April 2013</podcast>
+	<podcast>Einschlafen Podcast</podcast>
 	<episode>227</episode>
-	<filehash>cb5097d91db8eef8950fd42bf2557236</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047879</filetime>
+	<filehash>a2209247772793ce026691fa11b742d1</filehash>
+	<episodetime>1365451620</episodetime>
+	<filetime>1384049992</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Hoaxilla-120.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>58d069b262f87aa5b8be2aa7dfd6709f</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047880</filetime>
+	<podcast>hoaxilla</podcast>
+	<episode>120</episode>
+	<filehash>468388d96ee7a7f79fae3f193188d275</filehash>
+	<episodetime>1364684400</episodetime>
+	<filetime>1384049993</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Hoaxilla-121.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>6c62a0d33c97630a863f0ef1007ab293</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047880</filetime>
+	<podcast>Hoaxilla</podcast>
+	<episode>121</episode>
+	<filehash>a29e98a34e94a6e79c8225eec5f98f06</filehash>
+	<episodetime>1365285600</episodetime>
+	<filetime>1384049993</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Hoaxilla-122.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>bba9d63b5109fa6becb72ba886f6d58b</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047880</filetime>
+	<podcast>Hoaxilla</podcast>
+	<episode>122</episode>
+	<filehash>0d618f0fa418b2ae994bf7cce0813484</filehash>
+	<episodetime>1365890400</episodetime>
+	<filetime>1384049994</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-LeCast-007.json</filename>
 	<podcast>LeCast</podcast>
 	<episode>7</episode>
 	<filehash>c3f87de78451ca48d841e817a21ce93f</filehash>
-	<episodetime>1384047880</episodetime>
-	<filetime>1384047880</filetime>
+	<episodetime>1384049994</episodetime>
+	<filetime>1384049994</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-LogbuchNetzpolitik-64.json</filename>
@@ -86,39 +86,31 @@
 	<episode>LNP64</episode>
 	<filehash>ceabc4b6b31665903078bf137606d456</filehash>
 	<episodetime>1368015445</episodetime>
-	<filetime>1384047881</filetime>
+	<filetime>1384049994</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-MM107.json</filename>
-	<podcast></podcast>
-	<episode>MM107</episode>
-	<filehash>66cd5f04a712c72d6496cd8ceac84a2d</filehash>
+	<podcast>mobileMacs</podcast>
+	<episode>107</episode>
+	<filehash>baca4cd2fdbb2cf1b2d94d577551f504</filehash>
 	<episodetime></episodetime>
-	<filetime>1384047881</filetime>
+	<filetime>1384049995</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Märchenstunde-27.json</filename>
 	<podcast>Märchenstunde</podcast>
-	<episode>Nr. 27</episode>
-	<filehash>f9849b46dccb35abec6ad430d409aba3</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047882</filetime>
+	<episode>27</episode>
+	<filehash>d03c5d2d057a45f22ea79436bbb07b83</filehash>
+	<episodetime>1367949600</episodetime>
+	<filetime>1384049996</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-NSFW067.json</filename>
 	<podcast>NSFW</podcast>
 	<episode>67</episode>
-	<filehash>e7d6e33a37bec2490427cbd5b36927d9</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047883</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-Sondersendung_rp2013.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>ece38c843531e84ad4b5ab016b899a8b</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047883</filetime>
+	<filehash>977f8d782c157c8f223eca40a504df3b</filehash>
+	<episodetime>1365589800</episodetime>
+	<filetime>1384049996</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-Wrint171.json</filename>
@@ -126,15 +118,15 @@
 	<episode>172</episode>
 	<filehash>9643523b1519655cac2941bcfeb50dfd</filehash>
 	<episodetime>1366805700</episodetime>
-	<filetime>1384047884</filetime>
+	<filetime>1384049997</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-002.json</filename>
 	<podcast>ABSradio</podcast>
-	<episode>ABS002</episode>
-	<filehash>16ba73171618e502638280ccdbd79278</filehash>
+	<episode>2</episode>
+	<filehash>f48010c6599c95dc2ac57bc4a153e619</filehash>
 	<episodetime>1369077613</episodetime>
-	<filetime>1384047884</filetime>
+	<filetime>1384049997</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-003.json</filename>
@@ -142,7 +134,7 @@
 	<episode>ABS003</episode>
 	<filehash>868e14c70655ee139ee133ddcc9d2d6b</filehash>
 	<episodetime>1369678311</episodetime>
-	<filetime>1384047884</filetime>
+	<filetime>1384049997</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-004.json</filename>
@@ -150,7 +142,7 @@
 	<episode>4</episode>
 	<filehash>94f08a6685ed56ac639f8eae04ea1914</filehash>
 	<episodetime>1371057180</episodetime>
-	<filetime>1384047885</filetime>
+	<filetime>1384049998</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-005.json</filename>
@@ -158,7 +150,7 @@
 	<episode>5</episode>
 	<filehash>96f3cd236b97c1a8aa8db750b9ebb674</filehash>
 	<episodetime>1372005145</episodetime>
-	<filetime>1384047885</filetime>
+	<filetime>1384049998</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-006.json</filename>
@@ -166,7 +158,7 @@
 	<episode>6</episode>
 	<filehash>83d57555104099b03ae75ff4645d5557</filehash>
 	<episodetime>1372851505</episodetime>
-	<filetime>1384047886</filetime>
+	<filetime>1384049999</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-007.json</filename>
@@ -174,7 +166,7 @@
 	<episode>7</episode>
 	<filehash>c72c0b6c40c25ae47cc887b7cf42512c</filehash>
 	<episodetime>1374515460</episodetime>
-	<filetime>1384047886</filetime>
+	<filetime>1384050000</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-008.json</filename>
@@ -182,7 +174,7 @@
 	<episode>8</episode>
 	<filehash>f48e34e08d7d7205ce37e127eee6b1e5</filehash>
 	<episodetime>1377453600</episodetime>
-	<filetime>1384047887</filetime>
+	<filetime>1384050000</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-009.json</filename>
@@ -190,7 +182,7 @@
 	<episode>9</episode>
 	<filehash>6e5ad5dd2e11c0be06b95c6d51076fe2</filehash>
 	<episodetime>1378663200</episodetime>
-	<filetime>1384047887</filetime>
+	<filetime>1384050001</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-010.json</filename>
@@ -198,7 +190,7 @@
 	<episode>10</episode>
 	<filehash>735766060396bfc7c9d3758157ade118</filehash>
 	<episodetime>1379872800</episodetime>
-	<filetime>1384047888</filetime>
+	<filetime>1384050001</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-011.json</filename>
@@ -206,7 +198,7 @@
 	<episode>11</episode>
 	<filehash>9aa764433169cd8bdb22a40372cacef9</filehash>
 	<episodetime>1381082400</episodetime>
-	<filetime>1384047888</filetime>
+	<filetime>1384050001</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-012.json</filename>
@@ -214,7 +206,7 @@
 	<episode>12</episode>
 	<filehash>a50b28190dce92191b6f72c98eef17a1</filehash>
 	<episodetime>1382292000</episodetime>
-	<filetime>1384047888</filetime>
+	<filetime>1384050002</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-013.json</filename>
@@ -222,23 +214,15 @@
 	<episode>13</episode>
 	<filehash>793bee835884e762c93d4b490d348c5a</filehash>
 	<episodetime>1383505200</episodetime>
-	<filetime>1384047889</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-absradio-3.json</filename>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<filehash>868e14c70655ee139ee133ddcc9d2d6b</filehash>
-	<episodetime>1369678311</episodetime>
-	<filetime>1384047889</filetime>
+	<filetime>1384050002</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-antalyacity-002.json</filename>
 	<podcast>Antalyacity</podcast>
-	<episode></episode>
-	<filehash>28f0be8221ea290d27edbe4b9daed377</filehash>
-	<episodetime>1384047890</episodetime>
-	<filetime>1384047890</filetime>
+	<episode>2</episode>
+	<filehash>3c9be3f28fbff90746e2388bfc4ddba5</filehash>
+	<episodetime>1372495020</episodetime>
+	<filetime>1384050003</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-anycast-33.json</filename>
@@ -246,7 +230,7 @@
 	<episode>33</episode>
 	<filehash>228dcfeb08e845955605e18c824b1914</filehash>
 	<episodetime>1368804600</episodetime>
-	<filetime>1384047890</filetime>
+	<filetime>1384050003</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-apm-001.json</filename>
@@ -254,7 +238,7 @@
 	<episode>1</episode>
 	<filehash>45dddab45a57f0cba40fbb854dffccf6</filehash>
 	<episodetime>1377417664</episodetime>
-	<filetime>1384047890</filetime>
+	<filetime>1384050003</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-apm-002.json</filename>
@@ -262,7 +246,7 @@
 	<episode>2</episode>
 	<filehash>f6f03782cdde08da76fea85855db7b88</filehash>
 	<episodetime>1378908000</episodetime>
-	<filetime>1384047891</filetime>
+	<filetime>1384050004</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-58.json</filename>
@@ -270,7 +254,7 @@
 	<episode>58</episode>
 	<filehash>04a9cfb6b34a5cc3b849a85ba867c467</filehash>
 	<episodetime>1373655180</episodetime>
-	<filetime>1384047891</filetime>
+	<filetime>1384050004</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-59.json</filename>
@@ -278,7 +262,7 @@
 	<episode>59</episode>
 	<filehash>35347c34bfbc59b09557b3a1fc93f8e2</filehash>
 	<episodetime>1374168600</episodetime>
-	<filetime>1384047892</filetime>
+	<filetime>1384050005</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-60.json</filename>
@@ -286,7 +270,7 @@
 	<episode>60</episode>
 	<filehash>4cb5ee9c817d3a39673def6ab882b2c5</filehash>
 	<episodetime>1374773400</episodetime>
-	<filetime>1384047892</filetime>
+	<filetime>1384050005</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-62.json</filename>
@@ -294,7 +278,7 @@
 	<episode>62</episode>
 	<filehash>f340c75749d42bab7b0c4e6684e7a996</filehash>
 	<episodetime>1375983000</episodetime>
-	<filetime>1384047892</filetime>
+	<filetime>1384050005</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-67.json</filename>
@@ -302,7 +286,7 @@
 	<episode>67</episode>
 	<filehash>28c0cf5f962c1097b7fdb5e30bc4447f</filehash>
 	<episodetime>1379611800</episodetime>
-	<filetime>1384047893</filetime>
+	<filetime>1384050005</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-binaergewitter-68.json</filename>
@@ -310,7 +294,7 @@
 	<episode>68</episode>
 	<filehash>8b180de907501d9fce29e90b92db1bf1</filehash>
 	<episodetime>1380216600</episodetime>
-	<filetime>1384047893</filetime>
+	<filetime>1384050006</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-011013.json</filename>
@@ -318,31 +302,31 @@
 	<episode>01.10.2013</episode>
 	<filehash>161ab067ed43942fe9953b633404d802</filehash>
 	<episodetime>1380657970</episodetime>
-	<filetime>1384047893</filetime>
+	<filetime>1384050006</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-020613.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>20.06.2013</episode>
-	<filehash>3ab273c1e8740d0a0871e921dc4b14e0</filehash>
+	<episode>2062013</episode>
+	<filehash>460141422549010992f430b367198beb</filehash>
 	<episodetime>1370203300</episodetime>
-	<filetime>1384047894</filetime>
+	<filetime>1384050007</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-02072013.json</filename>
 	<podcast>bluemoon</podcast>
 	<episode>2072013</episode>
-	<filehash>8a8249976a31f88987074a1fd94799e0</filehash>
+	<filehash>7d565f6e967986ac5cbb138fdf221f91</filehash>
 	<episodetime>1372795200</episodetime>
-	<filetime>1384047894</filetime>
+	<filetime>1384050007</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-030913.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>30.09.2013</episode>
-	<filehash>d74975c0f5b800257bb580489e79f09f</filehash>
+	<episode>3092013</episode>
+	<filehash>9fe38d20c8f2d21b46db62908557c9b8</filehash>
 	<episodetime>1378238635</episodetime>
-	<filetime>1384047895</filetime>
+	<filetime>1384050008</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-040613.json</filename>
@@ -350,7 +334,7 @@
 	<episode>04.06.2013</episode>
 	<filehash>556bfc3f4fa9438b848070e31244f876</filehash>
 	<episodetime>1370376392</episodetime>
-	<filetime>1384047895</filetime>
+	<filetime>1384050008</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-050513.json</filename>
@@ -358,7 +342,7 @@
 	<episode>05.05.2013</episode>
 	<filehash>3b057cd41badf0b2951247ccb4926671</filehash>
 	<episodetime>1367784000</episodetime>
-	<filetime>1384047896</filetime>
+	<filetime>1384050009</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-051113.json</filename>
@@ -366,7 +350,7 @@
 	<episode>05.11.2013</episode>
 	<filehash>ae39360f6e25603f1d48f86ee3c7ce1b</filehash>
 	<episodetime>1383685440</episodetime>
-	<filetime>1384047896</filetime>
+	<filetime>1384050009</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-060613.json</filename>
@@ -374,7 +358,7 @@
 	<episode>06.06.2013</episode>
 	<filehash>00b7831dc972606fbdb0150fc1c8378a</filehash>
 	<episodetime>1370548781</episodetime>
-	<filetime>1384047896</filetime>
+	<filetime>1384050009</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-060813.json</filename>
@@ -382,7 +366,7 @@
 	<episode>06.08.2013</episode>
 	<filehash>ff05d9fff95d8e2af5d2b6dcba115247</filehash>
 	<episodetime>1375819510</episodetime>
-	<filetime>1384047897</filetime>
+	<filetime>1384050010</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-061013.json</filename>
@@ -390,7 +374,7 @@
 	<episode>06.10.2013</episode>
 	<filehash>50f4938941100bf99de202345e777695</filehash>
 	<episodetime>1381089600</episodetime>
-	<filetime>1384047898</filetime>
+	<filetime>1384050011</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-070513.json</filename>
@@ -398,15 +382,15 @@
 	<episode>07.05.2013</episode>
 	<filehash>ea21c619f48edb2ec19e5f86fab89b4e</filehash>
 	<episodetime>1367956800</episodetime>
-	<filetime>1384047898</filetime>
+	<filetime>1384050011</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-07072013.json</filename>
 	<podcast>bluemoon</podcast>
 	<episode>7072013</episode>
-	<filehash>458388244efbb9b0ed26ae42878256f6</filehash>
+	<filehash>ea83c3aae0ec42576110a29651848785</filehash>
 	<episodetime>1373227200</episodetime>
-	<filetime>1384047899</filetime>
+	<filetime>1384050012</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-081013.json</filename>
@@ -414,7 +398,7 @@
 	<episode>08.10.2013</episode>
 	<filehash>3556b03a2fabe6310d8aef9a458e7f8e</filehash>
 	<episodetime>1381262400</episodetime>
-	<filetime>1384047899</filetime>
+	<filetime>1384050012</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-091013.json</filename>
@@ -422,7 +406,7 @@
 	<episode>09.10.2013</episode>
 	<filehash>46c1a48b3feb6215d2fd7b1f4e5f1881</filehash>
 	<episodetime>1381348800</episodetime>
-	<filetime>1384047900</filetime>
+	<filetime>1384050012</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-100913.json</filename>
@@ -430,31 +414,31 @@
 	<episode>10.09.2013</episode>
 	<filehash>2cd3b062decebf5138a548547d1cc99c</filehash>
 	<episodetime>1378843295</episodetime>
-	<filetime>1384047900</filetime>
+	<filetime>1384050013</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-102.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>102</episode>
-	<filehash>01c87776e6a57c38f3221a4b6d6b4dae</filehash>
+	<episode>09.07.2013</episode>
+	<filehash>c024ab59f4f7e4913825266de9bb34cf</filehash>
 	<episodetime>1373400000</episodetime>
-	<filetime>1384047900</filetime>
+	<filetime>1384050013</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-105.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>105</episode>
-	<filehash>571a8e5a00f1ad1c79767511375e3e57</filehash>
+	<episode>17.07.2013</episode>
+	<filehash>9816c55bec92783c9564fa35dc0dad0e</filehash>
 	<episodetime>1374091200</episodetime>
-	<filetime>1384047900</filetime>
+	<filetime>1384050013</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-109.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>109</episode>
-	<filehash>c04aca49a70a604b6e9259d2e777b4e6</filehash>
+	<episode>04.08.2013</episode>
+	<filehash>0587b0d23bead181e016a7a7daba809a</filehash>
 	<episodetime>1375646640</episodetime>
-	<filetime>1384047901</filetime>
+	<filetime>1384050014</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-11062013.json</filename>
@@ -462,7 +446,7 @@
 	<episode>11.06.2013</episode>
 	<filehash>4396d06597c9291b55e2381d24950cd9</filehash>
 	<episodetime>1370980800</episodetime>
-	<filetime>1384047901</filetime>
+	<filetime>1384050014</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-120513.json</filename>
@@ -470,15 +454,15 @@
 	<episode>12.05.2013</episode>
 	<filehash>63c86a5d1168188ad009f8ff0151463d</filehash>
 	<episodetime>1368388800</episodetime>
-	<filetime>1384047902</filetime>
+	<filetime>1384050015</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-128.json</filename>
 	<podcast>bluemoon</podcast>
-	<episode>128</episode>
-	<filehash>7386454a876a25d44c875e72d926e09d</filehash>
+	<episode>15.10.2013</episode>
+	<filehash>ba5af29ea6886869114c6ff3280da6d9</filehash>
 	<episodetime>1381867275</episodetime>
-	<filetime>1384047902</filetime>
+	<filetime>1384050015</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-130813.json</filename>
@@ -486,7 +470,7 @@
 	<episode>13.08.2013</episode>
 	<filehash>f8fab6735cd0b3d4588e6a42b8de3590</filehash>
 	<episodetime>1376424195</episodetime>
-	<filetime>1384047903</filetime>
+	<filetime>1384050016</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-131013.json</filename>
@@ -494,15 +478,15 @@
 	<episode>13.10.2013</episode>
 	<filehash>26674b273f775acf41c8a370647fdca8</filehash>
 	<episodetime>1381694400</episodetime>
-	<filetime>1384047903</filetime>
+	<filetime>1384050016</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-14-04-13.json</filename>
 	<podcast>Bluemoon</podcast>
-	<episode>83</episode>
-	<filehash>08a586079ef3a04e9828b6ef80a2ac42</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047904</filetime>
+	<episode>14.04.2013</episode>
+	<filehash>9e0b1ae09bfbecf7f809b7e6e47cbfa2</filehash>
+	<episodetime>1365969600</episodetime>
+	<filetime>1384050017</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-140513.json</filename>
@@ -510,7 +494,7 @@
 	<episode>14.05.2013</episode>
 	<filehash>1d406b29418eadc1661c4fa0323045f8</filehash>
 	<episodetime>1368561897</episodetime>
-	<filetime>1384047904</filetime>
+	<filetime>1384050017</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-14072013.json</filename>
@@ -518,7 +502,7 @@
 	<episode>14.07.2013</episode>
 	<filehash>fadc132677e45a4809ea25756aaab3d4</filehash>
 	<episodetime>1373832000</episodetime>
-	<filetime>1384047905</filetime>
+	<filetime>1384050018</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-150813.json</filename>
@@ -526,7 +510,7 @@
 	<episode>15.08.2013</episode>
 	<filehash>058ae27ddde121dfebd6c84e4f970f69</filehash>
 	<episodetime>1376596945</episodetime>
-	<filetime>1384047906</filetime>
+	<filetime>1384050019</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-160613.json</filename>
@@ -534,7 +518,7 @@
 	<episode>16.06.2013</episode>
 	<filehash>e8a73209dbcbc90bcc8ab716ccbed92d</filehash>
 	<episodetime>1371412800</episodetime>
-	<filetime>1384047906</filetime>
+	<filetime>1384050019</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-16072013.json</filename>
@@ -542,7 +526,7 @@
 	<episode>16.07.2013</episode>
 	<filehash>1973b02ac702021b68f1193f44de0950</filehash>
 	<episodetime>1374004800</episodetime>
-	<filetime>1384047906</filetime>
+	<filetime>1384050019</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-170913.json</filename>
@@ -550,7 +534,7 @@
 	<episode>17.09.2013</episode>
 	<filehash>701e07f0342ae253214da0edc77ac1de</filehash>
 	<episodetime>1379448210</episodetime>
-	<filetime>1384047907</filetime>
+	<filetime>1384050020</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-180613.json</filename>
@@ -558,7 +542,7 @@
 	<episode>18.06.2013</episode>
 	<filehash>0c163c437f3ba3de7254fc69163e0756</filehash>
 	<episodetime>1371585760</episodetime>
-	<filetime>1384047907</filetime>
+	<filetime>1384050020</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-180813.json</filename>
@@ -566,7 +550,7 @@
 	<episode>18.08.2013</episode>
 	<filehash>3ed621828c92f92d101dc007b0d1d233</filehash>
 	<episodetime>1376856320</episodetime>
-	<filetime>1384047908</filetime>
+	<filetime>1384050021</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-190513.json</filename>
@@ -574,7 +558,7 @@
 	<episode>19.05.2013</episode>
 	<filehash>bff8347cd956cd3b37758d000c13e39e</filehash>
 	<episodetime>1368993600</episodetime>
-	<filetime>1384047908</filetime>
+	<filetime>1384050021</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-200813.json</filename>
@@ -582,7 +566,7 @@
 	<episode>20.08.2013</episode>
 	<filehash>c162c4de1bd6840a2722f3f83f485070</filehash>
 	<episodetime>1377029135</episodetime>
-	<filetime>1384047909</filetime>
+	<filetime>1384050021</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-201013.json</filename>
@@ -590,7 +574,7 @@
 	<episode>20.10.2013</episode>
 	<filehash>8bce44ca44280a684448ec286b347e05</filehash>
 	<episodetime>1382299200</episodetime>
-	<filetime>1384047909</filetime>
+	<filetime>1384050022</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-20130728.json</filename>
@@ -598,7 +582,7 @@
 	<episode>28.07.2013</episode>
 	<filehash>5940d102e0b65ee389b04195b18c8cf9</filehash>
 	<episodetime>1375041600</episodetime>
-	<filetime>1384047910</filetime>
+	<filetime>1384050022</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-210513.json</filename>
@@ -606,7 +590,7 @@
 	<episode>21.05.2013</episode>
 	<filehash>7a1a01b98911029a74a89cc9ea140548</filehash>
 	<episodetime>1369166400</episodetime>
-	<filetime>1384047910</filetime>
+	<filetime>1384050023</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-21072013.json</filename>
@@ -614,7 +598,7 @@
 	<episode>21.07.2013</episode>
 	<filehash>936a3edd1a30a9e441996783a592421f</filehash>
 	<episodetime>1374436800</episodetime>
-	<filetime>1384047911</filetime>
+	<filetime>1384050024</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-220913.json</filename>
@@ -622,7 +606,7 @@
 	<episode>22.09.2013</episode>
 	<filehash>6a35bc124dbdd5c2b791dd9b4e74d76c</filehash>
 	<episodetime>1379880000</episodetime>
-	<filetime>1384047911</filetime>
+	<filetime>1384050024</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-221013.json</filename>
@@ -630,7 +614,7 @@
 	<episode>22.10.2013</episode>
 	<filehash>824f30369a6c8d04fa2c66764f415f5b</filehash>
 	<episodetime>1382472000</episodetime>
-	<filetime>1384047912</filetime>
+	<filetime>1384050024</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-230613.json</filename>
@@ -638,7 +622,7 @@
 	<episode>23.06.2013</episode>
 	<filehash>34e6cfb51315b61d66488e0e83edcf0c</filehash>
 	<episodetime>1372017798</episodetime>
-	<filetime>1384047912</filetime>
+	<filetime>1384050025</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-230713.json</filename>
@@ -646,7 +630,7 @@
 	<episode>23.07.2013</episode>
 	<filehash>6ef9633c77103b6165d33a7ca47f5ec0</filehash>
 	<episodetime>1374609600</episodetime>
-	<filetime>1384047912</filetime>
+	<filetime>1384050025</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-231013.json</filename>
@@ -654,7 +638,7 @@
 	<episode>23.10.2013</episode>
 	<filehash>0a47228e8ea2a16abc2de43a06fec947</filehash>
 	<episodetime>1382558640</episodetime>
-	<filetime>1384047913</filetime>
+	<filetime>1384050025</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-240913.json</filename>
@@ -662,7 +646,7 @@
 	<episode>24.09.2013</episode>
 	<filehash>2b955f982c29e314d0ff6cf99ba9d6c2</filehash>
 	<episodetime>1380053245</episodetime>
-	<filetime>1384047913</filetime>
+	<filetime>1384050026</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-250613.json</filename>
@@ -670,7 +654,7 @@
 	<episode>25.06.2013</episode>
 	<filehash>4e3085084aad178df6e5ef7d58c54d71</filehash>
 	<episodetime>1372190645</episodetime>
-	<filetime>1384047914</filetime>
+	<filetime>1384050026</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-260513.json</filename>
@@ -678,7 +662,7 @@
 	<episode>26.05.2013</episode>
 	<filehash>5605522815e21b43acb8da9d9a46109b</filehash>
 	<episodetime>1369598400</episodetime>
-	<filetime>1384047914</filetime>
+	<filetime>1384050027</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-260613.json</filename>
@@ -686,7 +670,7 @@
 	<episode>bluemoon-260613</episode>
 	<filehash>f72fd16d53b61502ad4ca92bd3f9d1ff</filehash>
 	<episodetime>1372276890</episodetime>
-	<filetime>1384047915</filetime>
+	<filetime>1384050027</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-270813.json</filename>
@@ -694,7 +678,7 @@
 	<episode>bluemoon-270813</episode>
 	<filehash>32dba8922f70e9085bff67531455cd9f</filehash>
 	<episodetime>1377633830</episodetime>
-	<filetime>1384047915</filetime>
+	<filetime>1384050028</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-271013.json</filename>
@@ -702,7 +686,7 @@
 	<episode>27.10.2013</episode>
 	<filehash>77e36a7887a0865fb5acfc2f62ce50f9</filehash>
 	<episodetime>1382907660</episodetime>
-	<filetime>1384047915</filetime>
+	<filetime>1384050028</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-280513.json</filename>
@@ -710,7 +694,7 @@
 	<episode>28.05.2013</episode>
 	<filehash>7f3164bfb2d9e367243996ee1214d6fd</filehash>
 	<episodetime>1369771395</episodetime>
-	<filetime>1384047916</filetime>
+	<filetime>1384050028</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-290913.json</filename>
@@ -718,7 +702,7 @@
 	<episode>29.09.2013</episode>
 	<filehash>730f007b34a247d81ac499ea462be60c</filehash>
 	<episodetime>1380484800</episodetime>
-	<filetime>1384047916</filetime>
+	<filetime>1384050029</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-291013.json</filename>
@@ -726,7 +710,7 @@
 	<episode>29.10.2013</episode>
 	<filehash>9fad3e9ec502ec6084df4b763fa4b7bd</filehash>
 	<episodetime>1383080400</episodetime>
-	<filetime>1384047917</filetime>
+	<filetime>1384050029</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-300613.json</filename>
@@ -734,7 +718,7 @@
 	<episode>30.06.2013</episode>
 	<filehash>f0fce044d6a74da78d5899b9f36b4465</filehash>
 	<episodetime>1372622522</episodetime>
-	<filetime>1384047917</filetime>
+	<filetime>1384050030</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-86.json</filename>
@@ -742,15 +726,15 @@
 	<episode>19.05.2013</episode>
 	<filehash>ca6eaabf43cbc8d94e7fecc4a3531c39</filehash>
 	<episodetime>1368993654</episodetime>
-	<filetime>1384047917</filetime>
+	<filetime>1384050030</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bm81.json</filename>
 	<podcast>Blue Moon -Shownotes</podcast>
 	<episode>81</episode>
-	<filehash>aff89fef09fb5680a8d386d1ab463e9e</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047918</filetime>
+	<filehash>edede099a21c6fb0e6a49d8dc12b1c4d</filehash>
+	<episodetime>1365537600</episodetime>
+	<filetime>1384050030</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-bundesradio-BR007.json</filename>
@@ -758,7 +742,7 @@
 	<episode>BR007</episode>
 	<filehash>e2a82a81013893bac834112bcdbf4fc1</filehash>
 	<episodetime>1379858400</episodetime>
-	<filetime>1384047918</filetime>
+	<filetime>1384050031</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-chaosradio-0191.json</filename>
@@ -766,7 +750,7 @@
 	<episode>191</episode>
 	<filehash>bbab57887c4cc4edf4cb442787fe629a</filehash>
 	<episodetime>1372363245</episodetime>
-	<filetime>1384047919</filetime>
+	<filetime>1384050031</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-chaosradio-191.json</filename>
@@ -774,7 +758,7 @@
 	<episode>190</episode>
 	<filehash>c19148c3f3bf191e06d0007b8528d0fa</filehash>
 	<episodetime>1369944098</episodetime>
-	<filetime>1384047920</filetime>
+	<filetime>1384050032</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-chaosradio-193.json</filename>
@@ -782,7 +766,7 @@
 	<episode>193</episode>
 	<filehash>afeef8ce28476b3cc41e61f817b3748c</filehash>
 	<episodetime>1377806400</episodetime>
-	<filetime>1384047920</filetime>
+	<filetime>1384050033</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-chaosradio-194.json</filename>
@@ -790,7 +774,7 @@
 	<episode>194</episode>
 	<filehash>0b189e76289865372a13c345fc605fa6</filehash>
 	<episodetime>1380225630</episodetime>
-	<filetime>1384047921</filetime>
+	<filetime>1384050033</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-chaosradio-195.json</filename>
@@ -798,31 +782,23 @@
 	<episode>195</episode>
 	<filehash>725a2318d3b5c9053ad7dfcbc9b729f1</filehash>
 	<episodetime>1383253365</episodetime>
-	<filetime>1384047922</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-cre-166.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>8062306b24fd9b8f2b413772db455d15</filehash>
-	<episodetime>1384047922</episodetime>
-	<filetime>1384047922</filetime>
+	<filetime>1384050034</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-cre-198.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>2b07114a59ee98b3705a3f50e0794b5d</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047923</filetime>
+	<podcast>CRE</podcast>
+	<episode>198</episode>
+	<filehash>d620c6dc5dfb9acebdec2bdaafef494e</filehash>
+	<episodetime>1351983600</episodetime>
+	<filetime>1384050035</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-cre-200.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>8bb8d496d6fe938f3a23c80e513b9b20</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047923</filetime>
+	<podcast>CRE</podcast>
+	<episode>200</episode>
+	<filehash>3c66f3de5e2ee7a1e1c508efaaa377f0</filehash>
+	<episodetime>1360018800</episodetime>
+	<filetime>1384050035</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-culinaricast-084.json</filename>
@@ -830,7 +806,7 @@
 	<episode>84</episode>
 	<filehash>b6336f059bbc19a18c9ac310535fd8e7</filehash>
 	<episodetime>1369558740</episodetime>
-	<filetime>1384047923</filetime>
+	<filetime>1384050035</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-culinaricast-085.json</filename>
@@ -838,7 +814,7 @@
 	<episode>85 - Erdbeeren</episode>
 	<filehash>cc3dc3b95a8d62435357f2bf864f3cd2</filehash>
 	<episodetime>1372190220</episodetime>
-	<filetime>1384047923</filetime>
+	<filetime>1384050036</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-culinaricast-086.json</filename>
@@ -846,7 +822,7 @@
 	<episode>86 - Kochbücher</episode>
 	<filehash>93c22a058d397a869413508c6ccf2989</filehash>
 	<episodetime>1372184820</episodetime>
-	<filetime>1384047924</filetime>
+	<filetime>1384050036</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-culinaricast-087.json</filename>
@@ -854,7 +830,7 @@
 	<episode>87 - Bacon</episode>
 	<filehash>c2a29b97c6fd62d26998fa357a29183a</filehash>
 	<episodetime>1374523260</episodetime>
-	<filetime>1384047924</filetime>
+	<filetime>1384050036</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-culinaricast-088.json</filename>
@@ -862,23 +838,23 @@
 	<episode>88</episode>
 	<filehash>5f35ae3eb03098f9ebbe3dfdae234da8</filehash>
 	<episodetime>1376306609</episodetime>
-	<filetime>1384047925</filetime>
+	<filetime>1384050037</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-datenkanal-024.json</filename>
 	<podcast>Datenkanal</podcast>
 	<episode>24</episode>
 	<filehash>02a36d8aadade5079c6f85c45734b990</filehash>
-	<episodetime>1384047925</episodetime>
-	<filetime>1384047925</filetime>
+	<episodetime>1384050037</episodetime>
+	<filetime>1384050037</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-datenkanal-025.json</filename>
 	<podcast>Datenkanal</podcast>
 	<episode>25</episode>
 	<filehash>d42406126a3e12c91710c542b6b449e4</filehash>
-	<episodetime>1384047925</episodetime>
-	<filetime>1384047925</filetime>
+	<episodetime>1384050037</episodetime>
+	<filetime>1384050037</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-datenkanal-026.json</filename>
@@ -886,15 +862,15 @@
 	<episode>26</episode>
 	<filehash>5d975c2c61aca28f199e81d51ed6c6d0</filehash>
 	<episodetime>1374411600</episodetime>
-	<filetime>1384047925</filetime>
+	<filetime>1384050038</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-datenkanal-027.json</filename>
 	<podcast>Datenkanal</podcast>
 	<episode>27</episode>
-	<filehash>7f1968d5031aff1dd172a055881a5813</filehash>
+	<filehash>4b1d9bccb6d02e9b695bd058fc23386e</filehash>
 	<episodetime></episodetime>
-	<filetime>1384047926</filetime>
+	<filetime>1384050038</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-devradio-238.json</filename>
@@ -902,7 +878,7 @@
 	<episode>238</episode>
 	<filehash>94d2316237dba3cc08008cb5d3381427</filehash>
 	<episodetime>1367751900</episodetime>
-	<filetime>1384047926</filetime>
+	<filetime>1384050038</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-die-stroemung-007.json</filename>
@@ -910,7 +886,7 @@
 	<episode>7</episode>
 	<filehash>ee2d5b9fc4979405f7c81e44788cf3f3</filehash>
 	<episodetime>1372874940</episodetime>
-	<filetime>1384047926</filetime>
+	<filetime>1384050039</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-die-stroemung-008.json</filename>
@@ -918,7 +894,7 @@
 	<episode>8</episode>
 	<filehash>74c51e6914e9edcf136decb2fbab2fb9</filehash>
 	<episodetime>1376332560</episodetime>
-	<filetime>1384047927</filetime>
+	<filetime>1384050039</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-die-stroemung-009.json</filename>
@@ -926,7 +902,7 @@
 	<episode>9</episode>
 	<filehash>52f7c32ec8db3eac80a58badfa4f6737</filehash>
 	<episodetime>1381950000</episodetime>
-	<filetime>1384047928</filetime>
+	<filetime>1384050040</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-die-weisheit-203.json</filename>
@@ -934,15 +910,15 @@
 	<episode>wrint-203</episode>
 	<filehash>b1ccc6e2dfd56339ce9019cc676357fd</filehash>
 	<episodetime>1378029600</episodetime>
-	<filetime>1384047928</filetime>
+	<filetime>1384050040</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-dst-003.json</filename>
 	<podcast>dst</podcast>
 	<episode>3</episode>
 	<filehash>77202ae98e96f6de74f6f37a2f13b03f</filehash>
-	<episodetime>1384047928</episodetime>
-	<filetime>1384047928</filetime>
+	<episodetime>1384050041</episodetime>
+	<filetime>1384050041</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-229.json</filename>
@@ -950,15 +926,15 @@
 	<episode>229</episode>
 	<filehash>69735816a7b6ac570c33d4aa2b61e20f</filehash>
 	<episodetime>1366312280</episodetime>
-	<filetime>1384047929</filetime>
+	<filetime>1384050041</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-230.json</filename>
-	<podcast>Einschlafen Podcast 230 vom 22.April 2013</podcast>
+	<podcast>Einschlafen Podcast</podcast>
 	<episode>230</episode>
-	<filehash>829cb75117559a67e9eb89cc4dd5e266</filehash>
+	<filehash>3343ce4fa7b5400f617ecbe317538653</filehash>
 	<episodetime>1366657816</episodetime>
-	<filetime>1384047929</filetime>
+	<filetime>1384050042</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-231.json</filename>
@@ -966,7 +942,7 @@
 	<episode>231</episode>
 	<filehash>0e11f9f64b4033abe6f2aac74dbefda7</filehash>
 	<episodetime>1367262432</episodetime>
-	<filetime>1384047930</filetime>
+	<filetime>1384050042</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-232.json</filename>
@@ -974,7 +950,7 @@
 	<episode>232</episode>
 	<filehash>785d9e1f059aedb1d3ef293c922a9f18</filehash>
 	<episodetime>1367867220</episodetime>
-	<filetime>1384047931</filetime>
+	<filetime>1384050043</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-233.json</filename>
@@ -982,7 +958,7 @@
 	<episode>233</episode>
 	<filehash>5e3f222ed609932f7352f228528a77a3</filehash>
 	<episodetime>1368472297</episodetime>
-	<filetime>1384047931</filetime>
+	<filetime>1384050044</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-234.json</filename>
@@ -990,15 +966,15 @@
 	<episode>234</episode>
 	<filehash>bb919c17d30a1cb12eb5bfc7e955549a</filehash>
 	<episodetime>1369076950</episodetime>
-	<filetime>1384047932</filetime>
+	<filetime>1384050044</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-235.json</filename>
 	<podcast>einschlafen</podcast>
 	<episode>235</episode>
-	<filehash>1ae2699efefeed746c5fb5a85f2addab</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047932</filetime>
+	<filehash>2fce399efff09a1d7ef576e5fb4cabeb</filehash>
+	<episodetime>1369854120</episodetime>
+	<filetime>1384050045</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-236.json</filename>
@@ -1006,7 +982,7 @@
 	<episode>236</episode>
 	<filehash>62e5fc49d4eb1cb3eff2d2e5de5c65b3</filehash>
 	<episodetime>1370286415</episodetime>
-	<filetime>1384047933</filetime>
+	<filetime>1384050045</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-237.json</filename>
@@ -1014,7 +990,7 @@
 	<episode>237</episode>
 	<filehash>28122b88544e57addaabfcf522f9d622</filehash>
 	<episodetime>1370892613</episodetime>
-	<filetime>1384047933</filetime>
+	<filetime>1384050045</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-238.json</filename>
@@ -1022,7 +998,7 @@
 	<episode>238</episode>
 	<filehash>7cf33eeff95b1ea0ca7c1e95b05b79ea</filehash>
 	<episodetime>1371496195</episodetime>
-	<filetime>1384047934</filetime>
+	<filetime>1384050046</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-239.json</filename>
@@ -1030,7 +1006,7 @@
 	<episode>239</episode>
 	<filehash>964b0b26d32c7179dc17bb8d02c9ca21</filehash>
 	<episodetime>1372101015</episodetime>
-	<filetime>1384047934</filetime>
+	<filetime>1384050046</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-240.json</filename>
@@ -1038,7 +1014,7 @@
 	<episode>240</episode>
 	<filehash>ada0b8781e8d5a0101a371d6332c2683</filehash>
 	<episodetime>1372619481</episodetime>
-	<filetime>1384047934</filetime>
+	<filetime>1384050047</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-241.json</filename>
@@ -1046,7 +1022,7 @@
 	<episode>241</episode>
 	<filehash>023fc4455970f6f81663f04b449abf30</filehash>
 	<episodetime>1374179878</episodetime>
-	<filetime>1384047935</filetime>
+	<filetime>1384050047</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-242.json</filename>
@@ -1054,7 +1030,7 @@
 	<episode>242</episode>
 	<filehash>42fae8d65d02af5c617e604029c85c7a</filehash>
 	<episodetime>1374519600</episodetime>
-	<filetime>1384047935</filetime>
+	<filetime>1384050048</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-243.json</filename>
@@ -1062,7 +1038,7 @@
 	<episode>243</episode>
 	<filehash>f03608f655d23ec687bddbd59ba6c666</filehash>
 	<episodetime>1375124808</episodetime>
-	<filetime>1384047936</filetime>
+	<filetime>1384050048</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-244.json</filename>
@@ -1070,7 +1046,7 @@
 	<episode>244</episode>
 	<filehash>db90067a7d6e99c3787c01d91f96d497</filehash>
 	<episodetime>1375730020</episodetime>
-	<filetime>1384047936</filetime>
+	<filetime>1384050049</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-245.json</filename>
@@ -1078,7 +1054,7 @@
 	<episode>245</episode>
 	<filehash>96243955b8e1a407ca8c5fe03e817b72</filehash>
 	<episodetime>1376335800</episodetime>
-	<filetime>1384047937</filetime>
+	<filetime>1384050049</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-246.json</filename>
@@ -1086,7 +1062,7 @@
 	<episode>246</episode>
 	<filehash>c9855abd68899662630ae30312952a4e</filehash>
 	<episodetime>1376937570</episodetime>
-	<filetime>1384047937</filetime>
+	<filetime>1384050050</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-247.json</filename>
@@ -1094,7 +1070,7 @@
 	<episode>247</episode>
 	<filehash>106df66eb7c0dde55cd8699c5273453a</filehash>
 	<episodetime>1377628200</episodetime>
-	<filetime>1384047938</filetime>
+	<filetime>1384050050</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-248.json</filename>
@@ -1102,7 +1078,7 @@
 	<episode>248</episode>
 	<filehash>971784f20086b56ba48e3d7c8f21ba5b</filehash>
 	<episodetime>1378051570</episodetime>
-	<filetime>1384047938</filetime>
+	<filetime>1384050050</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-249.json</filename>
@@ -1110,7 +1086,7 @@
 	<episode>249</episode>
 	<filehash>61bcf18019d92593490c7a94e8e01546</filehash>
 	<episodetime>1378753200</episodetime>
-	<filetime>1384047938</filetime>
+	<filetime>1384050050</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-250.json</filename>
@@ -1118,7 +1094,7 @@
 	<episode>250</episode>
 	<filehash>eeba4ec3b4296e7f25823557ca1e0c8e</filehash>
 	<episodetime>1379961430</episodetime>
-	<filetime>1384047938</filetime>
+	<filetime>1384050051</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-251.json</filename>
@@ -1126,7 +1102,7 @@
 	<episode>251</episode>
 	<filehash>8ead44b0a45a31450a3d2ec55eeed396</filehash>
 	<episodetime>1380565942</episodetime>
-	<filetime>1384047939</filetime>
+	<filetime>1384050051</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-252.json</filename>
@@ -1134,7 +1110,7 @@
 	<episode>252</episode>
 	<filehash>fa88a2475363e482b4453f0b4b13401c</filehash>
 	<episodetime>1381171310</episodetime>
-	<filetime>1384047939</filetime>
+	<filetime>1384050052</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-253.json</filename>
@@ -1142,7 +1118,7 @@
 	<episode>253</episode>
 	<filehash>3f7139e64547eff08be743f0091f6d6e</filehash>
 	<episodetime>1381776160</episodetime>
-	<filetime>1384047940</filetime>
+	<filetime>1384050052</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-254.json</filename>
@@ -1150,7 +1126,7 @@
 	<episode>254</episode>
 	<filehash>7e16d0dd610248f9671f7964bd5d7326</filehash>
 	<episodetime>1382380240</episodetime>
-	<filetime>1384047940</filetime>
+	<filetime>1384050052</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-255.json</filename>
@@ -1158,7 +1134,7 @@
 	<episode>255</episode>
 	<filehash>9c09f8b9eaca20ac4ae71c85adbdc82c</filehash>
 	<episodetime>1382987517</episodetime>
-	<filetime>1384047940</filetime>
+	<filetime>1384050053</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-256.json</filename>
@@ -1166,7 +1142,7 @@
 	<episode>256</episode>
 	<filehash>2793f04a11b8fbfd8b61e9c67b88c01b</filehash>
 	<episodetime>1383590460</episodetime>
-	<filetime>1384047941</filetime>
+	<filetime>1384050053</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen-257.json</filename>
@@ -1174,7 +1150,7 @@
 	<episode>257</episode>
 	<filehash>5168e444640485c050466d87423df303</filehash>
 	<episodetime>1383676860</episodetime>
-	<filetime>1384047941</filetime>
+	<filetime>1384050054</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-einschlafen228.json</filename>
@@ -1182,7 +1158,7 @@
 	<episode>228</episode>
 	<filehash>f77fcf9fee65bc1445fd72b28f1ba77f</filehash>
 	<episodetime>1366060350</episodetime>
-	<filetime>1384047942</filetime>
+	<filetime>1384050054</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-115.json</filename>
@@ -1190,7 +1166,7 @@
 	<episode>115</episode>
 	<filehash>674fb941d17ccbcd240c83ea5310fd58</filehash>
 	<episodetime>1375896960</episodetime>
-	<filetime>1384047942</filetime>
+	<filetime>1384050055</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-116.json</filename>
@@ -1198,7 +1174,7 @@
 	<episode>116</episode>
 	<filehash>dbe2b8f658ed9333aeef1b1392eb5d5c</filehash>
 	<episodetime>1377106560</episodetime>
-	<filetime>1384047943</filetime>
+	<filetime>1384050056</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-117.json</filename>
@@ -1206,7 +1182,7 @@
 	<episode>117</episode>
 	<filehash>1766ca5d23f4c835f982e8971bc5061d</filehash>
 	<episodetime>1378315800</episodetime>
-	<filetime>1384047944</filetime>
+	<filetime>1384050057</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-118.json</filename>
@@ -1214,7 +1190,7 @@
 	<episode>118</episode>
 	<filehash>4a868dfab12eebd7e394007368b1c7ee</filehash>
 	<episodetime>1379526630</episodetime>
-	<filetime>1384047944</filetime>
+	<filetime>1384050057</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-119.json</filename>
@@ -1222,7 +1198,7 @@
 	<episode>119</episode>
 	<filehash>e17c1287bc0937c404d493a2749a2a5b</filehash>
 	<episodetime>1381946400</episodetime>
-	<filetime>1384047945</filetime>
+	<filetime>1384050058</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-freak-show-120.json</filename>
@@ -1230,7 +1206,7 @@
 	<episode>120</episode>
 	<filehash>4413921cf48284c38053769ada7d4b80</filehash>
 	<episodetime>1383159600</episodetime>
-	<filetime>1384047946</filetime>
+	<filetime>1384050059</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-happydaypodcast-001.json</filename>
@@ -1238,15 +1214,7 @@
 	<episode>1</episode>
 	<filehash>20cdbe0c6086db8576166629e470c41e</filehash>
 	<episodetime>1379329680</episodetime>
-	<filetime>1384047947</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-hoaxilla-125.json</filename>
-	<podcast></podcast>
-	<episode></episode>
-	<filehash>1c33d20716c6eed43e698c2788665d3c</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047947</filetime>
+	<filetime>1384050060</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-hoaxilla-128.json</filename>
@@ -1254,15 +1222,15 @@
 	<episode>128</episode>
 	<filehash>5910c06ece28dfbfc7e1038cab7c7b67</filehash>
 	<episodetime>1372010400</episodetime>
-	<filetime>1384047947</filetime>
+	<filetime>1384050060</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-hoaxilla-136.json</filename>
 	<podcast>hoaxilla</podcast>
 	<episode>136</episode>
-	<filehash>a4b342c3657495150d133ffd9b50dcc6</filehash>
+	<filehash>421624ad0affea9c9444ae9a1d1e8705</filehash>
 	<episodetime>1381076400</episodetime>
-	<filetime>1384047947</filetime>
+	<filetime>1384050060</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lateline-010.json</filename>
@@ -1270,23 +1238,23 @@
 	<episode>10</episode>
 	<filehash>4aef04530f5e122958b2bf6ee53e3350</filehash>
 	<episodetime>1375995880</episodetime>
-	<filetime>1384047948</filetime>
+	<filetime>1384050061</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lateline-08072013.json</filename>
 	<podcast>lateline</podcast>
-	<episode>8072013</episode>
-	<filehash>0c4520bf8486d74129b0965f1875e8c3</filehash>
+	<episode>08.07.2013</episode>
+	<filehash>f51b003f88ae9256a504f81cadf579b0</filehash>
 	<episodetime>1373317200</episodetime>
-	<filetime>1384047948</filetime>
+	<filetime>1384050061</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lautsprecher-011-kurz.json</filename>
 	<podcast></podcast>
 	<episode></episode>
 	<filehash>f92eb2938929bcdab57623a945e1a902</filehash>
-	<episodetime>1384047949</episodetime>
-	<filetime>1384047949</filetime>
+	<episodetime>1384050062</episodetime>
+	<filetime>1384050062</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lautsprecher-011.json</filename>
@@ -1294,23 +1262,23 @@
 	<episode>11</episode>
 	<filehash>d5fd5c4a69747a41034447496c30b8e2</filehash>
 	<episodetime>1372427100</episodetime>
-	<filetime>1384047949</filetime>
+	<filetime>1384050062</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lecast-006.json</filename>
 	<podcast>LeCast</podcast>
 	<episode>6</episode>
 	<filehash>827842f38b4e24c9e2e31148966ff0cd</filehash>
-	<episodetime>1384047950</episodetime>
-	<filetime>1384047950</filetime>
+	<episodetime>1384050063</episodetime>
+	<filetime>1384050063</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-lecast-008.json</filename>
 	<podcast>LeCast</podcast>
 	<episode>8</episode>
 	<filehash>6be421a51657d71a2ea67ef78454d12a</filehash>
-	<episodetime>1384047950</episodetime>
-	<filetime>1384047950</filetime>
+	<episodetime>1384050063</episodetime>
+	<filetime>1384050063</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-maerchenstunde-29.json</filename>
@@ -1318,7 +1286,7 @@
 	<episode>29</episode>
 	<filehash>4d92f22d983742be02f7d9c963e79a29</filehash>
 	<episodetime>1379617200</episodetime>
-	<filetime>1384047950</filetime>
+	<filetime>1384050063</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mikrodilettanten-57.json</filename>
@@ -1326,15 +1294,7 @@
 	<episode>57</episode>
 	<filehash>dcecd4254aed2113798da38a8cfd8e95</filehash>
 	<episodetime>1373565600</episodetime>
-	<filetime>1384047951</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-mikrodilettanten-test.json</filename>
-	<podcast>mikrodilettanten</podcast>
-	<episode>test</episode>
-	<filehash>99b2cb884de42e612f3b8fd0c8b15001</filehash>
-	<episodetime>1380736800</episodetime>
-	<filetime>1384047951</filetime>
+	<filetime>1384050064</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-108.json</filename>
@@ -1342,7 +1302,7 @@
 	<episode>108</episode>
 	<filehash>327cd14d4c3aafc0cf4514e6648ed50e</filehash>
 	<episodetime>1366220070</episodetime>
-	<filetime>1384047951</filetime>
+	<filetime>1384050064</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-109.json</filename>
@@ -1350,7 +1310,7 @@
 	<episode>109</episode>
 	<filehash>e30fd5b014960be519980606426d5f91</filehash>
 	<episodetime>1367431850</episodetime>
-	<filetime>1384047952</filetime>
+	<filetime>1384050065</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-110.json</filename>
@@ -1358,7 +1318,7 @@
 	<episode>110</episode>
 	<filehash>24601b71c950c05ba6ad6683f27af671</filehash>
 	<episodetime>1368640445</episodetime>
-	<filetime>1384047953</filetime>
+	<filetime>1384050066</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-111.json</filename>
@@ -1366,7 +1326,7 @@
 	<episode>111</episode>
 	<filehash>f563fac43a2e9216293df4573a3bb7be</filehash>
 	<episodetime>1369849445</episodetime>
-	<filetime>1384047954</filetime>
+	<filetime>1384050067</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-112.json</filename>
@@ -1374,7 +1334,7 @@
 	<episode>112</episode>
 	<filehash>3fccf3b7954fab66dbf5042ac61b83e2</filehash>
 	<episodetime>1371058680</episodetime>
-	<filetime>1384047954</filetime>
+	<filetime>1384050068</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-113.json</filename>
@@ -1382,7 +1342,7 @@
 	<episode>113</episode>
 	<filehash>4c74fafa6cfea42afd3907c42c9f6e41</filehash>
 	<episodetime>1372267800</episodetime>
-	<filetime>1384047955</filetime>
+	<filetime>1384050069</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-mobilemacs-114.json</filename>
@@ -1390,39 +1350,39 @@
 	<episode>114</episode>
 	<filehash>de3653985cc0314494e7bcedc0bc9390</filehash>
 	<episodetime>1373478067</episodetime>
-	<filetime>1384047956</filetime>
+	<filetime>1384050069</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdkunde-012.json</filename>
 	<podcast>nerdkunde</podcast>
 	<episode>12</episode>
 	<filehash>0d2c17c11ea1223a44e94a52b752313c</filehash>
-	<episodetime>1384047957</episodetime>
-	<filetime>1384047957</filetime>
+	<episodetime>1384050070</episodetime>
+	<filetime>1384050070</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdkunde-016.json</filename>
 	<podcast>Nerdkunde</podcast>
-	<episode>nerdkunde-016</episode>
-	<filehash>f5eee21c31a71f3921318f1958562344</filehash>
-	<episodetime>1384047957</episodetime>
-	<filetime>1384047957</filetime>
+	<episode>16</episode>
+	<filehash>e7dafdb15c8fce6a49cd58fc457cd370</filehash>
+	<episodetime>1383931828</episodetime>
+	<filetime>1384050070</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdkunde-13.json</filename>
 	<podcast>Nerdkunde</podcast>
 	<episode>13</episode>
 	<filehash>d71567603d20c952e3c4f1bb6ba9be0f</filehash>
-	<episodetime>1384047958</episodetime>
-	<filetime>1384047958</filetime>
+	<episodetime>1384050071</episodetime>
+	<filetime>1384050071</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdkunde-14.json</filename>
 	<podcast>nerdkunde</podcast>
 	<episode>15</episode>
 	<filehash>bcf52cb8699dea27c4863fa065f68f1a</filehash>
-	<episodetime>1384047958</episodetime>
-	<filetime>1384047958</filetime>
+	<episodetime>1384050071</episodetime>
+	<filetime>1384050071</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdsfm-008.json</filename>
@@ -1430,7 +1390,7 @@
 	<episode>8</episode>
 	<filehash>d54eeb3ff942dfd83048bf81afed9537</filehash>
 	<episodetime>1370091600</episodetime>
-	<filetime>1384047958</filetime>
+	<filetime>1384050071</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdsfm-009.json</filename>
@@ -1438,7 +1398,7 @@
 	<episode>9</episode>
 	<filehash>fd4a0b2ea947a7204827ba79b3dd9a73</filehash>
 	<episodetime>1372442862</episodetime>
-	<filetime>1384047959</filetime>
+	<filetime>1384050072</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nerdsfm-10.json</filename>
@@ -1446,7 +1406,7 @@
 	<episode>10</episode>
 	<filehash>13d1e3dc1ce28b43d7d2b642396fa419</filehash>
 	<episodetime>1375295890</episodetime>
-	<filetime>1384047959</filetime>
+	<filetime>1384050072</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-071.json</filename>
@@ -1454,7 +1414,7 @@
 	<episode>71</episode>
 	<filehash>7bf4f2d835e054715f805e0234a02bcd</filehash>
 	<episodetime>1369594990</episodetime>
-	<filetime>1384047959</filetime>
+	<filetime>1384050073</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-073.json</filename>
@@ -1462,7 +1422,7 @@
 	<episode>73</episode>
 	<filehash>9e85d18110557d9000a24f81e6b72c1c</filehash>
 	<episodetime>1372273517</episodetime>
-	<filetime>1384047960</filetime>
+	<filetime>1384050073</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-074.json</filename>
@@ -1470,7 +1430,7 @@
 	<episode>74</episode>
 	<filehash>3dc3875144763831e09455a322c96cb6</filehash>
 	<episodetime>1373086800</episodetime>
-	<filetime>1384047960</filetime>
+	<filetime>1384050073</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-077.json</filename>
@@ -1478,7 +1438,7 @@
 	<episode>77</episode>
 	<filehash>bebc1bc8e86bc99b797a12688499bce1</filehash>
 	<episodetime>1377716400</episodetime>
-	<filetime>1384047960</filetime>
+	<filetime>1384050074</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-078.json</filename>
@@ -1486,7 +1446,7 @@
 	<episode>78</episode>
 	<filehash>4785721b18b283fcd623f9ba43288c9d</filehash>
 	<episodetime>1379271600</episodetime>
-	<filetime>1384047961</filetime>
+	<filetime>1384050074</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-079.json</filename>
@@ -1494,7 +1454,7 @@
 	<episode>79</episode>
 	<filehash>c37b60f4252fc5565b410565370502f1</filehash>
 	<episodetime>1380654180</episodetime>
-	<filetime>1384047961</filetime>
+	<filetime>1384050074</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-080.json</filename>
@@ -1502,7 +1462,7 @@
 	<episode>80</episode>
 	<filehash>a1824e665802d920c0c574c277c015b8</filehash>
 	<episodetime>1382036400</episodetime>
-	<filetime>1384047961</filetime>
+	<filetime>1384050075</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-081.json</filename>
@@ -1510,7 +1470,7 @@
 	<episode>81</episode>
 	<filehash>0cb86a741b2fd59d1264ff741fb16956</filehash>
 	<episodetime>1383508800</episodetime>
-	<filetime>1384047962</filetime>
+	<filetime>1384050075</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgesprache-NG070.json</filename>
@@ -1518,7 +1478,7 @@
 	<episode>70</episode>
 	<filehash>8226aba8152d76340adcf96a9cf59219</filehash>
 	<episodetime>1367434800</episodetime>
-	<filetime>1384047962</filetime>
+	<filetime>1384050075</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgespraeche-075.json</filename>
@@ -1526,15 +1486,15 @@
 	<episode>75</episode>
 	<filehash>5444b37d61be6bc8bbf6d43ab5995f06</filehash>
 	<episodetime>1375037700</episodetime>
-	<filetime>1384047962</filetime>
+	<filetime>1384050076</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgespraeche-076.json</filename>
 	<podcast>Netzgespraeche</podcast>
 	<episode>76</episode>
 	<filehash>642b5e8df5048aaa10edea0335787ee0</filehash>
-	<episodetime>1384047962</episodetime>
-	<filetime>1384047962</filetime>
+	<episodetime>1384050076</episodetime>
+	<filetime>1384050076</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-netzgespraeche_072.json</filename>
@@ -1542,7 +1502,7 @@
 	<episode>72</episode>
 	<filehash>4aa11ba917effe71b196254fd070d7e8</filehash>
 	<episodetime>1370802660</episodetime>
-	<filetime>1384047963</filetime>
+	<filetime>1384050076</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-068.json</filename>
@@ -1550,7 +1510,7 @@
 	<episode>68</episode>
 	<filehash>9c1c911853e61d48e4c0716cc284fce8</filehash>
 	<episodetime>1366626804</episodetime>
-	<filetime>1384047963</filetime>
+	<filetime>1384050076</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-069.json</filename>
@@ -1558,7 +1518,7 @@
 	<episode>69</episode>
 	<filehash>a08e1752ca356cea352a198cd2cc767d</filehash>
 	<episodetime>1368441334</episodetime>
-	<filetime>1384047963</filetime>
+	<filetime>1384050077</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-070.json</filename>
@@ -1566,7 +1526,7 @@
 	<episode>70</episode>
 	<filehash>4185ed08d3ea94fedac0efa8971a3365</filehash>
 	<episodetime>1369651699</episodetime>
-	<filetime>1384047964</filetime>
+	<filetime>1384050078</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-075.json</filename>
@@ -1574,7 +1534,7 @@
 	<episode>75</episode>
 	<filehash>dc4768fd46beaaecaf02def411d9341d</filehash>
 	<episodetime>1378722634</episodetime>
-	<filetime>1384047965</filetime>
+	<filetime>1384050078</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-71.json</filename>
@@ -1582,7 +1542,7 @@
 	<episode>71</episode>
 	<filehash>1b019c0530993cf5dd84d4e22525c961</filehash>
 	<episodetime>1371033460</episodetime>
-	<filetime>1384047965</filetime>
+	<filetime>1384050079</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-72.json</filename>
@@ -1590,7 +1550,7 @@
 	<episode>72</episode>
 	<filehash>64a34008228b6f7eed5d0e38ff1b7c22</filehash>
 	<episodetime>1372070215</episodetime>
-	<filetime>1384047966</filetime>
+	<filetime>1384050080</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-73.json</filename>
@@ -1598,7 +1558,7 @@
 	<episode>73</episode>
 	<filehash>11853f44f06b759e41492e5b19f8c875</filehash>
 	<episodetime>1375699320</episodetime>
-	<filetime>1384047967</filetime>
+	<filetime>1384050080</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-74.json</filename>
@@ -1606,7 +1566,7 @@
 	<episode>74</episode>
 	<filehash>ce478c00f579b21f73ec00a61dc68a6f</filehash>
 	<episodetime>1377514803</episodetime>
-	<filetime>1384047967</filetime>
+	<filetime>1384050081</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-76.json</filename>
@@ -1614,47 +1574,47 @@
 	<episode>76</episode>
 	<filehash>78c6b7acdd2366686696bdbc53f8c6f5</filehash>
 	<episodetime>1382351460</episodetime>
-	<filetime>1384047968</filetime>
+	<filetime>1384050082</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-nsfw-77.json</filename>
 	<podcast>nsfw</podcast>
 	<episode>77</episode>
-	<filehash>16b9015f02af6887eaeeb543dee2c54a</filehash>
+	<filehash>817fd74351e0c5403a2567f18d3813dc</filehash>
 	<episodetime>1383737400</episodetime>
-	<filetime>1384047968</filetime>
+	<filetime>1384050082</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-006.json</filename>
 	<podcast>Psychotalk</podcast>
-	<episode>psyt-006</episode>
-	<filehash>b0718eb97ab9e77a126c5952c1360367</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047969</filetime>
+	<episode>6</episode>
+	<filehash>fd886bcea33372365bb7ea35824ec1fb</filehash>
+	<episodetime>1349889300</episodetime>
+	<filetime>1384050083</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-007.json</filename>
 	<podcast>Psychotalk</podcast>
 	<episode>7</episode>
 	<filehash>064ae2e5d70a159361492e43b8cd6edd</filehash>
-	<episodetime>1384047969</episodetime>
-	<filetime>1384047969</filetime>
+	<episodetime>1384050083</episodetime>
+	<filetime>1384050083</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-008.json</filename>
 	<podcast>Psychotalk</podcast>
 	<episode>8</episode>
-	<filehash>75d73c398a2f0dc1ee3d6a541a9d57d1</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047970</filetime>
+	<filehash>a246857e7171d6236680e9226db42cd1</filehash>
+	<episodetime>1359241200</episodetime>
+	<filetime>1384050084</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-009.json</filename>
 	<podcast>Psychotalk</podcast>
 	<episode>9</episode>
 	<filehash>a9948c87489b2b3311d54ef98aee7b75</filehash>
-	<episodetime>1384047971</episodetime>
-	<filetime>1384047971</filetime>
+	<episodetime>1384050085</episodetime>
+	<filetime>1384050085</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-010.json</filename>
@@ -1662,15 +1622,7 @@
 	<episode>10</episode>
 	<filehash>6f395999f73e26122d8608a385d1c5de</filehash>
 	<episodetime>1366048800</episodetime>
-	<filetime>1384047971</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-psychotalk-011.json</filename>
-	<podcast>psychotalk</podcast>
-	<episode>PSYT011</episode>
-	<filehash>9fd6d52b191ab6b4f11bc07d8f31ad71</filehash>
-	<episodetime>1373648916</episodetime>
-	<filetime>1384047972</filetime>
+	<filetime>1384050085</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-012.json</filename>
@@ -1678,39 +1630,39 @@
 	<episode>12</episode>
 	<filehash>aa927b63e16fad0f825bdf18c48bf8e5</filehash>
 	<episodetime>1379095200</episodetime>
-	<filetime>1384047973</filetime>
+	<filetime>1384050086</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-013.json</filename>
 	<podcast>psychotalk</podcast>
 	<episode>13</episode>
-	<filehash>d012a9700f3ab0ed0e4332474e4036c5</filehash>
+	<filehash>8a708116c2c7747b5d1cdbf6a2d6d244</filehash>
 	<episodetime>1382119200</episodetime>
-	<filetime>1384047973</filetime>
+	<filetime>1384050087</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-psychotalk-PSYT011.json</filename>
 	<podcast>psychotalk</podcast>
-	<episode>PSYT011</episode>
-	<filehash>9fd6d52b191ab6b4f11bc07d8f31ad71</filehash>
+	<episode>11</episode>
+	<filehash>211fce7c89d2d10516c813c1adb4f68a</filehash>
 	<episodetime>1373648916</episodetime>
-	<filetime>1384047974</filetime>
+	<filetime>1384050087</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-025.json</filename>
-	<podcast>Pubkameraden &lt;http://www.pubkameraden.de/&gt;</podcast>
-	<episode>PP025</episode>
-	<filehash>a6c7a4f1a8fa448ff7bfe5a6fad85ef2</filehash>
+	<podcast>Pubkameraden</podcast>
+	<episode>25</episode>
+	<filehash>433e60e99a3f20c9b868e06552e41790</filehash>
 	<episodetime>1365966180</episodetime>
-	<filetime>1384047974</filetime>
+	<filetime>1384050088</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-27.json</filename>
-	<podcast>Pubkameraden &lt;http://www.pubkameraden.de/&gt;</podcast>
-	<episode>PP027</episode>
-	<filehash>80a9f99a2664a504363dd2e0c2bac2e9</filehash>
+	<podcast>Pubkameraden</podcast>
+	<episode>27</episode>
+	<filehash>46ccc60d155f679affc88e855394f0d7</filehash>
 	<episodetime>1367349540</episodetime>
-	<filetime>1384047975</filetime>
+	<filetime>1384050089</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-28.json</filename>
@@ -1718,15 +1670,15 @@
 	<episode>28</episode>
 	<filehash>c45ad8dfcaba9c85b03f7fa950cfc271</filehash>
 	<episodetime>1371381854</episodetime>
-	<filetime>1384047976</filetime>
+	<filetime>1384050089</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-29.json</filename>
 	<podcast>Pubkameraden</podcast>
 	<episode>29</episode>
 	<filehash>0619255995868dcb75296bbe2229c266</filehash>
-	<episodetime>1384047976</episodetime>
-	<filetime>1384047976</filetime>
+	<episodetime>1384050089</episodetime>
+	<filetime>1384050089</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-30.json</filename>
@@ -1734,7 +1686,7 @@
 	<episode>30</episode>
 	<filehash>26b9a50b3c0323c69e295b04bb63f613</filehash>
 	<episodetime>1376420400</episodetime>
-	<filetime>1384047977</filetime>
+	<filetime>1384050090</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-pubkameraden-31.json</filename>
@@ -1742,7 +1694,7 @@
 	<episode>31</episode>
 	<filehash>405a364f0f872afc836229b2cd85c592</filehash>
 	<episodetime>1382122800</episodetime>
-	<filetime>1384047977</filetime>
+	<filetime>1384050091</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-001.json</filename>
@@ -1750,7 +1702,7 @@
 	<episode>47</episode>
 	<filehash>5f6b6c6bbf60622b322848e801e888ea</filehash>
 	<episodetime>1378544400</episodetime>
-	<filetime>1384047978</filetime>
+	<filetime>1384050091</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-039.json</filename>
@@ -1758,7 +1710,7 @@
 	<episode>39</episode>
 	<filehash>69116487195c9a393c3135a20d8e767f</filehash>
 	<episodetime>1373102880</episodetime>
-	<filetime>1384047978</filetime>
+	<filetime>1384050092</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-040.json</filename>
@@ -1766,7 +1718,7 @@
 	<episode>40</episode>
 	<filehash>3cd7106d798f9ff2f0f6d17f5475e65b</filehash>
 	<episodetime>1373706000</episodetime>
-	<filetime>1384047978</filetime>
+	<filetime>1384050092</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-041.json</filename>
@@ -1774,7 +1726,7 @@
 	<episode>41</episode>
 	<filehash>4f679d93a6ea94d07458b422b4e224a6</filehash>
 	<episodetime>1374310800</episodetime>
-	<filetime>1384047979</filetime>
+	<filetime>1384050093</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-042.json</filename>
@@ -1782,7 +1734,7 @@
 	<episode>42</episode>
 	<filehash>6ab41dbd3f6a08cfe8dc8bd9583d3733</filehash>
 	<episodetime>1374917365</episodetime>
-	<filetime>1384047979</filetime>
+	<filetime>1384050093</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-043.json</filename>
@@ -1790,7 +1742,7 @@
 	<episode>43</episode>
 	<filehash>cbc53a05d93b8b0ab94821923ef49733</filehash>
 	<episodetime>1375520400</episodetime>
-	<filetime>1384047980</filetime>
+	<filetime>1384050094</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-044.json</filename>
@@ -1798,7 +1750,7 @@
 	<episode>44</episode>
 	<filehash>bd4142e222d65060100693109ff7d186</filehash>
 	<episodetime>1376730000</episodetime>
-	<filetime>1384047980</filetime>
+	<filetime>1384050094</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-045.json</filename>
@@ -1806,7 +1758,7 @@
 	<episode>45</episode>
 	<filehash>73d1065cf5d313af08d090c6e959f0f5</filehash>
 	<episodetime>1377334800</episodetime>
-	<filetime>1384047980</filetime>
+	<filetime>1384050094</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-046.json</filename>
@@ -1814,7 +1766,7 @@
 	<episode>46</episode>
 	<filehash>c7b195aa4f943bb4afe202f6e38ec7e1</filehash>
 	<episodetime>1377939600</episodetime>
-	<filetime>1384047981</filetime>
+	<filetime>1384050095</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-048.json</filename>
@@ -1822,7 +1774,7 @@
 	<episode>48</episode>
 	<filehash>dc2502942a589dfa4747e7a9c7af5b54</filehash>
 	<episodetime>1379149200</episodetime>
-	<filetime>1384047981</filetime>
+	<filetime>1384050095</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-049.json</filename>
@@ -1830,7 +1782,7 @@
 	<episode>49</episode>
 	<filehash>b6e31b70925b2e1a29c66836ddc265d8</filehash>
 	<episodetime>1379754000</episodetime>
-	<filetime>1384047981</filetime>
+	<filetime>1384050095</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-quasselstrippen-050.json</filename>
@@ -1838,7 +1790,15 @@
 	<episode>50</episode>
 	<filehash>6e8189964467218cca20e9c0eae72af3</filehash>
 	<episodetime>1380358800</episodetime>
-	<filetime>1384047982</filetime>
+	<filetime>1384050095</filetime>
+</RECORD>
+<RECORD>
+	<filename>bak-quasselstrippen-051.json</filename>
+	<podcast>quasselstrippen</podcast>
+	<episode>51</episode>
+	<filehash>1977f2190b4fe1d2c8a7976aee55018e</filehash>
+	<episodetime>1383991200</episodetime>
+	<filetime>1384050096</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-018.json</filename>
@@ -1846,7 +1806,7 @@
 	<episode>18</episode>
 	<filehash>2d7b463add57198710fa2660152386f6</filehash>
 	<episodetime>1371668400</episodetime>
-	<filetime>1384047982</filetime>
+	<filetime>1384050096</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-019.json</filename>
@@ -1854,7 +1814,7 @@
 	<episode>19</episode>
 	<filehash>062e7d3163b833cba6ce49a4ef6fc96b</filehash>
 	<episodetime>1374087600</episodetime>
-	<filetime>1384047983</filetime>
+	<filetime>1384050097</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-022.json</filename>
@@ -1862,7 +1822,7 @@
 	<episode>22</episode>
 	<filehash>7bd717d243f08c1e9f3315e78ecbf490</filehash>
 	<episodetime>1380740400</episodetime>
-	<filetime>1384047983</filetime>
+	<filetime>1384050097</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-023.json</filename>
@@ -1870,7 +1830,7 @@
 	<episode>23</episode>
 	<filehash>e61808a0d481f940ce2b6d2830f48cdc</filehash>
 	<episodetime>1382033700</episodetime>
-	<filetime>1384047983</filetime>
+	<filetime>1384050098</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-024.json</filename>
@@ -1878,7 +1838,7 @@
 	<episode>24</episode>
 	<filehash>00636e2f60c2b087b279222d51b9ab71</filehash>
 	<episodetime>1383678900</episodetime>
-	<filetime>1384047984</filetime>
+	<filetime>1384050099</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-20.json</filename>
@@ -1886,7 +1846,7 @@
 	<episode>20</episode>
 	<filehash>b8ecc7e57bdf26bdff55064915c7b4b1</filehash>
 	<episodetime>1377111600</episodetime>
-	<filetime>1384047984</filetime>
+	<filetime>1384050099</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-21.json</filename>
@@ -1894,15 +1854,15 @@
 	<episode>21</episode>
 	<filehash>f7fb6a953e81069a99126a8f9eb22c0e</filehash>
 	<episodetime>1378926000</episodetime>
-	<filetime>1384047985</filetime>
+	<filetime>1384050100</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-radiorollenspiel-001.json</filename>
 	<podcast>Radiorollenspiel</podcast>
 	<episode>1</episode>
-	<filehash>54e8d1f78a46d2ea7ea85fd3b047f0a3</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047986</filetime>
+	<filehash>975191cf061c02eaebb81f8489d269b5</filehash>
+	<episodetime>1369936800</episodetime>
+	<filetime>1384050101</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-rautenradio-020.json</filename>
@@ -1910,7 +1870,7 @@
 	<episode>RR020</episode>
 	<filehash>89ee9fe818423da7e4f2f32308e6daad</filehash>
 	<episodetime>1372096800</episodetime>
-	<filetime>1384047987</filetime>
+	<filetime>1384050101</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-rautenradio-021.json</filename>
@@ -1918,15 +1878,15 @@
 	<episode>21</episode>
 	<filehash>db8139a0ed9ceb65c93ceb9c21316086</filehash>
 	<episodetime>1372701600</episodetime>
-	<filetime>1384047987</filetime>
+	<filetime>1384050102</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-024.json</filename>
 	<podcast>robotiklabor</podcast>
 	<episode>24</episode>
 	<filehash>0d7551fa18a0ef06200c4136d32b7c2c</filehash>
-	<episodetime>1384047987</episodetime>
-	<filetime>1384047987</filetime>
+	<episodetime>1384050102</episodetime>
+	<filetime>1384050102</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-025.json</filename>
@@ -1934,15 +1894,15 @@
 	<episode>25</episode>
 	<filehash>1464bb3cab4fa3107005072ed31e1773</filehash>
 	<episodetime>1374863400</episodetime>
-	<filetime>1384047987</filetime>
+	<filetime>1384050102</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-026.json</filename>
 	<podcast>robotiklabor</podcast>
 	<episode>26</episode>
-	<filehash>6a595f79b5df3757ec68f6d9b10ca90a</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047988</filetime>
+	<filehash>ce788c467c51cab2671b92ba1fd5da31</filehash>
+	<episodetime>1375539215</episodetime>
+	<filetime>1384050103</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-027.json</filename>
@@ -1950,7 +1910,7 @@
 	<episode>27</episode>
 	<filehash>06d4afa616b34e2bcce39872d2dee247</filehash>
 	<episodetime>1377282286</episodetime>
-	<filetime>1384047988</filetime>
+	<filetime>1384050103</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-028.json</filename>
@@ -1958,7 +1918,7 @@
 	<episode>28</episode>
 	<filehash>001c14e0e866df9464e31df46799a7f8</filehash>
 	<episodetime>1379095200</episodetime>
-	<filetime>1384047989</filetime>
+	<filetime>1384050104</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-robotiklabor-029.json</filename>
@@ -1966,7 +1926,7 @@
 	<episode>29</episode>
 	<filehash>3324483f2cd6801d03f7c8c09eea1d77</filehash>
 	<episodetime>1382119770</episodetime>
-	<filetime>1384047989</filetime>
+	<filetime>1384050104</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-schmalsprech-049.json</filename>
@@ -1974,15 +1934,7 @@
 	<episode>49</episode>
 	<filehash>695189ac60e105b60d71d72dd31d5802</filehash>
 	<episodetime>1380970800</episodetime>
-	<filetime>1384047990</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-sendungsbewusststein-SB002.json</filename>
-	<podcast>sendungsbewusststein</podcast>
-	<episode>SB002</episode>
-	<filehash>24ed5f3c91c1570418675a5cc2816fc6</filehash>
-	<episodetime>1373567400</episodetime>
-	<filetime>1384047990</filetime>
+	<filetime>1384050105</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-sondersendung-001.json</filename>
@@ -1990,7 +1942,7 @@
 	<episode>1</episode>
 	<filehash>459c1377c46468a3e6c82400629466ae</filehash>
 	<episodetime>1367852760</episodetime>
-	<filetime>1384047991</filetime>
+	<filetime>1384050105</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-sondersendung-002.json</filename>
@@ -1998,7 +1950,7 @@
 	<episode>2</episode>
 	<filehash>dfd44851201782bd155e5e1942800380</filehash>
 	<episodetime>1367938890</episodetime>
-	<filetime>1384047991</filetime>
+	<filetime>1384050106</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-sondersendung-003.json</filename>
@@ -2006,15 +1958,15 @@
 	<episode>3</episode>
 	<filehash>f628c67e3928e5996d7c208f5710c60d</filehash>
 	<episodetime>1368025600</episodetime>
-	<filetime>1384047992</filetime>
+	<filetime>1384050107</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-028.json</filename>
 	<podcast>Soziopod</podcast>
 	<episode>28</episode>
-	<filehash>6b22315d240f632876f8f8426ecdbb4e</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047993</filetime>
+	<filehash>70e4ab332a1b4f547b1436bc6d2e5143</filehash>
+	<episodetime>1367532000</episodetime>
+	<filetime>1384050107</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-029.json</filename>
@@ -2022,7 +1974,7 @@
 	<episode>29</episode>
 	<filehash>3bfce02464ee70a66208ff9eb6dac5aa</filehash>
 	<episodetime>1369002099</episodetime>
-	<filetime>1384047993</filetime>
+	<filetime>1384050108</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-030.json</filename>
@@ -2030,7 +1982,7 @@
 	<episode>30</episode>
 	<filehash>05ab8a710d090a4a9a1bda6875f29738</filehash>
 	<episodetime>1372637738</episodetime>
-	<filetime>1384047993</filetime>
+	<filetime>1384050108</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-031.json</filename>
@@ -2038,7 +1990,7 @@
 	<episode>31</episode>
 	<filehash>7b60f767a859f14f7bc9d5fd0eb8aac1</filehash>
 	<episodetime>1374690297</episodetime>
-	<filetime>1384047994</filetime>
+	<filetime>1384050108</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-032.json</filename>
@@ -2046,15 +1998,15 @@
 	<episode>32</episode>
 	<filehash>1968361551d735d47951272078299351</filehash>
 	<episodetime>1382358900</episodetime>
-	<filetime>1384047994</filetime>
+	<filetime>1384050109</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wg43.json</filename>
-	<podcast>Claudia Krell (@wortkomplex), Ralf Stockmann (@rstockm), Renke Bruhn (@brundsoweiter)</podcast>
-	<episode></episode>
-	<filehash>c6128876648cb8ecf4b182cead435fa0</filehash>
+	<podcast>Wikigeeks</podcast>
+	<episode>43</episode>
+	<filehash>1804b519e038068469949604101f6dfa</filehash>
 	<episodetime></episodetime>
-	<filetime>1384047995</filetime>
+	<filetime>1384050109</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wikigeeks-046.json</filename>
@@ -2062,7 +2014,7 @@
 	<episode>46</episode>
 	<filehash>9cf4b601fb21e98af68b9b8d032ed823</filehash>
 	<episodetime>1369764960</episodetime>
-	<filetime>1384047995</filetime>
+	<filetime>1384050110</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wikigeeks-047.json</filename>
@@ -2070,7 +2022,7 @@
 	<episode>47</episode>
 	<filehash>1643813c11ce78861c7e1a7026321cce</filehash>
 	<episodetime>1370974500</episodetime>
-	<filetime>1384047996</filetime>
+	<filetime>1384050110</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wikigeeks-048.json</filename>
@@ -2078,23 +2030,15 @@
 	<episode>48</episode>
 	<filehash>39435541ce8a05590ff7dcbe35afa3c8</filehash>
 	<episodetime>1375553700</episodetime>
-	<filetime>1384047996</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-wikigeeks-43.json</filename>
-	<podcast>Claudia Krell (@wortkomplex), Ralf Stockmann (@rstockm), Renke Bruhn (@brundsoweiter)</podcast>
-	<episode></episode>
-	<filehash>c6128876648cb8ecf4b182cead435fa0</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047997</filetime>
+	<filetime>1384050111</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wikigeeks-44.json</filename>
 	<podcast>Wikigeeks</podcast>
 	<episode>44</episode>
-	<filehash>9774a91921c0793414640fdb4c05ff1f</filehash>
-	<episodetime></episodetime>
-	<filetime>1384047997</filetime>
+	<filehash>4e74026ad42a107e5f9e78287b81fb27</filehash>
+	<episodetime>1367259540</episodetime>
+	<filetime>1384050111</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wikigeeks-45.json</filename>
@@ -2102,7 +2046,7 @@
 	<episode>45</episode>
 	<filehash>5aca09ffae181aadb00a738abb8d0b0b</filehash>
 	<episodetime>1368296880</episodetime>
-	<filetime>1384047998</filetime>
+	<filetime>1384050112</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-63.json</filename>
@@ -2110,7 +2054,7 @@
 	<episode>63</episode>
 	<filehash>fdeb3d4dacdcd00479814eea02b53893</filehash>
 	<episodetime>1368007320</episodetime>
-	<filetime>1384047998</filetime>
+	<filetime>1384050113</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-64.json</filename>
@@ -2118,7 +2062,7 @@
 	<episode>64</episode>
 	<filehash>7789ea4d272d627f96a2555969c309f0</filehash>
 	<episodetime>1369332000</episodetime>
-	<filetime>1384047999</filetime>
+	<filetime>1384050113</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-65.json</filename>
@@ -2126,7 +2070,7 @@
 	<episode>65</episode>
 	<filehash>33ecaef65674b6fe5c4810040ba39ebe</filehash>
 	<episodetime>1371146400</episodetime>
-	<filetime>1384047999</filetime>
+	<filetime>1384050114</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-66.json</filename>
@@ -2134,7 +2078,7 @@
 	<episode>66</episode>
 	<filehash>c906c9f3032c8f2c169acbc0ee847e20</filehash>
 	<episodetime>1372788000</episodetime>
-	<filetime>1384048000</filetime>
+	<filetime>1384050114</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-67.json</filename>
@@ -2142,7 +2086,7 @@
 	<episode>67</episode>
 	<filehash>2138c65de884b6afbdaf33a36160abd6</filehash>
 	<episodetime>1373997600</episodetime>
-	<filetime>1384048000</filetime>
+	<filetime>1384050115</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-68.json</filename>
@@ -2150,7 +2094,7 @@
 	<episode>68</episode>
 	<filehash>5cb483fd282b3a19ae9308db3cf584a7</filehash>
 	<episodetime>1376676000</episodetime>
-	<filetime>1384048001</filetime>
+	<filetime>1384050115</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-69.json</filename>
@@ -2158,7 +2102,7 @@
 	<episode>69</episode>
 	<filehash>627c68784164f5c0c45d12467399b39e</filehash>
 	<episodetime>1377194400</episodetime>
-	<filetime>1384048001</filetime>
+	<filetime>1384050116</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-70.json</filename>
@@ -2166,7 +2110,7 @@
 	<episode>70</episode>
 	<filehash>35d153c72384ea32b18130fddf03e89d</filehash>
 	<episodetime>1378749600</episodetime>
-	<filetime>1384048001</filetime>
+	<filetime>1384050116</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-71.json</filename>
@@ -2174,7 +2118,7 @@
 	<episode>71</episode>
 	<filehash>ab64733c6d2c01cd17ae739e08e49ea3</filehash>
 	<episodetime>1380132000</episodetime>
-	<filetime>1384048002</filetime>
+	<filetime>1384050116</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-72.json</filename>
@@ -2182,7 +2126,7 @@
 	<episode>72</episode>
 	<filehash>5b5e8a6958e569938979df9e169c597c</filehash>
 	<episodetime>1381428000</episodetime>
-	<filetime>1384048002</filetime>
+	<filetime>1384050117</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wir-mussen-reden-74.json</filename>
@@ -2190,31 +2134,23 @@
 	<episode>74</episode>
 	<filehash>6eae5ce64b39f8a74a1f4e8cd770db6d</filehash>
 	<episodetime>1383850800</episodetime>
-	<filetime>1384048003</filetime>
+	<filetime>1384050117</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wr166.json</filename>
-	<podcast>ca 12:05 Uhr</podcast>
-	<episode></episode>
-	<filehash>734cc76d8c9a9fed225f5f704082b7ec</filehash>
-	<episodetime></episodetime>
-	<filetime>1384048003</filetime>
+	<podcast>Wrintheit</podcast>
+	<episode>36</episode>
+	<filehash>bba4ec68fd7ec0ba1f7364fdf360bd44</filehash>
+	<episodetime>1365329100</episodetime>
+	<filetime>1384050118</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wr167.json</filename>
 	<podcast>Realitätsabgleich</podcast>
 	<episode>36</episode>
-	<filehash>e79d917e8450574fbb051e3178abe5f3</filehash>
-	<episodetime></episodetime>
-	<filetime>1384048004</filetime>
-</RECORD>
-<RECORD>
-	<filename>bak-wrint-054.json</filename>
-	<podcast>wrint</podcast>
-	<episode>54</episode>
-	<filehash>a0da127c91915949e8db9b9d1b7d7258</filehash>
-	<episodetime>1378026000</episodetime>
-	<filetime>1384048004</filetime>
+	<filehash>18e1abfaf13e91298163bf2f5fbe4bd1</filehash>
+	<episodetime>1365771870</episodetime>
+	<filetime>1384050119</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-168.json</filename>
@@ -2222,7 +2158,7 @@
 	<episode>23</episode>
 	<filehash>263c2435be4576bfb22d643c1397b3f9</filehash>
 	<episodetime>1366045320</episodetime>
-	<filetime>1384048005</filetime>
+	<filetime>1384050119</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-170.json</filename>
@@ -2230,7 +2166,7 @@
 	<episode>37</episode>
 	<filehash>3440ddfff144bf20a9dd3a3f0c7d6174</filehash>
 	<episodetime>1367964440</episodetime>
-	<filetime>1384048005</filetime>
+	<filetime>1384050120</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-174.json</filename>
@@ -2238,7 +2174,7 @@
 	<episode>174</episode>
 	<filehash>c4c7d1eebad98cfb121098326c5e64d9</filehash>
 	<episodetime>1367144400</episodetime>
-	<filetime>1384048006</filetime>
+	<filetime>1384050120</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-175.json</filename>
@@ -2246,7 +2182,7 @@
 	<episode>38</episode>
 	<filehash>fdfc841ee7047ba04c81baf150428323</filehash>
 	<episodetime>1367966500</episodetime>
-	<filetime>1384048006</filetime>
+	<filetime>1384050121</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-177.json</filename>
@@ -2254,7 +2190,7 @@
 	<episode>177</episode>
 	<filehash>4514d8d6f23368b6b5aeff1cf706a02c</filehash>
 	<episodetime>1368006260</episodetime>
-	<filetime>1384048007</filetime>
+	<filetime>1384050121</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-178.json</filename>
@@ -2262,7 +2198,7 @@
 	<episode>178</episode>
 	<filehash>7393a74594d24f744759529ed4d97cb3</filehash>
 	<episodetime>1368353253</episodetime>
-	<filetime>1384048007</filetime>
+	<filetime>1384050122</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-179.json</filename>
@@ -2270,7 +2206,7 @@
 	<episode>179</episode>
 	<filehash>b536a8be727be89505147c6c8ce10162</filehash>
 	<episodetime>1368773357</episodetime>
-	<filetime>1384048008</filetime>
+	<filetime>1384050122</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-181.json</filename>
@@ -2278,7 +2214,7 @@
 	<episode>181</episode>
 	<filehash>d2558ec19b5506e805b7ed9188047685</filehash>
 	<episodetime>1369820386</episodetime>
-	<filetime>1384048008</filetime>
+	<filetime>1384050123</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-182.json</filename>
@@ -2286,7 +2222,7 @@
 	<episode>182</episode>
 	<filehash>8dcce13f624135f6a415d9ab30ce1ffb</filehash>
 	<episodetime>1370425500</episodetime>
-	<filetime>1384048008</filetime>
+	<filetime>1384050123</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-183.json</filename>
@@ -2294,7 +2230,7 @@
 	<episode>183</episode>
 	<filehash>a0d1d395ff7ab15d802fc108455c0c46</filehash>
 	<episodetime>1370772300</episodetime>
-	<filetime>1384048009</filetime>
+	<filetime>1384050123</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-184.json</filename>
@@ -2302,23 +2238,23 @@
 	<episode>184</episode>
 	<filehash>6c352ab8536fa33bf51dd10fd685cab8</filehash>
 	<episodetime>1370858750</episodetime>
-	<filetime>1384048009</filetime>
+	<filetime>1384050124</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-185-kurz.json</filename>
 	<podcast>WRINT</podcast>
 	<episode>185</episode>
 	<filehash>5c411a31998c0cc9a6e3dd9cb8d515c4</filehash>
-	<episodetime>1384048009</episodetime>
-	<filetime>1384048009</filetime>
+	<episodetime>1384050124</episodetime>
+	<filetime>1384050124</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-185.json</filename>
 	<podcast>WRINT</podcast>
 	<episode>185</episode>
 	<filehash>7d5a514f1dc94c8768a2a9871a1a1c90</filehash>
-	<episodetime>1384048010</episodetime>
-	<filetime>1384048010</filetime>
+	<episodetime>1384050125</episodetime>
+	<filetime>1384050125</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-186.json</filename>
@@ -2326,7 +2262,7 @@
 	<episode>186</episode>
 	<filehash>b045fb6b44d5e3f0618bb2369b764858</filehash>
 	<episodetime>1371148770</episodetime>
-	<filetime>1384048010</filetime>
+	<filetime>1384050125</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-188.json</filename>
@@ -2334,7 +2270,7 @@
 	<episode>188</episode>
 	<filehash>2cd2ebef9b8fdbade3c17ebaaced0fdf</filehash>
 	<episodetime>1371982553</episodetime>
-	<filetime>1384048011</filetime>
+	<filetime>1384050125</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-190.json</filename>
@@ -2342,15 +2278,15 @@
 	<episode>190</episode>
 	<filehash>a5c875be0f109b7b5ec2c4e9d8a3957e</filehash>
 	<episodetime>1372239000</episodetime>
-	<filetime>1384048011</filetime>
+	<filetime>1384050126</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-191.json</filename>
 	<podcast>wrint</podcast>
 	<episode>191</episode>
-	<filehash>b4c9fc6d93ed61707d1d9d740c714000</filehash>
-	<episodetime></episodetime>
-	<filetime>1384048011</filetime>
+	<filehash>eddc56413c2f5b5cae10494c90de36cb</filehash>
+	<episodetime>1373188020</episodetime>
+	<filetime>1384050126</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-192.json</filename>
@@ -2358,7 +2294,7 @@
 	<episode>wrint-194</episode>
 	<filehash>7f3af266f32ecb22aaf318a4b71b889a</filehash>
 	<episodetime>1374400800</episodetime>
-	<filetime>1384048012</filetime>
+	<filetime>1384050127</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-196.json</filename>
@@ -2366,7 +2302,7 @@
 	<episode>196</episode>
 	<filehash>fac0c09419299e626f68790bb6a01445</filehash>
 	<episodetime>1375870485</episodetime>
-	<filetime>1384048012</filetime>
+	<filetime>1384050127</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-197.json</filename>
@@ -2374,7 +2310,7 @@
 	<episode>197</episode>
 	<filehash>6e3b5fe31808d1b25f815bdc2a503555</filehash>
 	<episodetime>1375900815</episodetime>
-	<filetime>1384048013</filetime>
+	<filetime>1384050128</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-199.json</filename>
@@ -2382,7 +2318,7 @@
 	<episode>199</episode>
 	<filehash>672a53a0f80682f06729fd5ae24f0a73</filehash>
 	<episodetime>1377079800</episodetime>
-	<filetime>1384048013</filetime>
+	<filetime>1384050128</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-201.json</filename>
@@ -2390,7 +2326,7 @@
 	<episode>201</episode>
 	<filehash>156b411f87237892d86b60797bc3f40e</filehash>
 	<episodetime>1377686310</episodetime>
-	<filetime>1384048014</filetime>
+	<filetime>1384050129</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-204.json</filename>
@@ -2398,7 +2334,7 @@
 	<episode>204</episode>
 	<filehash>00e979bd0b0f45945b82a1e614af2766</filehash>
 	<episodetime>1378289700</episodetime>
-	<filetime>1384048014</filetime>
+	<filetime>1384050129</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-206.json</filename>
@@ -2406,7 +2342,7 @@
 	<episode>206</episode>
 	<filehash>3adbc7d87d366447f1a9f9f519acd483</filehash>
 	<episodetime>1378894581</episodetime>
-	<filetime>1384048015</filetime>
+	<filetime>1384050130</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-207.json</filename>
@@ -2414,7 +2350,7 @@
 	<episode>207</episode>
 	<filehash>0ab3a7ec04631d1721d8cbdc727b86ee</filehash>
 	<episodetime>1379499180</episodetime>
-	<filetime>1384048015</filetime>
+	<filetime>1384050130</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-209.json</filename>
@@ -2422,7 +2358,7 @@
 	<episode>209</episode>
 	<filehash>1400ab87e5085b075cc338d1e0256d57</filehash>
 	<episodetime>1379844540</episodetime>
-	<filetime>1384048015</filetime>
+	<filetime>1384050130</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-210.json</filename>
@@ -2430,7 +2366,7 @@
 	<episode>210</episode>
 	<filehash>f6540ed1ada488019b630f90b8393d22</filehash>
 	<episodetime>1380104700</episodetime>
-	<filetime>1384048016</filetime>
+	<filetime>1384050131</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-211.json</filename>
@@ -2438,7 +2374,7 @@
 	<episode>211</episode>
 	<filehash>da96e379a5372b4ce5d7f32b5acff91a</filehash>
 	<episodetime>1381054080</episodetime>
-	<filetime>1384048016</filetime>
+	<filetime>1384050131</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-212.json</filename>
@@ -2446,7 +2382,7 @@
 	<episode>212</episode>
 	<filehash>a0a5f7236c91d3f8b21dbe85c6ba9019</filehash>
 	<episodetime>1381309200</episodetime>
-	<filetime>1384048017</filetime>
+	<filetime>1384050132</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-213.json</filename>
@@ -2454,7 +2390,7 @@
 	<episode>213</episode>
 	<filehash>6507e469d937f20f1dcb59512ca3a011</filehash>
 	<episodetime>1381511110</episodetime>
-	<filetime>1384048017</filetime>
+	<filetime>1384050132</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-214.json</filename>
@@ -2462,7 +2398,7 @@
 	<episode>214</episode>
 	<filehash>1414723fc55288ead1cea4966dc6cb17</filehash>
 	<episodetime>1382173980</episodetime>
-	<filetime>1384048018</filetime>
+	<filetime>1384050133</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-215.json</filename>
@@ -2470,7 +2406,7 @@
 	<episode>215</episode>
 	<filehash>f77dbc99fa7b9c84392cd2b37668b8fd</filehash>
 	<episodetime>1382522820</episodetime>
-	<filetime>1384048018</filetime>
+	<filetime>1384050133</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-217.json</filename>
@@ -2478,7 +2414,7 @@
 	<episode>217</episode>
 	<filehash>a26f4d26c074c1017fd25912833b15c3</filehash>
 	<episodetime>1382720520</episodetime>
-	<filetime>1384048018</filetime>
+	<filetime>1384050134</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-218.json</filename>
@@ -2486,7 +2422,7 @@
 	<episode>218</episode>
 	<filehash>6e3343f26b140de09b274926ab460652</filehash>
 	<episodetime>1382871600</episodetime>
-	<filetime>1384048019</filetime>
+	<filetime>1384050134</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-219.json</filename>
@@ -2494,7 +2430,7 @@
 	<episode>219</episode>
 	<filehash>5cc8d1888ea90c0d078ed180512ce9d6</filehash>
 	<episodetime>1382988600</episodetime>
-	<filetime>1384048019</filetime>
+	<filetime>1384050134</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-220.json</filename>
@@ -2502,7 +2438,7 @@
 	<episode>220</episode>
 	<filehash>579b9072b5b919b3c435c88408206dc4</filehash>
 	<episodetime>1383131040</episodetime>
-	<filetime>1384048019</filetime>
+	<filetime>1384050135</filetime>
 </RECORD>
 <RECORD>
 	<filename>bak-wrint-RA44.json</filename>
@@ -2510,6 +2446,6 @@
 	<episode>RA44</episode>
 	<filehash>4329ce0003356d2d3702b6e4e442e3f0</filehash>
 	<episodetime>1371807415</episodetime>
-	<filetime>1384048020</filetime>
+	<filetime>1384050135</filetime>
 </RECORD>
 </RECORDS>
