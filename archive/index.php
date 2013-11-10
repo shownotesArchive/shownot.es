@@ -41,13 +41,13 @@
     <p style="margin-top: 1em; text-align: center;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br><table border="0">
-      <tr><th>Podcast</th><th>Episode</th><th>Datum</th></tr>
+      <tr><th>Podcast</th><th>Episode</th><th>Datum</th><th>OSF</th></tr>
 <?php
 
 $db = new SQLite3('archive.sqlite3');
 $results = $db->query('SELECT * FROM "main"."valid" ORDER BY "episodetime" DESC');
 while ($row = $results->fetchArray()) {
-    echo '<tr><td>'.$row['podcast'].'</td><td>'.$row['episode'].'</td><td>'.date("d.m.Y", $row['episodetime']).'</td></tr>';
+    echo '<tr><td>'.$row['podcast'].'</td><td>'.$row['episode'].'</td><td>'.date("d.m.Y", $row['episodetime']).'</td><td><a href="./cache/osf/'.$row['podcast'].'_'.$row['episode'].'.osf.txt">'.str_replace(array('bak-','.json'),array('',''),$row['filename']).'</a></td></tr>';
 }
 
 ?>
