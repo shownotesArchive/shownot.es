@@ -5,8 +5,8 @@
   <title>Shownot.es</title>
   <meta name="viewport" content="width=980" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
-  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/baf/css/baf.min.css?v=010" type="text/css"  media="screen" />
   <link rel="stylesheet" href="/css/style.min.css?v=010" type="text/css" />
   <link rel="stylesheet" href="/css/anycast.min.css?v=010" type="text/css"  media="screen" />
@@ -869,7 +869,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">05.11.13</a></li>
 <div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://reliveradio.de/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://poodle.fm/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="80" height="80"></a></div>
 <div class="column grid_4"></div>
@@ -913,7 +913,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">05.11.13</a></li>
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1384116090 (21:41:30 10.11.2013)
-Generierungsdauer: 0.032042026519775 sec
---><?php if(1384202490 < time()){
+zuletzt aktualisiert um: 1384124265 (23:57:45 10.11.2013)
+Generierungsdauer: 0.06326699256897 sec
+--><?php if(1384210665 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
