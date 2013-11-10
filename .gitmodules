@@ -4,3 +4,6 @@
 [submodule "archive/easySQL"]
 	path = archive/easySQL
 	url = https://github.com/SimonWaldherr/easySQL.git
+[submodule "archive/OSFphp"]
+	path = archive/OSFphp
+	url = https://github.com/SimonWaldherr/OSF.php.git
