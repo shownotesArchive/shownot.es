@@ -3,6 +3,38 @@
 $starttime = microtime(1);
 ob_start();
 
+function shuffleByFiletime($array) {
+  $i = 0;
+  $shownotetimes = array();
+  $logdata = '';
+  $logarray = array();
+  foreach($array as $podcast) {
+    $files = scandir('./../podcasts/'.$podcast[1].'/');
+    $newest = 0;
+    foreach($files as $file) {
+      if($file != '.' && $file != '..') {
+        $filetime = filemtime('./../podcasts/'.$podcast[1].'/'.$file);
+        $logarray[] = $filetime.' - '.$podcast[1].'/'.$file.' - '.date("d.m.Y", $filetime)."\n";
+        if($newest < $filetime) {
+          $newest = $filetime;
+        }
+      }
+    }
+    $shownotetimes[$i] = $newest;
+    $i++;
+  }
+  $sortedarray = array();
+  arsort($shownotetimes);
+  foreach($shownotetimes as $index => $times) {
+    $sortedarray[] = $array[$index];
+  }
+  $logdata .= print_r($shownotetimes, 1);
+  asort($logarray);
+  $logdata .= print_r($logarray, 1);
+  file_put_contents('./sorted.txt', $logdata);
+  return $sortedarray;
+}
+
 function printPodcastBox($podcast, $count) {
   $found_podcasts = false;
   $file_arr = array();
@@ -96,8 +128,8 @@ function printPodcastBox($podcast, $count) {
   <title>Shownot.es</title>
   <meta name="viewport" content="width=980" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
-  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/baf/css/baf.min.css?v=010" type="text/css"  media="screen" />
   <link rel="stylesheet" href="/css/style.min.css?v=010" type="text/css" />
   <link rel="stylesheet" href="/css/anycast.min.css?v=010" type="text/css"  media="screen" />
@@ -130,38 +162,31 @@ function printPodcastBox($podcast, $count) {
  *   5: Optional. Additional title text for the logo file
  */
 $podcast_arr = array(
-  array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
+  array('1337kultur','lk','http://1337kultur.de/','lk_logo.png','1337kultur Logo'),
+  array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
   array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon / Lateline Logo', 'Blue Moon Foto von Ainhoa Pcb l, CC: BY'),
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
-  array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
   array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
-  array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+  array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
+  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
+  array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
   array('Pubkameraden','pp','http://www.pubkameraden.de/','pp_logo.png','Pubkameraden Podcast Logo'),
-  array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
-  array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
-  array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
-  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
   array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo'),
-  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
-  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
   array('Radio OSM','osm','http://blog.openstreetmap.de/','osm_logo.png','Radio OSM Logo'),
-  array('SozioPod','sozio','http://soziopod.de/','sozio_logo.png','SozioPod Logo')
+  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
+  array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
+  array('SozioPod','sozio','http://soziopod.de/','sozio_logo.png','SozioPod Logo'),
+  array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
+  array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo')
 );
-/* optional ToDo: Use last modification as a parameter to shuffling
- * function name is filemtime see http://www.php.net/manual/en/function.filemtime.php
- * it takes only one parameter the file's name,
- * and returns a timestamp
- * probably a good method would be, to sort the array at first
- * using the sorting mechanism usort, which uses a user defined
- * function as comparator for sorting http://www.php.net/manual/en/function.usort.php
- * then, after the array was sorted, some elements could be randomly exchanged
- */
-shuffle($podcast_arr);
-$ele_count=count($podcast_arr);
-$i=0;
-$j=0;
+
+$podcast_arr = shuffleByFiletime($podcast_arr);
+$ele_count = count($podcast_arr);
+$i = 0;
+$j = 0;
 for($i = 0; $i < $ele_count; $i++) {
   $j = printPodcastBox($podcast_arr[$i], $j);
 }
