@@ -95,25 +95,26 @@ if(($podcast != '')&&($_GET['clear'] == 'true'))
 <head>
   <meta charset="utf-8" />
   <title><?php echo ShownoteTitle(); ?></title>
-  <meta name="viewport" content="width=715" />  
-  <link rel="shortcut icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="http://shownot.es/favicon.ico" />
+  <meta name="viewport" content="width=980" />  
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link href="http://selfcss.org/baf/css/baf.css?v=009" media="screen" rel="stylesheet" type="text/css"/>
   <link href="http://selfcss.org/baf/css/icomoon.css?v=009" media="screen" rel="stylesheet" type="text/css"/>
   <script src="http://selfcss.org/baf/js/baf.min.js"></script>
-  <link rel="stylesheet" href="../css/style.css?v=009" type="text/css" />
-  <link rel="stylesheet" href="../css/anycast.min.css?v=009" type="text/css" media="screen">
-  <link rel="stylesheet" href="../css/shownotes.min.css?v=009" type="text/css" media="screen">
+  <link rel="stylesheet" href="/css/style.css?v=009" type="text/css" />
+  <link rel="stylesheet" href="/css/anycast.min.css?v=009" type="text/css" media="screen">
+  <link rel="stylesheet" href="/css/shownotes.min.css?v=009" type="text/css" media="screen">
   <link rel="stylesheet" href="http://shownotes.github.io/tinyOSF.js/shownotes.css?v=009" type="text/css" media="screen">
   <link rel="apple-touch-startup-image" href="http://cdn.shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://cdn.shownot.es/img/iPadPortait.png" />
   <link rel="stylesheet" href="http://cdn.shownot.es/css/fa/css/font-awesome.min.css?v=009"/>
-  
   <style id="editablestyle"></style>
   <style>
-  	iframe {
-  		visibility: visible; height: 23px; width: 130px;
-  	}
+  iframe {
+    visibility: visible;
+    height: 23px;
+    width: 130px;
+  }
   </style>
 </head>
 

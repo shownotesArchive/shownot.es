@@ -3,6 +3,38 @@
 $starttime = microtime(1);
 ob_start();
 
+function shuffleByFiletime($array) {
+  $i = 0;
+  $shownotetimes = array();
+  $logdata = '';
+  $logarray = array();
+  foreach($array as $podcast) {
+    $files = scandir('./../podcasts/'.$podcast[1].'/');
+    $newest = 0;
+    foreach($files as $file) {
+      if($file != '.' && $file != '..') {
+        $filetime = filemtime('./../podcasts/'.$podcast[1].'/'.$file);
+        $logarray[] = $filetime.' - '.$podcast[1].'/'.$file.' - '.date("d.m.Y", $filetime)."\n";
+        if($newest < $filetime) {
+          $newest = $filetime;
+        }
+      }
+    }
+    $shownotetimes[$i] = $newest;
+    $i++;
+  }
+  $sortedarray = array();
+  arsort($shownotetimes);
+  foreach($shownotetimes as $index => $times) {
+    $sortedarray[] = $array[$index];
+  }
+  $logdata .= print_r($shownotetimes, 1);
+  asort($logarray);
+  $logdata .= print_r($logarray, 1);
+  file_put_contents('./sorted.txt', $logdata);
+  return $sortedarray;
+}
+
 function printPodcastBox($podcast, $count) {
   $found_podcasts = false;
   $file_arr = array();
@@ -93,11 +125,11 @@ function printPodcastBox($podcast, $count) {
 <html lang="de"> 
 <head>
   <meta charset="utf-8" />
-  <title>Die Shownotes</title>
-  <meta name="viewport" content="width=715" />  
+  <title>Shownot.es</title>
+  <meta name="viewport" content="width=980" />  
   <meta name="apple-mobile-web-app-capable" content="yes" />  
-  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/baf/css/baf.min.css?v=010" type="text/css"  media="screen" />
   <link rel="stylesheet" href="/css/style.min.css?v=010" type="text/css" />
   <link rel="stylesheet" href="/css/anycast.min.css?v=010" type="text/css"  media="screen" />
@@ -111,11 +143,11 @@ function printPodcastBox($podcast, $count) {
     <div class="header">
       <div class="title"><a href="/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
     </div>
-    <p style="margin-top: 1em;">
+    <p style="margin-top: 1em; text-align: center;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
     <div id="podcasts">
-      <p style="margin-top: 1em;">
+      <p style="margin-top: 1em; text-align: center;">
         Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
       </p>
       <br/><br/>
@@ -130,56 +162,36 @@ function printPodcastBox($podcast, $count) {
  *   5: Optional. Additional title text for the logo file
  */
 $podcast_arr = array(
-  array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo'),
+  array('1337kultur','lk','http://1337kultur.de/','lk_logo.png','1337kultur Logo'),
+  array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
   array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon / Lateline Logo', 'Blue Moon Foto von Ainhoa Pcb l, CC: BY'),
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
-  array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
   array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
-  array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+  array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
+  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
+  array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
   array('Pubkameraden','pp','http://www.pubkameraden.de/','pp_logo.png','Pubkameraden Podcast Logo'),
-  array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
-  array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
-  array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
-  array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
   array('Quasselstrippen','qs','http://die-quasselstrippen.de/','qs_logo.png','Quasselstrippen Logo'),
-  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
-  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
   array('Radio OSM','osm','http://blog.openstreetmap.de/','osm_logo.png','Radio OSM Logo'),
-  array('SozioPod','sozio','http://soziopod.de/','sozio_logo.png','SozioPod Logo')
+  array('Robotiklabor','rl','http://www.robotiklabor.de/','rl_logo.png','Robotiklabor Logo'),
+  array('Sondersendung','dss','http://die-sondersendung.de/','dss_logo.png','Sondersendung Logo'),
+  array('SozioPod','sozio','http://soziopod.de/','sozio_logo.png','SozioPod Logo'),
+  array('Wikigeeks','wg','http://wikigeeks.de/','wg_logo.png','Wikigeeks Logo'),
+  array('Wir. Müssen Reden','wmr','http://wir.muessenreden.de/','wmr_logo.png','Wir. Müssen Reden Logo'),
+  array('WRINT','wrint','http://www.wrint.de/','wr_logo.png','WRINT Logo')
 );
-/* optional ToDo: Use last modification as a parameter to shuffling
- * function name is filemtime see http://www.php.net/manual/en/function.filemtime.php
- * it takes only one parameter the file's name,
- * and returns a timestamp
- * probably a good method would be, to sort the array at first
- * using the sorting mechanism usort, which uses a user defined
- * function as comparator for sorting http://www.php.net/manual/en/function.usort.php
- * then, after the array was sorted, some elements could be randomly exchanged
- */
-shuffle($podcast_arr);
-$ele_count=count($podcast_arr);
-$i=0;
-$j=0;
-for(; $i < $ele_count; $i++) {
+
+$podcast_arr = shuffleByFiletime($podcast_arr);
+$ele_count = count($podcast_arr);
+$i = 0;
+$j = 0;
+for($i = 0; $i < $ele_count; $i++) {
   $j = printPodcastBox($podcast_arr[$i], $j);
 }
 
 ?>
-
-<!-- re:publica 2013
-      <div class="thispodcast">
-        <div class="podcastimg">
-        <a href="http://shownot.es/rp13/"><img src="http://shownot.es/img/logos/rp_logo.png" alt="re-publica Logo" /></a>
-          
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" id="newPodcast" href="http://shownot.es/rp13/">re:publica</a>
-        </div>
-      </div>
--->      
-
       <div class="thispodcast">
         <div class="podcastimg">
         <a href="http://shownot.es/anmelden/"><img src="http://shownot.es/img/logos/shownotes_logo.png" alt="Shownotes Logo" /></a>
@@ -192,12 +204,6 @@ for(; $i < $ele_count; $i++) {
       
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
-      
-      <!--
-        <div style="margin-top: 1em;">
-        
-        <!--<p>Zu diesen Podcasts gibt es bei uns insgesamt <?php echo $i; ?> Shownote Eintr&auml;ge. <br>Die gesamte Liste der Shownotes ist im <a href="https://shownotes.piratenpad.de/ep/padlist/all-pads">Etherpad</a> zu finden.</p><br>
-      </div>-->
     </div>
     <hr />
     <div style="margin: 0px;">
@@ -228,22 +234,22 @@ for(; $i < $ele_count; $i++) {
       </div>
     </div>
     <hr />
-    <p>Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
+    <p style="text-align: center;">Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
     <hr/>
-    <div class="widget-inner"><h3 class="widget-title">befreundete Projekte</h3>
+    <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h3 class="widget-title">befreundete Projekte</h3>
 
 <div class="column grid_4"><a href="https://auphonic.com/" title="auphonic" target="_blank"><img src="http://cdn.shownot.es/snprojekte/auphonic_300.png" alt="auphonic" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://bitlove.org/" title="Bitlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Bitlove_300.png" alt="Bitlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://firtz.org/" title="firtz" target="_blank"><img src="http://cdn.shownot.es/snprojekte/firtz_300.png" alt="Podbe" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://hoersuppe.de/" title="Die Hoersuppe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/hoersuppe_300.png" alt="Die Hoersuppe" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podbe.wikibyte.org/" title="Podbe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podbe_300.png" alt="Podbe" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://reliveradio.de/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
+<div class="column grid_4"><a href="http://poodle.fm/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
 <div class="column grid_4"></div>
 <div class="column grid_4 last"></div>
 <div class="clear"></div></div>
