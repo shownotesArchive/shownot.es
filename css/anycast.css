@@ -42,9 +42,11 @@ dd {
   padding-top: 10px;
 }
 
-dd strong {
+dd strong, dd strong a {
   display: block;
-  font: bold 16px/24px "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font: bold 16px/24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500 !important;
+  letter-spacing: 1px;
 }
 
 dd strong a, dd strong a:hover, dd strong a:visited{
