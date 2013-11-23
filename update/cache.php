@@ -6,21 +6,8 @@ ob_start();
 function shuffleByFiletime($array) {
   $i = 0;
   $shownotetimes = array();
-  $logdata = '';
-  $logarray = array();
   foreach($array as $podcast) {
-    $files = scandir('./../podcasts/'.$podcast[1].'/');
-    $newest = 0;
-    foreach($files as $file) {
-      if($file != '.' && $file != '..') {
-        $filetime = filemtime('./../podcasts/'.$podcast[1].'/'.$file);
-        $logarray[] = $filetime.' - '.$podcast[1].'/'.$file.' - '.date("d.m.Y", $filetime)."\n";
-        if($newest < $filetime) {
-          $newest = $filetime;
-        }
-      }
-    }
-    $shownotetimes[$i] = $newest;
+    $shownotetimes[$i] = filemtime('./../podcasts/' . $podcast[1]);
     $i++;
   }
   $sortedarray = array();
@@ -28,10 +15,7 @@ function shuffleByFiletime($array) {
   foreach($shownotetimes as $index => $times) {
     $sortedarray[] = $array[$index];
   }
-  $logdata .= print_r($shownotetimes, 1);
   asort($logarray);
-  $logdata .= print_r($logarray, 1);
-  file_put_contents('./sorted.txt', $logdata);
   return $sortedarray;
 }
 
@@ -184,6 +168,7 @@ $podcast_arr = array(
 );
 
 $podcast_arr = shuffleByFiletime($podcast_arr);
+
 $ele_count = count($podcast_arr);
 $i = 0;
 $j = 0;
