@@ -153,6 +153,7 @@ $podcast_arr = array(
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
   array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
   array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
+  array('LeCast','lecast','http://www.bullosamedia.de/','lecast_logo.png','LeCast Logo'),
   array('Netzgespräche','ng','http://www.xn--netzgesprche-ocb.de/','ng_logo.png','Netzgespräche Logo'),
   array('Not Safe for Work','nsfw','http://not-safe-for-work.de/','nsfw_logo.png','NSFW Logo'),
   array('Psychotalk','psyt','http://www.psycho-talk.de/','psyt_logo.png','Psychotalk Logo'),
