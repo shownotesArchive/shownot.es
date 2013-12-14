@@ -11,8 +11,10 @@
   <link rel="stylesheet" href="http://shownot.es/css/style.min.css?v=010" type="text/css" />
   <link rel="stylesheet" href="http://shownot.es/css/anycast.min.css?v=010" type="text/css"  media="screen" />
   <link rel="stylesheet" href="http://shownot.es/css/startseite.min.css?v=010" type="text/css"  media="screen" />
+  <link rel="stylesheet" href="http://shownotes.github.io/tinyOSF.js/shownotes.css" type="text/css"  media="screen" />
   <link rel="apple-touch-startup-image" href="http://shownot.es/img/iPhonePortrait.png" />
   <link rel="apple-touch-startup-image" sizes="768x1004" href="http://shownot.es/img/iPadPortait.png" />
+  <script src="http://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
   <style>
     table {
       width: 100%;
@@ -30,6 +32,18 @@
     td, th {
       padding: 5px;
     }
+    code {
+      white-space: pre-line;
+    }
+    p.osf_items, div.osf_items {
+      padding-left: 30px;
+    }
+    .osf_chapterbox h2, .osf_chapterbox h3, .osf_chapterbox h4, .osf_chapterbox h5 {
+      font-weight: 400 !important;
+    }
+    .osf_chaptertime, .osf_chapter {
+      vertical-align: middle !important;
+    }
   </style>
 </head>
 <body>
@@ -40,19 +54,87 @@
     </div>
     <p style="margin-top: 1em; text-align: center;">
       Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
-    </p><hr><br><table border="0">
-      <tr><th>Podcast</th><th>Episode</th><th>Datum</th><th>OSF</th></tr>
+    </p><hr/><br/>
 <?php
 
-$db = new SQLite3('archive.sqlite3');
-$results = $db->query('SELECT * FROM "main"."valid" ORDER BY "episodetime" DESC');
-while ($row = $results->fetchArray()) {
-    echo '<tr><td>'.$row['podcast'].'</td><td>'.$row['episode'].'</td><td>'.date("d.m.Y", $row['episodetime']).'</td><td><a href="./cache/osf/'.$row['podcast'].'_'.$row['episode'].'.osf.txt">'.str_replace(array('bak-','.json'),array('',''),$row['filename']).'</a></td></tr>';
+error_reporting(E_ALL);
+
+if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
+  include_once ('./OSFphp/osf.php');
+  include_once ('./OSFphp/parse.php');
+  $mode = $_GET['mode'];
+  $caches = scandir('./cache/', 1);
+  $cache = file_get_contents('./cache/'.$caches[1].'/'.str_replace(array('..', '/'), array('', ''), $_GET['episode']));
+
+  $fullmode             = 'true';
+  $fullint              = 2;
+  $tags                 = explode(' ', 'chapter section spoiler topic embed video audio image shopping glossary source app title quote link podcast news');
+  $data['tags']         = $tags;
+  $data['fullmode']     = $fullmode;
+  $data['amazon']       = 'shownot.es-21';
+  $data['thomann']      = '93439';
+  $data['tradedoubler'] = '16248286';
+
+  $shownotesArray = osf_parser(html_entity_decode($cache), $data);
+
+  if ($mode == 'block') {
+    $mode = 'block style';
+  }
+  if ($mode == 'list') {
+    $mode = 'list style';
+  }
+  if ($mode == 'osf') {
+    $mode = 'clean osf';
+  }
+
+  if ($mode == 'shownot.es') {
+    $export = '<div class="info">  <div class="thispodcast">  <div class="podcastimg">  <img src="" alt="Logo">  </div> <?php  include "./../episodeselector.php"; insertselector();  ?>  </div>  <div class="episodeinfo">  <table>  <tr>  <td>Podcast</td><td><a href="#"></a></td>  </tr>  <tr>  <td>Episode</td><td><a href="#"></a></td>  </tr>  <tr>  <td>Sendung vom</td><td>'.date("j. M Y").'</td>  </tr>  <tr>  <td>Podcaster</td><td>'.osf_get_persons('podcaster', $shownotesArray['header']).'</td>  </tr>  <tr>  <td>Shownoter</td>  <td>'.osf_get_persons('shownoter', $shownotesArray['header']).'</td>  </tr>  </table>  </div> </div><br/><br/>'."\n\n";
+    $export .= osf_export_block($shownotesArray['export'], 2, 'block style');
+  } elseif (($mode == 'block style') || ($mode == 'button style')) {
+    $export = osf_export_block($shownotesArray['export'], $fullint, $mode);
+  } elseif ($mode == 'list style') {
+    $export = osf_export_list($shownotesArray['export'], $fullint, $mode);
+  } elseif ($mode == 'clean osf') {
+    $export = '<pre><code>'.htmlentities(osf_export_osf($shownotesArray['export'], $fullint, $mode)).'</code></pre>';
+  } elseif ($mode == 'glossary') {
+    $export = osf_export_glossary($shownotesArray['export'], $fullint);
+  } elseif (($mode == 'shownoter') || ($mode == 'podcaster')) {
+    if (isset($shownotesArray['header'])) {
+      if ($mode == 'shownoter') {
+        $export = osf_get_persons('shownoter', $shownotesArray['header']);
+      } elseif ($mode == 'podcaster') {
+        $export = osf_get_persons('podcaster', $shownotesArray['header']);
+      }
+    }
+  } elseif ($mode == 'JSON') {
+    $export = json_encode($shownotesArray['export']);
+  } elseif ($mode == 'Chapter') {
+    $export = osf_export_chapterlist($shownotesArray['export']);
+  } elseif ($mode == 'PSC') {
+    $export = osf_export_psc($shownotesArray['export']);
+  }
+
+  echo $export;
+} else {
+  echo '<table class="sortable" border="0"><tr><th>Podcast</th><th>Episode</th><th>Datum</th><th colspan="3"></th></tr>';
+  $db = new SQLite3('archive.sqlite3');
+  $results = $db->query('SELECT * FROM "main"."valid" ORDER BY "episodetime" DESC');
+  while ($row = $results->fetchArray()) {
+    echo '<tr><td>'.$row['podcast'].'</td><td>'.$row['episode'];
+    if(strlen(trim($row['subject'])) > 2) {
+      echo ' - <i>'.substr($row['subject'], 0, 20);
+      if(strlen($row['subject']) > 20) {
+        echo ' ...';
+      }
+      echo '</i>';
+    }
+    echo '</td><td sorttable_customkey="'.$row['episodetime'].'">'.date("d.m.Y", $row['episodetime']).'</td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=block">block</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=list">list</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=osf">osf</a></td></tr>';
+  }
+  echo '</table>';
 }
 
 ?>
 
-</table>
     <hr/>
     <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h3 class="widget-title">befreundete Projekte</h3>
 
