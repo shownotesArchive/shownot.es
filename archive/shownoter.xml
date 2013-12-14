@@ -49,6 +49,18 @@
 	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>1337kultur</podcast>
+	<episode>32</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>1337kultur</podcast>
+	<episode>32</episode>
+	<shownoter>PeaKant</shownoter>
+	<shownoterurl>https://twitter.com/PeaKant</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>Culinaricast</podcast>
 	<episode>XX</episode>
 	<shownoter>Frank Hase</shownoter>
@@ -110,8 +122,8 @@
 </RECORD>
 <RECORD>
 	<podcast>LeCast</podcast>
-	<episode>7</episode>
-	<shownoter>shbitt (@shbitt)  #link</shownoter>
+	<episode>lecast-007</episode>
+	<shownoter>shbitt (@shbitt</shownoter>
 	<shownoterurl>https://twitter.com/shbitt</shownoterurl>
 </RECORD>
 <RECORD>
@@ -242,6 +254,18 @@
 </RECORD>
 <RECORD>
 	<podcast>ABSradio</podcast>
+	<episode>2</episode>
+	<shownoter>foxue</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>ABSradio</podcast>
+	<episode>2</episode>
+	<shownoter>sylar_5</shownoter>
+	<shownoterurl>https://twitter.com/sylar_5</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>ABSradio</podcast>
 	<episode>ABS003</episode>
 	<shownoter>Kambfhase</shownoter>
 	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
@@ -357,8 +381,8 @@
 <RECORD>
 	<podcast>absradio</podcast>
 	<episode>12</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
+	<shownoter>blumenkraft</shownoter>
+	<shownoterurl>https://twitter.com/blumenkraft</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>absradio</podcast>
@@ -371,6 +395,48 @@
 	<episode>13</episode>
 	<shownoter>@blumenkraft</shownoter>
 	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>15</episode>
+	<shownoter>@hd4711</shownoter>
+	<shownoterurl>https://alpha.app.net/hd4711</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>15</episode>
+	<shownoter>@blumenkraft</shownoter>
+	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>14</episode>
+	<shownoter>@blumenkraft</shownoter>
+	<shownoterurl>https://app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>14</episode>
+	<shownoter>@hd4711</shownoter>
+	<shownoterurl>https://alpha.app.net/hd4711</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>ABSradio</podcast>
+	<episode>ABS003</episode>
+	<shownoter>Kambfhase</shownoter>
+	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>ABSradio</podcast>
+	<episode>ABS003</episode>
+	<shownoter>sylar_5</shownoter>
+	<shownoterurl>https://twitter.com/sylar_5</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>ABSradio</podcast>
+	<episode>ABS003</episode>
+	<shownoter>ZarembaMarco</shownoter>
+	<shownoterurl>https://twitter.com/ZarembaMarco</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Antalyacity</podcast>
@@ -433,6 +499,12 @@
 	<shownoterurl>https://twitter.com/tobybaier</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>Agiles Produktmanagement</podcast>
+	<episode>3</episode>
+	<shownoter>tobybaier</shownoter>
+	<shownoterurl>https://twitter.com/tobybaier</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>binaergewitter</podcast>
 	<episode>58</episode>
 	<shownoter>Savar</shownoter>
@@ -452,18 +524,6 @@
 </RECORD>
 <RECORD>
 	<podcast>binaergewitter</podcast>
-	<episode>59</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>binaergewitter</podcast>
-	<episode>60</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>binaergewitter</podcast>
 	<episode>62</episode>
 	<shownoter>Schmittlauch</shownoter>
 	<shownoterurl></shownoterurl>
@@ -477,12 +537,6 @@
 <RECORD>
 	<podcast>binaergewitter</podcast>
 	<episode>67</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>binaergewitter</podcast>
-	<episode>68</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
@@ -587,6 +641,12 @@
 	<episode>3092013</episode>
 	<shownoter>moritz1997</shownoter>
 	<shownoterurl>https://twitter.com/moritz1997</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>31.01.2013</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -920,6 +980,12 @@
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
+	<episode>12.11.2013</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
 	<episode>15.10.2013</episode>
 	<shownoter>kaeffchen_heinz</shownoter>
 	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
@@ -1169,6 +1235,36 @@
 	<episode>19.05.2013</episode>
 	<shownoter>@Weidekaiser</shownoter>
 	<shownoterurl>https://twitter.com/weidekaiser</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>19.11.2013</episode>
+	<shownoter>kaikubasta</shownoter>
+	<shownoterurl>https://twitter.com/kaikubasta</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>19.11.2013</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>19.11.2013</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>19.11.2013</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>19.11.2013</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -1765,6 +1861,24 @@
 	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>chaosradio</podcast>
+	<episode>196</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>chaosradio</podcast>
+	<episode>196</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://twitter.com/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>chaosradio</podcast>
+	<episode>196</episode>
+	<shownoter>hanz</shownoter>
+	<shownoterurl>https://twitter.com/hanz</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>CRE</podcast>
 	<episode>198</episode>
 	<shownoter></shownoter>
@@ -1807,10 +1921,16 @@
 	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>Datenkanal</podcast>
-	<episode>24</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
+	<podcast>Culinaricast</podcast>
+	<episode>93 -  Nico</episode>
+	<shownoter>Kambfhase</shownoter>
+	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Culinaricast</podcast>
+	<episode>95 -  Kuchen und Torten</episode>
+	<shownoter>Kambfhase</shownoter>
+	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Datenkanal</podcast>
@@ -1828,12 +1948,6 @@
 	<podcast>Datenkanal</podcast>
 	<episode>27</episode>
 	<shownoter>Jens Kubieziel</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>devradio</podcast>
-	<episode>238</episode>
-	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
@@ -1871,6 +1985,18 @@
 	<episode>9</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>die-stroemung</podcast>
+	<episode>10</episode>
+	<shownoter>Bigmcintosh91</shownoter>
+	<shownoterurl>https://twitter.com/Bigmcintosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>die-stroemung</podcast>
+	<episode>10</episode>
+	<shownoter>vanilla_chief</shownoter>
+	<shownoterurl>https://twitter.com/vanilla_chief</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>WRINT Wrintheit 43</podcast>
@@ -2449,6 +2575,96 @@
 	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>258</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>258</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>259</episode>
+	<shownoter>@Dr4k3_le</shownoter>
+	<shownoterurl>https://twitter.com/Dr4k3_LE</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>259</episode>
+	<shownoter>@evitabley</shownoter>
+	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>259</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<shownoter>Vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<shownoter>@Dr4k3_le</shownoter>
+	<shownoterurl>https://twitter.com/Dr4k3_LE</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<shownoter>bigmcintosh91</shownoter>
+	<shownoterurl>https://twitter.com/bigmcintosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>261</episode>
+	<shownoter>Vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>261</episode>
+	<shownoter>@Dr4k3_le</shownoter>
+	<shownoterurl>https://twitter.com/Dr4k3_LE</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>261</episode>
+	<shownoter>Quimoniz (@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>262</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>einschlafen</podcast>
+	<episode>262</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>Einschlafen Podcast 228 vom</podcast>
 	<episode>228</episode>
 	<shownoter>EvitaBley</shownoter>
@@ -2635,15 +2851,51 @@
 	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>freak-show</podcast>
+	<episode>121</episode>
+	<shownoter>Evita</shownoter>
+	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>121</episode>
+	<shownoter>Vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>122</episode>
+	<shownoter>Vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>122</episode>
+	<shownoter>moe</shownoter>
+	<shownoterurl>https://twitter.com/moe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>123</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>123</episode>
+	<shownoter>NGC_Ollie</shownoter>
+	<shownoterurl>https://twitter.com/NGC_Ollie</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>freak-show</podcast>
+	<episode>123</episode>
+	<shownoter>vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>happydaypodcast</podcast>
 	<episode>1</episode>
 	<shownoter>Maadi</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>hoaxilla</podcast>
-	<episode>128</episode>
-	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
@@ -2695,12 +2947,6 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast></podcast>
-	<episode></episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
 	<podcast>der-lautsprecher</podcast>
 	<episode>11</episode>
 	<shownoter>Simon Waldherr</shownoter>
@@ -2726,15 +2972,27 @@
 </RECORD>
 <RECORD>
 	<podcast>LeCast</podcast>
-	<episode>6</episode>
-	<shownoter>shbitt (@shbitt)  #link</shownoter>
+	<episode>lecast-006</episode>
+	<shownoter>shbitt (@shbitt</shownoter>
 	<shownoterurl>https://twitter.com/shbitt</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>LeCast</podcast>
-	<episode>8</episode>
-	<shownoter>shbitt (@shbitt)  #link</shownoter>
+	<episode>lecast-008</episode>
+	<shownoter>shbitt (@shbitt</shownoter>
 	<shownoterurl>https://twitter.com/shbitt</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>lecast</podcast>
+	<episode>14</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>lecast</podcast>
+	<episode>15</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>maerchenstunde</podcast>
@@ -2759,6 +3017,12 @@
 	<episode>29</episode>
 	<shownoter>bjoerngrau</shownoter>
 	<shownoterurl>https://twitter.com/bjoerngrau</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>maerchenstunde</podcast>
+	<episode>30</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>mikrodilettanten</podcast>
@@ -2978,6 +3242,12 @@
 </RECORD>
 <RECORD>
 	<podcast>Nerdkunde</podcast>
+	<episode>18</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Nerdkunde</podcast>
 	<episode>13</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
@@ -2985,6 +3255,12 @@
 <RECORD>
 	<podcast>nerdkunde</podcast>
 	<episode>15</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Nerdkunde</podcast>
+	<episode>17</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
@@ -3005,6 +3281,12 @@
 	<episode>9</episode>
 	<shownoter>@blumenkraft</shownoter>
 	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdsfm</podcast>
+	<episode>12</episode>
+	<shownoter>SonicHedgehog</shownoter>
+	<shownoterurl>https://twitter.com/SonicHedgehog</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>nerdsfm</podcast>
@@ -3068,12 +3350,6 @@
 </RECORD>
 <RECORD>
 	<podcast>netzgesprache</podcast>
-	<episode>78</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
 	<episode>79</episode>
 	<shownoter>Zwitscherace</shownoter>
 	<shownoterurl>https://twitter.com/Zwitscherace</shownoterurl>
@@ -3093,6 +3369,12 @@
 <RECORD>
 	<podcast>netzgesprache</podcast>
 	<episode>81</episode>
+	<shownoter>CdrTaggart</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>netzgesprache</podcast>
+	<episode>83</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
@@ -3107,12 +3389,6 @@
 	<episode>75</episode>
 	<shownoter>@blumenkraft</shownoter>
 	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Netzgespraeche</podcast>
-	<episode>76</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>netzgesprache</podcast>
@@ -3251,6 +3527,24 @@
 	<episode>75</episode>
 	<shownoter>vale</shownoter>
 	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>nsfw</podcast>
+	<episode>78</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>nsfw</podcast>
+	<episode>78</episode>
+	<shownoter>dizzzt</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>nsfw</podcast>
+	<episode>79</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>nsfw</podcast>
@@ -3883,6 +4177,60 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>52</episode>
+	<shownoter>BigMcIntosh</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>52</episode>
+	<shownoter>MrICE</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>53</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>53</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>54</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>54</episode>
+	<shownoter>MrICE</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>54</episode>
+	<shownoter>ponyhof42</shownoter>
+	<shownoterurl>https://twitter.com/ponyhof42</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>55</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>55</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>18</episode>
 	<shownoter>drolbr</shownoter>
@@ -3922,19 +4270,19 @@
 	<podcast>radio-osm</podcast>
 	<episode>23</episode>
 	<shownoter>okilimu</shownoter>
-	<shownoterurl></shownoterurl>
+	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:Okilimu</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>23</episode>
 	<shownoter>dampfklon</shownoter>
-	<shownoterurl></shownoterurl>
+	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:Dampfklon</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>23</episode>
 	<shownoter>AJoNee</shownoter>
-	<shownoterurl></shownoterurl>
+	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:AJoNee</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>radio-osm</podcast>
@@ -3958,12 +4306,48 @@
 	<podcast>radio-osm</podcast>
 	<episode>24</episode>
 	<shownoter>AJoNee</shownoter>
-	<shownoterurl></shownoterurl>
+	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:AJoNee</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>24</episode>
 	<shownoter>MacGyver_NRW</shownoter>
+	<shownoterurl>https://www.youtube.com/user/MacGyverNRW</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>AJoNee</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>okilimu</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>Bielebog</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>Nakaner</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>mafeu</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radio-osm</podcast>
+	<episode>25</episode>
+	<shownoter>drolbr</shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
@@ -4033,6 +4417,48 @@
 	<shownoterurl>https://twitter.com/yocky96</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>1</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>2</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>3</episode>
+	<shownoter>Heilung83</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>3</episode>
+	<shownoter>comidarebelde</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>3</episode>
+	<shownoter>elmsy</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>4</episode>
+	<shownoter>elmsy</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>radiorollenspiel</podcast>
+	<episode>5</episode>
+	<shownoter>elmsy</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>Rautenradio</podcast>
 	<episode>RR020</episode>
 	<shownoter>Geekmaedchen</shownoter>
@@ -4043,6 +4469,36 @@
 	<episode>21</episode>
 	<shownoter>geekmaedchen</shownoter>
 	<shownoterurl>https://twitter.com/geekmaedchen</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>40</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>45</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>47048</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>49050</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>RR043</episode>
+	<shownoter>nedfuller</shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>robotiklabor</podcast>
@@ -4129,6 +4585,12 @@
 	<shownoterurl>https://twitter.com/1nsider</shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>robotiklabor</podcast>
+	<episode>30</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>Schmalsprech</podcast>
 	<episode>49</episode>
 	<shownoter>Dr4k3_le</shownoter>
@@ -4144,6 +4606,30 @@
 	<podcast>Schmalsprech</podcast>
 	<episode>49</episode>
 	<shownoter>shbitt</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>schoene-ecken</podcast>
+	<episode>67</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>schoene-ecken</podcast>
+	<episode>67</episode>
+	<shownoter>@modnerd</shownoter>
+	<shownoterurl>https://alpha.app.net/modnerd</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>schoene-ecken</podcast>
+	<episode>67</episode>
+	<shownoter>@ponyhof42</shownoter>
+	<shownoterurl>https://twitter.com/ponyhof42</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>sendungsbewusststein</podcast>
+	<episode>SB002</episode>
+	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
@@ -4532,12 +5018,6 @@
 </RECORD>
 <RECORD>
 	<podcast>wir-mussen-reden</podcast>
-	<episode>69</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wir-mussen-reden</podcast>
 	<episode>70</episode>
 	<shownoter>antonioinotna</shownoter>
 	<shownoterurl></shownoterurl>
@@ -4595,6 +5075,24 @@
 	<episode>74</episode>
 	<shownoter>@blumenkraft</shownoter>
 	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>75</episode>
+	<shownoter>@blumenkraft</shownoter>
+	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>75</episode>
+	<shownoter>PeaK</shownoter>
+	<shownoterurl>https://twitter.com/PeaKant</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>75</episode>
+	<shownoter>Vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Wrintheit</podcast>
@@ -5246,528 +5744,6 @@
 </RECORD>
 <RECORD>
 	<podcast>wrint</podcast>
-	<episode>RA44</episode>
-	<shownoter>hanz &lt;twitter.com/kaeffchen_heinz&gt;</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>1337kultur</podcast>
-	<episode>32</episode>
-	<shownoter>Quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>1337kultur</podcast>
-	<episode>32</episode>
-	<shownoter>PeaKant</shownoter>
-	<shownoterurl>https://twitter.com/PeaKant</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Culinaricast</podcast>
-	<episode>XX</episode>
-	<shownoter>Frank Hase</shownoter>
-	<shownoterurl>https://alpha.app.net/kambfhase</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>2</episode>
-	<shownoter>blumenkraft</shownoter>
-	<shownoterurl>https://twitter.com/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>2</episode>
-	<shownoter>foxue</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>2</episode>
-	<shownoter>sylar_5</shownoter>
-	<shownoterurl>https://twitter.com/sylar_5</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>4</episode>
-	<shownoter>blumenkraft</shownoter>
-	<shownoterurl>https://twitter.com/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>5</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>5</episode>
-	<shownoter>Frank Hase</shownoter>
-	<shownoterurl>https://alpha.app.net/kambfhase</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>5</episode>
-	<shownoter>@dasdom</shownoter>
-	<shownoterurl>https://alpha.app.net/dasdom</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>5</episode>
-	<shownoter>@quimoniz</shownoter>
-	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>6</episode>
-	<shownoter>@Quimoniz</shownoter>
-	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>6</episode>
-	<shownoter>Simon Waldherr</shownoter>
-	<shownoterurl>http://simon.waldherr.eu/</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>6</episode>
-	<shownoter>Phasenkasper</shownoter>
-	<shownoterurl>http://phasenkasper.de</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>7</episode>
-	<shownoter>Frank Hase</shownoter>
-	<shownoterurl>https://alpha.app.net/Kambfhase</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>7</episode>
-	<shownoter>Jochen Spalding</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>9</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>11</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>http://app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>12</episode>
-	<shownoter>blumenkraft</shownoter>
-	<shownoterurl>https://twitter.com/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>13</episode>
-	<shownoter>@zn80</shownoter>
-	<shownoterurl>https://alpha.app.net/zn80</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>13</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>14</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>absradio</podcast>
-	<episode>14</episode>
-	<shownoter>@hd4711</shownoter>
-	<shownoterurl>https://alpha.app.net/hd4711</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<shownoter>Kambfhase</shownoter>
-	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<shownoter>sylar_5</shownoter>
-	<shownoterurl>https://twitter.com/sylar_5</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<shownoter>ZarembaMarco</shownoter>
-	<shownoterurl>https://twitter.com/ZarembaMarco</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Agiles Produktmanagement</podcast>
-	<episode>3</episode>
-	<shownoter>tobybaier</shownoter>
-	<shownoterurl>https://twitter.com/tobybaier</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>31.01.2013</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>05.11.2013</episode>
-	<shownoter>kaeffchen_heinz</shownoter>
-	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>05.11.2013</episode>
-	<shownoter>codingbinary</shownoter>
-	<shownoterurl>https://twitter.com/codingbinary</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>05.11.2013</episode>
-	<shownoter>frodolf</shownoter>
-	<shownoterurl>https://twitter.com/frodolf</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>12.11.2013</episode>
-	<shownoter>kaeffchen_heinz</shownoter>
-	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>19.11.2013</episode>
-	<shownoter>kaikubasta</shownoter>
-	<shownoterurl>https://twitter.com/kaikubasta</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>19.11.2013</episode>
-	<shownoter>Quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>19.11.2013</episode>
-	<shownoter>vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>19.11.2013</episode>
-	<shownoter>kaeffchen_heinz</shownoter>
-	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>19.11.2013</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>258</episode>
-	<shownoter>vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>258</episode>
-	<shownoter>mrmoe</shownoter>
-	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>259</episode>
-	<shownoter>@Dr4k3_le</shownoter>
-	<shownoterurl>https://twitter.com/Dr4k3_LE</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>259</episode>
-	<shownoter>@evitabley</shownoter>
-	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>259</episode>
-	<shownoter>vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>freak-show</podcast>
-	<episode>121</episode>
-	<shownoter>Evita</shownoter>
-	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>freak-show</podcast>
-	<episode>121</episode>
-	<shownoter>Vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast></podcast>
-	<episode></episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>maerchenstunde</podcast>
-	<episode>30</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Nerdkunde</podcast>
-	<episode>16</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
-	<episode>80</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
-	<episode>80</episode>
-	<shownoter>@Quimoniz</shownoter>
-	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
-	<episode>81</episode>
-	<shownoter>CdrTaggart</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>nsfw</podcast>
-	<episode>78</episode>
-	<shownoter>mrmoe</shownoter>
-	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>nsfw</podcast>
-	<episode>78</episode>
-	<shownoter>dizzzt</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>pubkameraden</podcast>
-	<episode>31</episode>
-	<shownoter>@Quimoniz</shownoter>
-	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>pubkameraden</podcast>
-	<episode>31</episode>
-	<shownoter>@Bigmcintosh91</shownoter>
-	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>pubkameraden</podcast>
-	<episode>31</episode>
-	<shownoter>@vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>quasselstrippen</podcast>
-	<episode>52</episode>
-	<shownoter>BigMcIntosh</shownoter>
-	<shownoterurl>https://twitter.com/BigMcIntosh</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>quasselstrippen</podcast>
-	<episode>52</episode>
-	<shownoter>MrICE</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>23</episode>
-	<shownoter>okilimu</shownoter>
-	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:Okilimu</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>23</episode>
-	<shownoter>dampfklon</shownoter>
-	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:Dampfklon</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>23</episode>
-	<shownoter>AJoNee</shownoter>
-	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:AJoNee</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>23</episode>
-	<shownoter>mgehling</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>23</episode>
-	<shownoter>jff</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>24</episode>
-	<shownoter>Angi_Lit</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>24</episode>
-	<shownoter>AJoNee</shownoter>
-	<shownoterurl>http://wiki.openstreetmap.org/wiki/User:AJoNee</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radio-osm</podcast>
-	<episode>24</episode>
-	<shownoter>MacGyver_NRW</shownoter>
-	<shownoterurl>https://www.youtube.com/user/MacGyverNRW</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>1</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>2</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>3</episode>
-	<shownoter>Heilung83</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>3</episode>
-	<shownoter>comidarebelde</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>3</episode>
-	<shownoter>elmsy</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>4</episode>
-	<shownoter>elmsy</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>radiorollenspiel</podcast>
-	<episode>5</episode>
-	<shownoter>elmsy</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>rautenradio</podcast>
-	<episode>40</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>rautenradio</podcast>
-	<episode>RR043</episode>
-	<shownoter>nedfuller</shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>robotiklabor</podcast>
-	<episode>24</episode>
-	<shownoter>Simon Waldherr</shownoter>
-	<shownoterurl>http://simon.waldherr.eu</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>robotiklabor</podcast>
-	<episode>24</episode>
-	<shownoter>@1nsider</shownoter>
-	<shownoterurl>http://twitter.com/1nsider</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>sendungsbewusststein</podcast>
-	<episode>SB002</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wir-mussen-reden</podcast>
-	<episode>74</episode>
-	<shownoter>@hd4711</shownoter>
-	<shownoterurl>https://alpha.app.net/hd4711</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wir-mussen-reden</podcast>
-	<episode>74</episode>
-	<shownoter>@blumenkraft</shownoter>
-	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>210</episode>
-	<shownoter>@Quimoniz</shownoter>
-	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>210</episode>
-	<shownoter>toam</shownoter>
-	<shownoterurl>http://www.freesound.org/people/toam/</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>210</episode>
-	<shownoter>mathepauker</shownoter>
-	<shownoterurl>http://mathepauker.de/</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>210</episode>
-	<shownoter>@vale</shownoter>
-	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>220</episode>
-	<shownoter>moritz1997</shownoter>
-	<shownoterurl>https://twitter.com/moritz1997</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>220</episode>
-	<shownoter>mathepauker</shownoter>
-	<shownoterurl>http://mathepauker.de/</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>220</episode>
-	<shownoter>quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
 	<episode>222</episode>
 	<shownoter>mathepauker</shownoter>
 	<shownoterurl>http://mathepauker.de/</shownoterurl>
@@ -5789,5 +5765,41 @@
 	<episode>224</episode>
 	<shownoter>Quimoniz</shownoter>
 	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>228</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>229</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>231</episode>
+	<shownoter>Peak (@PeaKant</shownoter>
+	<shownoterurl>https://twitter.com/PeaKant</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>231</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>232</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>RA44</episode>
+	<shownoter>hanz &lt;twitter.com/kaeffchen_heinz&gt;</shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 </RECORDS>

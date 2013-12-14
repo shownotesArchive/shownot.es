@@ -4,9 +4,11 @@
 	<filename>bak-EP226.json</filename>
 	<podcast>Einschlafen Podcast</podcast>
 	<episode>226</episode>
+	<subject></subject>
 	<filehash>77230d896d91a33b8752ab91a5b4ecf7</filehash>
 	<episodetime>1365016140</episodetime>
-	<filetime>1384120733</filetime>
+	<filetime>1387031932</filetime>
+	<filesize>5115</filesize>
 	<podcast:1>Einschlafen Podcast</podcast:1>
 	<episode:1>226</episode:1>
 	<podcaster>tobybaier</podcaster>
@@ -16,9 +18,11 @@
 	<filename>bak-EP227.json</filename>
 	<podcast>Einschlafen Podcast</podcast>
 	<episode>227</episode>
+	<subject></subject>
 	<filehash>a2209247772793ce026691fa11b742d1</filehash>
 	<episodetime>1365451620</episodetime>
-	<filetime>1384120733</filetime>
+	<filetime>1387031932</filetime>
+	<filesize>6070</filesize>
 	<podcast:1>Einschlafen Podcast</podcast:1>
 	<episode:1>227</episode:1>
 	<podcaster>Toby Baier</podcaster>
@@ -28,9 +32,11 @@
 	<filename>bak-EP227.json</filename>
 	<podcast>Einschlafen Podcast</podcast>
 	<episode>227</episode>
+	<subject></subject>
 	<filehash>a2209247772793ce026691fa11b742d1</filehash>
 	<episodetime>1365451620</episodetime>
-	<filetime>1384120733</filetime>
+	<filetime>1387031932</filetime>
+	<filesize>6070</filesize>
 	<podcast:1>Einschlafen Podcast</podcast:1>
 	<episode:1>227</episode:1>
 	<podcaster>tobybaier</podcaster>
@@ -40,9 +46,11 @@
 	<filename>bak-apm-001.json</filename>
 	<podcast>Agiles Produktmanagement</podcast>
 	<episode>1</episode>
+	<subject></subject>
 	<filehash>45dddab45a57f0cba40fbb854dffccf6</filehash>
 	<episodetime>1377417664</episodetime>
-	<filetime>1384120745</filetime>
+	<filetime>1387031944</filetime>
+	<filesize>10588</filesize>
 	<podcast:1>Agiles Produktmanagement</podcast:1>
 	<episode:1>1</episode:1>
 	<podcaster>tobybaier</podcaster>
@@ -52,11 +60,55 @@
 	<filename>bak-apm-002.json</filename>
 	<podcast>Agiles Produktmanagement</podcast>
 	<episode>2</episode>
+	<subject></subject>
 	<filehash>f6f03782cdde08da76fea85855db7b88</filehash>
 	<episodetime>1378908000</episodetime>
-	<filetime>1384120746</filetime>
+	<filetime>1387031945</filetime>
+	<filesize>20297</filesize>
 	<podcast:1>Agiles Produktmanagement</podcast:1>
 	<episode:1>2</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-apm-003.json</filename>
+	<podcast>Agiles Produktmanagement</podcast>
+	<episode>3</episode>
+	<subject></subject>
+	<filehash>9fb1f35c715e828376bd6393bc366dca</filehash>
+	<episodetime>1384938000</episodetime>
+	<filetime>1387031946</filetime>
+	<filesize>6568</filesize>
+	<podcast:1>Agiles Produktmanagement</podcast:1>
+	<episode:1>3</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-229.json</filename>
+	<podcast>Einschlafen Podcast 229 vom 18.April 2013</podcast>
+	<episode>229</episode>
+	<subject></subject>
+	<filehash>69735816a7b6ac570c33d4aa2b61e20f</filehash>
+	<episodetime>1366312280</episodetime>
+	<filetime>1387032481</filetime>
+	<filesize>4564</filesize>
+	<podcast:1>Einschlafen Podcast 229 vom 18.April 2013</podcast:1>
+	<episode:1>229</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-229.json</filename>
+	<podcast>Einschlafen Podcast 229 vom 18.April 2013</podcast>
+	<episode>229</episode>
+	<subject></subject>
+	<filehash>69735816a7b6ac570c33d4aa2b61e20f</filehash>
+	<episodetime>1366312280</episodetime>
+	<filetime>1387032481</filetime>
+	<filesize>4564</filesize>
+	<podcast:1>Einschlafen Podcast 229 vom 18.April 2013</podcast:1>
+	<episode:1>229</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
@@ -64,9 +116,11 @@
 	<filename>bak-einschlafen-230.json</filename>
 	<podcast>Einschlafen Podcast</podcast>
 	<episode>230</episode>
+	<subject></subject>
 	<filehash>3343ce4fa7b5400f617ecbe317538653</filehash>
 	<episodetime>1366657816</episodetime>
-	<filetime>1384120786</filetime>
+	<filetime>1387032482</filetime>
+	<filesize>5702</filesize>
 	<podcast:1>Einschlafen Podcast</podcast:1>
 	<episode:1>230</episode:1>
 	<podcaster>Toby Baier</podcaster>
@@ -76,119 +130,433 @@
 	<filename>bak-einschlafen-230.json</filename>
 	<podcast>Einschlafen Podcast</podcast>
 	<episode>230</episode>
+	<subject></subject>
 	<filehash>3343ce4fa7b5400f617ecbe317538653</filehash>
 	<episodetime>1366657816</episodetime>
-	<filetime>1384120786</filetime>
+	<filetime>1387032482</filetime>
+	<filesize>5702</filesize>
 	<podcast:1>Einschlafen Podcast</podcast:1>
 	<episode:1>230</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-025.json</filename>
-	<podcast>Pubkameraden</podcast>
-	<episode>25</episode>
-	<filehash>433e60e99a3f20c9b868e06552e41790</filehash>
-	<episodetime>1365966180</episodetime>
-	<filetime>1384120830</filetime>
-	<podcast:1>Pubkameraden</podcast:1>
-	<episode:1>25</episode:1>
+	<filename>bak-einschlafen-231.json</filename>
+	<podcast>Einschlafen Podcast 231 vom 29.April 2013</podcast>
+	<episode>231</episode>
+	<subject></subject>
+	<filehash>0e11f9f64b4033abe6f2aac74dbefda7</filehash>
+	<episodetime>1367262432</episodetime>
+	<filetime>1387032483</filetime>
+	<filesize>4645</filesize>
+	<podcast:1>Einschlafen Podcast 231 vom 29.April 2013</podcast:1>
+	<episode:1>231</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-231.json</filename>
+	<podcast>Einschlafen Podcast 231 vom 29.April 2013</podcast>
+	<episode>231</episode>
+	<subject></subject>
+	<filehash>0e11f9f64b4033abe6f2aac74dbefda7</filehash>
+	<episodetime>1367262432</episodetime>
+	<filetime>1387032483</filetime>
+	<filesize>4645</filesize>
+	<podcast:1>Einschlafen Podcast 231 vom 29.April 2013</podcast:1>
+	<episode:1>231</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-27.json</filename>
-	<podcast>Pubkameraden</podcast>
-	<episode>27</episode>
-	<filehash>46ccc60d155f679affc88e855394f0d7</filehash>
-	<episodetime>1367349540</episodetime>
-	<filetime>1384120831</filetime>
-	<podcast:1>Pubkameraden</podcast:1>
-	<episode:1>27</episode:1>
+	<filename>bak-einschlafen-232.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>232</episode>
+	<subject></subject>
+	<filehash>785d9e1f059aedb1d3ef293c922a9f18</filehash>
+	<episodetime>1367867220</episodetime>
+	<filetime>1387032483</filetime>
+	<filesize>5038</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>232</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-232.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>232</episode>
+	<subject></subject>
+	<filehash>785d9e1f059aedb1d3ef293c922a9f18</filehash>
+	<episodetime>1367867220</episodetime>
+	<filetime>1387032483</filetime>
+	<filesize>5038</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>232</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-28.json</filename>
-	<podcast>pubkameraden</podcast>
-	<episode>28</episode>
-	<filehash>c45ad8dfcaba9c85b03f7fa950cfc271</filehash>
-	<episodetime>1371381854</episodetime>
-	<filetime>1384120831</filetime>
-	<podcast:1>pubkameraden</podcast:1>
-	<episode:1>28</episode:1>
+	<filename>bak-einschlafen-233.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>233</episode>
+	<subject></subject>
+	<filehash>5e3f222ed609932f7352f228528a77a3</filehash>
+	<episodetime>1368472297</episodetime>
+	<filetime>1387032484</filetime>
+	<filesize>8476</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>233</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-233.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>233</episode>
+	<subject></subject>
+	<filehash>5e3f222ed609932f7352f228528a77a3</filehash>
+	<episodetime>1368472297</episodetime>
+	<filetime>1387032484</filetime>
+	<filesize>8476</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>233</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-234.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>234</episode>
+	<subject></subject>
+	<filehash>bb919c17d30a1cb12eb5bfc7e955549a</filehash>
+	<episodetime>1369076950</episodetime>
+	<filetime>1387032485</filetime>
+	<filesize>6586</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>234</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-235.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>235</episode>
+	<subject></subject>
+	<filehash>2fce399efff09a1d7ef576e5fb4cabeb</filehash>
+	<episodetime>1369854120</episodetime>
+	<filetime>1387032485</filetime>
+	<filesize>2228</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>235</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-236.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>236</episode>
+	<subject></subject>
+	<filehash>62e5fc49d4eb1cb3eff2d2e5de5c65b3</filehash>
+	<episodetime>1370286415</episodetime>
+	<filetime>1387032485</filetime>
+	<filesize>2684</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>236</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-237.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>237</episode>
+	<subject></subject>
+	<filehash>28122b88544e57addaabfcf522f9d622</filehash>
+	<episodetime>1370892613</episodetime>
+	<filetime>1387032486</filetime>
+	<filesize>5345</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>237</episode:1>
+	<podcaster>tobybaier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-238.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>238</episode>
+	<subject></subject>
+	<filehash>7cf33eeff95b1ea0ca7c1e95b05b79ea</filehash>
+	<episodetime>1371496195</episodetime>
+	<filetime>1387032486</filetime>
+	<filesize>5780</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>238</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-239.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>239</episode>
+	<subject></subject>
+	<filehash>964b0b26d32c7179dc17bb8d02c9ca21</filehash>
+	<episodetime>1372101015</episodetime>
+	<filetime>1387032487</filetime>
+	<filesize>6791</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>239</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-240.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>240</episode>
+	<subject></subject>
+	<filehash>ada0b8781e8d5a0101a371d6332c2683</filehash>
+	<episodetime>1372619481</episodetime>
+	<filetime>1387032488</filetime>
+	<filesize>5733</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>240</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-241.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>241</episode>
+	<subject></subject>
+	<filehash>023fc4455970f6f81663f04b449abf30</filehash>
+	<episodetime>1374179878</episodetime>
+	<filetime>1387032489</filetime>
+	<filesize>8164</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>241</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-242.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>242</episode>
+	<subject></subject>
+	<filehash>42fae8d65d02af5c617e604029c85c7a</filehash>
+	<episodetime>1374519600</episodetime>
+	<filetime>1387032490</filetime>
+	<filesize>7608</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>242</episode:1>
 	<podcaster>Toby Baier (@tobybaier</podcaster>
 	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-29.json</filename>
-	<podcast>Pubkameraden</podcast>
-	<episode>29</episode>
-	<filehash>0619255995868dcb75296bbe2229c266</filehash>
-	<episodetime>1384120832</episodetime>
-	<filetime>1384120831</filetime>
-	<podcast:1>Pubkameraden</podcast:1>
-	<episode:1>29</episode:1>
-	<podcaster>Tobias Baier (@tobybaier</podcaster>
+	<filename>bak-einschlafen-243.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>243</episode>
+	<subject></subject>
+	<filehash>f03608f655d23ec687bddbd59ba6c666</filehash>
+	<episodetime>1375124808</episodetime>
+	<filetime>1387032490</filetime>
+	<filesize>6455</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>243</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
 	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-30.json</filename>
-	<podcast>pubkameraden</podcast>
-	<episode>30</episode>
-	<filehash>26b9a50b3c0323c69e295b04bb63f613</filehash>
-	<episodetime>1376420400</episodetime>
-	<filetime>1384120832</filetime>
-	<podcast:1>pubkameraden</podcast:1>
-	<episode:1>30</episode:1>
+	<filename>bak-einschlafen-244.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>244</episode>
+	<subject></subject>
+	<filehash>db90067a7d6e99c3787c01d91f96d497</filehash>
+	<episodetime>1375730020</episodetime>
+	<filetime>1387032491</filetime>
+	<filesize>5283</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>244</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-245.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>245</episode>
+	<subject></subject>
+	<filehash>96243955b8e1a407ca8c5fe03e817b72</filehash>
+	<episodetime>1376335800</episodetime>
+	<filetime>1387032491</filetime>
+	<filesize>4523</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>245</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-pubkameraden-31.json</filename>
-	<podcast>pubkameraden</podcast>
-	<episode>31</episode>
-	<filehash>405a364f0f872afc836229b2cd85c592</filehash>
-	<episodetime>1382122800</episodetime>
-	<filetime>1384120833</filetime>
-	<podcast:1>pubkameraden</podcast:1>
-	<episode:1>31</episode:1>
+	<filename>bak-einschlafen-246.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>246</episode>
+	<subject></subject>
+	<filehash>c9855abd68899662630ae30312952a4e</filehash>
+	<episodetime>1376937570</episodetime>
+	<filetime>1387032491</filetime>
+	<filesize>5040</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>246</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-wr167.json</filename>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>36</episode>
-	<filehash>18e1abfaf13e91298163bf2f5fbe4bd1</filehash>
-	<episodetime>1365771870</episodetime>
-	<filetime>1384120860</filetime>
-	<podcast:1>Realitätsabgleich</podcast:1>
-	<episode:1>36</episode:1>
+	<filename>bak-einschlafen-247.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>247</episode>
+	<subject></subject>
+	<filehash>106df66eb7c0dde55cd8699c5273453a</filehash>
+	<episodetime>1377628200</episodetime>
+	<filetime>1387032492</filetime>
+	<filesize>4505</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>247</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-wrint-170.json</filename>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>37</episode>
-	<filehash>3440ddfff144bf20a9dd3a3f0c7d6174</filehash>
-	<episodetime>1367964440</episodetime>
-	<filetime>1384120861</filetime>
-	<podcast:1>Realitätsabgleich</podcast:1>
-	<episode:1>37</episode:1>
-	<podcaster>TobyBaier</podcaster>
-	<podcasterurl>https://twitter.com/TobyBaier</podcasterurl>
+	<filename>bak-einschlafen-248.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>248</episode>
+	<subject></subject>
+	<filehash>971784f20086b56ba48e3d7c8f21ba5b</filehash>
+	<episodetime>1378051570</episodetime>
+	<filetime>1387032492</filetime>
+	<filesize>3146</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>248</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-apm-003.json</filename>
-	<podcast>Agiles Produktmanagement</podcast>
-	<episode>3</episode>
-	<filehash>9fb1f35c715e828376bd6393bc366dca</filehash>
-	<episodetime>1384938000</episodetime>
-	<filetime>1385220284</filetime>
-	<podcast:1>Agiles Produktmanagement</podcast:1>
-	<episode:1>3</episode:1>
+	<filename>bak-einschlafen-249.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>249</episode>
+	<subject></subject>
+	<filehash>61bcf18019d92593490c7a94e8e01546</filehash>
+	<episodetime>1378753200</episodetime>
+	<filetime>1387032492</filetime>
+	<filesize>5382</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>249</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-250.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>250</episode>
+	<subject></subject>
+	<filehash>eeba4ec3b4296e7f25823557ca1e0c8e</filehash>
+	<episodetime>1379961430</episodetime>
+	<filetime>1387032493</filetime>
+	<filesize>5505</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>250</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-251.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>251</episode>
+	<subject></subject>
+	<filehash>8ead44b0a45a31450a3d2ec55eeed396</filehash>
+	<episodetime>1380565942</episodetime>
+	<filetime>1387032493</filetime>
+	<filesize>7601</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>251</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-252.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>252</episode>
+	<subject></subject>
+	<filehash>fa88a2475363e482b4453f0b4b13401c</filehash>
+	<episodetime>1381171310</episodetime>
+	<filetime>1387032494</filetime>
+	<filesize>5966</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>252</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-253.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>253</episode>
+	<subject></subject>
+	<filehash>3f7139e64547eff08be743f0091f6d6e</filehash>
+	<episodetime>1381776160</episodetime>
+	<filetime>1387032494</filetime>
+	<filesize>4989</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>253</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-254.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>254</episode>
+	<subject></subject>
+	<filehash>7e16d0dd610248f9671f7964bd5d7326</filehash>
+	<episodetime>1382380240</episodetime>
+	<filetime>1387032494</filetime>
+	<filesize>7153</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>254</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-255.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>255</episode>
+	<subject></subject>
+	<filehash>9c09f8b9eaca20ac4ae71c85adbdc82c</filehash>
+	<episodetime>1382987517</episodetime>
+	<filetime>1387032495</filetime>
+	<filesize>4471</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>255</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-256.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>256</episode>
+	<subject></subject>
+	<filehash>2793f04a11b8fbfd8b61e9c67b88c01b</filehash>
+	<episodetime>1383590460</episodetime>
+	<filetime>1387032495</filetime>
+	<filesize>4933</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>256</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-257.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>257</episode>
+	<subject></subject>
+	<filehash>5168e444640485c050466d87423df303</filehash>
+	<episodetime>1383676860</episodetime>
+	<filetime>1387032496</filetime>
+	<filesize>4007</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>257</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
@@ -196,9 +564,11 @@
 	<filename>bak-einschlafen-258.json</filename>
 	<podcast>einschlafen</podcast>
 	<episode>258</episode>
+	<subject></subject>
 	<filehash>8d37e014b19b8e09bf5ef03c4a3391f4</filehash>
 	<episodetime>1384285680</episodetime>
-	<filetime>1385220286</filetime>
+	<filetime>1387032496</filetime>
+	<filesize>5651</filesize>
 	<podcast:1>einschlafen</podcast:1>
 	<episode:1>258</episode:1>
 	<podcaster>tobybaier</podcaster>
@@ -208,11 +578,153 @@
 	<filename>bak-einschlafen-259.json</filename>
 	<podcast>einschlafen</podcast>
 	<episode>259</episode>
-	<filehash>7988247be939227cafbe5f653ea73eaf</filehash>
+	<subject></subject>
+	<filehash>8319a5a6cd3442c1607b764644a5064e</filehash>
 	<episodetime>1384887870</episodetime>
-	<filetime>1385220286</filetime>
+	<filetime>1387032497</filetime>
+	<filesize>6900</filesize>
 	<podcast:1>einschlafen</podcast:1>
 	<episode:1>259</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-260.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>260</episode>
+	<subject></subject>
+	<filehash>253cc6a6bcbc5c2bd4dd6fcd5a52b58e</filehash>
+	<episodetime>1385494950</episodetime>
+	<filetime>1387032497</filetime>
+	<filesize>7476</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>260</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-261.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>261</episode>
+	<subject></subject>
+	<filehash>d9c3eac9da27990b8125db8159356dc4</filehash>
+	<episodetime>1386100320</episodetime>
+	<filetime>1387032498</filetime>
+	<filesize>5127</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>261</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen-262.json</filename>
+	<podcast>einschlafen</podcast>
+	<episode>262</episode>
+	<subject></subject>
+	<filehash>1e8b86816677a6839e17fb0ab5627514</filehash>
+	<episodetime>1386705300</episodetime>
+	<filetime>1387032498</filetime>
+	<filesize>6072</filesize>
+	<podcast:1>einschlafen</podcast:1>
+	<episode:1>262</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen228.json</filename>
+	<podcast>Einschlafen Podcast 228 vom</podcast>
+	<episode>228</episode>
+	<subject></subject>
+	<filehash>f77fcf9fee65bc1445fd72b28f1ba77f</filehash>
+	<episodetime>1366060350</episodetime>
+	<filetime>1387032498</filetime>
+	<filesize>2706</filesize>
+	<podcast:1>Einschlafen Podcast 228 vom</podcast:1>
+	<episode:1>228</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-einschlafen228.json</filename>
+	<podcast>Einschlafen Podcast 228 vom</podcast>
+	<episode>228</episode>
+	<subject></subject>
+	<filehash>f77fcf9fee65bc1445fd72b28f1ba77f</filehash>
+	<episodetime>1366060350</episodetime>
+	<filetime>1387032498</filetime>
+	<filesize>2706</filesize>
+	<podcast:1>Einschlafen Podcast 228 vom</podcast:1>
+	<episode:1>228</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-pubkameraden-025.json</filename>
+	<podcast>Pubkameraden</podcast>
+	<episode>25</episode>
+	<subject></subject>
+	<filehash>433e60e99a3f20c9b868e06552e41790</filehash>
+	<episodetime>1365966180</episodetime>
+	<filetime>1387032540</filetime>
+	<filesize>2880</filesize>
+	<podcast:1>Pubkameraden</podcast:1>
+	<episode:1>25</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-pubkameraden-27.json</filename>
+	<podcast>Pubkameraden</podcast>
+	<episode>27</episode>
+	<subject></subject>
+	<filehash>46ccc60d155f679affc88e855394f0d7</filehash>
+	<episodetime>1367349540</episodetime>
+	<filetime>1387032541</filetime>
+	<filesize>8046</filesize>
+	<podcast:1>Pubkameraden</podcast:1>
+	<episode:1>27</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-pubkameraden-28.json</filename>
+	<podcast>pubkameraden</podcast>
+	<episode>28</episode>
+	<subject></subject>
+	<filehash>c45ad8dfcaba9c85b03f7fa950cfc271</filehash>
+	<episodetime>1371381854</episodetime>
+	<filetime>1387032541</filetime>
+	<filesize>9522</filesize>
+	<podcast:1>pubkameraden</podcast:1>
+	<episode:1>28</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-pubkameraden-29.json</filename>
+	<podcast>Pubkameraden</podcast>
+	<episode>29</episode>
+	<subject></subject>
+	<filehash>0619255995868dcb75296bbe2229c266</filehash>
+	<episodetime>1387032542</episodetime>
+	<filetime>1387032542</filetime>
+	<filesize>11645</filesize>
+	<podcast:1>Pubkameraden</podcast:1>
+	<episode:1>29</episode:1>
+	<podcaster>Tobias Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-pubkameraden-30.json</filename>
+	<podcast>pubkameraden</podcast>
+	<episode>30</episode>
+	<subject></subject>
+	<filehash>26b9a50b3c0323c69e295b04bb63f613</filehash>
+	<episodetime>1376420400</episodetime>
+	<filetime>1387032542</filetime>
+	<filesize>6490</filesize>
+	<podcast:1>pubkameraden</podcast:1>
+	<episode:1>30</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
@@ -220,11 +732,237 @@
 	<filename>bak-pubkameraden-31.json</filename>
 	<podcast>pubkameraden</podcast>
 	<episode>31</episode>
-	<filehash>405a364f0f872afc836229b2cd85c592</filehash>
+	<subject></subject>
+	<filehash>7b4e1af613c18c3af082d3f39f712dd9</filehash>
 	<episodetime>1382122800</episodetime>
-	<filetime>1384120833</filetime>
+	<filetime>1387032543</filetime>
+	<filesize>14564</filesize>
 	<podcast:1>pubkameraden</podcast:1>
 	<episode:1>31</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wr167.json</filename>
+	<podcast>Realitätsabgleich</podcast>
+	<episode>36</episode>
+	<subject></subject>
+	<filehash>18e1abfaf13e91298163bf2f5fbe4bd1</filehash>
+	<episodetime>1365771870</episodetime>
+	<filetime>1387032581</filetime>
+	<filesize>7167</filesize>
+	<podcast:1>Realitätsabgleich</podcast:1>
+	<episode:1>36</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-170.json</filename>
+	<podcast>Realitätsabgleich</podcast>
+	<episode>37</episode>
+	<subject></subject>
+	<filehash>3440ddfff144bf20a9dd3a3f0c7d6174</filehash>
+	<episodetime>1367964440</episodetime>
+	<filetime>1387032582</filetime>
+	<filesize>8062</filesize>
+	<podcast:1>Realitätsabgleich</podcast:1>
+	<episode:1>37</episode:1>
+	<podcaster>TobyBaier</podcaster>
+	<podcasterurl>https://twitter.com/TobyBaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-175.json</filename>
+	<podcast>WRINT Realitätsabgleich</podcast>
+	<episode>38</episode>
+	<subject></subject>
+	<filehash>fdfc841ee7047ba04c81baf150428323</filehash>
+	<episodetime>1367966500</episodetime>
+	<filetime>1387032583</filetime>
+	<filesize>5416</filesize>
+	<podcast:1>WRINT Realitätsabgleich</podcast:1>
+	<episode:1>38</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-177.json</filename>
+	<podcast>wrint</podcast>
+	<episode>177</episode>
+	<subject></subject>
+	<filehash>4514d8d6f23368b6b5aeff1cf706a02c</filehash>
+	<episodetime>1368006260</episodetime>
+	<filetime>1387032583</filetime>
+	<filesize>6488</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>177</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-184.json</filename>
+	<podcast>wrint</podcast>
+	<episode>184</episode>
+	<subject></subject>
+	<filehash>6c352ab8536fa33bf51dd10fd685cab8</filehash>
+	<episodetime>1370858750</episodetime>
+	<filetime>1387032586</filetime>
+	<filesize>7306</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>184</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app.net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-190.json</filename>
+	<podcast>wrint</podcast>
+	<episode>190</episode>
+	<subject></subject>
+	<filehash>a5c875be0f109b7b5ec2c4e9d8a3957e</filehash>
+	<episodetime>1372239000</episodetime>
+	<filetime>1387032590</filetime>
+	<filesize>6428</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>190</episode:1>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-196.json</filename>
+	<podcast>wrint</podcast>
+	<episode>196</episode>
+	<subject></subject>
+	<filehash>fac0c09419299e626f68790bb6a01445</filehash>
+	<episodetime>1375870485</episodetime>
+	<filetime>1387032591</filetime>
+	<filesize>13179</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>196</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-199.json</filename>
+	<podcast>wrint</podcast>
+	<episode>199</episode>
+	<subject></subject>
+	<filehash>672a53a0f80682f06729fd5ae24f0a73</filehash>
+	<episodetime>1377079800</episodetime>
+	<filetime>1387032592</filetime>
+	<filesize>11546</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>199</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-201.json</filename>
+	<podcast>wrint</podcast>
+	<episode>201</episode>
+	<subject></subject>
+	<filehash>156b411f87237892d86b60797bc3f40e</filehash>
+	<episodetime>1377686310</episodetime>
+	<filetime>1387032593</filetime>
+	<filesize>16064</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>201</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-204.json</filename>
+	<podcast>wrint</podcast>
+	<episode>204</episode>
+	<subject></subject>
+	<filehash>00e979bd0b0f45945b82a1e614af2766</filehash>
+	<episodetime>1378289700</episodetime>
+	<filetime>1387032593</filetime>
+	<filesize>8661</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>204</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-206.json</filename>
+	<podcast>wrint</podcast>
+	<episode>206</episode>
+	<subject></subject>
+	<filehash>3adbc7d87d366447f1a9f9f519acd483</filehash>
+	<episodetime>1378894581</episodetime>
+	<filetime>1387032594</filetime>
+	<filesize>10095</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>206</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-207.json</filename>
+	<podcast>wrint</podcast>
+	<episode>207</episode>
+	<subject></subject>
+	<filehash>0ab3a7ec04631d1721d8cbdc727b86ee</filehash>
+	<episodetime>1379499180</episodetime>
+	<filetime>1387032594</filetime>
+	<filesize>9032</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>207</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-210.json</filename>
+	<podcast>wrint</podcast>
+	<episode>210</episode>
+	<subject></subject>
+	<filehash>3bc944edecb88f2bdbcc2034066a8b46</filehash>
+	<episodetime>1380104700</episodetime>
+	<filetime>1387032595</filetime>
+	<filesize>13853</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>210</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-212.json</filename>
+	<podcast>wrint</podcast>
+	<episode>212</episode>
+	<subject></subject>
+	<filehash>a0a5f7236c91d3f8b21dbe85c6ba9019</filehash>
+	<episodetime>1381309200</episodetime>
+	<filetime>1387032596</filetime>
+	<filesize>12361</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>212</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-215.json</filename>
+	<podcast>wrint</podcast>
+	<episode>215</episode>
+	<subject></subject>
+	<filehash>f77dbc99fa7b9c84392cd2b37668b8fd</filehash>
+	<episodetime>1382522820</episodetime>
+	<filetime>1387032597</filetime>
+	<filesize>9117</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>215</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-220.json</filename>
+	<podcast>wrint</podcast>
+	<episode>220</episode>
+	<subject></subject>
+	<filehash>ff10d776a929ad886517281deb91a1fd</filehash>
+	<episodetime>1383131040</episodetime>
+	<filetime>1387032599</filetime>
+	<filesize>13117</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>220</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
@@ -232,11 +970,55 @@
 	<filename>bak-wrint-225.json</filename>
 	<podcast>wrint</podcast>
 	<episode>224</episode>
+	<subject></subject>
 	<filehash>c3d834549da8c4fa6b7da21e2f8b9726</filehash>
 	<episodetime>1384340400</episodetime>
-	<filetime>1385220296</filetime>
+	<filetime>1387032600</filetime>
+	<filesize>4793</filesize>
 	<podcast:1>wrint</podcast:1>
 	<episode:1>224</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-228.json</filename>
+	<podcast>wrint</podcast>
+	<episode>228</episode>
+	<subject></subject>
+	<filehash>cfea7e7e2206c7c825e41c7e2b9590ba</filehash>
+	<episodetime>1386155400</episodetime>
+	<filetime>1387032600</filetime>
+	<filesize>5787</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>228</episode:1>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-231.json</filename>
+	<podcast>wrint</podcast>
+	<episode>231</episode>
+	<subject></subject>
+	<filehash>33184c2f021eca892bd977dbbdd859b0</filehash>
+	<episodetime>1386781200</episodetime>
+	<filetime>1387032601</filetime>
+	<filesize>4470</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>231</episode:1>
+	<podcaster>Toby Baier (@tobybaier</podcaster>
+	<podcasterurl>https://alpha.app/net/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-wrint-RA44.json</filename>
+	<podcast>wrint</podcast>
+	<episode>RA44</episode>
+	<subject></subject>
+	<filehash>4329ce0003356d2d3702b6e4e442e3f0</filehash>
+	<episodetime>1371807415</episodetime>
+	<filetime>1387032602</filetime>
+	<filesize>6302</filesize>
+	<podcast:1>wrint</podcast:1>
+	<episode:1>RA44</episode:1>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>

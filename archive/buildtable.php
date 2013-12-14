@@ -12,6 +12,7 @@ $dh  = scandir($dir);
 $i   = 0;
 
 date_default_timezone_set('Europe/Berlin');
+chmod($sql, 0777);
 
 function parseUglyDate($str) {
   switch (strlen($str)) {
@@ -71,7 +72,7 @@ foreach($dh as $file) {
     $select['filename'] = $file;
 
     $returnarray = easysql_sqlite_select($select, 1);
-    if($episode[$i]['file']['hash'] != $returnarray[0]['filehash']) {
+    if(($episode[$i]['file']['hash'] != $returnarray[0]['filehash'])&&($episode[$i]['file']['size'] > 400)) {
       $now = time();
       $json = json_decode(file_get_contents('./showpad/'.$file));
       $parsed = parserWrapper($json->text);
@@ -88,6 +89,7 @@ foreach($dh as $file) {
       $episode[$i]['shownoter'] = $parsed['shownoter']['data'];
       $episode[$i]['podcaster'] = $parsed['podcaster']['data'];
       $episode[$i]['episodetime'] = $parsed['episodetime'];
+      $episode[$i]['subject'] = $parsed['subject'];
       mkdir('./cache/osf/', 0777);
       file_put_contents('./cache/'.$starttime.'/'.$episode[$i]['podcast'].'_'.$episode[$i]['episode'].'.osf.txt', $parsed['osf']);
 
@@ -99,7 +101,9 @@ foreach($dh as $file) {
       $insertEpisode['episode'] = $episode[$i]['episode'];
       $insertEpisode['filehash'] = $episode[$i]['file']['hash'];
       $insertEpisode['episodetime'] = $episode[$i]['episodetime'];
+      $insertEpisode['subject'] = $episode[$i]['subject'];
       $insertEpisode['filetime'] = $now;
+      $insertEpisode['filesize'] = $episode[$i]['file']['size'];
       easysql_sqlite_insert($insertEpisode);
       
       foreach($episode[$i]['shownoter'] as $shownoter) {

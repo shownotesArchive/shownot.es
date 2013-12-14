@@ -1,24 +1,70 @@
 <?xml version="1.0"?>
 <RECORDS>
 <RECORD>
+	<filename>bak-LogbuchNetzpolitik-64.json</filename>
+	<podcast>Logbuch Netzpolitik</podcast>
+	<episode>LNP64</episode>
+	<subject></subject>
+	<filehash>ceabc4b6b31665903078bf137606d456</filehash>
+	<episodetime>1368015445</episodetime>
+	<filetime>1387031934</filetime>
+	<filesize>12982</filesize>
+	<podcast:1>Logbuch Netzpolitik</podcast:1>
+	<episode:1>LNP64</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
 	<filename>bak-NSFW067.json</filename>
 	<podcast>NSFW</podcast>
 	<episode>67</episode>
+	<subject></subject>
 	<filehash>977f8d782c157c8f223eca40a504df3b</filehash>
 	<episodetime>1365589800</episodetime>
-	<filetime>1384120738</filetime>
+	<filetime>1387031936</filetime>
+	<filesize>11626</filesize>
 	<podcast:1>NSFW</podcast:1>
 	<episode:1>67</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
 <RECORD>
+	<filename>bak-absradio-006.json</filename>
+	<podcast>absradio</podcast>
+	<episode>6</episode>
+	<subject></subject>
+	<filehash>c502ee02f72ddf08d154200ac6107bc7</filehash>
+	<episodetime>1372851505</episodetime>
+	<filetime>1387031939</filetime>
+	<filesize>7106</filesize>
+	<podcast:1>absradio</podcast:1>
+	<episode:1>6</episode:1>
+	<podcaster>@timpritlove</podcaster>
+	<podcasterurl>https://alpha.app.net/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-bundesradio-BR007.json</filename>
+	<podcast>bundesradio</podcast>
+	<episode>BR007</episode>
+	<subject></subject>
+	<filehash>e2a82a81013893bac834112bcdbf4fc1</filehash>
+	<episodetime>1379858400</episodetime>
+	<filetime>1387032469</filetime>
+	<filesize>14191</filesize>
+	<podcast:1>bundesradio</podcast:1>
+	<episode:1>BR007</episode:1>
+	<podcaster>timpritlove&gt;</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
 	<filename>bak-freak-show-115.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>115</episode>
+	<subject></subject>
 	<filehash>674fb941d17ccbcd240c83ea5310fd58</filehash>
 	<episodetime>1375896960</episodetime>
-	<filetime>1384120798</filetime>
+	<filetime>1387032499</filetime>
+	<filesize>19188</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>115</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -28,9 +74,11 @@
 	<filename>bak-freak-show-116.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>116</episode>
+	<subject></subject>
 	<filehash>dbe2b8f658ed9333aeef1b1392eb5d5c</filehash>
 	<episodetime>1377106560</episodetime>
-	<filetime>1384120799</filetime>
+	<filetime>1387032500</filetime>
+	<filesize>17256</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>116</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -40,9 +88,11 @@
 	<filename>bak-freak-show-117.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>117</episode>
+	<subject></subject>
 	<filehash>1766ca5d23f4c835f982e8971bc5061d</filehash>
 	<episodetime>1378315800</episodetime>
-	<filetime>1384120800</filetime>
+	<filetime>1387032501</filetime>
+	<filesize>22746</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>117</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -52,9 +102,11 @@
 	<filename>bak-freak-show-118.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>118</episode>
+	<subject></subject>
 	<filehash>4a868dfab12eebd7e394007368b1c7ee</filehash>
 	<episodetime>1379526630</episodetime>
-	<filetime>1384120801</filetime>
+	<filetime>1387032501</filetime>
+	<filesize>18399</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>118</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -64,9 +116,11 @@
 	<filename>bak-freak-show-119.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>119</episode>
+	<subject></subject>
 	<filehash>e17c1287bc0937c404d493a2749a2a5b</filehash>
 	<episodetime>1381946400</episodetime>
-	<filetime>1384120802</filetime>
+	<filetime>1387032503</filetime>
+	<filesize>16812</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>119</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -76,11 +130,55 @@
 	<filename>bak-freak-show-120.json</filename>
 	<podcast>freak-show</podcast>
 	<episode>120</episode>
+	<subject></subject>
 	<filehash>4413921cf48284c38053769ada7d4b80</filehash>
 	<episodetime>1383159600</episodetime>
-	<filetime>1384120802</filetime>
+	<filetime>1387032503</filetime>
+	<filesize>15601</filesize>
 	<podcast:1>freak-show</podcast:1>
 	<episode:1>120</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-freak-show-121.json</filename>
+	<podcast>freak-show</podcast>
+	<episode>121</episode>
+	<subject></subject>
+	<filehash>6ba487c165c95120ee96a1cd7f46f3a3</filehash>
+	<episodetime>1384369200</episodetime>
+	<filetime>1387032504</filetime>
+	<filesize>13011</filesize>
+	<podcast:1>freak-show</podcast:1>
+	<episode:1>121</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-freak-show-122.json</filename>
+	<podcast>freak-show</podcast>
+	<episode>122</episode>
+	<subject></subject>
+	<filehash>53564f2fb042f78714e76880230e820e</filehash>
+	<episodetime>1385578800</episodetime>
+	<filetime>1387032505</filetime>
+	<filesize>13955</filesize>
+	<podcast:1>freak-show</podcast:1>
+	<episode:1>122</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-freak-show-123.json</filename>
+	<podcast>freak-show</podcast>
+	<episode>123</episode>
+	<subject></subject>
+	<filehash>7ee88902c041eb4ecf5c9242998afa9c</filehash>
+	<episodetime>1386788400</episodetime>
+	<filetime>1387032505</filetime>
+	<filesize>20306</filesize>
+	<podcast:1>freak-show</podcast:1>
+	<episode:1>123</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
@@ -88,9 +186,11 @@
 	<filename>bak-lautsprecher-011.json</filename>
 	<podcast>der-lautsprecher</podcast>
 	<episode>11</episode>
+	<subject></subject>
 	<filehash>d5fd5c4a69747a41034447496c30b8e2</filehash>
 	<episodetime>1372427100</episodetime>
-	<filetime>1384120805</filetime>
+	<filetime>1387032508</filetime>
+	<filesize>20977</filesize>
 	<podcast:1>der-lautsprecher</podcast:1>
 	<episode:1>11</episode:1>
 	<podcaster>Tim Pritlove</podcaster>
@@ -100,9 +200,11 @@
 	<filename>bak-mobilemacs-108.json</filename>
 	<podcast>mobileMacs</podcast>
 	<episode>108</episode>
+	<subject> &lt;http://streams.xenim.de/metaebene.mp3&gt;</subject>
 	<filehash>327cd14d4c3aafc0cf4514e6648ed50e</filehash>
 	<episodetime>1366220070</episodetime>
-	<filetime>1384120807</filetime>
+	<filetime>1387032511</filetime>
+	<filesize>13792</filesize>
 	<podcast:1>mobileMacs</podcast:1>
 	<episode:1>108</episode:1>
 	<podcaster>timpritlove</podcaster>
@@ -112,11 +214,41 @@
 	<filename>bak-mobilemacs-109.json</filename>
 	<podcast>mobileMacs</podcast>
 	<episode>109</episode>
+	<subject></subject>
 	<filehash>e30fd5b014960be519980606426d5f91</filehash>
 	<episodetime>1367431850</episodetime>
-	<filetime>1384120808</filetime>
+	<filetime>1387032511</filetime>
+	<filesize>12032</filesize>
 	<podcast:1>mobileMacs</podcast:1>
 	<episode:1>109</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-mobilemacs-110.json</filename>
+	<podcast>mobilemacs</podcast>
+	<episode>110</episode>
+	<subject></subject>
+	<filehash>24601b71c950c05ba6ad6683f27af671</filehash>
+	<episodetime>1368640445</episodetime>
+	<filetime>1387032512</filetime>
+	<filesize>17723</filesize>
+	<podcast:1>mobilemacs</podcast:1>
+	<episode:1>110</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-mobilemacs-111.json</filename>
+	<podcast>mobilemacs</podcast>
+	<episode>111</episode>
+	<subject></subject>
+	<filehash>f563fac43a2e9216293df4573a3bb7be</filehash>
+	<episodetime>1369849445</episodetime>
+	<filetime>1387032513</filetime>
+	<filesize>18908</filesize>
+	<podcast:1>mobilemacs</podcast:1>
+	<episode:1>111</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
@@ -124,11 +256,41 @@
 	<filename>bak-mobilemacs-112.json</filename>
 	<podcast>mobileMacs</podcast>
 	<episode>112</episode>
+	<subject></subject>
 	<filehash>3fccf3b7954fab66dbf5042ac61b83e2</filehash>
 	<episodetime>1371058680</episodetime>
-	<filetime>1384120810</filetime>
+	<filetime>1387032514</filetime>
+	<filesize>23490</filesize>
 	<podcast:1>mobileMacs</podcast:1>
 	<episode:1>112</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-mobilemacs-113.json</filename>
+	<podcast>mobilemacs</podcast>
+	<episode>113</episode>
+	<subject></subject>
+	<filehash>4c74fafa6cfea42afd3907c42c9f6e41</filehash>
+	<episodetime>1372267800</episodetime>
+	<filetime>1387032515</filetime>
+	<filesize>11823</filesize>
+	<podcast:1>mobilemacs</podcast:1>
+	<episode:1>113</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-mobilemacs-114.json</filename>
+	<podcast>mobilemacs</podcast>
+	<episode>114</episode>
+	<subject></subject>
+	<filehash>de3653985cc0314494e7bcedc0bc9390</filehash>
+	<episodetime>1373478067</episodetime>
+	<filetime>1387032516</filetime>
+	<filesize>14998</filesize>
+	<podcast:1>mobilemacs</podcast:1>
+	<episode:1>114</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
@@ -136,23 +298,55 @@
 	<filename>bak-nsfw-068.json</filename>
 	<podcast>NSFW</podcast>
 	<episode>68</episode>
+	<subject></subject>
 	<filehash>9c1c911853e61d48e4c0716cc284fce8</filehash>
 	<episodetime>1366626804</episodetime>
-	<filetime>1384120819</filetime>
+	<filetime>1387032526</filetime>
+	<filesize>15676</filesize>
 	<podcast:1>NSFW</podcast:1>
 	<episode:1>68</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
 <RECORD>
-	<filename>bak-freak-show-121.json</filename>
-	<podcast>freak-show</podcast>
-	<episode>121</episode>
-	<filehash>6ba487c165c95120ee96a1cd7f46f3a3</filehash>
-	<episodetime>1384369200</episodetime>
-	<filetime>1385220286</filetime>
-	<podcast:1>freak-show</podcast:1>
-	<episode:1>121</episode:1>
+	<filename>bak-nsfw-069.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>69</episode>
+	<subject></subject>
+	<filehash>a08e1752ca356cea352a198cd2cc767d</filehash>
+	<episodetime>1368441334</episodetime>
+	<filetime>1387032527</filetime>
+	<filesize>12142</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>69</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-070.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>70</episode>
+	<subject></subject>
+	<filehash>4185ed08d3ea94fedac0efa8971a3365</filehash>
+	<episodetime>1369651699</episodetime>
+	<filetime>1387032528</filetime>
+	<filesize>17198</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>70</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-075.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>75</episode>
+	<subject></subject>
+	<filehash>dc4768fd46beaaecaf02def411d9341d</filehash>
+	<episodetime>1378722634</episodetime>
+	<filetime>1387032529</filetime>
+	<filesize>19153</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>75</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
@@ -160,11 +354,139 @@
 	<filename>bak-nsfw-078.json</filename>
 	<podcast>nsfw</podcast>
 	<episode>78</episode>
+	<subject></subject>
 	<filehash>0f72ec7cb2a4e543e41aacf8a66542c9</filehash>
 	<episodetime>1384776394</episodetime>
-	<filetime>1385220289</filetime>
+	<filetime>1387032529</filetime>
+	<filesize>19988</filesize>
 	<podcast:1>nsfw</podcast:1>
 	<episode:1>78</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-079.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>79</episode>
+	<subject></subject>
+	<filehash>ac7226f427e36736a7dbbd9d3bf5f336</filehash>
+	<episodetime>1386761400</episodetime>
+	<filetime>1387032530</filetime>
+	<filesize>26040</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>79</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-71.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>71</episode>
+	<subject></subject>
+	<filehash>1b019c0530993cf5dd84d4e22525c961</filehash>
+	<episodetime>1371033460</episodetime>
+	<filetime>1387032530</filetime>
+	<filesize>18970</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>71</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-72.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>72</episode>
+	<subject></subject>
+	<filehash>64a34008228b6f7eed5d0e38ff1b7c22</filehash>
+	<episodetime>1372070215</episodetime>
+	<filetime>1387032531</filetime>
+	<filesize>11749</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>72</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-73.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>73</episode>
+	<subject></subject>
+	<filehash>11853f44f06b759e41492e5b19f8c875</filehash>
+	<episodetime>1375699320</episodetime>
+	<filetime>1387032532</filetime>
+	<filesize>20377</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>73</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-74.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>74</episode>
+	<subject></subject>
+	<filehash>ce478c00f579b21f73ec00a61dc68a6f</filehash>
+	<episodetime>1377514803</episodetime>
+	<filetime>1387032533</filetime>
+	<filesize>16986</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>74</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-76.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>76</episode>
+	<subject></subject>
+	<filehash>78c6b7acdd2366686696bdbc53f8c6f5</filehash>
+	<episodetime>1382351460</episodetime>
+	<filetime>1387032533</filetime>
+	<filesize>17176</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>76</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-nsfw-77.json</filename>
+	<podcast>nsfw</podcast>
+	<episode>77</episode>
+	<subject></subject>
+	<filehash>817fd74351e0c5403a2567f18d3813dc</filehash>
+	<episodetime>1383737400</episodetime>
+	<filetime>1387032534</filetime>
+	<filesize>11368</filesize>
+	<podcast:1>nsfw</podcast:1>
+	<episode:1>77</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-sondersendung-001.json</filename>
+	<podcast>sondersendung</podcast>
+	<episode>1</episode>
+	<subject></subject>
+	<filehash>459c1377c46468a3e6c82400629466ae</filehash>
+	<episodetime>1367852760</episodetime>
+	<filetime>1387032566</filetime>
+	<filesize>15184</filesize>
+	<podcast:1>sondersendung</podcast:1>
+	<episode:1>1</episode:1>
+	<podcaster>timpritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<filename>bak-sondersendung-003.json</filename>
+	<podcast>sondersendung</podcast>
+	<episode>3</episode>
+	<subject></subject>
+	<filehash>f628c67e3928e5996d7c208f5710c60d</filehash>
+	<episodetime>1368025600</episodetime>
+	<filetime>1387032567</filetime>
+	<filesize>14538</filesize>
+	<podcast:1>sondersendung</podcast:1>
+	<episode:1>3</episode:1>
 	<podcaster>timpritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>

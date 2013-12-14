@@ -17,11 +17,10 @@ Shownotes zu mobileMacs 107
 Stream: <http://streams.xenim.de/metaebene.mp3>
 Timer: Zeitangaben werden vom EPL-TimeStamp-Plugin geschrieben. 
 Das Plugin wandelt alle ### am Anfang von Zeilen in UNIX-Timestamp Zeitangaben um.
-Mit: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342, hukl @hukl und Gast: Martin Hering @vemedio 
+Podcaster: Tim @timpritlove, roddi @roddi, Clemens @csch42, Denis @denis2342, hukl @hukl und Gast: Martin Hering @vemedio 
 Verfahrensweise, Tims Wünsche: <https://shownotes.piratenpad.de/podlove-shownotes-format>
 Version auf Shownot.es: <http://shownot.es/mm/107>
-
-Zusammengetragen von: @EvitaBley, @SimonWaldherr, @vale (ADNonly), @luutoo, @Kambfhase, @piff82
+Shownoter: @EvitaBley, @SimonWaldherr, @vale (ADNonly), @luutoo, @Kambfhase, @piff82
 
 Sendungstitel Vorschläge:
 - Das Meisterpasswort
