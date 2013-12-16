@@ -62,6 +62,7 @@ rename('./cache/osf/', './cache/'.$starttime.'/');
 
 foreach($dh as $file) {
   ini_set('max_execution_time', 120);
+  echo $file."<br/>";
   if(is_file('./showpad/'.$file)) {
     $episode[$i]['file']['name'] = $file;
     $episode[$i]['file']['hash'] = hash_file("md5", './showpad/'.$file);

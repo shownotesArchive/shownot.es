@@ -223,30 +223,6 @@
 	<podcasterurl>https://twitter.com/saschagrafie</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<podcaster>chemiker</podcaster>
-	<podcasterurl>https://twitter.com/chemiker</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<podcaster>tollerkerl</podcaster>
-	<podcasterurl>https://twitter.com/tollerkerl</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<podcaster>saschagrafie</podcaster>
-	<podcasterurl>https://twitter.com/saschagrafie</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
-	<podcaster>dasdom</podcaster>
-	<podcasterurl>https://twitter.com/dasdom</podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>absradio</podcast>
 	<episode>4</episode>
 	<podcaster>saschagrafie</podcaster>
@@ -434,6 +410,24 @@
 </RECORD>
 <RECORD>
 	<podcast>absradio</podcast>
+	<episode>16</episode>
+	<podcaster>Alex</podcaster>
+	<podcasterurl>http://alpha.app.net/chemiker</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>16</episode>
+	<podcaster>Dominik</podcaster>
+	<podcasterurl>http://alpha.app.net/dasdom</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>16</episode>
+	<podcaster>Sascha</podcaster>
+	<podcasterurl>http://alpha.app.net/saschagrafie</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
 	<episode>14</episode>
 	<podcaster>Sascha</podcaster>
 	<podcasterurl>https://app.net/saschagrafie</podcasterurl>
@@ -446,25 +440,25 @@
 </RECORD>
 <RECORD>
 	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
+	<episode>3</episode>
 	<podcaster>chemiker</podcaster>
 	<podcasterurl>https://twitter.com/chemiker</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
+	<episode>3</episode>
 	<podcaster>tollerkerl</podcaster>
 	<podcasterurl>https://twitter.com/tollerkerl</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
+	<episode>3</episode>
 	<podcaster>saschagrafie</podcaster>
 	<podcasterurl>https://twitter.com/saschagrafie</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>ABSradio</podcast>
-	<episode>ABS003</episode>
+	<episode>3</episode>
 	<podcaster>dasdom</podcaster>
 	<podcasterurl>https://twitter.com/dasdom</podcasterurl>
 </RECORD>
@@ -677,6 +671,18 @@
 	<episode>10.09.2013</episode>
 	<podcaster>holgi</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>10.11.2013</episode>
+	<podcaster>holgi</podcaster>
+	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>10.11.2013</episode>
+	<podcaster>astrodicticum</podcaster>
+	<podcasterurl>https://twitter.com/astrodicticum</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -920,13 +926,13 @@
 </RECORD>
 <RECORD>
 	<podcast>Bluemoon</podcast>
-	<episode>bluemoon-260613</episode>
+	<episode>26.06.2013</episode>
 	<podcaster>holgi</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon/LateLine</podcast>
-	<episode>bluemoon-270813</episode>
+	<episode>27.08.2013</episode>
 	<podcaster>holgi</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
@@ -1220,13 +1226,13 @@
 </RECORD>
 <RECORD>
 	<podcast>Culinaricast</podcast>
-	<episode>95 -  Kuchen und Torten</episode>
+	<episode>95</episode>
 	<podcaster>culinaricast</podcaster>
 	<podcasterurl>https://twitter.com/culinaricast</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Culinaricast</podcast>
-	<episode>95 -  Kuchen und Torten</episode>
+	<episode>95</episode>
 	<podcaster>dielilly</podcaster>
 	<podcasterurl>https://twitter.com/dielilly</podcasterurl>
 </RECORD>
@@ -1270,6 +1276,12 @@
 	<podcast>Datenkanal</podcast>
 	<episode>27</episode>
 	<podcaster>Jörg Sommer</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>die-schweigende-mehrheit</podcast>
+	<episode>DSM021</episode>
+	<podcaster></podcaster>
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
@@ -1361,6 +1373,18 @@
 	<episode>wrint-203</episode>
 	<podcaster>silenttiffy</podcaster>
 	<podcasterurl>https://twitter.com/silenttiffy</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>dirty-minutes-left</podcast>
+	<episode>88</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>dradio-online-talk</podcast>
+	<episode>14</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>dst</podcast>
@@ -2029,6 +2053,12 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>mikrodilettanten</podcast>
+	<episode>test</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>mobileMacs</podcast>
 	<episode>108</episode>
 	<podcaster>timpritlove</podcaster>
@@ -2239,6 +2269,30 @@
 	<podcasterurl>https://alpha.app.net/einlama</podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>15</episode>
+	<podcaster>Klaus Zanders (@klaustopher</podcaster>
+	<podcasterurl>https://twitter.com/klaustopher</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>15</episode>
+	<podcaster>Essy Hentrich (@casheeew</podcaster>
+	<podcasterurl>https://twitter.com/casheeew</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>15</episode>
+	<podcaster>Lucas Dohmen (@moonbeanlabs</podcaster>
+	<podcasterurl>https://twitter.com/moonbeamlabs</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>15</episode>
+	<podcaster>Tobias Eilert (@l_ama</podcaster>
+	<podcasterurl>https://twitter.com/l_ama</podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>Nerdkunde</podcast>
 	<episode>16</episode>
 	<podcaster>Klaus Zanders (@klaustopher</podcaster>
@@ -2263,6 +2317,24 @@
 	<podcasterurl>https://twitter.com/donschado</podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>17</episode>
+	<podcaster>Klaus Zanders (@klaustopher</podcaster>
+	<podcasterurl>https://twitter.com/klaustopher</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>17</episode>
+	<podcaster>Essy Hentrich (@casheeew</podcaster>
+	<podcasterurl>https://twitter.com/casheeew</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>17</episode>
+	<podcaster>Tobias Eilert (@l_ama</podcaster>
+	<podcasterurl>https://twitter.com/l_ama</podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>Nerdkunde</podcast>
 	<episode>18</episode>
 	<podcaster>Klaus Zanders (@klaustopher</podcaster>
@@ -2283,6 +2355,54 @@
 <RECORD>
 	<podcast>Nerdkunde</podcast>
 	<episode>18</episode>
+	<podcaster>moonbeamlabs</podcaster>
+	<podcasterurl>https://twitter.com/moonbeamlabs</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Klaus Zanders (@klaustopher</podcaster>
+	<podcasterurl>https://twitter.com/klaustopher</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Essy Hentrich (@casheeew</podcaster>
+	<podcasterurl>https://twitter.com/casheeew</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Tobias Eilert (@l_ama</podcaster>
+	<podcasterurl>https://twitter.com/l_ama</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>moonbeamlabs</podcaster>
+	<podcasterurl>https://twitter.com/moonbeamlabs</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Klaus Zanders (@klaustopher</podcaster>
+	<podcasterurl>https://twitter.com/klaustopher</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Essy Hentrich (@casheeew</podcaster>
+	<podcasterurl>https://twitter.com/casheeew</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
+	<podcaster>Tobias Eilert (@l_ama</podcaster>
+	<podcasterurl>https://twitter.com/l_ama</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>nerdkunde</podcast>
+	<episode>19</episode>
 	<podcaster>moonbeamlabs</podcaster>
 	<podcasterurl>https://twitter.com/moonbeamlabs</podcasterurl>
 </RECORD>
@@ -2459,6 +2579,12 @@
 	<episode>81</episode>
 	<podcaster>thomashpunkt</podcaster>
 	<podcasterurl>https://twitter.com/thomashpunkt</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>netzgesprache</podcast>
+	<episode>82</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>netzgesprache</podcast>
@@ -2737,19 +2863,19 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Psychotalk - Musik</podcast>
+	<podcast>Psychotalk</podcast>
 	<episode>10</episode>
 	<podcaster>AlexHoaxmaster</podcaster>
 	<podcasterurl>https://twitter.com/AlexHoaxmaster</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Psychotalk - Musik</podcast>
+	<podcast>Psychotalk</podcast>
 	<episode>10</episode>
 	<podcaster>Illuminatus23</podcaster>
 	<podcasterurl>https://twitter.com/Illuminatus23</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Psychotalk - Musik</podcast>
+	<podcast>Psychotalk</podcast>
 	<episode>10</episode>
 	<podcaster>@SvenRudloff mit Gast: Daniela @</podcaster>
 	<podcasterurl></podcasterurl>
@@ -3109,6 +3235,18 @@
 	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>56</episode>
+	<podcaster>Frau Kariert</podcaster>
+	<podcasterurl>https://twitter.com/gruenkariert</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>56</episode>
+	<podcaster>Herr_Martinsen</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>18</episode>
 	<podcaster>Marc</podcaster>
@@ -3339,6 +3477,12 @@
 <RECORD>
 	<podcast>rautenradio</podcast>
 	<episode>40</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>rautenradio</podcast>
+	<episode>41</episode>
 	<podcaster></podcaster>
 	<podcasterurl></podcasterurl>
 </RECORD>
@@ -3629,6 +3773,30 @@
 	<episode>32</episode>
 	<podcaster>Dr. Nils Köbel</podcaster>
 	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>spielbaelle</podcast>
+	<episode>30</episode>
+	<podcaster>Herr_Geheimrat</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Geheimrat</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>spielbaelle</podcast>
+	<episode>30</episode>
+	<podcaster>Herr_Martinsen</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>spielbaelle</podcast>
+	<episode>31</episode>
+	<podcaster>Herr_Geheimrat</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Geheimrat</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>spielbaelle</podcast>
+	<episode>31</episode>
+	<podcaster>Herr_Martinsen</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Wikigeeks</podcast>
@@ -4377,6 +4545,18 @@
 <RECORD>
 	<podcast>wrint</podcast>
 	<episode>224</episode>
+	<podcaster>tobybaier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>226</episode>
+	<podcaster>holgi</podcaster>
+	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>226</episode>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
