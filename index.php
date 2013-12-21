@@ -30,58 +30,24 @@
       <br/><br/>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/qs/56" title="Quasselstrippen 056" >
-            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
+          <a href="http://shownot.es/rl/31" title="Robotiklabor 031" >
+            <img src="http://shownot.es/img/logos/rl_logo.png" alt="Robotiklabor Logo" />
           </a>
         </div>
         <div class="baf-group">
-          <a class="baf bluehover" href="http://die-quasselstrippen.de/">Quasselstrippen</a>
+          <a class="baf bluehover" href="http://www.robotiklabor.de/">Robotiklabor</a>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
             <span class="caret"></span>
           </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/qs_logo.png');">
-            <li><a href="http://shownot.es/qs/56" title="Quasselstrippen 056">QS-056</a></li>
-            <li><a href="http://shownot.es/qs/55" title="Quasselstrippen 055">QS-055</a></li>
-            <li><a href="http://shownot.es/qs/54" title="Quasselstrippen 054">QS-054</a></li>
-            <li><a href="http://shownot.es/qs/53" title="Quasselstrippen 053">QS-053</a></li>
-            <li><a href="http://shownot.es/qs/52" title="Quasselstrippen 052">QS-052</a></li>
-            <li><a href="http://shownot.es/qs/51" title="Quasselstrippen 051">QS-051</a></li>
-            <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
-            <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
-            <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
-            <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
-            <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
-            <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
-            <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
-            <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
-            <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
-            <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/ng/84" title="Netzgespräche 084" >
-            <img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.xn--netzgesprche-ocb.de/">Netzgespr&auml;che</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/ng_logo.png');">
-            <li><a href="http://shownot.es/ng/84" title="Netzgespräche 084">NG-084</a></li>
-            <li><a href="http://shownot.es/ng/81" title="Netzgespräche 081">NG-081</a></li>
-            <li><a href="http://shownot.es/ng/80" title="Netzgespräche 080">NG-080</a></li>
-            <li><a href="http://shownot.es/ng/79" title="Netzgespräche 079">NG-079</a></li>
-            <li><a href="http://shownot.es/ng/77" title="Netzgespräche 077">NG-077</a></li>
-            <li><a href="http://shownot.es/ng/75" title="Netzgespräche 075">NG-075</a></li>
-            <li><a href="http://shownot.es/ng/74" title="Netzgespräche 074">NG-074</a></li>
-            <li><a href="http://shownot.es/ng/73" title="Netzgespräche 073">NG-073</a></li>
-            <li><a href="http://shownot.es/ng/72" title="Netzgespräche 072">NG-072</a></li>
-            <li><a href="http://shownot.es/ng/71" title="Netzgespräche 071">NG-071</a></li>
-            <li><a href="http://shownot.es/ng/70" title="Netzgespräche 070">NG-070</a></li>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/rl_logo.png');">
+            <li><a href="http://shownot.es/rl/31" title="Robotiklabor 031">RL-031</a></li>
+            <li><a href="http://shownot.es/rl/30" title="Robotiklabor 030">RL-030</a></li>
+            <li><a href="http://shownot.es/rl/29" title="Robotiklabor 029">RL-029</a></li>
+            <li><a href="http://shownot.es/rl/28" title="Robotiklabor 028">RL-028</a></li>
+            <li><a href="http://shownot.es/rl/27" title="Robotiklabor 027">RL-027</a></li>
+            <li><a href="http://shownot.es/rl/26" title="Robotiklabor 026">RL-026</a></li>
+            <li><a href="http://shownot.es/rl/25" title="Robotiklabor 025">RL-025</a></li>
+            <li><a href="http://shownot.es/rl/24" title="Robotiklabor 024">RL-024</a></li>
           </ul>
         </div>
       </div>
@@ -102,7 +68,6 @@
             <li><a href="http://shownot.es/wrint/231" title="WRINT: Realitaetsabgleich 58">Realitaetsabgleich-58</a></li>
             <li><a href="http://shownot.es/wrint/228" title="WRINT: Realitaetsabgleich 57">Realitaetsabgleich-57</a></li>
             <li><a href="http://shownot.es/wrint/225" title="WRINT: Flaschen">Flaschen</a></li>
-            <li><a href="http://shownot.es/wrint/224" title="WRINT: Realitaetsableich 56">Realitaetsableich-56</a></li>
             <li><a href="http://shownot.es/wrint/224" title="WRINT: Realitaetsabgleich 56">Realitaetsabgleich-56</a></li>
             <li><a href="http://shownot.es/wrint/222" title="WRINTheit 47">Wrintheit-47</a></li>
             <li><a href="http://shownot.es/wrint/220" title="WRINT: Realitaetsabgleich 55">Realitaetsabgleich-55</a></li>
@@ -199,6 +164,64 @@
             <li><a href="http://shownot.es/wrint/38" title="WRINTheit 11">Wrintheit-11</a></li>
             <li><a href="http://shownot.es/wrint/34" title="WRINTheit 10">Wrintheit-10</a></li>
             <li><a href="http://shownot.es/wrint/33" title="WRINTheit 9">Wrintheit-9</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/ng/84" title="Netzgespräche 084" >
+            <img src="http://shownot.es/img/logos/ng_logo.png" alt="Netzgespräche Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://www.xn--netzgesprche-ocb.de/">Netzgespr&auml;che</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/ng_logo.png');">
+            <li><a href="http://shownot.es/ng/84" title="Netzgespräche 084">NG-084</a></li>
+            <li><a href="http://shownot.es/ng/83" title="Netzgespräche 083">NG-083</a></li>
+            <li><a href="http://shownot.es/ng/81" title="Netzgespräche 081">NG-081</a></li>
+            <li><a href="http://shownot.es/ng/80" title="Netzgespräche 080">NG-080</a></li>
+            <li><a href="http://shownot.es/ng/79" title="Netzgespräche 079">NG-079</a></li>
+            <li><a href="http://shownot.es/ng/77" title="Netzgespräche 077">NG-077</a></li>
+            <li><a href="http://shownot.es/ng/75" title="Netzgespräche 075">NG-075</a></li>
+            <li><a href="http://shownot.es/ng/74" title="Netzgespräche 074">NG-074</a></li>
+            <li><a href="http://shownot.es/ng/73" title="Netzgespräche 073">NG-073</a></li>
+            <li><a href="http://shownot.es/ng/72" title="Netzgespräche 072">NG-072</a></li>
+            <li><a href="http://shownot.es/ng/71" title="Netzgespräche 071">NG-071</a></li>
+            <li><a href="http://shownot.es/ng/70" title="Netzgespräche 070">NG-070</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/qs/56" title="Quasselstrippen 056" >
+            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+          <a class="baf bluehover" href="http://die-quasselstrippen.de/">Quasselstrippen</a>
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/qs_logo.png');">
+            <li><a href="http://shownot.es/qs/56" title="Quasselstrippen 056">QS-056</a></li>
+            <li><a href="http://shownot.es/qs/55" title="Quasselstrippen 055">QS-055</a></li>
+            <li><a href="http://shownot.es/qs/54" title="Quasselstrippen 054">QS-054</a></li>
+            <li><a href="http://shownot.es/qs/53" title="Quasselstrippen 053">QS-053</a></li>
+            <li><a href="http://shownot.es/qs/52" title="Quasselstrippen 052">QS-052</a></li>
+            <li><a href="http://shownot.es/qs/51" title="Quasselstrippen 051">QS-051</a></li>
+            <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
+            <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
+            <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
+            <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
+            <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
+            <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
+            <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
+            <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
+            <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
+            <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
           </ul>
         </div>
       </div>
@@ -739,27 +762,6 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">19.11.13</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/rl/29" title="Robotiklabor 029" >
-            <img src="http://shownot.es/img/logos/rl_logo.png" alt="Robotiklabor Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-          <a class="baf bluehover" href="http://www.robotiklabor.de/">Robotiklabor</a>
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" >
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu" style="background-image: url('http://shownot.es/img/logos/rl_logo.png');">
-            <li><a href="http://shownot.es/rl/29" title="Robotiklabor 029">RL-029</a></li>
-            <li><a href="http://shownot.es/rl/28" title="Robotiklabor 028">RL-028</a></li>
-            <li><a href="http://shownot.es/rl/27" title="Robotiklabor 027">RL-027</a></li>
-            <li><a href="http://shownot.es/rl/26" title="Robotiklabor 026">RL-026</a></li>
-            <li><a href="http://shownot.es/rl/25" title="Robotiklabor 025">RL-025</a></li>
-            <li><a href="http://shownot.es/rl/24" title="Robotiklabor 024">RL-024</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
           <a href="http://shownot.es/psyt/13" title="Psychotalk: Zeit" >
             <img src="http://shownot.es/img/logos/psyt_logo.png" alt="Psychotalk Logo" />
           </a>
@@ -967,7 +969,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">19.11.13</a></li>
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1387467012 (16:30:12 19.12.2013)
-Generierungsdauer: 0.009544849395752 sec
---><?php if(1387553412 < time()){
+zuletzt aktualisiert um: 1387583901 (00:58:21 21.12.2013)
+Generierungsdauer: 0.09096097946167 sec
+--><?php if(1387670301 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
