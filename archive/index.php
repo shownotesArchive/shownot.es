@@ -133,6 +133,7 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
       $shownoter[] = '<span>'.$row['shownoter'].'</span>';
     }
   }
+  $shownoter = implode(', ', $shownoter);
   $results = $db->query('SELECT * FROM "main"."episodes" WHERE podcast == "'.$podcast.'" AND episode == "'.$episode.'" LIMIT 0,1');
   while ($row = $results->fetchArray()) {
     echo '<div class="info">  <div class="thispodcast">  <div class="podcastimg">  <img src="" alt="Logo">  </div> <?php  include "./../episodeselector.php"; insertselector();  ?>  </div>  <div class="episodeinfo">  <table>  <tr>  <td>Podcast</td><td>'.$row['podcast'].'</td>  </tr>  <tr>  <td>Episode</td><td>'.$row['episode'];
