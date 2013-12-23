@@ -199,12 +199,12 @@ for($i = 0; $i < $ele_count; $i++) {
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="http://twitter.com/evitabley">@EvitaBley</a>, <a href="http://twitter.com/luutoo">@luutoo</a>, <a href="http://twitter.com/quimoniz">@Quimoniz</a>, <a href="http://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="http://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="http://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="http://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="https://twitter.com/evitabley">@EvitaBley</a>, <a href="https://twitter.com/luutoo">@luutoo</a>, <a href="https://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="https://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="https://twitter.com/mrmoe">@mrmoe</a>, <a href="https://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="https://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="http://alpha.app.net/evita">@Evita</a>, <a href="http://alpha.app.net/luto">@luto</a>, <a href="http://alpha.app.net/quimoniz">@Quimoniz</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a> und <a href="http://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
