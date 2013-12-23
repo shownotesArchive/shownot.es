@@ -64,7 +64,7 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
   include_once ('./OSFphp/parse.php');
   $mode = $_GET['mode'];
   $caches = scandir('./cache/', 1);
-  $cache = file_get_contents('./cache/'.$caches[1].'/'.str_replace(array('..', '/'), array('', ''), $_GET['episode']));
+  $cache = file_get_contents('./cache/'.$caches[1].'/'.str_replace(array('..', '/'), array('', ''), $_GET['episode']).'.osf.txt');
 
   $fullmode             = 'true';
   $fullint              = 2;
@@ -86,11 +86,7 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
   if ($mode == 'osf') {
     $mode = 'clean osf';
   }
-
-  if ($mode == 'shownot.es') {
-    $export = '<div class="info">  <div class="thispodcast">  <div class="podcastimg">  <img src="" alt="Logo">  </div> <?php  include "./../episodeselector.php"; insertselector();  ?>  </div>  <div class="episodeinfo">  <table>  <tr>  <td>Podcast</td><td><a href="#"></a></td>  </tr>  <tr>  <td>Episode</td><td><a href="#"></a></td>  </tr>  <tr>  <td>Sendung vom</td><td>'.date("j. M Y").'</td>  </tr>  <tr>  <td>Podcaster</td><td>'.osf_get_persons('podcaster', $shownotesArray['header']).'</td>  </tr>  <tr>  <td>Shownoter</td>  <td>'.osf_get_persons('shownoter', $shownotesArray['header']).'</td>  </tr>  </table>  </div> </div><br/><br/>'."\n\n";
-    $export .= osf_export_block($shownotesArray['export'], 2, 'block style');
-  } elseif (($mode == 'block style') || ($mode == 'button style')) {
+  if (($mode == 'block style') || ($mode == 'button style')) {
     $export = osf_export_block($shownotesArray['export'], $fullint, $mode);
   } elseif ($mode == 'list style') {
     $export = osf_export_list($shownotesArray['export'], $fullint, $mode);
@@ -114,6 +110,38 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
     $export = osf_export_psc($shownotesArray['export']);
   }
 
+  $podcast = explode('_', $_GET['episode'], 2);
+  $episode = $podcast[1];
+  $podcast = $podcast[0];
+  $db = new SQLite3('archive.sqlite3');
+  $podcaster = array();
+  $results = $db->query('SELECT * FROM "main"."podcaster" WHERE podcast == "'.$podcast.'" AND episode == "'.$episode.'"');
+  while ($row = $results->fetchArray()) {
+    if($row['podcasterurl'] != "") {
+      $podcaster[] = '<a href="'.$row['podcasterurl'].'">'.$row['podcaster'].'</a>';
+    } else {
+      $podcaster[] = '<span>'.$row['podcaster'].'</span>';
+    }
+  }
+  $podcaster = implode(', ', $podcaster);
+  $shownoter = array();
+  $results = $db->query('SELECT * FROM "main"."shownoter" WHERE podcast == "'.$podcast.'" AND episode == "'.$episode.'"');
+  while ($row = $results->fetchArray()) {
+    if($row['shownoterurl'] != "") {
+      $shownoter[] = '<a href="'.$row['shownoterurl'].'">'.$row['shownoter'].'</a>';
+    } else {
+      $shownoter[] = '<span>'.$row['shownoter'].'</span>';
+    }
+  }
+  $results = $db->query('SELECT * FROM "main"."episodes" WHERE podcast == "'.$podcast.'" AND episode == "'.$episode.'" LIMIT 0,1');
+  while ($row = $results->fetchArray()) {
+    echo '<div class="info">  <div class="thispodcast">  <div class="podcastimg">  <img src="" alt="Logo">  </div> <?php  include "./../episodeselector.php"; insertselector();  ?>  </div>  <div class="episodeinfo">  <table>  <tr>  <td>Podcast</td><td>'.$row['podcast'].'</td>  </tr>  <tr>  <td>Episode</td><td>'.$row['episode'];
+    if($row['subject'] != "") {
+      echo ' <i>('.$row['subject'].')</i>';
+    }
+    echo '</td>  </tr>  <tr>  <td>Sendung vom</td><td>'.date("j. M Y", $row['episodetime']).'</td>  </tr>  <tr>  <td>Podcaster</td><td>'.$podcaster.'</td>  </tr>  <tr>  <td>Shownoter</td>  <td>'.$shownoter.'</td>  </tr>  </table>  </div> </div><br/><br/>'."\n\n";
+  }
+
   echo $export;
 } else {
   echo '<table class="sortable" border="0"><tr><th>Podcast</th><th>Episode</th><th>Datum</th><th colspan="3"></th></tr>';
@@ -128,7 +156,7 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
       }
       echo '</i>';
     }
-    echo '</td><td sorttable_customkey="'.$row['episodetime'].'">'.date("d.m.Y", $row['episodetime']).'</td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=block">block</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=list">list</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'.osf.txt&mode=osf">osf</a></td></tr>';
+    echo '</td><td sorttable_customkey="'.$row['episodetime'].'">'.date("d.m.Y", $row['episodetime']).'</td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'&mode=block">block</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'&mode=list">list</a></td><td><a href="./?episode='.$row['podcast'].'_'.$row['episode'].'&mode=osf">osf</a></td></tr>';
   }
   echo '</table>';
 }
