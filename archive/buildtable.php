@@ -92,7 +92,7 @@ foreach($dh as $file) {
       $episode[$i]['episodetime'] = $parsed['episodetime'];
       $episode[$i]['subject'] = $parsed['subject'];
       mkdir('./cache/osf/', 0777);
-      file_put_contents('./cache/'.$starttime.'/'.$episode[$i]['podcast'].'_'.$episode[$i]['episode'].'.osf.txt', $parsed['osf']);
+      file_put_contents('./cache/osf/'.$episode[$i]['podcast'].'_'.$episode[$i]['episode'].'.osf.txt', $parsed['osf']);
 
       $insertEpisode = array();
       $insertEpisode[0] = $sql;

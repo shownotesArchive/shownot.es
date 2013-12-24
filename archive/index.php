@@ -63,8 +63,7 @@ if(($_GET['episode'] != '')&&($_GET['mode'] != '')) {
   include_once ('./OSFphp/osf.php');
   include_once ('./OSFphp/parse.php');
   $mode = $_GET['mode'];
-  $caches = scandir('./cache/', 1);
-  $cache = file_get_contents('./cache/'.$caches[1].'/'.str_replace(array('..', '/'), array('', ''), $_GET['episode']).'.osf.txt');
+  $cache = file_get_contents('./cache/osf/'.str_replace(array('..', '/'), array('', ''), $_GET['episode']).'.osf.txt');
 
   $fullmode             = 'true';
   $fullint              = 2;
