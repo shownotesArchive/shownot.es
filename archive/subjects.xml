@@ -7,7 +7,7 @@
 	<subject> Tabletop-Spiele</subject>
 	<filehash>a6018af4de25902cf8cc49b0acae9b17</filehash>
 	<episodetime>1380368280</episodetime>
-	<filetime>1387887249</filetime>
+	<filetime>1388332429</filetime>
 	<filesize>15096</filesize>
 </RECORD>
 <RECORD>
@@ -17,7 +17,7 @@
 	<subject> Serien</subject>
 	<filehash>1bd61fe23f98db9c24744c412e507beb</filehash>
 	<episodetime>1381060170</episodetime>
-	<filetime>1387887250</filetime>
+	<filetime>1388332430</filetime>
 	<filesize>17957</filesize>
 </RECORD>
 <RECORD>
@@ -27,7 +27,7 @@
 	<subject> Esoterik</subject>
 	<filehash>2b6d94abf44bd34171f57d48ae50f79d</filehash>
 	<episodetime>1381664274</episodetime>
-	<filetime>1387887251</filetime>
+	<filetime>1388332430</filetime>
 	<filesize>9975</filesize>
 </RECORD>
 <RECORD>
@@ -37,8 +37,18 @@
 	<subject> Terry Pratchett</subject>
 	<filehash>95c2e770df8850fd6260692c3812bc74</filehash>
 	<episodetime>1384539420</episodetime>
-	<filetime>1387887251</filetime>
+	<filetime>1388332431</filetime>
 	<filesize>19457</filesize>
+</RECORD>
+<RECORD>
+	<filename>bak-MM107.json</filename>
+	<podcast>mobileMacs</podcast>
+	<episode>107</episode>
+	<subject> mobileMacs</subject>
+	<filehash>baca4cd2fdbb2cf1b2d94d577551f504</filehash>
+	<episodetime>0</episodetime>
+	<filetime>1388332435</filetime>
+	<filesize>20249</filesize>
 </RECORD>
 <RECORD>
 	<filename>bak-absradio-011.json</filename>
@@ -47,7 +57,7 @@
 	<subject> ABS011 -Time of my life</subject>
 	<filehash>ab060896a937d0e5d6954fdd54d13837</filehash>
 	<episodetime>1381082400</episodetime>
-	<filetime>1387887255</filetime>
+	<filetime>1388332441</filetime>
 	<filesize>3647</filesize>
 </RECORD>
 <RECORD>
@@ -57,18 +67,8 @@
 	<subject> Ist da Nuss-Nougat drin?</subject>
 	<filehash>8734dabe0a4a82523055a6fefae86e9d</filehash>
 	<episodetime>1385917200</episodetime>
-	<filetime>1387887256</filetime>
+	<filetime>1388332442</filetime>
 	<filesize>3992</filesize>
-</RECORD>
-<RECORD>
-	<filename>bak-MM107.json</filename>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<subject> mobileMacs</subject>
-	<filehash>baca4cd2fdbb2cf1b2d94d577551f504</filehash>
-	<episodetime>0</episodetime>
-	<filetime>1387887375</filetime>
-	<filesize>20249</filesize>
 </RECORD>
 <RECORD>
 	<filename>bak-bluemoon-201013.json</filename>
@@ -77,7 +77,7 @@
 	<subject> Wochen-Rückblick</subject>
 	<filehash>8bce44ca44280a684448ec286b347e05</filehash>
 	<episodetime>1382299200</episodetime>
-	<filetime>1387887392</filetime>
+	<filetime>1388332467</filetime>
 	<filesize>7598</filesize>
 </RECORD>
 <RECORD>
@@ -87,7 +87,7 @@
 	<subject> Das Kreuz mit dem Stil: Stilfragen</subject>
 	<filehash>0a47228e8ea2a16abc2de43a06fec947</filehash>
 	<episodetime>1382558640</episodetime>
-	<filetime>1387887395</filetime>
+	<filetime>1388332471</filetime>
 	<filesize>8030</filesize>
 </RECORD>
 <RECORD>
@@ -97,7 +97,7 @@
 	<subject> Kuchen und Torten</subject>
 	<filehash>9c88a0dbf2112293ce873b625fa25a54</filehash>
 	<episodetime>0</episodetime>
-	<filetime>1387887411</filetime>
+	<filetime>1388332488</filetime>
 	<filesize>2785</filesize>
 </RECORD>
 <RECORD>
@@ -107,7 +107,7 @@
 	<subject> Xaver, biffY, Zürich und Kant</subject>
 	<filehash>d9d6794c41cc43e7994bda01a694de81</filehash>
 	<episodetime>1386705300</episodetime>
-	<filetime>1387887431</filetime>
+	<filetime>1388332506</filetime>
 	<filesize>6106</filesize>
 </RECORD>
 <RECORD>
@@ -117,7 +117,7 @@
 	<subject> EP 264 - Rote Flora, KSC, Hobbit und Herr Rilke</subject>
 	<filehash>7f68de1ebb89aeb8c1465b8f3e780b64</filehash>
 	<episodetime>1387827000</episodetime>
-	<filetime>1387887432</filetime>
+	<filetime>1388332507</filetime>
 	<filesize>7526</filesize>
 </RECORD>
 <RECORD>
@@ -127,7 +127,7 @@
 	<subject> Good Riddance</subject>
 	<filehash>d2d1245d1c55a026d1106bb16d09e6ca</filehash>
 	<episodetime>1383159600</episodetime>
-	<filetime>1387887437</filetime>
+	<filetime>1388332512</filetime>
 	<filesize>15619</filesize>
 </RECORD>
 <RECORD>
@@ -137,7 +137,7 @@
 	<subject> You Will Never Leave The American Sector</subject>
 	<filehash>e63ecd4f54c8a742462946c6395502f8</filehash>
 	<episodetime>1384369200</episodetime>
-	<filetime>1387887438</filetime>
+	<filetime>1388332512</filetime>
 	<filesize>13056</filesize>
 </RECORD>
 <RECORD>
@@ -147,7 +147,7 @@
 	<subject> Personal Audio Jesus</subject>
 	<filehash>3fbb2e26c8e61c3579df3efee3e2afa8</filehash>
 	<episodetime>1385578800</episodetime>
-	<filetime>1387887438</filetime>
+	<filetime>1388332513</filetime>
 	<filesize>13980</filesize>
 </RECORD>
 <RECORD>
@@ -157,7 +157,7 @@
 	<subject> Schland unter</subject>
 	<filehash>8227534149f93226304207149fd9344d</filehash>
 	<episodetime>1386788400</episodetime>
-	<filetime>1387887439</filetime>
+	<filetime>1388332513</filetime>
 	<filesize>20324</filesize>
 </RECORD>
 <RECORD>
@@ -167,7 +167,7 @@
 	<subject> Funktional kaputt</subject>
 	<filehash>91c1daef068984dc3a3705168bd6f175</filehash>
 	<episodetime>1366220070</episodetime>
-	<filetime>1387887445</filetime>
+	<filetime>1388332519</filetime>
 	<filesize>13825</filesize>
 </RECORD>
 <RECORD>
@@ -177,7 +177,7 @@
 	<subject> Pie Malum Domine Dona Nobis Requiem</subject>
 	<filehash>5119d2229517749e3676440522940ce4</filehash>
 	<episodetime>1367431850</episodetime>
-	<filetime>1387887446</filetime>
+	<filetime>1388332520</filetime>
 	<filesize>12083</filesize>
 </RECORD>
 <RECORD>
@@ -187,7 +187,7 @@
 	<subject> The One Million Satoshi Pizza</subject>
 	<filehash>f8e34281666fe4fb251c5d6444cf491d</filehash>
 	<episodetime>1368640445</episodetime>
-	<filetime>1387887447</filetime>
+	<filetime>1388332521</filetime>
 	<filesize>17757</filesize>
 </RECORD>
 <RECORD>
@@ -197,7 +197,7 @@
 	<subject> Gute Nacht John-Boy</subject>
 	<filehash>b0baef9ca07d20226d9cc4192e9ecdac</filehash>
 	<episodetime>1369849445</episodetime>
-	<filetime>1387887448</filetime>
+	<filetime>1388332522</filetime>
 	<filesize>18932</filesize>
 </RECORD>
 <RECORD>
@@ -207,7 +207,7 @@
 	<subject> In Werbung bewegen</subject>
 	<filehash>044917fe9382871ff8d498983fb2ff37</filehash>
 	<episodetime>1371058680</episodetime>
-	<filetime>1387887449</filetime>
+	<filetime>1388332523</filetime>
 	<filesize>23513</filesize>
 </RECORD>
 <RECORD>
@@ -217,7 +217,7 @@
 	<subject> Viele Ausländer benutzen Linux</subject>
 	<filehash>f71f45b7b6bfa8c3f7b1386b24a5f81b</filehash>
 	<episodetime>1366626804</episodetime>
-	<filetime>1387887458</filetime>
+	<filetime>1388332530</filetime>
 	<filesize>15723</filesize>
 </RECORD>
 <RECORD>
@@ -227,7 +227,7 @@
 	<subject> Stereo macht doppelt froh</subject>
 	<filehash>001848d7f6d0a4c5557fe00ba859a57e</filehash>
 	<episodetime>1368441334</episodetime>
-	<filetime>1387887458</filetime>
+	<filetime>1388332531</filetime>
 	<filesize>12177</filesize>
 </RECORD>
 <RECORD>
@@ -237,7 +237,7 @@
 	<subject> Die Eifel ist ein Feuchtgebiet</subject>
 	<filehash>da1fa1327a5ec69b0d095bda6388ec18</filehash>
 	<episodetime>1369651699</episodetime>
-	<filetime>1387887459</filetime>
+	<filetime>1388332531</filetime>
 	<filesize>17239</filesize>
 </RECORD>
 <RECORD>
@@ -247,7 +247,7 @@
 	<subject> Tokamak und Stellarator jagen Dr. Avogadro</subject>
 	<filehash>49cdbed0eeac15a8441bd5da820114ae</filehash>
 	<episodetime>1378722634</episodetime>
-	<filetime>1387887460</filetime>
+	<filetime>1388332532</filetime>
 	<filesize>19205</filesize>
 </RECORD>
 <RECORD>
@@ -257,7 +257,7 @@
 	<subject> Notbrot</subject>
 	<filehash>0c71adbe29b8c3cfae56c6867b46801c</filehash>
 	<episodetime>1384776394</episodetime>
-	<filetime>1387887460</filetime>
+	<filetime>1388332532</filetime>
 	<filesize>20005</filesize>
 </RECORD>
 <RECORD>
@@ -267,7 +267,7 @@
 	<subject> Die grüne Elke</subject>
 	<filehash>d9b6849b07c9f272e17f55943aab966a</filehash>
 	<episodetime>1386761400</episodetime>
-	<filetime>1387887461</filetime>
+	<filetime>1388332533</filetime>
 	<filesize>26065</filesize>
 </RECORD>
 <RECORD>
@@ -277,7 +277,7 @@
 	<subject> Togglewarnung</subject>
 	<filehash>34ec4b14307e2ce1d409c2e306e65efa</filehash>
 	<episodetime>1371033460</episodetime>
-	<filetime>1387887461</filetime>
+	<filetime>1388332533</filetime>
 	<filesize>18994</filesize>
 </RECORD>
 <RECORD>
@@ -287,7 +287,7 @@
 	<subject> Da muss Apple noch nachbessern</subject>
 	<filehash>6675c4dc235c2530ecad06db316e25d8</filehash>
 	<episodetime>1372070215</episodetime>
-	<filetime>1387887462</filetime>
+	<filetime>1388332534</filetime>
 	<filesize>11790</filesize>
 </RECORD>
 <RECORD>
@@ -297,7 +297,7 @@
 	<subject> Syntax Error in 10</subject>
 	<filehash>e01d9780d983868e3a2321cc24ef8561</filehash>
 	<episodetime>1375699320</episodetime>
-	<filetime>1387887462</filetime>
+	<filetime>1388332534</filetime>
 	<filesize>20406</filesize>
 </RECORD>
 <RECORD>
@@ -307,7 +307,7 @@
 	<subject> Das Wetter muss weg</subject>
 	<filehash>1e49ba1e6e8c9bb3472724934c721f31</filehash>
 	<episodetime>1377514803</episodetime>
-	<filetime>1387887463</filetime>
+	<filetime>1388332535</filetime>
 	<filesize>17016</filesize>
 </RECORD>
 <RECORD>
@@ -317,7 +317,7 @@
 	<subject> Blattfisch</subject>
 	<filehash>a754323b9ee32c3555c09a4e8e16824b</filehash>
 	<episodetime>1382351460</episodetime>
-	<filetime>1387887464</filetime>
+	<filetime>1388332536</filetime>
 	<filesize>17196</filesize>
 </RECORD>
 <RECORD>
@@ -327,7 +327,7 @@
 	<subject> Schmeckt wie Weihnachten</subject>
 	<filehash>56e5f8615eb4a7ce080b453c2d6e4af1</filehash>
 	<episodetime>1383737400</episodetime>
-	<filetime>1387887465</filetime>
+	<filetime>1388332536</filetime>
 	<filesize>11403</filesize>
 </RECORD>
 <RECORD>
@@ -337,7 +337,7 @@
 	<subject> Star Trek</subject>
 	<filehash>fd886bcea33372365bb7ea35824ec1fb</filehash>
 	<episodetime>1349889300</episodetime>
-	<filetime>1387887465</filetime>
+	<filetime>1388332537</filetime>
 	<filesize>21869</filesize>
 </RECORD>
 <RECORD>
@@ -347,7 +347,7 @@
 	<subject> Haustiere</subject>
 	<filehash>3c13e6f80aae8418e6cc666275017cb6</filehash>
 	<episodetime>1356130800</episodetime>
-	<filetime>1387887466</filetime>
+	<filetime>1388332537</filetime>
 	<filesize>10347</filesize>
 </RECORD>
 <RECORD>
@@ -357,7 +357,7 @@
 	<subject> Sex</subject>
 	<filehash>a246857e7171d6236680e9226db42cd1</filehash>
 	<episodetime>1359241200</episodetime>
-	<filetime>1387887466</filetime>
+	<filetime>1388332538</filetime>
 	<filesize>16389</filesize>
 </RECORD>
 <RECORD>
@@ -367,7 +367,7 @@
 	<subject> Bücher</subject>
 	<filehash>d99bd2dbf5b7697bcb0c35469bbc5ea1</filehash>
 	<episodetime>1362870000</episodetime>
-	<filetime>1387887467</filetime>
+	<filetime>1388332538</filetime>
 	<filesize>22396</filesize>
 </RECORD>
 <RECORD>
@@ -377,7 +377,7 @@
 	<subject> Musik</subject>
 	<filehash>020d65c8f5b1440ed14521711b1c1220</filehash>
 	<episodetime>1366048800</episodetime>
-	<filetime>1387887468</filetime>
+	<filetime>1388332539</filetime>
 	<filesize>12912</filesize>
 </RECORD>
 <RECORD>
@@ -387,7 +387,7 @@
 	<subject> Drogen</subject>
 	<filehash>aa927b63e16fad0f825bdf18c48bf8e5</filehash>
 	<episodetime>1379095200</episodetime>
-	<filetime>1387887468</filetime>
+	<filetime>1388332540</filetime>
 	<filesize>14208</filesize>
 </RECORD>
 <RECORD>
@@ -397,7 +397,7 @@
 	<subject> Zeit</subject>
 	<filehash>8a708116c2c7747b5d1cdbf6a2d6d244</filehash>
 	<episodetime>1382119200</episodetime>
-	<filetime>1387887469</filetime>
+	<filetime>1388332540</filetime>
 	<filesize>4157</filesize>
 </RECORD>
 <RECORD>
@@ -407,7 +407,7 @@
 	<subject> Chips</subject>
 	<filehash>84e3f63a6a263d2bfcffb3b7d3150a8d</filehash>
 	<episodetime>1371938400</episodetime>
-	<filetime>1387887472</filetime>
+	<filetime>1388332543</filetime>
 	<filesize>11671</filesize>
 </RECORD>
 <RECORD>
@@ -417,7 +417,7 @@
 	<subject> Die Strippen sind käuflich</subject>
 	<filehash>4333e51da7f116ae97c5be25cde5e356</filehash>
 	<episodetime>1387015200</episodetime>
-	<filetime>1387887481</filetime>
+	<filetime>1388332551</filetime>
 	<filesize>5989</filesize>
 </RECORD>
 <RECORD>
@@ -425,10 +425,10 @@
 	<podcast>quasselstrippen</podcast>
 	<episode>57</episode>
 	<subject> Die Strippen sind umgefallen</subject>
-	<filehash>6631641b32c416e06d181ee8e75f353e</filehash>
+	<filehash>bc88723e5e8726fea43e290b52fe64c9</filehash>
 	<episodetime>1387620000</episodetime>
-	<filetime>1387887482</filetime>
-	<filesize>8380</filesize>
+	<filetime>1388332551</filetime>
+	<filesize>8363</filesize>
 </RECORD>
 <RECORD>
 	<filename>bak-radio-osm-023.json</filename>
@@ -437,7 +437,7 @@
 	<subject>  benutzt endlich mal das verdammte Wiki! </subject>
 	<filehash>940381035cf17684d03a7f27fe8b3cd7</filehash>
 	<episodetime>1382033700</episodetime>
-	<filetime>1387887484</filetime>
+	<filetime>1388332553</filetime>
 	<filesize>7538</filesize>
 </RECORD>
 <RECORD>
@@ -447,7 +447,7 @@
 	<subject> Spargelsensor</subject>
 	<filehash>14bb8dada1c9d6616d40e0b8d379d1eb</filehash>
 	<episodetime>1373143380</episodetime>
-	<filetime>1387887493</filetime>
+	<filetime>1388332561</filetime>
 	<filesize>12270</filesize>
 </RECORD>
 <RECORD>
@@ -457,7 +457,7 @@
 	<subject> Robotileaks</subject>
 	<filehash>3a7b62103c2bfed0cb554b70da7ae893</filehash>
 	<episodetime>1374863400</episodetime>
-	<filetime>1387887493</filetime>
+	<filetime>1388332562</filetime>
 	<filesize>7821</filesize>
 </RECORD>
 <RECORD>
@@ -467,7 +467,7 @@
 	<subject> Maker Faire 2013</subject>
 	<filehash>fe394891d8fdf4346006712df755ca86</filehash>
 	<episodetime>1375539215</episodetime>
-	<filetime>1387887494</filetime>
+	<filetime>1388332562</filetime>
 	<filesize>5424</filesize>
 </RECORD>
 <RECORD>
@@ -477,7 +477,7 @@
 	<subject> Hipster-Schnickschnack</subject>
 	<filehash>f21bb2e27d3705c62ff7de8fd76b31aa</filehash>
 	<episodetime>1377282286</episodetime>
-	<filetime>1387887494</filetime>
+	<filetime>1388332563</filetime>
 	<filesize>23259</filesize>
 </RECORD>
 <RECORD>
@@ -487,7 +487,7 @@
 	<subject> Freitag der 13.</subject>
 	<filehash>d2f709f2aaf90592de50b0f764a8231b</filehash>
 	<episodetime>1379095200</episodetime>
-	<filetime>1387887495</filetime>
+	<filetime>1388332563</filetime>
 	<filesize>7905</filesize>
 </RECORD>
 <RECORD>
@@ -497,7 +497,7 @@
 	<subject> Männer die auf Boards starren</subject>
 	<filehash>59f0e6fe4f782426ea4f377d1640eb40</filehash>
 	<episodetime>1382119770</episodetime>
-	<filetime>1387887495</filetime>
+	<filetime>1388332563</filetime>
 	<filesize>18530</filesize>
 </RECORD>
 <RECORD>
@@ -507,8 +507,28 @@
 	<subject> 30 Jahre Robotiklabor - mit Knitterschutz</subject>
 	<filehash>113f1ecdf17fbb0487223459fc5df46f</filehash>
 	<episodetime>1385751600</episodetime>
-	<filetime>1387887496</filetime>
+	<filetime>1388332564</filetime>
 	<filesize>9989</filesize>
+</RECORD>
+<RECORD>
+	<filename>bak-sondersendung-1.json</filename>
+	<podcast>Sondersendung</podcast>
+	<episode>1</episode>
+	<subject> 30C3 - Tag 1</subject>
+	<filehash>02bb55ea7531729e6f294103271f3f0a</filehash>
+	<episodetime>1388174400</episodetime>
+	<filetime>1388332568</filetime>
+	<filesize>14573</filesize>
+</RECORD>
+<RECORD>
+	<filename>bak-sondersendung-2.json</filename>
+	<podcast>Sondersendung</podcast>
+	<episode>2</episode>
+	<subject> 30C3 - Tag 2</subject>
+	<filehash>630fb3f04fe5c20e71ccb1ae4a4b73a0</filehash>
+	<episodetime>0</episodetime>
+	<filetime>1388332569</filetime>
+	<filesize>17390</filesize>
 </RECORD>
 <RECORD>
 	<filename>bak-soziopod-028.json</filename>
@@ -517,7 +537,7 @@
 	<subject> Rechtsextremismus – ganz rechts draußen</subject>
 	<filehash>3b1d354ee50b4b6b6c36a749d9502fac</filehash>
 	<episodetime>1367532000</episodetime>
-	<filetime>1387887500</filetime>
+	<filetime>1388332570</filetime>
 	<filesize>14114</filesize>
 </RECORD>
 <RECORD>
@@ -527,7 +547,7 @@
 	<subject> Erziehung – We don’t need no education?!</subject>
 	<filehash>6375e1e8dce425bdee4f5326d8f4c4be</filehash>
 	<episodetime>1369002099</episodetime>
-	<filetime>1387887501</filetime>
+	<filetime>1388332570</filetime>
 	<filesize>11560</filesize>
 </RECORD>
 <RECORD>
@@ -537,7 +557,7 @@
 	<subject> Drogen Rausch Sucht Profit</subject>
 	<filehash>61e582abd15237f30d38087f62785e25</filehash>
 	<episodetime>1372637738</episodetime>
-	<filetime>1387887501</filetime>
+	<filetime>1388332570</filetime>
 	<filesize>15490</filesize>
 </RECORD>
 <RECORD>
@@ -547,7 +567,7 @@
 	<subject> Demokratie: Hört uns ruhig ab! Wir sind der Diskurs!</subject>
 	<filehash>fa765a3947935fc0c5bcaf53814edbda</filehash>
 	<episodetime>1374690297</episodetime>
-	<filetime>1387887502</filetime>
+	<filetime>1388332571</filetime>
 	<filesize>26506</filesize>
 </RECORD>
 <RECORD>
@@ -557,7 +577,7 @@
 	<subject> Bourdieu und der Fluch der sozialen Ungleichheit</subject>
 	<filehash>d509e39f6d20c55ac397da4f0c9645f5</filehash>
 	<episodetime>1382358900</episodetime>
-	<filetime>1387887502</filetime>
+	<filetime>1388332571</filetime>
 	<filesize>16035</filesize>
 </RECORD>
 <RECORD>
@@ -567,7 +587,7 @@
 	<subject> WMR63 – Live von der #rp13 (mit @Milenskaya und @fxneumann)</subject>
 	<filehash>fdeb3d4dacdcd00479814eea02b53893</filehash>
 	<episodetime>1368007320</episodetime>
-	<filetime>1387887507</filetime>
+	<filetime>1388332576</filetime>
 	<filesize>8899</filesize>
 </RECORD>
 <RECORD>
@@ -577,7 +597,7 @@
 	<subject> Anruf bei Helena in Antalya (gekürzt)</subject>
 	<filehash>5f1b061970aa4cbea37fac356d3d90ec</filehash>
 	<episodetime>1370901600</episodetime>
-	<filetime>1387887520</filetime>
+	<filetime>1388332587</filetime>
 	<filesize>13754</filesize>
 </RECORD>
 <RECORD>
@@ -587,7 +607,7 @@
 	<subject> Anruf bei Helena in Antalya</subject>
 	<filehash>fcb42a51f50f260c55983dc25364b827</filehash>
 	<episodetime>1370901600</episodetime>
-	<filetime>1387887520</filetime>
+	<filetime>1388332587</filetime>
 	<filesize>20621</filesize>
 </RECORD>
 <RECORD>
@@ -597,7 +617,7 @@
 	<subject> 224</subject>
 	<filehash>84aa1e13f6eb1cc3b88ec37e7a139ff7</filehash>
 	<episodetime>1384205750</episodetime>
-	<filetime>1387887532</filetime>
+	<filetime>1388332598</filetime>
 	<filesize>8656</filesize>
 </RECORD>
 <RECORD>
@@ -607,7 +627,7 @@
 	<subject> Realitätsabgleich 56 - Schlangenöl ins Feuer</subject>
 	<filehash>ef7bbc209cb9fa31944ad7016128c655</filehash>
 	<episodetime>1384340400</episodetime>
-	<filetime>1387887533</filetime>
+	<filetime>1388332598</filetime>
 	<filesize>8023</filesize>
 </RECORD>
 <RECORD>
@@ -617,7 +637,7 @@
 	<subject> Mit Eingriff</subject>
 	<filehash>0d99a7fa2bda7e5fd8a92be3476f1fb9</filehash>
 	<episodetime>1386155400</episodetime>
-	<filetime>1387887533</filetime>
+	<filetime>1388332599</filetime>
 	<filesize>5839</filesize>
 </RECORD>
 <RECORD>
@@ -627,7 +647,7 @@
 	<subject> Oliver in Bangkok</subject>
 	<filehash>8b98ce6b017f40b8aae048d7409cd020</filehash>
 	<episodetime>1386549005</episodetime>
-	<filetime>1387887534</filetime>
+	<filetime>1388332599</filetime>
 	<filesize>8610</filesize>
 </RECORD>
 <RECORD>
@@ -637,7 +657,7 @@
 	<subject> Asisch weggespatelt</subject>
 	<filehash>7fa9e527fbf97e58c3957435e87ea9b5</filehash>
 	<episodetime>1386781200</episodetime>
-	<filetime>1387887534</filetime>
+	<filetime>1388332599</filetime>
 	<filesize>4536</filesize>
 </RECORD>
 <RECORD>
@@ -647,7 +667,7 @@
 	<subject> Weinachtsweine 2013</subject>
 	<filehash>3f5205fd5f65797384e92a07c5d37dc6</filehash>
 	<episodetime>1386790200</episodetime>
-	<filetime>1387887535</filetime>
+	<filetime>1388332600</filetime>
 	<filesize>3538</filesize>
 </RECORD>
 <RECORD>
@@ -657,7 +677,7 @@
 	<subject> Realitätsabgleich 59 - Ihr Sendungstitel hier -</subject>
 	<filehash>391010bccb46d842d50ac08d9d5b7cc2</filehash>
 	<episodetime>1387365000</episodetime>
-	<filetime>1387887535</filetime>
+	<filetime>1388332600</filetime>
 	<filesize>12901</filesize>
 </RECORD>
 <RECORD>
@@ -667,7 +687,7 @@
 	<subject> Wrintheit 48 - Scheiß Kommerz!</subject>
 	<filehash>13e4fc244bac6d3b1bb6ef3c45bb5eaf</filehash>
 	<episodetime>1387710420</episodetime>
-	<filetime>1387887535</filetime>
+	<filetime>1388332601</filetime>
 	<filesize>24781</filesize>
 </RECORD>
 </RECORDS>
