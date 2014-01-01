@@ -193,12 +193,6 @@
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>ABSradio</podcast>
 	<episode>2</episode>
 	<podcaster>Alex</podcaster>
@@ -417,6 +411,24 @@
 <RECORD>
 	<podcast>absradio</podcast>
 	<episode>16</episode>
+	<podcaster>Sascha</podcaster>
+	<podcasterurl>http://alpha.app.net/saschagrafie</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>17</episode>
+	<podcaster>Alex</podcaster>
+	<podcasterurl>http://alpha.app.net/chemiker</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>17</episode>
+	<podcaster>Dominik</podcaster>
+	<podcasterurl>http://alpha.app.net/dasdom</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>17</episode>
 	<podcaster>Sascha</podcaster>
 	<podcasterurl>http://alpha.app.net/saschagrafie</podcasterurl>
 </RECORD>
@@ -3608,31 +3620,61 @@
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<podcaster>Tim Pritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<podcaster>Ralf Stockmann</podcaster>
 	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<podcaster>Claudia Krell</podcaster>
 	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
 	<podcaster>Ralf Stockmann</podcaster>
 	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
+	<podcaster>Claudia Krell</podcaster>
+	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<podcaster>Ralf Stockmann</podcaster>
+	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<podcaster>Tim Pritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<podcaster>Ralf Stockmann</podcaster>
+	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<podcaster>Tim Pritlove</podcaster>
+	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
 	<podcaster>Claudia Krell</podcaster>
 	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
 </RECORD>
@@ -3775,6 +3817,48 @@
 	<podcasterurl>https://twitter.com/bruhndsoweiter</podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>Wikigeeks</podcast>
+	<episode>44</episode>
+	<podcaster>Claudia Krell</podcaster>
+	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wikigeeks</podcast>
+	<episode>44</episode>
+	<podcaster>Ralf Stockmann</podcaster>
+	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wikigeeks</podcast>
+	<episode>44</episode>
+	<podcaster>Renke Bruhn</podcaster>
+	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wikigeeks</podcast>
+	<episode>45</episode>
+	<podcaster>Renke Bruhn</podcaster>
+	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wikigeeks</podcast>
+	<episode>45</episode>
+	<podcaster>Ralf Stockmann</podcaster>
+	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wikigeeks</podcast>
+	<episode>45</episode>
+	<podcaster>Claudia Krell</podcaster>
+	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<podcaster>Holger Klein</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>wikigeeks</podcast>
 	<episode>48</episode>
 	<podcaster>Claudia Krell</podcaster>
@@ -3791,42 +3875,6 @@
 	<episode>48</episode>
 	<podcaster>Renke Bruhn</podcaster>
 	<podcasterurl>https://twitter.com/bruhndsoweiter</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Renke Bruhn</podcaster>
-	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Renke Bruhn</podcaster>
-	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>wir-mussen-reden</podcast>
@@ -3995,6 +4043,30 @@
 	<episode>75</episode>
 	<podcaster>Michael Seemann</podcaster>
 	<podcasterurl>http://twitter.com/mspro</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<podcaster>Michael Seemann</podcaster>
+	<podcasterurl>https://twitter.com/mspro</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<podcaster>Max von Webel</podcaster>
+	<podcasterurl>https://twitter.com/343max</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<podcaster>Jürgen Geuter</podcaster>
+	<podcasterurl>https://twitter.com/tante</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<podcaster>Laura Dornheim</podcaster>
+	<podcasterurl>https://twitter.com/schwarzblond</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Wrintheit</podcast>

@@ -223,24 +223,6 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>evitabley</shownoter>
-	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>Melman</shownoter>
-	<shownoterurl>https://twitter.com/Maestro_Bodo</shownoterurl>
-</RECORD>
-<RECORD>
 	<podcast>ABSradio</podcast>
 	<episode>2</episode>
 	<shownoter>Frank Hase</shownoter>
@@ -389,6 +371,12 @@
 	<episode>16</episode>
 	<shownoter>blumenkraft</shownoter>
 	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
+	<episode>17</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>absradio</podcast>
@@ -4886,85 +4874,151 @@
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>@vale</shownoter>
 	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>mrmoe</shownoter>
 	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>SimonWaldherr</shownoter>
 	<shownoterurl>http://simon.waldherr.eu/</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>evita</shownoter>
 	<shownoterurl>http://achtungabschrift.de/</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>BigMcIntosh91</shownoter>
 	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>Kambfhase</shownoter>
 	<shownoterurl>https://twitter.com/Kambfhase</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>elektrobier</shownoter>
 	<shownoterurl>https://fnordwind.de</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>1</episode>
+	<episode>4</episode>
 	<shownoter>@Dr4k3</shownoter>
 	<shownoterurl>https://twitter.com/dr4k3_le</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
-	<shownoter>Evita http://achtungabschrift.de</shownoter>
-	<shownoterurl></shownoterurl>
+	<episode>5</episode>
+	<shownoter>Evita</shownoter>
+	<shownoterurl>http://achtungabschrift.de/</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
 	<shownoter>Simon Waldherr</shownoter>
 	<shownoterurl>http://simon.waldherr.eu/</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
 	<shownoter>mrmoe</shownoter>
 	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
 	<shownoter>bigmcintosh91</shownoter>
 	<shownoterurl>https://twitter.com/bigmcintosh91</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
 	<shownoter>@Quimoniz</shownoter>
 	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Sondersendung</podcast>
-	<episode>2</episode>
+	<episode>5</episode>
+	<shownoter>@Dr4k3</shownoter>
+	<shownoterurl>https://twitter.com/dr4k3_le</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://twitter.com/mrmoe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<shownoter>@vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung</podcast>
+	<episode>6</episode>
+	<shownoter>Simon Waldherr</shownoter>
+	<shownoterurl>http://simon.waldherr.eu/</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>mrmoe</shownoter>
+	<shownoterurl>https://alpha.app.net/moe</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>@vale</shownoter>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>@Quimoniz</shownoter>
+	<shownoterurl>https://alpha.app.net/Quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>Simon Waldherr</shownoter>
+	<shownoterurl>http://simon.waldherr.eu/</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>@evita</shownoter>
+	<shownoterurl>http://twitter.com/evitabley</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Sondersendung Episode: 6</podcast>
+	<episode>6</episode>
 	<shownoter>@Dr4k3</shownoter>
 	<shownoterurl>https://twitter.com/dr4k3_le</shownoterurl>
 </RECORD>
@@ -5131,12 +5185,6 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>48</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
 	<podcast>Wikigeeks</podcast>
 	<episode>44</episode>
 	<shownoter>gglnx</shownoter>
@@ -5169,6 +5217,30 @@
 <RECORD>
 	<podcast>wikigeeks</podcast>
 	<episode>45</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>evitabley</shownoter>
+	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>Melman</shownoter>
+	<shownoterurl>https://twitter.com/Maestro_Bodo</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wikigeeks</podcast>
+	<episode>48</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
@@ -5345,6 +5417,30 @@
 	<episode>75</episode>
 	<shownoter>Vale</shownoter>
 	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<shownoter>mashehu</shownoter>
+	<shownoterurl>https://twitter.com/mashehu</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<shownoter>@blumenkraft</shownoter>
+	<shownoterurl>https://alpha.app.net/blumenkraft</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<shownoter>@BigMcIntosh</shownoter>
+	<shownoterurl>https://twitter.com/mlp_bigmcintosh</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wir-mussen-reden</podcast>
+	<episode>76</episode>
+	<shownoter>antonioinotna</shownoter>
+	<shownoterurl>https://twitter.com/antonioinotna</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>Wrintheit</podcast>
