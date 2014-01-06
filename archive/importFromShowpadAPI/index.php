@@ -151,7 +151,8 @@ if ($sendmail == true) {
   $message .= "</table><br/>\n".'Generated on '.date('d.m.Y H:i:s')."<br/>\n";
   if($i > 0) {
     echo 'sending email';
-    mail('mail@simon.waldherr.eu', 'daily shownotes update', $message, $headers);
+    mail('simon@shownot.es', 'daily shownotes update', $message, $headers);
+    mail('dr4k3@shownot.es', 'daily shownotes update', $message, $headers);
   }
 }
 

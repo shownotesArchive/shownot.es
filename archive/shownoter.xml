@@ -223,6 +223,24 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>evitabley</shownoter>
+	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>172</episode>
+	<shownoter>Melman</shownoter>
+	<shownoterurl>https://twitter.com/Maestro_Bodo</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>ABSradio</podcast>
 	<episode>2</episode>
 	<shownoter>Frank Hase</shownoter>
@@ -587,6 +605,18 @@
 	<episode>2072013</episode>
 	<shownoter>@1nsider</shownoter>
 	<shownoterurl>https://twitter.com/1nsider</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -5185,6 +5215,12 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>wikigeeks</podcast>
+	<episode>48</episode>
+	<shownoter></shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>Wikigeeks</podcast>
 	<episode>44</episode>
 	<shownoter>gglnx</shownoter>
@@ -5217,30 +5253,6 @@
 <RECORD>
 	<podcast>wikigeeks</podcast>
 	<episode>45</episode>
-	<shownoter></shownoter>
-	<shownoterurl></shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>evitabley</shownoter>
-	<shownoterurl>https://twitter.com/evitabley</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<shownoter>Melman</shownoter>
-	<shownoterurl>https://twitter.com/Maestro_Bodo</shownoterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>48</episode>
 	<shownoter></shownoter>
 	<shownoterurl></shownoterurl>
 </RECORD>
@@ -6203,5 +6215,35 @@
 	<episode>RA44</episode>
 	<shownoter>hanz &lt;twitter.com/kaeffchen_heinz&gt;</shownoter>
 	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>59</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>59</episode>
+	<shownoter>HDValentin</shownoter>
+	<shownoterurl>https://twitter.com/HDValentin</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>211</episode>
+	<shownoter>mathepauker</shownoter>
+	<shownoterurl>http://mathepauker.de/</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>211</episode>
+	<shownoter>Quimoniz</shownoter>
+	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>211</episode>
+	<shownoter>Iterationbound</shownoter>
+	<shownoterurl>https://twitter.com/iterationbound</shownoterurl>
 </RECORD>
 </RECORDS>
