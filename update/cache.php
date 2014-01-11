@@ -64,12 +64,24 @@ function printPodcastBox($podcast, $count) {
       echo "          </a>\n";
       echo "        </div>\n";
       echo "        <div class=\"baf-group\">\n";
-      echo '          <a class="baf bluehover" href="' . $podcast[2] . '">' . htmlentities($podcast[0], ENT_QUOTES, "UTF-8") . '</a>';
       echo "\n";
-      echo "          <a class=\"baf bluehover dropdown-toggle\" data-toggle=\"dropdown\" >\n";
-      echo "            <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\" style=\"background-image: url('http://shownot.es/img/logos/" . $podcast[3] . "');\">\n";
+      echo "          <a class=\"baf bluehover dropdown-toggle\" data-toggle=\"dropdown\" style=\"width: 148px; height: 28px; padding: 0px;\" >\n";
+      echo "            <div style=\"float: left; opacity: 0.4; margin: 6px 0px 7px 6px;\"><img src=\"/img/blurred-text-small.png\" width=\"15\" height=\"15\" onclick=\"this.parentNode.parentNode.click();\"/></div>";
+      echo "            <div style=\"float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;\" onclick=\"this.parentNode.click();\">" . $podcast[0] . "</div>";
+      echo "          </a>";
+      echo "          <div class=\"dropdown-menu\" style=\"max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;\">";
+      echo "            <div class=\"menu_bar\">";
+      echo "              <div style=\"float: left; opacity: 0.4; margin: 7px 0px 7px 9px;\"><img src=\"/img/blurred-text-small.png\" width=\"15\" height=\"15\"/></div>";
+      echo "              <div style=\"float: left; margin: 7px 0px 8px 11px;\">" . htmlentities($podcast[0], ENT_QUOTES, "UTF-8") . " Shownotes</div>";
+      echo "              <div class=\"close_button\" style=\"float: right;\" onclick=\"baf_dropdownclose()\" title=\"Schliessen\"> &nbsp; </div/>";
+      echo "            </div>";
+      echo "            <img src=\"http://shownot.es/img/logos/" . $podcast[3] . "\" width=\"210\" height=\"210\" style=\"float: left;\"";
+      if (isset($podcast[5]) && 0 < strlen('' . $podcast[5])) {
+          echo "title=\"" . $podcast[5] . "\"";
+      }
+      echo ">\n         <ul style=\"float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);\">\n";
 
-      echo '            <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+      echo '              <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
       echo "\n";
       ++$count;
 
@@ -91,11 +103,15 @@ function printPodcastBox($podcast, $count) {
         if ( FALSE === stripos($linkname_title, $podcast[1]) &&  FALSE === stripos($linkname_title, $podcast[0])) {
           $linkname_title = $podcast[0] . ': ' . $linkname_title;
         }
-        echo '            <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
+        echo '              <li><a href="'.$link.'" title="' . $linkname_title . '">'.htmlentities($linkname, ENT_QUOTES, "UTF-8").'</a></li>';
         echo "\n";
         ++$count;
       }
-      echo "          </ul>\n        </div>\n      </div>\n";
+      echo "            </ul>";
+/* Note: Button is pretty big with such a height, maybe use baf height instead? */
+      echo "            <div style=\"height: 40px;\">";
+      echo "              <div class=\"baf bluehover\" style=\"width: 184px; height: 28px; border-radius: 0px;\" title=\"" . $podcast[2] . "\">\n                <a href=\"" . $podcast[2] . "\">Webseite</a>\n              </div>\n            </div>\n          </div>";
+      echo "\n        </div>\n      </div>\n";
     }
   }
 
@@ -135,6 +151,46 @@ function printPodcastBox($podcast, $count) {
         Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
       </p>
       <br/><br/>
+
+<style type="text/css">
+div.dropdown-menu {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+div.menu_bar {
+  background-image: linear-gradient(to bottom , rgb(245, 245, 245), rgb(241, 241, 241));
+  float: left;
+  margin-left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  width: 400px;
+  height: 30px;
+  text-align: left;
+  padding: 0px;
+  cursor: auto;
+  color: rgb(68, 68, 68);
+  -moz-user-select: none;
+}
+div.close_button {
+  background-image:url(http://shownot.es/img/close.png);
+  background-position: 0px 0px;
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  margin: 0px 0px 0px 0px;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 100ms;
+}
+div.close_button:hover {
+  background-position: 0px -30px;
+  opacity: 1;
+  transition: opacity 200ms;
+}
+div.close_button:active {
+  margin: 2px 0px 0px 0px;
+}
+</style>
 <?php
 /* An array to contain all the podcasts we link to on the front page.
  * a podcast is entered as an array, that array has up to 6 parameters, of which the last is optional:
