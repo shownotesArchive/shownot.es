@@ -160,7 +160,7 @@
 	<podcast>mobileMacs</podcast>
 	<episode>107</episode>
 	<shownoter>vale</shownoter>
-	<shownoterurl>https://twitter.com/vale</shownoterurl>
+	<shownoterurl>https://alpha.app.net/vale</shownoterurl>
 </RECORD>
 <RECORD>
 	<podcast>mobileMacs</podcast>
@@ -4375,6 +4375,18 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>59</episode>
+	<shownoter>BigMcIntosh91</shownoter>
+	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>59</episode>
+	<shownoter>HDValentin</shownoter>
+	<shownoterurl>https://twitter.com/HDValentin</shownoterurl>
+</RECORD>
+<RECORD>
 	<podcast>radio-osm</podcast>
 	<episode>18</episode>
 	<shownoter>drolbr</shownoter>
@@ -6217,33 +6229,81 @@
 	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>quasselstrippen</podcast>
-	<episode>59</episode>
-	<shownoter>BigMcIntosh91</shownoter>
-	<shownoterurl>https://twitter.com/BigMcIntosh91</shownoterurl>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>quasselstrippen</podcast>
-	<episode>59</episode>
-	<shownoter>HDValentin</shownoter>
-	<shownoterurl>https://twitter.com/HDValentin</shownoterurl>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>wrint</podcast>
-	<episode>211</episode>
-	<shownoter>mathepauker</shownoter>
-	<shownoterurl>http://mathepauker.de/</shownoterurl>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>wrint</podcast>
-	<episode>211</episode>
-	<shownoter>Quimoniz</shownoter>
-	<shownoterurl>https://twitter.com/quimoniz</shownoterurl>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
 </RECORD>
 <RECORD>
-	<podcast>wrint</podcast>
-	<episode>211</episode>
-	<shownoter>Iterationbound</shownoter>
-	<shownoterurl>https://twitter.com/iterationbound</shownoterurl>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>beni</shownoter>
+	<shownoterurl></shownoterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>30.01.2014</episode>
+	<shownoter>kaeffchen_heinz</shownoter>
+	<shownoterurl>https://twitter.com/kaeffchen_heinz</shownoterurl>
 </RECORD>
 </RECORDS>
