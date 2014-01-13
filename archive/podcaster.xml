@@ -79,126 +79,6 @@
 	<podcasterurl>https://twitter.com/ollyyh</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>226</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>227</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>227</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>227</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>hoaxilla</podcast>
-	<episode>120</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Hoaxilla</podcast>
-	<episode>121</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Hoaxilla</podcast>
-	<episode>122</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Logbuch Netzpolitik</podcast>
-	<episode>LNP64</episode>
-	<podcaster>timpritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Logbuch Netzpolitik</podcast>
-	<episode>LNP64</episode>
-	<podcaster>linuzifer</podcaster>
-	<podcasterurl>https://twitter.com/linuzifer</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>Tim</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>roddi</podcaster>
-	<podcasterurl>https://twitter.com/roddi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>Clemens</podcaster>
-	<podcasterurl>https://twitter.com/csch42</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>Denis</podcaster>
-	<podcasterurl>https://twitter.com/denis2342</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>hukl</podcaster>
-	<podcasterurl>https://twitter.com/hukl</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>107</episode>
-	<podcaster>Martin Hering</podcaster>
-	<podcasterurl>https://twitter.com/vemedio</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Märchenstunde</podcast>
-	<episode>27</episode>
-	<podcaster>343max</podcaster>
-	<podcasterurl>https://twitter.com/343max</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Märchenstunde</podcast>
-	<episode>27</episode>
-	<podcaster>bjoerngrau</podcaster>
-	<podcasterurl>https://twitter.com/bjoerngrau</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>NSFW</podcast>
-	<episode>67</episode>
-	<podcaster>Tim Pritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>NSFW</podcast>
-	<episode>67</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>172</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>ABSradio</podcast>
 	<episode>2</episode>
 	<podcaster>Alex</podcaster>
@@ -440,6 +320,12 @@
 </RECORD>
 <RECORD>
 	<podcast>absradio</podcast>
+	<episode>18</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>absradio</podcast>
 	<episode>14</episode>
 	<podcaster>Sascha</podcaster>
 	<podcasterurl>https://app.net/saschagrafie</podcasterurl>
@@ -473,6 +359,24 @@
 	<episode>3</episode>
 	<podcaster>Dominik</podcaster>
 	<podcasterurl>https://twitter.com/dasdom</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>apfelcheck Talk</podcast>
+	<episode>ACT018</episode>
+	<podcaster>Rafael</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>apfelcheck Talk</podcast>
+	<episode>ACT018</episode>
+	<podcaster>Carsten</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>apfelcheck Talk</podcast>
+	<episode>ACT018</episode>
+	<podcaster>Rüdiger</podcaster>
+	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Antalyacity</podcast>
@@ -626,12 +530,6 @@
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
-	<episode>05.05.2013</episode>
-	<podcaster>Holgi</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
 	<episode>05.11.2013</episode>
 	<podcaster>Holger Klein</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
@@ -662,12 +560,6 @@
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
-	<episode>07.05.2013</episode>
-	<podcaster>Holgi</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
 	<episode>7072013</episode>
 	<podcaster>Holger Klein ( @Holgi</podcaster>
 	<podcasterurl>https://alpha.app.net/</podcasterurl>
@@ -677,6 +569,12 @@
 	<episode>08.10.2013</episode>
 	<podcaster>Holger Klein</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>bluemoon</podcast>
+	<episode>9012014</episode>
+	<podcaster>monoxyd</podcaster>
+	<podcasterurl>https://twitter.com/monoxyd</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -728,18 +626,6 @@
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
-	<episode>12.05.2013</episode>
-	<podcaster>Holgi</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>12.05.2013</episode>
-	<podcaster>Golo</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
 	<episode>12.11.2013</episode>
 	<podcaster>Holger Klein</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
@@ -769,34 +655,10 @@
 	<podcasterurl>https://twitter.com/cluychaz</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Bluemoon</podcast>
-	<episode>14.04.2013</episode>
-	<podcaster>Holger Klein</podcaster>
+	<podcast>bluemoon</podcast>
+	<episode>140  Wie ist euer Preis? &lt;http://www.fritz.de/programm/sendungen/33/1401/140110_blue_moon_12670.html&gt;</episode>
+	<podcaster>holgi</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Bluemoon</podcast>
-	<episode>14.04.2013</episode>
-	<podcaster>Anrufer der Nummer 033/17097110</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>14.05.2013</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>14.05.2013</episode>
-	<podcaster>Die Anrufer von 0331 7097110 (22:00-23:00</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>14.05.2013</episode>
-	<podcaster>0800 8055555 (23:00-01:00</podcaster>
-	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>bluemoon</podcast>
@@ -1009,9 +871,9 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Blue Moon -Shownotes</podcast>
-	<episode>81</episode>
-	<podcaster>holgi</podcaster>
+	<podcast>Blue Moon</podcast>
+	<episode>Wer seid Ihr? &lt;http://www.fritz.de/programm/sendungen/33/1401/140103_blue_moon_12587.html&gt;</episode>
+	<podcaster>Holger Klein</podcaster>
 	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
 <RECORD>
@@ -1169,18 +1031,6 @@
 	<episode>196</episode>
 	<podcaster>Kay (@frapzz0r</podcaster>
 	<podcasterurl>https://twitter.com/frapzz0r</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>CRE</podcast>
-	<episode>198</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>CRE</podcast>
-	<episode>200</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Culinaricast</podcast>
@@ -1447,96 +1297,6 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Einschlafen Podcast 229 vom 18.April 2013</podcast>
-	<episode>229</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 229 vom 18.April 2013</podcast>
-	<episode>229</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 229 vom 18.April 2013</podcast>
-	<episode>229</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>230</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>230</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast</podcast>
-	<episode>230</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 231 vom 29.April 2013</podcast>
-	<episode>231</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 231 vom 29.April 2013</podcast>
-	<episode>231</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 231 vom 29.April 2013</podcast>
-	<episode>231</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>232</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>232</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>232</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>233</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>233</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>einschlafen</podcast>
-	<episode>233</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>einschlafen</podcast>
 	<episode>234</episode>
 	<podcaster>Toby Baier</podcaster>
@@ -1723,22 +1483,10 @@
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Einschlafen Podcast 228 vom</podcast>
-	<episode>228</episode>
+	<podcast>einschlafen</podcast>
+	<episode>266</episode>
 	<podcaster>Toby Baier</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 228 vom</podcast>
-	<episode>228</episode>
-	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Einschlafen Podcast 228 vom</podcast>
-	<episode>228</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>freak-show</podcast>
@@ -2048,6 +1796,12 @@
 </RECORD>
 <RECORD>
 	<podcast>lecast</podcast>
+	<episode>11</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>lecast</podcast>
 	<episode>14</episode>
 	<podcaster></podcaster>
 	<podcasterurl></podcasterurl>
@@ -2105,66 +1859,6 @@
 	<episode>test</episode>
 	<podcaster></podcaster>
 	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>108</episode>
-	<podcaster>timpritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>108</episode>
-	<podcaster>roddi</podcaster>
-	<podcasterurl>https://twitter.com/roddi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>108</episode>
-	<podcaster>csch42</podcaster>
-	<podcasterurl>https://twitter.com/csch42</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>108</episode>
-	<podcaster>hukl</podcaster>
-	<podcasterurl>https://twitter.com/hukl</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>108</episode>
-	<podcaster>niels_k</podcaster>
-	<podcasterurl>https://twitter.com/niels_k</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>109</episode>
-	<podcaster>timpritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>109</episode>
-	<podcaster>csch42</podcaster>
-	<podcasterurl>https://twitter.com/csch42</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>109</episode>
-	<podcaster>denis2342</podcaster>
-	<podcasterurl>https://twitter.com/denis2342</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>109</episode>
-	<podcaster>hukl</podcaster>
-	<podcasterurl>https://twitter.com/hukl</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>mobileMacs</podcast>
-	<episode>109</episode>
-	<podcaster>dirkjaeckel</podcaster>
-	<podcasterurl>https://twitter.com/dirkjaeckel</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>mobilemacs</podcast>
@@ -2444,15 +2138,15 @@
 </RECORD>
 <RECORD>
 	<podcast>netzgesprache</podcast>
-	<episode>70</episode>
-	<podcaster>Witzman</podcaster>
-	<podcasterurl>https://twitter.com/Witzman</podcasterurl>
+	<episode>85</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>netzgesprache</podcast>
-	<episode>70</episode>
-	<podcaster>Tom</podcaster>
-	<podcasterurl>https://twitter.com/thomashpunkt</podcasterurl>
+	<episode>86</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Netzgespraeche</podcast>
@@ -2465,42 +2159,6 @@
 	<episode>75</episode>
 	<podcaster>Tom</podcaster>
 	<podcasterurl>https://twitter.com/thomashpunkt</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
-	<episode>72</episode>
-	<podcaster>Witzman</podcaster>
-	<podcasterurl>https://twitter.com/Witzman</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>netzgesprache</podcast>
-	<episode>72</episode>
-	<podcaster>Tom</podcaster>
-	<podcasterurl>https://twitter.com/thomashpunkt</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>NSFW</podcast>
-	<episode>68</episode>
-	<podcaster>Tim Pritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>NSFW</podcast>
-	<episode>68</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>nsfw</podcast>
-	<episode>69</episode>
-	<podcaster>Tim Pritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>nsfw</podcast>
-	<episode>69</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>nsfw</podcast>
@@ -2713,24 +2371,6 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Psychotalk</podcast>
-	<episode>10</episode>
-	<podcaster>AlexHoaxmaster</podcaster>
-	<podcasterurl>https://twitter.com/AlexHoaxmaster</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Psychotalk</podcast>
-	<episode>10</episode>
-	<podcaster>Illuminatus23</podcaster>
-	<podcasterurl>https://twitter.com/Illuminatus23</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Psychotalk</podcast>
-	<episode>10</episode>
-	<podcaster>@SvenRudloff mit Gast: Daniela @</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>psychotalk</podcast>
 	<episode>12</episode>
 	<podcaster>Sebastian Bartoschek</podcaster>
@@ -2795,42 +2435,6 @@
 	<episode>11</episode>
 	<podcaster>Alexa Waschkau</podcaster>
 	<podcasterurl>https://twitter.com/BlackSweet_S</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>25</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>25</episode>
-	<podcaster>Christoph</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>25</episode>
-	<podcaster>Jürgen</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>27</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>27</episode>
-	<podcaster>Christian Bednarek</podcaster>
-	<podcasterurl>https://twitter.com/eazyliving</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Pubkameraden</podcast>
-	<episode>27</episode>
-	<podcaster>Marcus Richter</podcaster>
-	<podcasterurl>https://twitter.com/monoxyd</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>pubkameraden</podcast>
@@ -3129,6 +2733,18 @@
 <RECORD>
 	<podcast>quasselstrippen</podcast>
 	<episode>59</episode>
+	<podcaster>Herr_Martinsen</podcaster>
+	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>60</episode>
+	<podcaster>Frau Kariert</podcaster>
+	<podcasterurl>https://twitter.com/gruenkariert</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>quasselstrippen</podcast>
+	<episode>60</episode>
 	<podcaster>Herr_Martinsen</podcaster>
 	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
 </RECORD>
@@ -3565,6 +3181,30 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>robotiklabor</podcast>
+	<episode>RL032</episode>
+	<podcaster>Markus Knapp</podcaster>
+	<podcasterurl>https://twitter.com/direcs</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>robotiklabor</podcast>
+	<episode>RL032</episode>
+	<podcaster>Martin</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>robotiklabor</podcast>
+	<episode>RL032</episode>
+	<podcaster>Alexander Moser</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>robotiklabor</podcast>
+	<episode>RL032</episode>
+	<podcaster></podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>Schmalsprech</podcast>
 	<episode>49</episode>
 	<podcaster>peterknapp</podcaster>
@@ -3601,48 +3241,6 @@
 	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>1</episode>
-	<podcaster>timpritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>1</episode>
-	<podcaster>wortkomplex</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>1</episode>
-	<podcaster>martinhaase</podcaster>
-	<podcasterurl>https://twitter.com/martinhaase</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>2</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>2</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>3</episode>
-	<podcaster>timpritlove</podcaster>
-	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>sondersendung</podcast>
-	<episode>3</episode>
-	<podcaster>rstockm</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>Sondersendung</podcast>
 	<episode>4</episode>
 	<podcaster>Tim Pritlove</podcaster>
@@ -3685,34 +3283,22 @@
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Sondersendung Episode: 6</podcast>
-	<episode>6</episode>
+	<podcast>Sondersendung</podcast>
+	<episode>7</episode>
 	<podcaster>Ralf Stockmann</podcaster>
 	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Sondersendung Episode: 6</podcast>
-	<episode>6</episode>
+	<podcast>Sondersendung</podcast>
+	<episode>7</episode>
 	<podcaster>Tim Pritlove</podcaster>
 	<podcasterurl>https://twitter.com/timpritlove</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Sondersendung Episode: 6</podcast>
-	<episode>6</episode>
+	<podcast>Sondersendung</podcast>
+	<episode>7</episode>
 	<podcaster>Claudia Krell</podcaster>
 	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Soziopod</podcast>
-	<episode>28</episode>
-	<podcaster>Patrick Breitenbach</podcaster>
-	<podcasterurl>https://twitter.com/breitenbach</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Soziopod</podcast>
-	<episode>28</episode>
-	<podcaster>Dr. Nils Köbel</podcaster>
-	<podcasterurl></podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>Soziopod</podcast>
@@ -3787,24 +3373,6 @@
 	<podcasterurl>https://twitter.com/Herr_Martinsen</podcasterurl>
 </RECORD>
 <RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>43</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>43</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>43</episode>
-	<podcaster>Renke Bruhn</podcaster>
-	<podcasterurl>https://twitter.com/brundsoweiter</podcasterurl>
-</RECORD>
-<RECORD>
 	<podcast>wikigeeks</podcast>
 	<episode>46</episode>
 	<podcaster>Claudia Krell</podcaster>
@@ -3857,54 +3425,6 @@
 	<episode>48</episode>
 	<podcaster>Renke Bruhn</podcaster>
 	<podcasterurl>https://twitter.com/bruhndsoweiter</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wikigeeks</podcast>
-	<episode>44</episode>
-	<podcaster>Renke Bruhn</podcaster>
-	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Renke Bruhn</podcaster>
-	<podcasterurl>https://twitter.com/bruhn</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Ralf Stockmann</podcaster>
-	<podcasterurl>https://twitter.com/rstockm</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wikigeeks</podcast>
-	<episode>45</episode>
-	<podcaster>Claudia Krell</podcaster>
-	<podcasterurl>https://twitter.com/wortkomplex</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wir-mussen-reden</podcast>
-	<episode>63</episode>
-	<podcaster>Michael Seemann</podcaster>
-	<podcasterurl>https://twitter.com/mspro</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wir-mussen-reden</podcast>
-	<episode>63</episode>
-	<podcaster>Max Winde</podcaster>
-	<podcasterurl>https://twitter.com/343max</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>wir-mussen-reden</podcast>
@@ -4085,120 +3605,6 @@
 	<episode>76</episode>
 	<podcaster>Laura Dornheim</podcaster>
 	<podcasterurl>https://twitter.com/schwarzblond</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrintheit</podcast>
-	<episode>36</episode>
-	<podcaster>luutoo</podcaster>
-	<podcasterurl>https://twitter.com/luutoo</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrintheit</podcast>
-	<episode>36</episode>
-	<podcaster>vale</podcaster>
-	<podcasterurl>https://twitter.com/vale</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrintheit</podcast>
-	<episode>36</episode>
-	<podcaster>Ingmar</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrintheit</podcast>
-	<episode>36</episode>
-	<podcaster>sakartha</podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>36</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>36</episode>
-	<podcaster></podcaster>
-	<podcasterurl></podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>36</episode>
-	<podcaster></podcaster>
-	<podcasterurl>https://twitter.com/</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>36</episode>
-	<podcaster>schlafein</podcaster>
-	<podcasterurl>https://twitter.com/schlafein</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Ferngespräche</podcast>
-	<episode>23</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>37</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Realitätsabgleich</podcast>
-	<episode>37</episode>
-	<podcaster>Tobias Baier</podcaster>
-	<podcasterurl>https://twitter.com/TobyBaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>174</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>Wrint</podcast>
-	<episode>174</episode>
-	<podcaster>Alexandra Tobor</podcaster>
-	<podcasterurl>https://twitter.com/silenttiffy</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>WRINT Realitätsabgleich</podcast>
-	<episode>38</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>WRINT Realitätsabgleich</podcast>
-	<episode>38</episode>
-	<podcaster>Toby Baier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>177</episode>
-	<podcaster>holgi</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>177</episode>
-	<podcaster>tobybaier</podcaster>
-	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>178</episode>
-	<podcaster>holgi</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>wrint</podcast>
-	<episode>178</episode>
-	<podcaster>silenttiffy</podcaster>
-	<podcasterurl>https://twitter.com/silenttiffy</podcasterurl>
 </RECORD>
 <RECORD>
 	<podcast>wrint</podcast>
@@ -4651,6 +4057,42 @@
 	<podcasterurl>https://twitter.com/silenttiffy</podcasterurl>
 </RECORD>
 <RECORD>
+	<podcast>Wrint</podcast>
+	<episode>WR236 Initiativabsagen</episode>
+	<podcaster>Holger Klein</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>Wrint</podcast>
+	<episode>WR236 Initiativabsagen</episode>
+	<podcaster>Malte Welding</podcaster>
+	<podcasterurl></podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>237</episode>
+	<podcaster>Holger Klein</podcaster>
+	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>237</episode>
+	<podcaster>Toby Baier</podcaster>
+	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>240</episode>
+	<podcaster>Holger Klein</podcaster>
+	<podcasterurl>https://twitter.com/holgi</podcasterurl>
+</RECORD>
+<RECORD>
+	<podcast>wrint</podcast>
+	<episode>240</episode>
+	<podcaster>Alexandra Tobor</podcaster>
+	<podcasterurl>https://twitter.com/silenttiffy</podcasterurl>
+</RECORD>
+<RECORD>
 	<podcast>wrint</podcast>
 	<episode>RA44</episode>
 	<podcaster>holgi</podcaster>
@@ -4661,47 +4103,5 @@
 	<episode>RA44</episode>
 	<podcaster>tobybaier</podcaster>
 	<podcasterurl>https://twitter.com/tobybaier</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
-</RECORD>
-<RECORD>
-	<podcast>bluemoon</podcast>
-	<episode>30.01.2014</episode>
-	<podcaster>Holger Klein</podcaster>
-	<podcasterurl>https://twitter.com/holgi</podcasterurl>
 </RECORD>
 </RECORDS>
