@@ -260,7 +260,7 @@ for($i = 0; $i < $ele_count; $i++) {
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a>, <a href="https://alpha.app.net/vale">@vale</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
