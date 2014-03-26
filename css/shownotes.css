@@ -218,6 +218,7 @@ dd {
   width: 79%;
   max-width: none;
   min-width: none;
+  min-height: 160px;
   font-size: 15pt;
   margin: 5px;
   margin-top: 20px;
