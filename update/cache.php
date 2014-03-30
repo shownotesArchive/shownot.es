@@ -207,6 +207,7 @@ $podcast_arr = array(
   array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon / Lateline Logo', 'Blue Moon Foto von Ainhoa Pcb l, CC: BY'),
   array('Culinaricast','culinaricast','http://www.culinaricast.de/','culinaricast_logo.png','Culinaricast Logo'),
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
+  array('CRE','cre','http://cre.fm/','cre_logo.png','CRE Logo'),
   array('Einschlafen','ep','http://einschlafen-podcast.de/','ep_logo.png','EinschlafenPodcast Logo'),
   array('Freak Show','mm','http://freakshow.fm/','fs_logo.png','Freak Show Logo'),
   array('Jobscast','jc','http://www.jobscast.de/','jc_logo.png','Jobscast Logo'),
