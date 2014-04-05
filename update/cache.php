@@ -144,11 +144,11 @@ function printPodcastBox($podcast, $count) {
       <div class="title"><a href="/"><img src="http://shownot.es/img/logo_app.png" alt="Shownot.es Logo">Die Shownotes</a></div>
     </div>
     <p style="margin-top: 1em; text-align: center;">
-      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert. Unsere Plattform findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
+      Wir sind eine Community, die Shownotes f&uuml;r verschiedene Podcast- und Radioformate live mitnotiert.<br><br>Das Showpad, unseren Editor, findet ihr auf <a href="http://pad.shownot.es/"><strong>pad.shownot.es</strong></a>.
     </p><hr><br>
     <div id="podcasts">
       <p style="margin-top: 1em; text-align: center;">
-        Wir schreiben aktuell f&uuml;r folgende Podcasts mehr oder weniger regelm&auml;ßig die Shownotes:
+         F&uuml;r die folgenden Podcasts wurden bisher schon ausführliche Shownotes von vielen freiwilligen Helfern verfasst:
       </p>
       <br/><br/>
 
@@ -250,6 +250,8 @@ for($i = 0; $i < $ele_count; $i++) {
       </div>
     </div>
     <hr />
+    <p style="text-align: center;">Weitere Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
+    <hr/>
     <div style="margin: 0px;">
       <p class="clause flattrimg">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/profile/shownotes">flattern</a> k&ouml;nntet.
       </p>
@@ -257,17 +259,17 @@ for($i = 0; $i < $ele_count; $i++) {
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Zus&auml;tzliche Informationen sind &uuml;ber unsere Twitter Accounts zu erhalten: <a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="https://twitter.com/evitabley">@EvitaBley</a>, <a href="https://twitter.com/luutoo">@luutoo</a>, <a href="https://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="https://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="https://twitter.com/mrmoe">@mrmoe</a>, <a href="https://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="https://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause twitterimg">Ihr wollt mitmachen oder habt Fragen zur Plattform? Dann wendet euch doch einfach auf Twitter an das Team hinter Shownot.es: <br><a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="https://twitter.com/evitabley">@EvitaBley</a>, <a href="https://twitter.com/luutoo">@luutoo</a>, <a href="https://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="https://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="https://twitter.com/mrmoe">@mrmoe</a>, <a href="https://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="https://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause adnimg">Neben Twitter könnt ihr uns auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a>, <a href="https://alpha.app.net/vale">@vale</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
+      <p class="clause adnimg">Neben Twitter könnt ihr das Team auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a>, <a href="https://alpha.app.net/vale">@vale</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause ircimg">Ausserdem k&ouml;nnt ihr uns auch im IRC auf <a href="irc://irc.freenode.net/shownotes">freenode</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>) oder &uuml;ber unser <a href="http://shownot.es/contact/">Kontaktformular</a> erreichen. 
+      <p class="clause ircimg">Ausserdem gibt es noch einen IRC Kanal auf <a href="irc://irc.freenode.net/shownotes">freenode.net</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>) und das <a href="http://shownot.es/contact/">Kontaktformular</a> . 
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
@@ -277,8 +279,6 @@ for($i = 0; $i < $ele_count; $i++) {
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
-    <hr />
-    <p style="text-align: center;">Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
     <hr/>
     <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h3 class="widget-title">befreundete Projekte</h3>
 
