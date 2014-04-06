@@ -253,24 +253,24 @@ for($i = 0; $i < $ele_count; $i++) {
     <p style="text-align: center;">Weitere Informationen f&uuml;r Podcaster gibt es hier: <a href="/faq/">shownot.es/faq/</a></p>
     <hr/>
     <div style="margin: 0px;">
-      <p class="clause flattrimg">Um unsere Vorhabungen zu finanzieren, sind wir nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/profile/shownotes">flattern</a> k&ouml;nntet.
+      <p class="clause flattrimg">Um diese Vorhabungen zu finanzieren, sind die Shownotes nach wie vor auf eure Spenden angewiesen. Daher w&uuml;rde es uns freuen, wenn ihr uns ab und zu <a href="https://flattr.com/profile/shownotes">flattern</a> k&ouml;nntet.
       </p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
     <div style="margin-top: 1em;">
-      <p class="clause twitterimg">Ihr wollt mitmachen oder habt Fragen zur Plattform? Dann wendet euch doch einfach auf Twitter an das Team hinter Shownot.es: <br><a href="http://twitter.com/dieshownotes">@DieShownotes</a>, <a href="https://twitter.com/evitabley">@EvitaBley</a>, <a href="https://twitter.com/luutoo">@luutoo</a>, <a href="https://twitter.com/kaikubasta">@KaiKubasta</a>, <a href="https://twitter.com/kaeffchen_heinz">@kaeffchen_heinz</a>, <a href="https://twitter.com/mrmoe">@mrmoe</a>, <a href="https://twitter.com/dr4k3_LE">@Dr4k3_LE</a> und <a href="https://twitter.com/simonwaldherr">@SimonWaldherr</a>.</p>
-      <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
-      </div>
-    </div>
-    <div style="margin-top: 1em;">
-      <p class="clause adnimg">Neben Twitter könnt ihr das Team auch auf <a href="http://app.net/">App.net</a> erreichen: <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a>, <a href="https://alpha.app.net/evita">@Evita</a>, <a href="https://alpha.app.net/luto">@luto</a>, <a href="https://alpha.app.net/moe">@moe</a>, <a href="https://alpha.app.net/dr4k3">@dr4k3</a>, <a href="https://alpha.app.net/vale">@vale</a> und <a href="https://alpha.app.net/simonwaldherr">@SimonWaldherr</a>.</p>
-      <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
-      </div>
-    </div>
-    <div style="margin-top: 1em;">
-      <p class="clause ircimg">Ausserdem gibt es noch einen IRC Kanal auf <a href="irc://irc.freenode.net/shownotes">freenode.net</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>) und das <a href="http://shownot.es/contact/">Kontaktformular</a> . 
+      <p class="clause ircimg">Ausserdem gibt es noch den IRC Kanal <b>#shownotes</b> auf <a href="irc://irc.freenode.net/shownotes">freenode.net</a> (<a href="http://webchat.freenode.net/?channels=%23shownotes">Webchat</a>) und das <a href="http://shownot.es/contact/">Kontaktformular</a>. 
       </p>
+      <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
+      </div>
+    </div>
+    <div style="margin-top: 1em;">
+      <p class="clause twitterimg">Ihr wollt mitmachen oder habt Fragen zur Plattform? Dann wendet euch doch einfach auf Twitter an <a href="http://twitter.com/dieshownotes">@DieShownotes</a>.</p>
+      <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
+      </div>
+    </div>
+    <div style="margin-top: 1em;">
+      <p class="clause adnimg">Neben Twitter könnt ihr die <a href="https://alpha.app.net/shownotes" rel="me">@Shownotes</a> auch auf <a href="http://app.net/">App.net</a> erreichen.</p>
       <div style="clear: both; width: 0px; height: 0px; margin: 0px;">&nbsp;
       </div>
     </div>
@@ -280,18 +280,16 @@ for($i = 0; $i < $ele_count; $i++) {
       </div>
     </div>
     <hr/>
-    <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h3 class="widget-title">befreundete Projekte</h3>
+    <div class="widget-inner" style="margin: auto; width: 620px; text-align: center;"><h2 class="widget-title">Befreundete Projekte</h2>
 
 <div class="column grid_4"><a href="https://auphonic.com/" title="auphonic" target="_blank"><img src="http://cdn.shownot.es/snprojekte/auphonic_300.png" alt="auphonic" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://bitlove.org/" title="Bitlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Bitlove_300.png" alt="Bitlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://firtz.org/" title="firtz" target="_blank"><img src="http://cdn.shownot.es/snprojekte/firtz_300.png" alt="Podbe" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://hoersuppe.de/" title="Die Hoersuppe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/hoersuppe_300.png" alt="Die Hoersuppe" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podbe.wikibyte.org/" title="Podbe" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podbe_300.png" alt="Podbe" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://podcascription.de/" title="Podcascription" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podcascription_300.png" alt="Podcascription" width="80" height="80"></a></div>
 <div class="column grid_4 last"><a href="http://podlove.org/" title="Podlove" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podlove_300.png" alt="podlove" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://podpott.de/" title="Podpott" target="_blank"><img src="http://cdn.shownot.es/snprojekte/podpott_300.png" alt="Podpott" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://www.podunion.com/" title="PodUnion" target="_blank"><img src="http://cdn.shownot.es/snprojekte/Logo-Quadrat-300.png" alt="Homepage: PodUnion" width="80" height="80"></a></div>
-<div class="column grid_4"><a href="http://poodle.fm/" title="Poodle" target="_blank"><img src="http://cdn.shownot.es/snprojekte/poodle_300.png" alt="Poodle" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://reliveradio.de/" title="ReliveRadio" target="_blank"><img src="http://cdn.shownot.es/snprojekte/reliveradio.png" alt="ReliveRadio" width="80" height="80"></a></div>
 <div class="column grid_4"><a href="http://streams.xenim.de/" title="Xenim" target="_blank"><img src="http://cdn.shownot.es/snprojekte/xsn_300.png" alt="Xenim" width="80" height="80"></a></div>
 <div class="column grid_4"></div>
