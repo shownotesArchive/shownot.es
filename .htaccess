@@ -48,7 +48,7 @@ Options +Indexes
   RewriteRule ^sz/(.*)$ /podcasts/?search&podcast=./dss/$1 [L]
   RewriteRule ^fs/(.*)$ /podcasts/?search&podcast=./mm/$1 [L]
 
-  RewriteRule ^(abs|bm|cr|cre|culinaricast|dss|dw|ep|fan|hoaxilla|jc|lecast|lk|ll|ls|mm|ng|nsfw|osm|pp|pp|psyt|pt|qs|rl|sbk|scsp|sozio|wg|wmr|wrint)/(.*)$ /podcasts/?search&podcast=./$1/$2 [L]
+  RewriteRule ^(abs|bm|cr|cre|culinaricast|dss|dw|ep|fan|hoaxilla|jc|lecast|lk|ll|ls|mm|ng|nsfw|osm|pp|pp|psyt|pt|qs|rl|sbk|scsp|sk|sozio|wg|wmr|wrint)/(.*)$ /podcasts/?search&podcast=./$1/$2 [L]
 
   RewriteRule ^PIS$ /pis/ [L]
 </IfModule>
