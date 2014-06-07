@@ -1,0 +1,11 @@
+--2014-06-07 19:26:37--  http://quimoniz.nsupdate.info/any_logo_small.png
+Resolving quimoniz.nsupdate.info (quimoniz.nsupdate.info)... 109.90.83.240
+Connecting to quimoniz.nsupdate.info (quimoniz.nsupdate.info)|109.90.83.240|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20177 (20K) [image/png]
+Saving to: `any_logo_small.png'
+
+     0K .......... .........                                  100%  141K=0.1s
+
+2014-06-07 19:26:37 (141 KB/s) - `any_logo_small.png' saved [20177/20177]
+
