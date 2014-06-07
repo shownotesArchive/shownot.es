@@ -204,6 +204,7 @@ div.close_button:active {
 $podcast_arr = array(
   array('1337kultur','lk','http://1337kultur.de/','lk_logo.png','1337kultur Logo'),
   array('ABSradio','abs','http://absradio.de/','abs_logo.png','ABSradio Logo'),
+  array('anyca.st','anycast','http://anyca.st','any_logo.png','Anycast Logo'),
   array('Blue Moon','bm','http://www.fritz.de/media/podcasts/sendungen/blue_moon.html','bmll_logo.png','BlueMoon / Lateline Logo', 'Blue Moon Foto von Ainhoa Pcb l, CC: BY'),
   array('Culinaricast','culinaricast','http://www.culinaricast.de/','culinaricast_logo.png','Culinaricast Logo'),
   array('Chaosradio','cr','http://chaosradio.ccc.de/chaosradio.html','cr_logo.png','Chaosradio Logo'),
