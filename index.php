@@ -70,7 +70,72 @@ div.close_button:active {
 </style>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/ep/285" title="Einschlafen 285" >
+          <a href="http://shownot.es/nsfw/89" title="Not Safe for Work 89" >
+            <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Not Safe for Work</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Not Safe for Work Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/nsfw_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/nsfw/89" title="Not Safe for Work 89">NSFW-89</a></li>
+              <li><a href="http://shownot.es/nsfw/88" title="Not Safe for Work 88">NSFW-88</a></li>
+              <li><a href="http://shownot.es/nsfw/87" title="Not Safe for Work 87">NSFW-87</a></li>
+              <li><a href="http://shownot.es/nsfw/86" title="Not Safe for Work 86">NSFW-86</a></li>
+              <li><a href="http://shownot.es/nsfw/85" title="Not Safe for Work 85">NSFW-85</a></li>
+              <li><a href="http://shownot.es/nsfw/84" title="Not Safe for Work 84">NSFW-84</a></li>
+              <li><a href="http://shownot.es/nsfw/83" title="Not Safe for Work 83">NSFW-83</a></li>
+              <li><a href="http://shownot.es/nsfw/82" title="Not Safe for Work 82">NSFW-82</a></li>
+              <li><a href="http://shownot.es/nsfw/81" title="Not Safe for Work 81">NSFW-81</a></li>
+              <li><a href="http://shownot.es/nsfw/80" title="Not Safe for Work 80">NSFW-80</a></li>
+              <li><a href="http://shownot.es/nsfw/79" title="Not Safe for Work 79">NSFW-79</a></li>
+              <li><a href="http://shownot.es/nsfw/78" title="Not Safe for Work 78">NSFW-78</a></li>
+              <li><a href="http://shownot.es/nsfw/77" title="Not Safe for Work 77">NSFW-77</a></li>
+              <li><a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76">NSFW-76</a></li>
+              <li><a href="http://shownot.es/nsfw/75" title="Not Safe for Work 75">NSFW-75</a></li>
+              <li><a href="http://shownot.es/nsfw/74" title="Not Safe for Work 74">NSFW-74</a></li>
+              <li><a href="http://shownot.es/nsfw/73" title="Not Safe for Work 73">NSFW-73</a></li>
+              <li><a href="http://shownot.es/nsfw/72" title="Not Safe for Work 72">NSFW-72</a></li>
+              <li><a href="http://shownot.es/nsfw/71" title="Not Safe for Work 71">NSFW-71</a></li>
+              <li><a href="http://shownot.es/nsfw/70" title="Not Safe for Work 70">NSFW-70</a></li>
+              <li><a href="http://shownot.es/nsfw/69" title="Not Safe for Work 69">NSFW-69</a></li>
+              <li><a href="http://shownot.es/nsfw/68" title="Not Safe for Work 68">NSFW-68</a></li>
+              <li><a href="http://shownot.es/nsfw/67" title="Not Safe for Work 67">NSFW-67</a></li>
+              <li><a href="http://shownot.es/nsfw/66" title="Not Safe for Work 66">NSFW-66</a></li>
+              <li><a href="http://shownot.es/nsfw/65" title="Not Safe for Work 65">NSFW-65</a></li>
+              <li><a href="http://shownot.es/nsfw/64" title="Not Safe for Work 64">NSFW-64</a></li>
+              <li><a href="http://shownot.es/nsfw/63" title="Not Safe for Work 63">NSFW-63</a></li>
+              <li><a href="http://shownot.es/nsfw/62" title="Not Safe for Work 62">NSFW-62</a></li>
+              <li><a href="http://shownot.es/nsfw/61" title="Not Safe for Work 61">NSFW-61</a></li>
+              <li><a href="http://shownot.es/nsfw/60" title="Not Safe for Work 60">NSFW-60</a></li>
+              <li><a href="http://shownot.es/nsfw/59" title="Not Safe for Work 59">NSFW-59</a></li>
+              <li><a href="http://shownot.es/nsfw/58" title="Not Safe for Work 58">NSFW-58</a></li>
+              <li><a href="http://shownot.es/nsfw/57" title="Not Safe for Work 57">NSFW-57</a></li>
+              <li><a href="http://shownot.es/nsfw/56" title="Not Safe for Work 56">NSFW-56</a></li>
+              <li><a href="http://shownot.es/nsfw/55" title="Not Safe for Work 55">NSFW-55</a></li>
+              <li><a href="http://shownot.es/nsfw/54" title="Not Safe for Work 54">NSFW-54</a></li>
+              <li><a href="http://shownot.es/nsfw/53" title="Not Safe for Work 53">NSFW-53</a></li>
+              <li><a href="http://shownot.es/nsfw/52" title="Not Safe for Work 52">NSFW-52</a></li>
+              <li><a href="http://shownot.es/nsfw/51" title="Not Safe for Work 51">NSFW-51</a></li>
+              <li><a href="http://shownot.es/nsfw/50" title="Not Safe for Work 50">NSFW-50</a></li>
+              <li><a href="http://shownot.es/nsfw/49" title="Not Safe for Work 49">NSFW-49</a></li>
+              <li><a href="http://shownot.es/nsfw/48" title="Not Safe for Work 48">NSFW-48</a></li>
+              <li><a href="http://shownot.es/nsfw/47" title="Not Safe for Work 47">NSFW-47</a></li>
+              <li><a href="http://shownot.es/nsfw/46" title="Not Safe for Work 46">NSFW-46</a></li>
+              <li><a href="http://shownot.es/nsfw/45" title="Not Safe for Work 45">NSFW-45</a></li>
+              <li><a href="http://shownot.es/nsfw/44" title="Not Safe for Work 44">NSFW-44</a></li>
+              <li><a href="http://shownot.es/nsfw/41" title="Not Safe for Work 41">NSFW-41</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://not-safe-for-work.de/">
+                <a href="http://not-safe-for-work.de/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/ep/294" title="Einschlafen 294" >
             <img src="http://shownot.es/img/logos/ep_logo.png" alt="EinschlafenPodcast Logo" />
           </a>
         </div>
@@ -79,6 +144,15 @@ div.close_button:active {
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Einschlafen</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Einschlafen Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/ep_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/ep/294" title="Einschlafen 294">EP-294</a></li>
+              <li><a href="http://shownot.es/ep/293" title="Einschlafen 293">EP-293</a></li>
+              <li><a href="http://shownot.es/ep/292" title="Einschlafen 292">EP-292</a></li>
+              <li><a href="http://shownot.es/ep/291" title="Einschlafen 291">EP-291</a></li>
+              <li><a href="http://shownot.es/ep/290" title="Einschlafen 290">EP-290</a></li>
+              <li><a href="http://shownot.es/ep/289" title="Einschlafen 289">EP-289</a></li>
+              <li><a href="http://shownot.es/ep/288" title="Einschlafen 288">EP-288</a></li>
+              <li><a href="http://shownot.es/ep/287" title="Einschlafen 287">EP-287</a></li>
+              <li><a href="http://shownot.es/ep/286" title="Einschlafen 286">EP-286</a></li>
               <li><a href="http://shownot.es/ep/285" title="Einschlafen 285">EP-285</a></li>
               <li><a href="http://shownot.es/ep/284" title="Einschlafen 284">EP-284</a></li>
               <li><a href="http://shownot.es/ep/283" title="Einschlafen 283">EP-283</a></li>
@@ -198,69 +272,7 @@ div.close_button:active {
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/nsfw/86" title="Not Safe for Work 86" >
-            <img src="http://shownot.es/img/logos/nsfw_logo.png" alt="NSFW Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Not Safe for Work</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Not Safe for Work Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/nsfw_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/nsfw/86" title="Not Safe for Work 86">NSFW-86</a></li>
-              <li><a href="http://shownot.es/nsfw/85" title="Not Safe for Work 85">NSFW-85</a></li>
-              <li><a href="http://shownot.es/nsfw/84" title="Not Safe for Work 84">NSFW-84</a></li>
-              <li><a href="http://shownot.es/nsfw/83" title="Not Safe for Work 83">NSFW-83</a></li>
-              <li><a href="http://shownot.es/nsfw/82" title="Not Safe for Work 82">NSFW-82</a></li>
-              <li><a href="http://shownot.es/nsfw/81" title="Not Safe for Work 81">NSFW-81</a></li>
-              <li><a href="http://shownot.es/nsfw/80" title="Not Safe for Work 80">NSFW-80</a></li>
-              <li><a href="http://shownot.es/nsfw/79" title="Not Safe for Work 79">NSFW-79</a></li>
-              <li><a href="http://shownot.es/nsfw/78" title="Not Safe for Work 78">NSFW-78</a></li>
-              <li><a href="http://shownot.es/nsfw/77" title="Not Safe for Work 77">NSFW-77</a></li>
-              <li><a href="http://shownot.es/nsfw/76" title="Not Safe for Work 76">NSFW-76</a></li>
-              <li><a href="http://shownot.es/nsfw/75" title="Not Safe for Work 75">NSFW-75</a></li>
-              <li><a href="http://shownot.es/nsfw/74" title="Not Safe for Work 74">NSFW-74</a></li>
-              <li><a href="http://shownot.es/nsfw/73" title="Not Safe for Work 73">NSFW-73</a></li>
-              <li><a href="http://shownot.es/nsfw/72" title="Not Safe for Work 72">NSFW-72</a></li>
-              <li><a href="http://shownot.es/nsfw/71" title="Not Safe for Work 71">NSFW-71</a></li>
-              <li><a href="http://shownot.es/nsfw/70" title="Not Safe for Work 70">NSFW-70</a></li>
-              <li><a href="http://shownot.es/nsfw/69" title="Not Safe for Work 69">NSFW-69</a></li>
-              <li><a href="http://shownot.es/nsfw/68" title="Not Safe for Work 68">NSFW-68</a></li>
-              <li><a href="http://shownot.es/nsfw/67" title="Not Safe for Work 67">NSFW-67</a></li>
-              <li><a href="http://shownot.es/nsfw/66" title="Not Safe for Work 66">NSFW-66</a></li>
-              <li><a href="http://shownot.es/nsfw/65" title="Not Safe for Work 65">NSFW-65</a></li>
-              <li><a href="http://shownot.es/nsfw/64" title="Not Safe for Work 64">NSFW-64</a></li>
-              <li><a href="http://shownot.es/nsfw/63" title="Not Safe for Work 63">NSFW-63</a></li>
-              <li><a href="http://shownot.es/nsfw/62" title="Not Safe for Work 62">NSFW-62</a></li>
-              <li><a href="http://shownot.es/nsfw/61" title="Not Safe for Work 61">NSFW-61</a></li>
-              <li><a href="http://shownot.es/nsfw/60" title="Not Safe for Work 60">NSFW-60</a></li>
-              <li><a href="http://shownot.es/nsfw/59" title="Not Safe for Work 59">NSFW-59</a></li>
-              <li><a href="http://shownot.es/nsfw/58" title="Not Safe for Work 58">NSFW-58</a></li>
-              <li><a href="http://shownot.es/nsfw/57" title="Not Safe for Work 57">NSFW-57</a></li>
-              <li><a href="http://shownot.es/nsfw/56" title="Not Safe for Work 56">NSFW-56</a></li>
-              <li><a href="http://shownot.es/nsfw/55" title="Not Safe for Work 55">NSFW-55</a></li>
-              <li><a href="http://shownot.es/nsfw/54" title="Not Safe for Work 54">NSFW-54</a></li>
-              <li><a href="http://shownot.es/nsfw/53" title="Not Safe for Work 53">NSFW-53</a></li>
-              <li><a href="http://shownot.es/nsfw/52" title="Not Safe for Work 52">NSFW-52</a></li>
-              <li><a href="http://shownot.es/nsfw/51" title="Not Safe for Work 51">NSFW-51</a></li>
-              <li><a href="http://shownot.es/nsfw/50" title="Not Safe for Work 50">NSFW-50</a></li>
-              <li><a href="http://shownot.es/nsfw/49" title="Not Safe for Work 49">NSFW-49</a></li>
-              <li><a href="http://shownot.es/nsfw/48" title="Not Safe for Work 48">NSFW-48</a></li>
-              <li><a href="http://shownot.es/nsfw/47" title="Not Safe for Work 47">NSFW-47</a></li>
-              <li><a href="http://shownot.es/nsfw/46" title="Not Safe for Work 46">NSFW-46</a></li>
-              <li><a href="http://shownot.es/nsfw/45" title="Not Safe for Work 45">NSFW-45</a></li>
-              <li><a href="http://shownot.es/nsfw/44" title="Not Safe for Work 44">NSFW-44</a></li>
-              <li><a href="http://shownot.es/nsfw/41" title="Not Safe for Work 41">NSFW-41</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://not-safe-for-work.de/">
-                <a href="http://not-safe-for-work.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/wrint/289" title="WRINTheit 53" >
+          <a href="http://shownot.es/wrint/310" title="WRINTheit 54" >
             <img src="http://shownot.es/img/logos/wr_logo.png" alt="WRINT Logo" />
           </a>
         </div>
@@ -269,6 +281,17 @@ div.close_button:active {
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">WRINT</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">WRINT Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/wr_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/wrint/310" title="WRINTheit 54">Wrintheit-54</a></li>
+              <li><a href="http://shownot.es/wrint/305" title="WRINT: flaschen 305">flaschen-305</a></li>
+              <li><a href="http://shownot.es/wrint/304" title="WRINT 304">WRINT-304</a></li>
+              <li><a href="http://shownot.es/wrint/302" title="WRINT: flaschen 302">flaschen-302</a></li>
+              <li><a href="http://shownot.es/wrint/301" title="WRINT: Realitaetsabgleich 72">Realitaetsabgleich-72</a></li>
+              <li><a href="http://shownot.es/wrint/300" title="WRINT 300">WRINT-300</a></li>
+              <li><a href="http://shownot.es/wrint/296" title="WRINT 296">WRINT-296</a></li>
+              <li><a href="http://shownot.es/wrint/295" title="WRINT 295">WRINT-295</a></li>
+              <li><a href="http://shownot.es/wrint/293" title="WRINT 293">WRINT-293</a></li>
+              <li><a href="http://shownot.es/wrint/292" title="WRINT 292">WRINT-292</a></li>
+              <li><a href="http://shownot.es/wrint/291" title="WRINT 291">WRINT-291</a></li>
               <li><a href="http://shownot.es/wrint/289" title="WRINTheit 53">Wrintheit-53</a></li>
               <li><a href="http://shownot.es/wrint/288" title="WRINT 288">WRINT-288</a></li>
               <li><a href="http://shownot.es/wrint/287" title="WRINT: Realitaetsabgleich 70">Realitaetsabgleich-70</a></li>
@@ -403,25 +426,47 @@ div.close_button:active {
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/cre/197" title="CRE 197" >
-            <img src="http://shownot.es/img/logos/cre_logo.png" alt="CRE Logo" />
+          <a href="http://shownot.es/qs/79" title="Quasselstrippen 079" >
+            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
           </a>
         </div>
         <div class="baf-group">
 
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">CRE</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">CRE Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/cre_logo.png" width="210" height="210" style="float: left;">
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Quasselstrippen</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Quasselstrippen Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/qs_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/cre/197" title="CRE 197">CRE-197</a></li>
-              <li><a href="http://shownot.es/cre/191" title="CRE 191">CRE-191</a></li>
-              <li><a href="http://shownot.es/cre/130" title="CRE 130">CRE-130</a></li>
-              <li><a href="http://shownot.es/cre/114" title="CRE 114">CRE-114</a></li>
-              <li><a href="http://shownot.es/cre/99" title="CRE 099">CRE-099</a></li>
-              <li><a href="http://shownot.es/cre/82" title="CRE 082">CRE-082</a></li>
-              <li><a href="http://shownot.es/cre/49" title="CRE 049">CRE-049</a></li>
-              <li><a href="http://shownot.es/cre/21" title="CRE 021">CRE-021</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://cre.fm/">
-                <a href="http://cre.fm/">Webseite</a>
+              <li><a href="http://shownot.es/qs/79" title="Quasselstrippen 079">QS-079</a></li>
+              <li><a href="http://shownot.es/qs/78" title="Quasselstrippen 078">QS-078</a></li>
+              <li><a href="http://shownot.es/qs/77" title="Quasselstrippen 077">QS-077</a></li>
+              <li><a href="http://shownot.es/qs/75" title="Quasselstrippen 075">QS-075</a></li>
+              <li><a href="http://shownot.es/qs/74" title="Quasselstrippen 074">QS-074</a></li>
+              <li><a href="http://shownot.es/qs/73" title="Quasselstrippen 073">QS-073</a></li>
+              <li><a href="http://shownot.es/qs/69" title="Quasselstrippen 069">QS-069</a></li>
+              <li><a href="http://shownot.es/qs/68" title="Quasselstrippen 068">QS-068</a></li>
+              <li><a href="http://shownot.es/qs/67" title="Quasselstrippen 067">QS-067</a></li>
+              <li><a href="http://shownot.es/qs/65" title="Quasselstrippen 065">QS-065</a></li>
+              <li><a href="http://shownot.es/qs/60" title="Quasselstrippen 060">QS-060</a></li>
+              <li><a href="http://shownot.es/qs/59" title="Quasselstrippen 059">QS-059</a></li>
+              <li><a href="http://shownot.es/qs/58" title="Quasselstrippen 058">QS-058</a></li>
+              <li><a href="http://shownot.es/qs/57" title="Quasselstrippen 057">QS-057</a></li>
+              <li><a href="http://shownot.es/qs/56" title="Quasselstrippen 056">QS-056</a></li>
+              <li><a href="http://shownot.es/qs/55" title="Quasselstrippen 055">QS-055</a></li>
+              <li><a href="http://shownot.es/qs/54" title="Quasselstrippen 054">QS-054</a></li>
+              <li><a href="http://shownot.es/qs/53" title="Quasselstrippen 053">QS-053</a></li>
+              <li><a href="http://shownot.es/qs/52" title="Quasselstrippen 052">QS-052</a></li>
+              <li><a href="http://shownot.es/qs/51" title="Quasselstrippen 051">QS-051</a></li>
+              <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
+              <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
+              <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
+              <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
+              <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
+              <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
+              <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
+              <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
+              <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
+              <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://die-quasselstrippen.de/">
+                <a href="http://die-quasselstrippen.de/">Webseite</a>
               </div>
             </div>
           </div>
@@ -429,204 +474,7 @@ div.close_button:active {
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/mm/132" title="Freak Show: FS 132" >
-            <img src="http://shownot.es/img/logos/fs_logo.png" alt="Freak Show Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Freak Show</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Freak Show Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/fs_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/mm/132" title="Freak Show: FS 132">FS-132</a></li>
-              <li><a href="http://shownot.es/mm/131" title="Freak Show: FS 131">FS-131</a></li>
-              <li><a href="http://shownot.es/mm/130" title="Freak Show: FS 130">FS-130</a></li>
-              <li><a href="http://shownot.es/mm/129" title="Freak Show: FS 129">FS-129</a></li>
-              <li><a href="http://shownot.es/mm/128" title="Freak Show: FS 128">FS-128</a></li>
-              <li><a href="http://shownot.es/mm/127" title="Freak Show: FS 127">FS-127</a></li>
-              <li><a href="http://shownot.es/mm/126" title="Freak Show: FS 126">FS-126</a></li>
-              <li><a href="http://shownot.es/mm/125" title="Freak Show: FS 125">FS-125</a></li>
-              <li><a href="http://shownot.es/mm/124" title="Freak Show: FS 124">FS-124</a></li>
-              <li><a href="http://shownot.es/mm/123" title="Freak Show: FS 123">FS-123</a></li>
-              <li><a href="http://shownot.es/mm/122" title="Freak Show: FS 122">FS-122</a></li>
-              <li><a href="http://shownot.es/mm/121" title="Freak Show: FS 121">FS-121</a></li>
-              <li><a href="http://shownot.es/mm/120" title="Freak Show: FS 120">FS-120</a></li>
-              <li><a href="http://shownot.es/mm/119" title="Freak Show: FS 119">FS-119</a></li>
-              <li><a href="http://shownot.es/mm/118" title="Freak Show: FS 118">FS-118</a></li>
-              <li><a href="http://shownot.es/mm/117" title="Freak Show: FS 117">FS-117</a></li>
-              <li><a href="http://shownot.es/mm/116" title="Freak Show: FS 116">FS-116</a></li>
-              <li><a href="http://shownot.es/mm/115" title="Freak Show: FS 115">FS-115</a></li>
-              <li><a href="http://shownot.es/mm/114" title="Freak Show 114">MM-114</a></li>
-              <li><a href="http://shownot.es/mm/113" title="Freak Show 113">MM-113</a></li>
-              <li><a href="http://shownot.es/mm/112" title="Freak Show 112">MM-112</a></li>
-              <li><a href="http://shownot.es/mm/111" title="Freak Show 111">MM-111</a></li>
-              <li><a href="http://shownot.es/mm/110" title="Freak Show 110">MM-110</a></li>
-              <li><a href="http://shownot.es/mm/109" title="Freak Show 109">MM-109</a></li>
-              <li><a href="http://shownot.es/mm/108" title="Freak Show 108">MM-108</a></li>
-              <li><a href="http://shownot.es/mm/107" title="Freak Show 107">MM-107</a></li>
-              <li><a href="http://shownot.es/mm/106" title="Freak Show 106">MM-106</a></li>
-              <li><a href="http://shownot.es/mm/105" title="Freak Show 105">MM-105</a></li>
-              <li><a href="http://shownot.es/mm/104" title="Freak Show 104">MM-104</a></li>
-              <li><a href="http://shownot.es/mm/103" title="Freak Show 103">MM-103</a></li>
-              <li><a href="http://shownot.es/mm/102" title="Freak Show 102">MM-102</a></li>
-              <li><a href="http://shownot.es/mm/101" title="Freak Show 101">MM-101</a></li>
-              <li><a href="http://shownot.es/mm/100" title="Freak Show 100">MM-100</a></li>
-              <li><a href="http://shownot.es/mm/99" title="Freak Show 99">MM-99</a></li>
-              <li><a href="http://shownot.es/mm/98" title="Freak Show 98">MM-98</a></li>
-              <li><a href="http://shownot.es/mm/97" title="Freak Show 97">MM-97</a></li>
-              <li><a href="http://shownot.es/mm/96" title="Freak Show 96">MM-96</a></li>
-              <li><a href="http://shownot.es/mm/95" title="Freak Show 95">MM-95</a></li>
-              <li><a href="http://shownot.es/mm/94" title="Freak Show 94">MM-94</a></li>
-              <li><a href="http://shownot.es/mm/93" title="Freak Show 93">MM-93</a></li>
-              <li><a href="http://shownot.es/mm/92" title="Freak Show 92">MM-92</a></li>
-              <li><a href="http://shownot.es/mm/91" title="Freak Show 91">MM-91</a></li>
-              <li><a href="http://shownot.es/mm/90" title="Freak Show 90">MM-90</a></li>
-              <li><a href="http://shownot.es/mm/89" title="Freak Show 89">MM-89</a></li>
-              <li><a href="http://shownot.es/mm/88" title="Freak Show 88">MM-88</a></li>
-              <li><a href="http://shownot.es/mm/87" title="Freak Show 87">MM-87</a></li>
-              <li><a href="http://shownot.es/mm/86" title="Freak Show 86">MM-86</a></li>
-              <li><a href="http://shownot.es/mm/85" title="Freak Show 85">MM-85</a></li>
-              <li><a href="http://shownot.es/mm/84" title="Freak Show 84">MM-84</a></li>
-              <li><a href="http://shownot.es/mm/82" title="Freak Show 82">MM-82</a></li>
-              <li><a href="http://shownot.es/mm/81" title="Freak Show 81">MM-81</a></li>
-              <li><a href="http://shownot.es/mm/12" title="Freak Show 12">MM-12</a></li>
-              <li><a href="http://shownot.es/mm/11" title="Freak Show 11">MM-11</a></li>
-              <li><a href="http://shownot.es/mm/10" title="Freak Show 10">MM-10</a></li>
-              <li><a href="http://shownot.es/mm/9" title="Freak Show 9">MM-9</a></li>
-              <li><a href="http://shownot.es/mm/8" title="Freak Show 8">MM-8</a></li>
-              <li><a href="http://shownot.es/mm/7" title="Freak Show 7">MM-7</a></li>
-              <li><a href="http://shownot.es/mm/6" title="Freak Show 6">MM-6</a></li>
-              <li><a href="http://shownot.es/mm/5" title="Freak Show 5">MM-5</a></li>
-              <li><a href="http://shownot.es/mm/4" title="Freak Show 4">MM-4</a></li>
-              <li><a href="http://shownot.es/mm/3" title="Freak Show 3">MM-3</a></li>
-              <li><a href="http://shownot.es/mm/2" title="Freak Show 2">MM-2</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://freakshow.fm/">
-                <a href="http://freakshow.fm/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/pp/34" title="Pubkameraden 34" >
-            <img src="http://shownot.es/img/logos/pp_logo.png" alt="Pubkameraden Podcast Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Pubkameraden</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Pubkameraden Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/pp_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/pp/34" title="Pubkameraden 34">PP-34</a></li>
-              <li><a href="http://shownot.es/pp/33" title="Pubkameraden 33">PP-33</a></li>
-              <li><a href="http://shownot.es/pp/32" title="Pubkameraden 32">PP-32</a></li>
-              <li><a href="http://shownot.es/pp/31" title="Pubkameraden 31">PP-31</a></li>
-              <li><a href="http://shownot.es/pp/30" title="Pubkameraden 30">PP-30</a></li>
-              <li><a href="http://shownot.es/pp/29" title="Pubkameraden 29">PP-29</a></li>
-              <li><a href="http://shownot.es/pp/28" title="Pubkameraden 28">PP-28</a></li>
-              <li><a href="http://shownot.es/pp/27" title="Pubkameraden 27">PP-27</a></li>
-              <li><a href="http://shownot.es/pp/18" title="Pubkameraden 18">PP-18</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://www.pubkameraden.de/">
-                <a href="http://www.pubkameraden.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/culinaricast/101" title="Culinaricast 101" >
-            <img src="http://shownot.es/img/logos/culinaricast_logo.png" alt="Culinaricast Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Culinaricast</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Culinaricast Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/culinaricast_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/culinaricast/101" title="Culinaricast 101">CULINARICAST-101</a></li>
-              <li><a href="http://shownot.es/culinaricast/100" title="Culinaricast 100">CULINARICAST-100</a></li>
-              <li><a href="http://shownot.es/culinaricast/99" title="Culinaricast 099">CULINARICAST-099</a></li>
-              <li><a href="http://shownot.es/culinaricast/98" title="Culinaricast 098">CULINARICAST-098</a></li>
-              <li><a href="http://shownot.es/culinaricast/97" title="Culinaricast 097">CULINARICAST-097</a></li>
-              <li><a href="http://shownot.es/culinaricast/96" title="Culinaricast 096">CULINARICAST-096</a></li>
-              <li><a href="http://shownot.es/culinaricast/95" title="Culinaricast 095">CULINARICAST-095</a></li>
-              <li><a href="http://shownot.es/culinaricast/92" title="Culinaricast 092">Culinaricast-092</a></li>
-              <li><a href="http://shownot.es/culinaricast/91" title="Culinaricast 091">Culinaricast-091</a></li>
-              <li><a href="http://shownot.es/culinaricast/90" title="Culinaricast 090">Culinaricast-090</a></li>
-              <li><a href="http://shownot.es/culinaricast/88" title="Culinaricast 088">CULINARICAST-088</a></li>
-              <li><a href="http://shownot.es/culinaricast/87" title="Culinaricast 087">CULINARICAST-087</a></li>
-              <li><a href="http://shownot.es/culinaricast/86" title="Culinaricast 086">CULINARICAST-086</a></li>
-              <li><a href="http://shownot.es/culinaricast/85" title="Culinaricast 085">CULINARICAST-085</a></li>
-              <li><a href="http://shownot.es/culinaricast/84" title="Culinaricast 084">CULINARICAST-084</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://www.culinaricast.de/">
-                <a href="http://www.culinaricast.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/dss/11" title="Sondersendung 011" >
-            <img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Sondersendung</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Sondersendung Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/dss_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/dss/11" title="Sondersendung 011">Sondersendung-011</a></li>
-              <li><a href="http://shownot.es/dss/10" title="Sondersendung 010">Sondersendung-010</a></li>
-              <li><a href="http://shownot.es/dss/9" title="Sondersendung 009">Sondersendung-009</a></li>
-              <li><a href="http://shownot.es/dss/8" title="Sondersendung 008">Sondersendung-008</a></li>
-              <li><a href="http://shownot.es/dss/7" title="Sondersendung 007">Sondersendung-007</a></li>
-              <li><a href="http://shownot.es/dss/6" title="Sondersendung 006">Sondersendung-006</a></li>
-              <li><a href="http://shownot.es/dss/5" title="Sondersendung 005">Sondersendung-005</a></li>
-              <li><a href="http://shownot.es/dss/4" title="Sondersendung 004">Sondersendung-004</a></li>
-              <li><a href="http://shownot.es/dss/3" title="Sondersendung 003">Sondersendung-003</a></li>
-              <li><a href="http://shownot.es/dss/2" title="Sondersendung 002">Sondersendung-002</a></li>
-              <li><a href="http://shownot.es/dss/1" title="Sondersendung 001">Sondersendung-001</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://die-sondersendung.de/">
-                <a href="http://die-sondersendung.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/osm/31" title="Radio OSM 031" >
-            <img src="http://shownot.es/img/logos/osm_logo.png" alt="Radio OSM Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Radio OSM</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Radio OSM Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/osm_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/osm/31" title="Radio OSM 031">OSM-031</a></li>
-              <li><a href="http://shownot.es/osm/28" title="Radio OSM 028">OSM-028</a></li>
-              <li><a href="http://shownot.es/osm/26" title="Radio OSM 026">OSM-026</a></li>
-              <li><a href="http://shownot.es/osm/25" title="Radio OSM 025">OSM-025</a></li>
-              <li><a href="http://shownot.es/osm/24" title="Radio OSM 024">OSM-024</a></li>
-              <li><a href="http://shownot.es/osm/23" title="Radio OSM 023">OSM-023</a></li>
-              <li><a href="http://shownot.es/osm/22" title="Radio OSM 022">OSM-022</a></li>
-              <li><a href="http://shownot.es/osm/21" title="Radio OSM 021">OSM-021</a></li>
-              <li><a href="http://shownot.es/osm/20" title="Radio OSM 020">OSM-020</a></li>
-              <li><a href="http://shownot.es/osm/18" title="Radio OSM 18">OSM-18</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://blog.openstreetmap.de/">
-                <a href="http://blog.openstreetmap.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/bm/147" title="Blue Moon: 02.05.14
+          <a href="http://shownot.es/bm/151" title="Blue Moon: bluemoon 151
 Blue Moon Foto von Ainhoa Pcb l, CC: BY" >
             <img src="http://shownot.es/img/logos/bmll_logo.png" alt="BlueMoon / Lateline Logo" />
           </a>
@@ -636,8 +484,12 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY" >
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Blue Moon</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Blue Moon Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/bmll_logo.png" width="210" height="210" style="float: left;"title="Blue Moon Foto von Ainhoa Pcb l, CC: BY">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/bm/147" title="Blue Moon: 02.05.14
-Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
+              <li><a href="http://shownot.es/bm/151" title="Blue Moon: bluemoon 151
+Blue Moon Foto von Ainhoa Pcb l, CC: BY">bluemoon-151</a></li>
+              <li><a href="http://shownot.es/bm/150" title="Blue Moon: 27.06.14">27.06.14</a></li>
+              <li><a href="http://shownot.es/bm/149" title="Blue Moon: 26.06.14">26.06.14</a></li>
+              <li><a href="http://shownot.es/bm/148" title="Blue Moon: bluemoon 148">bluemoon-148</a></li>
+              <li><a href="http://shownot.es/bm/147" title="Blue Moon: 02.05.14">02.05.14</a></li>
               <li><a href="http://shownot.es/bm/146" title="Blue Moon: 25.04.14">25.04.14</a></li>
               <li><a href="http://shownot.es/bm/145" title="Blue Moon: 18.04.14">18.04.14</a></li>
               <li><a href="http://shownot.es/bm/144" title="Blue Moon: 11.04.14">11.04.14</a></li>
@@ -790,34 +642,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/wg/48" title="Wikigeeks 48" >
-            <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
-          </a>
-        </div>
-        <div class="baf-group">
-
-          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Wikigeeks</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Wikigeeks Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/wg_logo.png" width="210" height="210" style="float: left;">
-         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/wg/48" title="Wikigeeks 48">Wikigeeks-48</a></li>
-              <li><a href="http://shownot.es/wg/47" title="Wikigeeks 47">Wikigeeks-47</a></li>
-              <li><a href="http://shownot.es/wg/46" title="Wikigeeks 46">Wikigeeks-46</a></li>
-              <li><a href="http://shownot.es/wg/45" title="Wikigeeks 45">Wikigeeks-45</a></li>
-              <li><a href="http://shownot.es/wg/44" title="Wikigeeks 44">Wikigeeks-44</a></li>
-              <li><a href="http://shownot.es/wg/41" title="Wikigeeks 41">Wikigeeks-41</a></li>
-              <li><a href="http://shownot.es/wg/40" title="Wikigeeks 40">Wikigeeks-40</a></li>
-              <li><a href="http://shownot.es/wg/39" title="Wikigeeks 39">Wikigeeks-39</a></li>
-              <li><a href="http://shownot.es/wg/38" title="Wikigeeks: Wikizilla 38">Wikizilla-38</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://wikigeeks.de/">
-                <a href="http://wikigeeks.de/">Webseite</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="thispodcast">
-        <div class="podcastimg">
-          <a href="http://shownot.es/rl/37" title="Robotiklabor 037" >
+          <a href="http://shownot.es/rl/39" title="Robotiklabor 039" >
             <img src="http://shownot.es/img/logos/rl_logo.png" alt="Robotiklabor Logo" />
           </a>
         </div>
@@ -826,6 +651,8 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Robotiklabor</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Robotiklabor Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/rl_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/rl/39" title="Robotiklabor 039">RL-039</a></li>
+              <li><a href="http://shownot.es/rl/38" title="Robotiklabor 038">RL-038</a></li>
               <li><a href="http://shownot.es/rl/37" title="Robotiklabor 037">RL-037</a></li>
               <li><a href="http://shownot.es/rl/36" title="Robotiklabor 036">RL-036</a></li>
               <li><a href="http://shownot.es/rl/35" title="Robotiklabor 035">RL-035</a></li>
@@ -849,7 +676,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/cr/200" title="Chaosradio 200" >
+          <a href="http://shownot.es/cr/202" title="Chaosradio 202" >
             <img src="http://shownot.es/img/logos/cr_logo.png" alt="Chaosradio Logo" />
           </a>
         </div>
@@ -858,6 +685,8 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Chaosradio</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Chaosradio Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/cr_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/cr/202" title="Chaosradio 202">Chaosradio-202</a></li>
+              <li><a href="http://shownot.es/cr/201" title="Chaosradio 201">Chaosradio-201</a></li>
               <li><a href="http://shownot.es/cr/200" title="Chaosradio 200">Chaosradio-200</a></li>
               <li><a href="http://shownot.es/cr/199" title="Chaosradio 199">Chaosradio-199</a></li>
               <li><a href="http://shownot.es/cr/198" title="Chaosradio 198">Chaosradio-198</a></li>
@@ -884,7 +713,90 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/lk/35" title="1337kultur: Folge 35" >
+          <a href="http://shownot.es/mm/135" title="Freak Show: FS 135" >
+            <img src="http://shownot.es/img/logos/fs_logo.png" alt="Freak Show Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Freak Show</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Freak Show Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/fs_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/mm/135" title="Freak Show: FS 135">FS-135</a></li>
+              <li><a href="http://shownot.es/mm/134" title="Freak Show: FS 134">FS-134</a></li>
+              <li><a href="http://shownot.es/mm/133" title="Freak Show: FS 133">FS-133</a></li>
+              <li><a href="http://shownot.es/mm/132" title="Freak Show: FS 132">FS-132</a></li>
+              <li><a href="http://shownot.es/mm/131" title="Freak Show: FS 131">FS-131</a></li>
+              <li><a href="http://shownot.es/mm/130" title="Freak Show: FS 130">FS-130</a></li>
+              <li><a href="http://shownot.es/mm/129" title="Freak Show: FS 129">FS-129</a></li>
+              <li><a href="http://shownot.es/mm/128" title="Freak Show: FS 128">FS-128</a></li>
+              <li><a href="http://shownot.es/mm/127" title="Freak Show: FS 127">FS-127</a></li>
+              <li><a href="http://shownot.es/mm/126" title="Freak Show: FS 126">FS-126</a></li>
+              <li><a href="http://shownot.es/mm/125" title="Freak Show: FS 125">FS-125</a></li>
+              <li><a href="http://shownot.es/mm/124" title="Freak Show: FS 124">FS-124</a></li>
+              <li><a href="http://shownot.es/mm/123" title="Freak Show: FS 123">FS-123</a></li>
+              <li><a href="http://shownot.es/mm/122" title="Freak Show: FS 122">FS-122</a></li>
+              <li><a href="http://shownot.es/mm/121" title="Freak Show: FS 121">FS-121</a></li>
+              <li><a href="http://shownot.es/mm/120" title="Freak Show: FS 120">FS-120</a></li>
+              <li><a href="http://shownot.es/mm/119" title="Freak Show: FS 119">FS-119</a></li>
+              <li><a href="http://shownot.es/mm/118" title="Freak Show: FS 118">FS-118</a></li>
+              <li><a href="http://shownot.es/mm/117" title="Freak Show: FS 117">FS-117</a></li>
+              <li><a href="http://shownot.es/mm/116" title="Freak Show: FS 116">FS-116</a></li>
+              <li><a href="http://shownot.es/mm/115" title="Freak Show: FS 115">FS-115</a></li>
+              <li><a href="http://shownot.es/mm/114" title="Freak Show 114">MM-114</a></li>
+              <li><a href="http://shownot.es/mm/113" title="Freak Show 113">MM-113</a></li>
+              <li><a href="http://shownot.es/mm/112" title="Freak Show 112">MM-112</a></li>
+              <li><a href="http://shownot.es/mm/111" title="Freak Show 111">MM-111</a></li>
+              <li><a href="http://shownot.es/mm/110" title="Freak Show 110">MM-110</a></li>
+              <li><a href="http://shownot.es/mm/109" title="Freak Show 109">MM-109</a></li>
+              <li><a href="http://shownot.es/mm/108" title="Freak Show 108">MM-108</a></li>
+              <li><a href="http://shownot.es/mm/107" title="Freak Show 107">MM-107</a></li>
+              <li><a href="http://shownot.es/mm/106" title="Freak Show 106">MM-106</a></li>
+              <li><a href="http://shownot.es/mm/105" title="Freak Show 105">MM-105</a></li>
+              <li><a href="http://shownot.es/mm/104" title="Freak Show 104">MM-104</a></li>
+              <li><a href="http://shownot.es/mm/103" title="Freak Show 103">MM-103</a></li>
+              <li><a href="http://shownot.es/mm/102" title="Freak Show 102">MM-102</a></li>
+              <li><a href="http://shownot.es/mm/101" title="Freak Show 101">MM-101</a></li>
+              <li><a href="http://shownot.es/mm/100" title="Freak Show 100">MM-100</a></li>
+              <li><a href="http://shownot.es/mm/99" title="Freak Show 99">MM-99</a></li>
+              <li><a href="http://shownot.es/mm/98" title="Freak Show 98">MM-98</a></li>
+              <li><a href="http://shownot.es/mm/97" title="Freak Show 97">MM-97</a></li>
+              <li><a href="http://shownot.es/mm/96" title="Freak Show 96">MM-96</a></li>
+              <li><a href="http://shownot.es/mm/95" title="Freak Show 95">MM-95</a></li>
+              <li><a href="http://shownot.es/mm/94" title="Freak Show 94">MM-94</a></li>
+              <li><a href="http://shownot.es/mm/93" title="Freak Show 93">MM-93</a></li>
+              <li><a href="http://shownot.es/mm/92" title="Freak Show 92">MM-92</a></li>
+              <li><a href="http://shownot.es/mm/91" title="Freak Show 91">MM-91</a></li>
+              <li><a href="http://shownot.es/mm/90" title="Freak Show 90">MM-90</a></li>
+              <li><a href="http://shownot.es/mm/89" title="Freak Show 89">MM-89</a></li>
+              <li><a href="http://shownot.es/mm/88" title="Freak Show 88">MM-88</a></li>
+              <li><a href="http://shownot.es/mm/87" title="Freak Show 87">MM-87</a></li>
+              <li><a href="http://shownot.es/mm/86" title="Freak Show 86">MM-86</a></li>
+              <li><a href="http://shownot.es/mm/85" title="Freak Show 85">MM-85</a></li>
+              <li><a href="http://shownot.es/mm/84" title="Freak Show 84">MM-84</a></li>
+              <li><a href="http://shownot.es/mm/82" title="Freak Show 82">MM-82</a></li>
+              <li><a href="http://shownot.es/mm/81" title="Freak Show 81">MM-81</a></li>
+              <li><a href="http://shownot.es/mm/12" title="Freak Show 12">MM-12</a></li>
+              <li><a href="http://shownot.es/mm/11" title="Freak Show 11">MM-11</a></li>
+              <li><a href="http://shownot.es/mm/10" title="Freak Show 10">MM-10</a></li>
+              <li><a href="http://shownot.es/mm/9" title="Freak Show 9">MM-9</a></li>
+              <li><a href="http://shownot.es/mm/8" title="Freak Show 8">MM-8</a></li>
+              <li><a href="http://shownot.es/mm/7" title="Freak Show 7">MM-7</a></li>
+              <li><a href="http://shownot.es/mm/6" title="Freak Show 6">MM-6</a></li>
+              <li><a href="http://shownot.es/mm/5" title="Freak Show 5">MM-5</a></li>
+              <li><a href="http://shownot.es/mm/4" title="Freak Show 4">MM-4</a></li>
+              <li><a href="http://shownot.es/mm/3" title="Freak Show 3">MM-3</a></li>
+              <li><a href="http://shownot.es/mm/2" title="Freak Show 2">MM-2</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://freakshow.fm/">
+                <a href="http://freakshow.fm/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/lk/37" title="1337kultur: Folge 37" >
             <img src="http://shownot.es/img/logos/lk_logo.png" alt="1337kultur Logo" />
           </a>
         </div>
@@ -893,6 +805,8 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">1337kultur</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">1337kultur Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/lk_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/lk/37" title="1337kultur: Folge 37">Folge-37</a></li>
+              <li><a href="http://shownot.es/lk/36" title="1337kultur: Folge 36">Folge-36</a></li>
               <li><a href="http://shownot.es/lk/35" title="1337kultur: Folge 35">Folge-35</a></li>
               <li><a href="http://shownot.es/lk/34" title="1337kultur: Folge 34">Folge-34</a></li>
               <li><a href="http://shownot.es/lk/33" title="1337kultur: Folge 33">Folge-33</a></li>
@@ -909,7 +823,28 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/wmr/80" title="Wir. Müssen Reden 080" >
+          <a href="http://shownot.es/anycast/51" title="anyca.st: ANY 051" >
+            <img src="http://shownot.es/img/logos/any_logo.png" alt="Anycast Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">anyca.st</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">anyca.st Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/any_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/anycast/51" title="anyca.st: ANY 051">ANY-051</a></li>
+              <li><a href="http://shownot.es/anycast/50" title="anyca.st: ANY 050">ANY-050</a></li>
+              <li><a href="http://shownot.es/anycast/33" title="anyca.st: ANY 033">ANY-033</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://anyca.st">
+                <a href="http://anyca.st">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/wmr/83" title="Wir. Müssen Reden 083" >
             <img src="http://shownot.es/img/logos/wmr_logo.png" alt="Wir. Müssen Reden Logo" />
           </a>
         </div>
@@ -918,6 +853,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
             <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Wir. Müssen Reden</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Wir. M&uuml;ssen Reden Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/wmr_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/wmr/83" title="Wir. Müssen Reden 083">WMR-083</a></li>
               <li><a href="http://shownot.es/wmr/80" title="Wir. Müssen Reden 080">WMR-080</a></li>
               <li><a href="http://shownot.es/wmr/74" title="Wir. Müssen Reden 074">WMR-074</a></li>
               <li><a href="http://shownot.es/wmr/72" title="Wir. Müssen Reden 072">WMR-072</a></li>
@@ -938,38 +874,169 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
       </div>
       <div class="thispodcast">
         <div class="podcastimg">
-          <a href="http://shownot.es/qs/65" title="Quasselstrippen 065" >
-            <img src="http://shownot.es/img/logos/qs_logo.png" alt="Quasselstrippen Logo" />
+          <a href="http://shownot.es/cre/197" title="CRE 197" >
+            <img src="http://shownot.es/img/logos/cre_logo.png" alt="CRE Logo" />
           </a>
         </div>
         <div class="baf-group">
 
           <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
-            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Quasselstrippen</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Quasselstrippen Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/qs_logo.png" width="210" height="210" style="float: left;">
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">CRE</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">CRE Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/cre_logo.png" width="210" height="210" style="float: left;">
          <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
-              <li><a href="http://shownot.es/qs/65" title="Quasselstrippen 065">QS-065</a></li>
-              <li><a href="http://shownot.es/qs/60" title="Quasselstrippen 060">QS-060</a></li>
-              <li><a href="http://shownot.es/qs/59" title="Quasselstrippen 059">QS-059</a></li>
-              <li><a href="http://shownot.es/qs/58" title="Quasselstrippen 058">QS-058</a></li>
-              <li><a href="http://shownot.es/qs/57" title="Quasselstrippen 057">QS-057</a></li>
-              <li><a href="http://shownot.es/qs/56" title="Quasselstrippen 056">QS-056</a></li>
-              <li><a href="http://shownot.es/qs/55" title="Quasselstrippen 055">QS-055</a></li>
-              <li><a href="http://shownot.es/qs/54" title="Quasselstrippen 054">QS-054</a></li>
-              <li><a href="http://shownot.es/qs/53" title="Quasselstrippen 053">QS-053</a></li>
-              <li><a href="http://shownot.es/qs/52" title="Quasselstrippen 052">QS-052</a></li>
-              <li><a href="http://shownot.es/qs/51" title="Quasselstrippen 051">QS-051</a></li>
-              <li><a href="http://shownot.es/qs/50" title="Quasselstrippen 050">QS-050</a></li>
-              <li><a href="http://shownot.es/qs/49" title="Quasselstrippen 049">QS-049</a></li>
-              <li><a href="http://shownot.es/qs/48" title="Quasselstrippen 048">QS-048</a></li>
-              <li><a href="http://shownot.es/qs/47" title="Quasselstrippen 047">QS-047</a></li>
-              <li><a href="http://shownot.es/qs/44" title="Quasselstrippen 044">QS-044</a></li>
-              <li><a href="http://shownot.es/qs/43" title="Quasselstrippen 043">QS-043</a></li>
-              <li><a href="http://shownot.es/qs/42" title="Quasselstrippen 042">QS-042</a></li>
-              <li><a href="http://shownot.es/qs/41" title="Quasselstrippen 041">QS-041</a></li>
-              <li><a href="http://shownot.es/qs/40" title="Quasselstrippen 040">QS-040</a></li>
-              <li><a href="http://shownot.es/qs/39" title="Quasselstrippen 039">QS-039</a></li>
-            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://die-quasselstrippen.de/">
-                <a href="http://die-quasselstrippen.de/">Webseite</a>
+              <li><a href="http://shownot.es/cre/197" title="CRE 197">CRE-197</a></li>
+              <li><a href="http://shownot.es/cre/191" title="CRE 191">CRE-191</a></li>
+              <li><a href="http://shownot.es/cre/130" title="CRE 130">CRE-130</a></li>
+              <li><a href="http://shownot.es/cre/114" title="CRE 114">CRE-114</a></li>
+              <li><a href="http://shownot.es/cre/99" title="CRE 099">CRE-099</a></li>
+              <li><a href="http://shownot.es/cre/82" title="CRE 082">CRE-082</a></li>
+              <li><a href="http://shownot.es/cre/49" title="CRE 049">CRE-049</a></li>
+              <li><a href="http://shownot.es/cre/21" title="CRE 021">CRE-021</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://cre.fm/">
+                <a href="http://cre.fm/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/pp/34" title="Pubkameraden 34" >
+            <img src="http://shownot.es/img/logos/pp_logo.png" alt="Pubkameraden Podcast Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Pubkameraden</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Pubkameraden Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/pp_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/pp/34" title="Pubkameraden 34">PP-34</a></li>
+              <li><a href="http://shownot.es/pp/33" title="Pubkameraden 33">PP-33</a></li>
+              <li><a href="http://shownot.es/pp/32" title="Pubkameraden 32">PP-32</a></li>
+              <li><a href="http://shownot.es/pp/31" title="Pubkameraden 31">PP-31</a></li>
+              <li><a href="http://shownot.es/pp/30" title="Pubkameraden 30">PP-30</a></li>
+              <li><a href="http://shownot.es/pp/29" title="Pubkameraden 29">PP-29</a></li>
+              <li><a href="http://shownot.es/pp/28" title="Pubkameraden 28">PP-28</a></li>
+              <li><a href="http://shownot.es/pp/27" title="Pubkameraden 27">PP-27</a></li>
+              <li><a href="http://shownot.es/pp/18" title="Pubkameraden 18">PP-18</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://www.pubkameraden.de/">
+                <a href="http://www.pubkameraden.de/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/culinaricast/101" title="Culinaricast 101" >
+            <img src="http://shownot.es/img/logos/culinaricast_logo.png" alt="Culinaricast Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Culinaricast</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Culinaricast Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/culinaricast_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/culinaricast/101" title="Culinaricast 101">CULINARICAST-101</a></li>
+              <li><a href="http://shownot.es/culinaricast/100" title="Culinaricast 100">CULINARICAST-100</a></li>
+              <li><a href="http://shownot.es/culinaricast/99" title="Culinaricast 099">CULINARICAST-099</a></li>
+              <li><a href="http://shownot.es/culinaricast/98" title="Culinaricast 098">CULINARICAST-098</a></li>
+              <li><a href="http://shownot.es/culinaricast/97" title="Culinaricast 097">CULINARICAST-097</a></li>
+              <li><a href="http://shownot.es/culinaricast/96" title="Culinaricast 096">CULINARICAST-096</a></li>
+              <li><a href="http://shownot.es/culinaricast/95" title="Culinaricast 095">CULINARICAST-095</a></li>
+              <li><a href="http://shownot.es/culinaricast/92" title="Culinaricast 092">Culinaricast-092</a></li>
+              <li><a href="http://shownot.es/culinaricast/91" title="Culinaricast 091">Culinaricast-091</a></li>
+              <li><a href="http://shownot.es/culinaricast/90" title="Culinaricast 090">Culinaricast-090</a></li>
+              <li><a href="http://shownot.es/culinaricast/88" title="Culinaricast 088">CULINARICAST-088</a></li>
+              <li><a href="http://shownot.es/culinaricast/87" title="Culinaricast 087">CULINARICAST-087</a></li>
+              <li><a href="http://shownot.es/culinaricast/86" title="Culinaricast 086">CULINARICAST-086</a></li>
+              <li><a href="http://shownot.es/culinaricast/85" title="Culinaricast 085">CULINARICAST-085</a></li>
+              <li><a href="http://shownot.es/culinaricast/84" title="Culinaricast 084">CULINARICAST-084</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://www.culinaricast.de/">
+                <a href="http://www.culinaricast.de/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/dss/11" title="Sondersendung 011" >
+            <img src="http://shownot.es/img/logos/dss_logo.png" alt="Sondersendung Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Sondersendung</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Sondersendung Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/dss_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/dss/11" title="Sondersendung 011">Sondersendung-011</a></li>
+              <li><a href="http://shownot.es/dss/10" title="Sondersendung 010">Sondersendung-010</a></li>
+              <li><a href="http://shownot.es/dss/9" title="Sondersendung 009">Sondersendung-009</a></li>
+              <li><a href="http://shownot.es/dss/8" title="Sondersendung 008">Sondersendung-008</a></li>
+              <li><a href="http://shownot.es/dss/7" title="Sondersendung 007">Sondersendung-007</a></li>
+              <li><a href="http://shownot.es/dss/6" title="Sondersendung 006">Sondersendung-006</a></li>
+              <li><a href="http://shownot.es/dss/5" title="Sondersendung 005">Sondersendung-005</a></li>
+              <li><a href="http://shownot.es/dss/4" title="Sondersendung 004">Sondersendung-004</a></li>
+              <li><a href="http://shownot.es/dss/3" title="Sondersendung 003">Sondersendung-003</a></li>
+              <li><a href="http://shownot.es/dss/2" title="Sondersendung 002">Sondersendung-002</a></li>
+              <li><a href="http://shownot.es/dss/1" title="Sondersendung 001">Sondersendung-001</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://die-sondersendung.de/">
+                <a href="http://die-sondersendung.de/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/osm/31" title="Radio OSM 031" >
+            <img src="http://shownot.es/img/logos/osm_logo.png" alt="Radio OSM Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Radio OSM</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Radio OSM Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/osm_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/osm/31" title="Radio OSM 031">OSM-031</a></li>
+              <li><a href="http://shownot.es/osm/28" title="Radio OSM 028">OSM-028</a></li>
+              <li><a href="http://shownot.es/osm/26" title="Radio OSM 026">OSM-026</a></li>
+              <li><a href="http://shownot.es/osm/25" title="Radio OSM 025">OSM-025</a></li>
+              <li><a href="http://shownot.es/osm/24" title="Radio OSM 024">OSM-024</a></li>
+              <li><a href="http://shownot.es/osm/23" title="Radio OSM 023">OSM-023</a></li>
+              <li><a href="http://shownot.es/osm/22" title="Radio OSM 022">OSM-022</a></li>
+              <li><a href="http://shownot.es/osm/21" title="Radio OSM 021">OSM-021</a></li>
+              <li><a href="http://shownot.es/osm/20" title="Radio OSM 020">OSM-020</a></li>
+              <li><a href="http://shownot.es/osm/18" title="Radio OSM 18">OSM-18</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://blog.openstreetmap.de/">
+                <a href="http://blog.openstreetmap.de/">Webseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="thispodcast">
+        <div class="podcastimg">
+          <a href="http://shownot.es/wg/48" title="Wikigeeks 48" >
+            <img src="http://shownot.es/img/logos/wg_logo.png" alt="Wikigeeks Logo" />
+          </a>
+        </div>
+        <div class="baf-group">
+
+          <a class="baf bluehover dropdown-toggle" data-toggle="dropdown" style="width: 148px; height: 28px; padding: 0px;" >
+            <div style="float: left; opacity: 0.4; margin: 6px 0px 7px 6px;"><img src="/img/blurred-text-small.png" width="15" height="15" onclick="this.parentNode.parentNode.click();"/></div>            <div style="float: left; text-align: left; margin: 8px 0px 0px 6px; overflow: hidden; width: 118px; height: 20px; word-spacing: -1px;" onclick="this.parentNode.click();">Wikigeeks</div>          </a>          <div class="dropdown-menu" style="max-width: none; width: 400px; padding: 0px; height: auto; overflow: hidden; border: 1px solid rgb(210, 210, 210); border-bottom-left-radius: 4px;">            <div class="menu_bar">              <div style="float: left; opacity: 0.4; margin: 7px 0px 7px 9px;"><img src="/img/blurred-text-small.png" width="15" height="15"/></div>              <div style="float: left; margin: 7px 0px 8px 11px;">Wikigeeks Shownotes</div>              <div class="close_button" style="float: right;" onclick="baf_dropdownclose()" title="Schliessen"> &nbsp; </div/>            </div>            <img src="http://shownot.es/img/logos/wg_logo.png" width="210" height="210" style="float: left;">
+         <ul style="float: right; width: 189px; text-align: left; height: 256px; overflow: auto; background-image: linear-gradient(to right, rgb(234, 234, 234) 0%, rgb(246, 246, 246) 6%, rgb(250, 250, 250) 50%, rgb(246, 246, 246) 94%, rgb(234, 234, 234) 100%); padding-left: 0px; border-left: 1px solid rgb(220, 220, 220);">
+              <li><a href="http://shownot.es/wg/48" title="Wikigeeks 48">Wikigeeks-48</a></li>
+              <li><a href="http://shownot.es/wg/47" title="Wikigeeks 47">Wikigeeks-47</a></li>
+              <li><a href="http://shownot.es/wg/46" title="Wikigeeks 46">Wikigeeks-46</a></li>
+              <li><a href="http://shownot.es/wg/45" title="Wikigeeks 45">Wikigeeks-45</a></li>
+              <li><a href="http://shownot.es/wg/44" title="Wikigeeks 44">Wikigeeks-44</a></li>
+              <li><a href="http://shownot.es/wg/41" title="Wikigeeks 41">Wikigeeks-41</a></li>
+              <li><a href="http://shownot.es/wg/40" title="Wikigeeks 40">Wikigeeks-40</a></li>
+              <li><a href="http://shownot.es/wg/39" title="Wikigeeks 39">Wikigeeks-39</a></li>
+              <li><a href="http://shownot.es/wg/38" title="Wikigeeks: Wikizilla 38">Wikizilla-38</a></li>
+            </ul>            <div style="height: 40px;">              <div class="baf bluehover" style="width: 184px; height: 28px; border-radius: 0px;" title="http://wikigeeks.de/">
+                <a href="http://wikigeeks.de/">Webseite</a>
               </div>
             </div>
           </div>
@@ -1230,7 +1297,7 @@ Blue Moon Foto von Ainhoa Pcb l, CC: BY">02.05.14</a></li>
 </script>
 </body>
 </html><body onload="loadShownotes();"><!-- 
-zuletzt aktualisiert um: 1400708863 (23:47:43 21.05.2014)
-Generierungsdauer: 0.053325176239014 sec
---><?php if(1400795263 < time()){
+zuletzt aktualisiert um: 1405865856 (16:17:36 20.07.2014)
+Generierungsdauer: 0.017951011657715 sec
+--><?php if(1405952256 < time()){
 echo "<iframe src=\"http://shownot.es/update/\"></iframe>";} ?>
